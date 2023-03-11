@@ -1,9 +1,20 @@
+:root {
+  --accent-color: #e0582a;  /* Matches $accent-color in variables.scss */
+  --black: #000;
+  --gap: 1.75rem;
+}
+@media screen and (min-width: 40rem) {
+  :root {
+    --gap: 3.5rem;
+  }
+}
+
 /* Page Width */
-@media screen and (min-width: 700px) {
+@media screen {
   .quire-page__content .container,
   .quire-page__header .hero-body {
     max-width: 49rem;
-    width: 49rem;
+    width: calc(100% - var(--gap) - var(--gap));
     margin: 0 auto;
     padding: 0;
   }
@@ -16,7 +27,7 @@
 
 /*  Nav Bar */
 .quire-navbar-controls {
-  padding: 0 3.5rem;
+  padding: 0 var(--gap);
 }
 .quire-navbar-page-controls__item {
   padding: 0;
@@ -31,8 +42,11 @@
   margin-left: -.25rem;
   margin-right: 0;
 }
+.quire-navbar-button {
+  width: auto;
+}
 .quire-search__close-button {
-  left: 3.5rem;
+  left: var(--gap);
 }
 .quire-navbar-button.search-button, 
 .quire-navbar-button.menu-button {
@@ -52,7 +66,7 @@
 .quire-navbar-controls__right button:hover,
 .quire-navbar-controls .quire-navbar-page-controls__item a:hover, 
 .quire-navbar-controls .quire-navbar-page-controls__item button:hover {
-  color: #e0582a !important;
+  color: var(--accent-color) !important;
   background-color: transparent;
 }
 .quire-search__close-button:hover svg,
@@ -62,7 +76,7 @@
 .quire-navbar-controls__right button:hover svg,
 .quire-navbar-controls .quire-navbar-page-controls__item a:hover svg, 
 .quire-navbar-controls .quire-navbar-page-controls__item button:hover svg {
-  fill: #e0582a !important;
+  fill: var(--accent-color) !important;
 }
 
 /* Next/Prev Buttons */
@@ -77,21 +91,21 @@
   background-color: transparent;
 }
 .quire-contents-buttons li.quire-nav-button.next a {
-  color: #000;
+  color: var(--black);
 }
 .quire-contents-buttons li.quire-nav-button.next svg {
-  fill: #000;
+  fill: var(--black);
 }
 .quire-contents-buttons li.quire-nav-button:hover,
 .quire-contents-buttons li.quire-nav-button:hover a,
 .quire-contents-buttons li.quire-nav-button.next:hover, 
 .quire-contents-buttons li.quire-nav-button.next a:hover {
   background-color: transparent !important;
-  color: #e0582a;
+  color: var(--accent-color);
 }
 .quire-contents-buttons li.quire-nav-button a:hover svg,
 .quire-contents-buttons li.quire-nav-button.next svg:hover {
-  fill: #e0582a;
+  fill: var(--accent-color);
 }
 
 /* Page Type */
@@ -100,7 +114,7 @@
 }
 .quire-page__content .container .content p {
   line-height: 1.625;
-  text-indent: 3.5rem;
+  text-indent: var(--gap);
 }
 .quire-page__content .container .content p:first-child {
   text-indent: 0;
@@ -127,24 +141,35 @@
   padding: 0;
 }
 .content .q-figure.is-indented {
-  width: calc(100% - 7rem);
+  width: calc(100% - var(--gap) - var(--gap));
   margin-left: auto;
   margin-right: auto;
 }
 .content .q-figure.is-paired {
-  width: calc((100% - 4rem) / 2);
+  width: calc((100% - var(--gap) - .35rem) / 2);
   display: inline-block;
   vertical-align: top;
 }
 .content .q-figure.is-paired + .q-figure.is-paired {
-  margin-left: 3.5rem;
+  margin-left: var(--gap);
 }
 .content .q-figure.is-offset {
-  margin-left: -7rem;
   float: left;
-  max-width: 24.5rem;
+  margin-right: var(--gap);
   margin-top: 0;
-  margin-right: 3.5rem;
+  max-width: 17.5rem;
+}
+@media screen and (min-width: 63rem) {
+  .content .q-figure.is-offset {
+    margin-left: -3.5rem;
+    max-width: 21rem;
+  }
+}
+@media screen and (min-width: 66.5rem) {
+  .content .q-figure.is-offset {
+    margin-left: -7rem;
+    max-width: 24.5rem;
+  }
 }
 
 /* Figure Captions */
@@ -164,7 +189,7 @@
 
 /* Footnotes */
 .quire-page__content .content .footnotes {
-  border-top: 1px solid #000;
+  border-top: 1px solid var(--black);
   padding-top: 1.625rem;
   margin-top: 3.5rem;
 }
@@ -232,10 +257,10 @@
 }
 .quire-page__content.thing-info .thing-info-grid {
   display: grid;
-  grid-template-columns: 10.5rem 17.5rem 21rem;
+  grid-template-columns: 3fr 5fr 6fr;
   column-gap: 0;
-  border-top: 1px solid #000;
-  border-bottom: 1px solid #000;
+  border-top: 1px solid var(--black);
+  border-bottom: 1px solid var(--black);
   margin-bottom: 1.75rem;
   font-family: 'Source Sans Pro', sans-serif;
   font-size: .875rem;
@@ -247,13 +272,13 @@
   height: 100%;
 }
 .quire-page__content.thing-info .thing-info-grid div.thing-type {
-  border-right: 1px solid #000;
+  border-right: 1px solid var(--black);
   padding-right: 1rem;
 }
 .quire-page__content.thing-info .thing-info-grid div.thing-theme {
   margin-left: 1rem;
   padding-right: 1rem;
-  border-right: 1px solid #000;
+  border-right: 1px solid var(--black);
 }
 .quire-page__content.thing-info .thing-info-grid div.thing-material {
   margin-left: 1rem;
