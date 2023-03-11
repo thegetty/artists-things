@@ -14,23 +14,23 @@ description: Thing layout. This layout is a copy of essay.liquid, except that it
   title=title
 %}
 
-<section class="section quire-page__content">
+<section class="section quire-page__content thing-info">
   <div class="container">
     <div class="content">
-      <div class='thing-info'>
-        <div class='thing-info__type'>
+      <div class='thing-info-grid'>
+        <div class='thing-type'>
         {% if type %}
           <p>Type of Object</p>
           <ul>{% for i in type %}<li>{{ i }}</li>{% endfor %}</ul>
         {% endif %}
         </div>
-        <div class='thing-info__theme'>
+        <div class='thing-theme'>
         {% if theme %}
           <p>Theme</p>
           <ul>{% for i in theme %}<li>{{ i }}</li>{% endfor %}</ul>
         {% endif %}
         </div>
-        <div class='thing-info__material'>
+        <div class='thing-material'>
         {% if material %}
           <p>Material</p>
           <ul>{% for i in material %}<li>{{ i }}</li>{% endfor %}</ul>
