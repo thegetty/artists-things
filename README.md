@@ -4,6 +4,9 @@ The [Quire Eleventy package](https://github.com/thegetty/quire/tree/main/package
 
 ### New and Customized Template Files
 
+**_includes/components/navigation.js**
+show current page title instead of homepage link
+
 **_includes/components/page-header.js**
 adds a list of 'owners'
 

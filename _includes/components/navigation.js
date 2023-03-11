@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// show current page title instead of homepage link, lines 82–91
+//
 const truncate = require('~lib/truncate')
 const { html } = require('~lib/common-tags')
 
@@ -77,18 +81,11 @@ module.exports = function(eleventyConfig) {
 
     const navBarHomeButton = () => {
       if (!previousPage) return ''
+      const { data } = currentPage
+      const { label, short_title, title } = data
       return html`
         <li class="quire-navbar-page-controls__item quire-home-page">
-          <a href="${home}" rel="home">
-            <span class="visually-hidden">Home Page: </span>
-            <span class="quire-navbar-button home-button">
-              <svg data-outputs-exclude="epub,pdf">
-                <switch>
-                  <use xlink:href="#home-icon"></use>
-                </switch>
-              </svg>
-            </span>
-          </a>
+          ${navBarLabel({ label, short_title, title })}
         </li>
       `
     }

@@ -9,6 +9,57 @@
   }
 }
 
+/*  Nav Bar */
+.quire-navbar-controls {
+  padding: 0 3.5rem;
+}
+.quire-navbar-page-controls__item {
+  padding: 0;
+}
+.quire-navbar-page-controls__item.quire-home-page {
+  font-weight: 600;
+}
+.quire-navbar-page-controls__item.quire-previous-page svg {
+  margin-right: .25rem;
+}
+.quire-navbar-page-controls__item.quire-next-page svg {
+  margin-left: -.25rem;
+  margin-right: 0;
+}
+.quire-search__close-button {
+  left: 3.5rem;
+}
+.quire-navbar-button.search-button, 
+.quire-navbar-button.menu-button {
+  cursor: pointer;
+}
+.quire-navbar-button.search-button svg, 
+.quire-navbar-button.menu-button svg {
+  height: 1.5rem;
+  width: 1.5rem;
+  max-height: initial;
+  max-width: initial;
+}
+.quire-search__close-button:hover,
+.quire-navbar-controls__left a:hover, 
+.quire-navbar-controls__left button:hover,
+.quire-navbar-controls__right a:hover, 
+.quire-navbar-controls__right button:hover,
+.quire-navbar-controls .quire-navbar-page-controls__item a:hover, 
+.quire-navbar-controls .quire-navbar-page-controls__item button:hover {
+  color: #e0582a !important;
+  background-color: transparent;
+}
+.quire-search__close-button:hover svg,
+.quire-navbar-controls__left a:hover svg, 
+.quire-navbar-controls__left button:hover svg, 
+.quire-navbar-controls__right a:hover svg, 
+.quire-navbar-controls__right button:hover svg,
+.quire-navbar-controls .quire-navbar-page-controls__item a:hover svg, 
+.quire-navbar-controls .quire-navbar-page-controls__item button:hover svg {
+  fill: #e0582a !important;
+}
+
 /* Page Type */
 .quire-page__content .container .content {
   padding: 0;
