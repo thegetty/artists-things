@@ -1,6 +1,6 @@
 ---
 title: "Harpsichord"
-layout: essay
+layout: thing
 order: 121
 owner:
   - first_name: Jean-Marc

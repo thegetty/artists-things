@@ -1,6 +1,6 @@
 ---
 title: "Armchair"
-layout: essay
+layout: thing
 order: 102
 owner:
   - first_name: Jean-Honoré

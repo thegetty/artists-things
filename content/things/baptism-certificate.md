@@ -1,6 +1,6 @@
 ---
 title: "Baptism Certificate"
-layout: essay
+layout: thing
 order: 103
 owner:
   - first_name: Hubert

@@ -1,6 +1,6 @@
 ---
 title: "Bath"
-layout: essay
+layout: thing
 order: 104
 owner:
   - first_name: Joseph-Siffred

@@ -1,6 +1,6 @@
 ---
 title: "Gaming Set"
-layout: essay
+layout: thing
 order: 118
 owner:
   - first_name: Jean-Étienne

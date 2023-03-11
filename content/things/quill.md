@@ -1,6 +1,6 @@
 ---
 title: "Quill"
-layout: essay
+layout: thing
 order: 138
 owner:
   - first_name: Étienne-Maurice

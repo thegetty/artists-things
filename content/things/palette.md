@@ -1,6 +1,6 @@
 ---
 title: "Palette"
-layout: essay
+layout: thing
 order: 134
 owner:
   - first_name: Elisabeth

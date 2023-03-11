@@ -1,6 +1,6 @@
 ---
 title: "Order Book"
-layout: essay
+layout: thing
 order: 133
 owner:
   - first_name: Louis-Jean-François

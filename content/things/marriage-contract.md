@@ -1,6 +1,6 @@
 ---
 title: "Marriage Contract"
-layout: essay
+layout: thing
 order: 129
 owner:
   - first_name: Jean-Baptiste

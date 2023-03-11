@@ -1,6 +1,6 @@
 ---
 title: "Shell"
-layout: essay
+layout: thing
 order: 142
 owner:
   - first_name: François

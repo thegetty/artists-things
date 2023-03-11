@@ -1,6 +1,6 @@
 ---
 title: "Almanac"
-layout: essay
+layout: thing
 order: 101
 owner:
   - first_name: Claude-Joseph

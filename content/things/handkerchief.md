@@ -1,6 +1,6 @@
 ---
 title: "Handkerchief"
-layout: essay
+layout: thing
 order: 120
 owner:
   - first_name: Charles-Nicolas

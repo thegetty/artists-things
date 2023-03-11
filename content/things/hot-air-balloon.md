@@ -1,6 +1,6 @@
 ---
 title: "Hot-Air Balloon"
-layout: essay
+layout: thing
 order: 122
 owner:
   - first_name: Jean-François

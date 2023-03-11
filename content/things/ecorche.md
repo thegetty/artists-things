@@ -1,6 +1,6 @@
 ---
 title: "Écorché"
-layout: essay
+layout: thing
 order: 116
 owner:
   - first_name: Jean-Antoine

@@ -115,6 +115,18 @@
   background-color: transparent !important;
 }
 
+/* Page Header */
+.quire-page__header .hero-body {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+.quire-page__header .hero-body ul {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: .875rem;
+  text-align: right;
+}
+
 /* Thing Info Grid */
 .quire-page__content .container .content .thing-info {
   display: grid;
@@ -123,17 +135,22 @@
   border-top: 1px solid #000;
   border-bottom: 1px solid #000;
   margin-bottom: 1.75rem;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: .875rem;
+  line-height: 1.4;
 }
 .quire-page__content .container .content .thing-info div {
   padding-top: .5rem;
-  padding-bottom: .5rem;
+  padding-bottom: .625rem;
   height: 100%;
 }
 .quire-page__content .container .content .thing-info div.thing-info__type {
   border-right: 1px solid #000;
+  padding-right: 1rem;
 }
 .quire-page__content .container .content .thing-info div.thing-info__theme {
   margin-left: 1rem;
+  padding-right: 1rem;
   border-right: 1px solid #000;
 }
 .quire-page__content .container .content .thing-info div.thing-info__material {
@@ -143,13 +160,10 @@
   text-indent: 0;
   margin-bottom: 0;
   font-weight: 700;
-  font-family: 'Source Sans Pro', sans-serif;
   text-transform: uppercase;
-  font-size: .875rem;
 }
 .quire-page__content .container .content .thing-info ul {
   margin: 0;
-
 }
 .quire-page__content .container .content .thing-info ul li,
 .quire-page__content .container .content .thing-info ul li p {

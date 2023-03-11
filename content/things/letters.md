@@ -1,6 +1,6 @@
 ---
 title: "Letters"
-layout: essay
+layout: thing
 order: 127
 owner:
   - first_name: Hyacinthe

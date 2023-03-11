@@ -1,6 +1,6 @@
 ---
 title: "Votive"
-layout: essay
+layout: thing
 order: 150
 owner:
   - first_name: Pierre-Imbert

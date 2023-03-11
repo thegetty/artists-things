@@ -1,6 +1,6 @@
 ---
 title: "Modeling Stand"
-layout: essay
+layout: thing
 order: 131
 owner:
   - first_name: Jean-Antoine

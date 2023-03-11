@@ -1,6 +1,6 @@
 ---
 title: "Snuffbox"
-layout: essay
+layout: thing
 order: 144
 owner:
   - first_name: Jean-Baptiste

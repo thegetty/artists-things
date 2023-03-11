@@ -1,6 +1,6 @@
 ---
 title: "Nightingale"
-layout: essay
+layout: thing
 order: 132
 owner:
   - first_name: Marie-Anne

@@ -1,6 +1,6 @@
 ---
 title: "Robe de Chambre"
-layout: essay
+layout: thing
 order: 141
 owner:
   - first_name: Louis-Michel

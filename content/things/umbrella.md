@@ -1,6 +1,6 @@
 ---
 title: "Umbrella"
-layout: essay
+layout: thing
 order: 149
 owner:
   - first_name: Jacques-Philippe

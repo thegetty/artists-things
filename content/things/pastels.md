@@ -1,6 +1,6 @@
 ---
 title: "Pastels"
-layout: essay
+layout: thing
 order: 135
 owner:
   - first_name: Suzanne

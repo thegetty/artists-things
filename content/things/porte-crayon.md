@@ -1,6 +1,6 @@
 ---
 title: "*Porte-Crayon*"
-layout: essay
+layout: thing
 order: 137
 owner:
   - first_name: Jean-Baptiste

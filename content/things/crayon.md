@@ -1,6 +1,6 @@
 ---
 title: "*Crayon*"
-layout: essay
+layout: thing
 order: 111
 owner:
   - first_name: Jean-Baptiste

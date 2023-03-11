@@ -1,6 +1,6 @@
 ---
 title: "Wig"
-layout: essay
+layout: thing
 order: 153
 owner:
   - first_name: Claude-Joseph

@@ -1,6 +1,6 @@
 ---
 title: "Funeral Book"
-layout: essay
+layout: thing
 order: 117
 owner:
   - full_name: Concierge of the Académie Royale

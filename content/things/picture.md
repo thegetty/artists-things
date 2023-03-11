@@ -1,6 +1,6 @@
 ---
 title: "Picture"
-layout: essay
+layout: thing
 order: 136
 owner:
   - first_name: Nicolas

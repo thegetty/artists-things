@@ -1,6 +1,6 @@
 ---
 title: "Sugar Spoon"
-layout: essay
+layout: thing
 order: 145
 owner:
   - first_name: François-Hubert

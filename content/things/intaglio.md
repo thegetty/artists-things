@@ -1,6 +1,6 @@
 ---
 title: "Intaglio"
-layout: essay
+layout: thing
 order: 123
 owner:
   - first_name: Charles-Joseph

@@ -1,6 +1,6 @@
 ---
 title: "Book"
-layout: essay
+layout: thing
 order: 106
 owner:
   - first_name: Gilles-Marie

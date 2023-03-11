@@ -1,6 +1,6 @@
 ---
 title: "Bed"
-layout: essay
+layout: thing
 order: 105
 owner:
   - first_name: Charles-Antoine

@@ -1,6 +1,6 @@
 ---
 title: "Journal"
-layout: essay
+layout: thing
 order: 124
 owner:
   - first_name: Johann-Georg

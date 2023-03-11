@@ -1,6 +1,6 @@
 ---
 title: "Wine"
-layout: essay
+layout: thing
 order: 155
 owner:
   - first_name: Alexis

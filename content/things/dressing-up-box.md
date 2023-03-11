@@ -1,6 +1,6 @@
 ---
 title: "Dressing-Up Box"
-layout: essay
+layout: thing
 order: 115
 owner:
   - first_name: Jean-Antoine

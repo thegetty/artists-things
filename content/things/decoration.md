@@ -1,6 +1,6 @@
 ---
 title: "Decoration"
-layout: essay
+layout: thing
 order: 112
 owner:
   - first_name: Joseph-Marie

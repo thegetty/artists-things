@@ -1,6 +1,6 @@
 ---
 title: "Document Box"
-layout: essay
+layout: thing
 order: 113
 owner:
   - full_name: Secretaries of the Académie Royale

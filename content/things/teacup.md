@@ -1,6 +1,6 @@
 ---
 title: "Teacup"
-layout: essay
+layout: thing
 order: 148
 owner:
   - first_name: Jean-Marc

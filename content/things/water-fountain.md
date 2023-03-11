@@ -1,6 +1,6 @@
 ---
 title: "Water Fountain"
-layout: essay
+layout: thing
 order: 152
 owner:
   - first_name: Jean-Siméon

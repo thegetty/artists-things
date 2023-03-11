@@ -1,6 +1,6 @@
 ---
 title: "Will"
-layout: essay
+layout: thing
 order: 154
 owner:
   - first_name: Jean-Baptiste

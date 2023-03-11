@@ -1,6 +1,6 @@
 ---
 title: "Camera Obscura"
-layout: essay
+layout: thing
 order: 108
 owner:
   - first_name: Charles

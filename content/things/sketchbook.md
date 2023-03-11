@@ -1,6 +1,6 @@
 ---
 title: "Sketchbook"
-layout: essay
+layout: thing
 order: 143
 owner:
   - first_name: Jean-Michel

@@ -1,6 +1,6 @@
 ---
 title: "Red Lake"
-layout: essay
+layout: thing
 order: 139
 owner:
   - first_name: Joseph-Siffred

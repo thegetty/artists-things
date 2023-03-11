@@ -1,6 +1,6 @@
 ---
 title: "Watch"
-layout: essay
+layout: thing
 order: 151
 owner:
   - first_name: Charles-Antoine

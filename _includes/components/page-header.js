@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// adds a list of 'owners', lines 28, 61–77
+//
 const { html } = require('~lib/common-tags')
 const path = require('path')
 
@@ -21,6 +25,7 @@ module.exports = function(eleventyConfig) {
       image,
       label,
       pageContributors,
+      owner: owners,
       subtitle,
       title
     } = params
@@ -53,6 +58,24 @@ module.exports = function(eleventyConfig) {
         `
       : ''
 
+    let ownersElement
+    if (owners) {
+      let ownersList = []
+      for (const owner of owners) {
+        
+        const name = owner.full_name 
+          ? owner.full_name 
+          : owner.first_name + ' ' + owner.last_name
+  
+        const years = owner.years 
+          ? owner.years
+          : ''
+  
+        ownersList.push(html`<li>${name} ${years}</li>`) 
+      }
+      ownersElement = html`<ul class="quire-page__header__owner">${ownersList}</ul>`
+    }
+    
     return html`
       <section class="${classes}">
         <div class="hero-body">
@@ -60,6 +83,7 @@ module.exports = function(eleventyConfig) {
             ${pageLabel}
             ${pageTitle({ title, subtitle })}
           </h1>
+          ${ownersElement}
           ${contributorsElement}
         </div>
       </section>

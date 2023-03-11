@@ -1,6 +1,6 @@
 ---
 title: "Model"
-layout: essay
+layout: thing
 order: 130
 owner:
   - first_name: Edme

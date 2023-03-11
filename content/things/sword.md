@@ -1,6 +1,6 @@
 ---
 title: "Sword"
-layout: essay
+layout: thing
 order: 146
 owner:
   - first_name: François

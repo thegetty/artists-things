@@ -1,6 +1,6 @@
 ---
 title: "Burin"
-layout: essay
+layout: thing
 order: 107
 owner:
   - first_name: Renée-Elisabeth

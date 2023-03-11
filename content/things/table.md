@@ -1,6 +1,6 @@
 ---
 title: "Table"
-layout: essay
+layout: thing
 order: 147
 owner:
   - first_name: Jacques-Louis

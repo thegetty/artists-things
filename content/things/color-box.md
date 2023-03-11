@@ -1,6 +1,6 @@
 ---
 title: "Color Box"
-layout: essay
+layout: thing
 order: 110
 owner:
   - first_name: Jean-Honoré

@@ -1,6 +1,6 @@
 ---
 title: "Dog"
-layout: essay
+layout: thing
 order: 114
 owner:
   - first_name: Joseph-Siffred

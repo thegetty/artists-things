@@ -1,6 +1,6 @@
 ---
 title: "Carriage"
-layout: essay
+layout: thing
 order: 109
 owner:
   - first_name: Jean-Baptiste

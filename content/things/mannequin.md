@@ -1,6 +1,6 @@
 ---
 title: "Mannequin"
-layout: essay
+layout: thing
 order: 128
 owner:
   - first_name: Jean-Baptiste

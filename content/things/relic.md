@@ -1,6 +1,6 @@
 ---
 title: "Relic"
-layout: essay
+layout: thing
 order: 140
 owner:
   - first_name: Hyacinthe

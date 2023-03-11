@@ -1,6 +1,6 @@
 ---
 title: "Glasses"
-layout: essay
+layout: thing
 order: 119
 owner:
   - first_name: François-André
@@ -12,33 +12,6 @@ material: [Metal/Bronze, Metal/Steel, Synthetic Materials / Glass]
 contributor:
   - id: "hwilliams"
 ---
-
-<div class='thing-info'>
-<div class='thing-info__type'>
-{% if type %}
-Type of Object
-{% for i in type %}
-- {{ i }}
-{% endfor %}
-{% endif %}
-</div>
-<div class='thing-info__theme'>
-{% if theme %}
-Theme
-{% for i in theme %}
-- {{ i }}
-{% endfor %}
-{% endif %}
-</div>
-<div class='thing-info__material'>
-{% if material %}
-Material
-{% for i in material %}
-- {{ i }}
-{% endfor %}
-{% endif %}
-</div>
-</div>
 
 **It is difficult to take one’s eyes off François-André Vincent’s glasses.** In his portrait, at forty-nine, painted by Adélaïde Labille-Guiard—a lifelong acquaintance who would become his wife five years later—Vincent’s glasses are a conspicuous accessory ([fig. 65](#fig.-65)).[^1] They occupy only a fraction of the canvas’s surface area, but their location over the eyes of the sitter—where the beholder’s own eyes are inevitably drawn and redrawn—ensure that this optical device becomes the focus of everyone’s gaze. Yet what is perhaps most distracting about Vincent’s glasses is less their lenses than their arms. Compositionally and formally, these insistent appendages demand attention, with their sudden stark linearity amid the soft contours of his face, with the darkness of the metal against his pale skin and gray hair, and with the quietly observed detail of their engineered construction. The lug and hinge at the front, where the arm meets the frame, is a regular feature of spectacles to this day; but far less familiar to the modern eye is the other end, where instead of curving gently around the ear, the arm bends abruptly at a sharp angle behind Vincent’s head. This tiny detail may also have caught the attention of Vincent’s contemporaries, though for entirely different reasons. For what appears today as a cumbersome outmoded feature was, in the eighteenth-century, the height of optometric technology.
 

@@ -1,6 +1,6 @@
 ---
 title: "Key"
-layout: essay
+layout: thing
 order: 125
 owner:
   - first_name: Pierre
