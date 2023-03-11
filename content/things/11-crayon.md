@@ -1,17 +1,16 @@
 ---
 title: *Crayon*
-
-Artist_first_name: Jean-Baptiste
-
-Artist_last_name: Huët
-
-Artist_years: (1745–1811)
-
+owner:
+  - first_name: Jean-Baptiste
+    last_name: Huët
+    years: (1745–1811)
 Type: Tool
 
 Theme: Education, Invention, Making, Studio\
 Material: Mineral/Chalk, Synthetic Materials / Paper\
-Author: kscott
+contributor:
+  -id: "kscott"
+---
 
 *Crayon* is a generic term for a commonplace object found in every eighteenth-century studio.[^1] In spite of its ubiquity we know little about it. We grasp the *crayon* only indirectly, through its products: the mass of sketches, studies, and drawings it drew forth. However, a set of four chalk head studies by the painter Jean-Baptiste Huët, reproduced by Louis Marin Bonnet sometime after 1780 ([fig. 32](#fig.-32)), allows us to begin to understand the *crayon* from the other end. The prints inform the viewer that the specific *crayons* used by Huët had been manufactured by André Nadaux, whose shop was located on the Rue de la Vieille Draperie, Île de la Cité.[^2] They were sold in packets of a dozen, wrapped in blue paper and sealed with wax stamped with a fleur-de-lis.
 

@@ -1,17 +1,16 @@
 ---
 title: Journal
-
-Artist_first_name: Johann-Georg
-
-Artist_last_name: Wille
-
-Artist_years: (1715–1808)
-
+owner:
+  - first_name: Johann-Georg
+    last_name: Wille
+    years: (1715–1808)
 Type: Family, Companion, Souvenir
 
 Theme: Community, Death, Everyday, Memory, Money,\
 Material: Leather/Parchment, Synthetic Materials / Ink, Synthetic Materials / Paper\
-Author: hwilliams
+contributor:
+  -id: "hwilliams"
+---
 
 For four decades Johann-Georg Wille, the German-born, Paris-based engraver, kept a journal.[^1] From 1759 to 1793 regular entries record his quotidian doings from when he was a forty-something *agréé* (provisional member) at the Académie until a few months after his seventy-eighth birthday. In our search for things through which to retrieve their owner’s lives, an artist’s journal presents the ultimate biographical metaobject: a thing that exists entirely in order to record that person’s experiences in firsthand accounts. Usually, the biographical value of a journal comes from considering it as a text. Indeed, ever since the publication of Wille’s journal by the art historian Georges Duplessis in 1857 (forty-nine years after the artist’s death), it has been read as a crucial source of insights, most of which can be gleaned by merely consulting Duplessis’s transcription.[^2] Wille’s writings grant access to his professional activities, international social networks, and personal relationships, and as a whole the text offers a fascinating encounter with a singular moment of French history. Inadvertently chronicling the final chapter of the ancien régime, Wille’s journal takes its reader on a journey from the seeming immutability of Louis XV’s reign, through the escalating uncertainty of the Revolution, to the chaotic dismantling of an entire social order as the new Republic emerged. But what if Wille’s journal is encountered not just as a text, but as a “thing”? What stories emerge not from the meaning of the words, but from the materiality of the notebooks that contain them? When it is the biography of the object itself—rather than the autobiographical text inscribed in it—what else might Wille’s journal reveal about the engraver’s habitual quirks, lived rhythms, and unexpected disruptions?
 

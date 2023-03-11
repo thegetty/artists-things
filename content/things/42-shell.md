@@ -1,17 +1,16 @@
 ---
 title: Shell
-
-Artist_first_name: François
-
-Artist_last_name: Boucher
-
-Artist_years: (1703–70)
-
+owner:
+  - first_name: François
+    last_name: Boucher
+    years: (1703–70)
 Type: Collectible, Commodity, Tool
 
 Theme: Global Commerce, Luxury\
 Material: Shell\
-Author: kscott
+contributor:
+  -id: "kscott"
+---
 
 The name and reputation of the painter and academician François Boucher is, for many, synonymous with the shell. The **wig** he wore for his portrait by the Swedish artist Gustaf Lundberg (Paris, Musée du Louvre), painted in 1741 at the time he had started to collect, falls down his back in a cascade of curls that against the background of blue look almost like ropes of white and silver scallops. Shells were not, however, the only things that Boucher collected. Neither were they things greatest in number, nor highest in value in Boucher’s cabinet sold at his death in 1770. A handwritten note at the back of a copy of the painter’s sale catalog gives a breakdown of the sums raised by the different kinds of thing in order of sale.[^1] Rearranging the subtotals by value puts shells sixth: first among the categories of natural history, certainly, but significantly below the records fetched by painting, drawing, furniture, and porcelain. [^2] Yet “shell” was and is often promoted as the synecdoche for Boucher’s art and collection, by reason of novelty—he was one of a few artists in his taste for natural history[^3]—*and* because the shell, a signature motif of the rococo, came to signify the excess, the luxe, of that style’s reign, a style of which Boucher’s work is a defining instance.[^4] That said, recent discussions of Boucher’s shells have mostly ignored the awe and fear spelled by the temptation of his shells;[^5] they have focused less on obvious questions of consumption and critique, appetite and idiom, and have opted instead to interrogate the “science” of his conchyliology.[^6] Collection, as opposed to accumulation, puts things under cover of the charge of luxury, because it consecrates the value of collected things as real, innate, not simply determined by exchange.
 

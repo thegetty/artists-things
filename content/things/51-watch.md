@@ -1,17 +1,16 @@
 ---
 title: Watch
-
-Artist_first_name: Charles-Antoine
-
-Artist_last_name: Coypel
-
-Artist_years: 1694–1752
-
+owner:
+  - first_name: Charles-Antoine
+    last_name: Coypel
+    years: 1694–1752
 Type: Apparel, Collectible, Commodity, Gift, Heirloom, Instrument,
 
 Theme: Community, Invention, Louvre, Luxury, Money, Religion\
 Material: Metal/Gold/Gilding, Mineral/Gem\
-Author: hwilliams
+contributor:
+  -id: "hwilliams"
+---
 
 ()
 

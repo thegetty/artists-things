@@ -1,17 +1,16 @@
 ---
 title: Nightingale
-
-Artist_first_name: Marie-Anne
-
-Artist_last_name: Collot
-
-Artist_years: (1748–1821)
-
+owner:
+  - first_name: Marie-Anne
+    last_name: Collot
+    years: (1748–1821)
 Type: Gift
 
 Theme: Animal, Gender, Identity, Money\
 Material: Animal\
-Author: kscott
+contributor:
+  -id: "kscott"
+---
 
 On 15 May 1769 a nightingale arrived at the residence of the French sculptor Marie-Anne Collot in Saint Petersburg, together with the following note from the empress Catherine II to Étienne-Maurice Falconet, Collot’s master, whom she had accompanied to Russia: “Beg Mlle Collot to be kind to this little wild thing (*petit sauvage*).”[^1] Collot was in a state of heightened anticipation and anxiety apparently, the bird having been announced for some time.[^2] Five days earlier the gift had suddenly seemed in doubt. Catherine had written to say that not one bird in song could be found in the city though the feast day of Saints Peter and Paul, ordinarily the time when nightingales fall silent, had yet to pass.[^3] Collot’s wholehearted joy at the nightingale’s eventual arrival did not, however, suspend Catherine’s caution to hang cage and bird outside her palace lodgings, because “no one can long endure his song indoors.”[^4] What are we to make of this thing, a thing that proved both so difficult to give, because of the unpredictability of the creature’s performance, and a challenge to receive, because wild and excessive in song? Our knowledge of Collot’s life and career is largely indirect, refracted through Falconet’s correspondence with the empress and with the *philosophe* Denis Diderot (see **quill**). Does the nightingale, her very own thing, speak to us more directly about her?
 

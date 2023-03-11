@@ -1,17 +1,16 @@
 ---
 title: Red Lake
-
-Artist_first_name: Joseph-Siffred
-
-Artist_last_name: Duplessis
-
-Artist_years: (1725–1802)
-
+owner:
+  - first_name: Joseph-Siffred
+    last_name: Duplessis
+    years: (1725–1802)
 Type: Tool
 
 Theme: Making, Studio\
 Material: Synthetic Materials / Paint/Pigment\
-Author: kscott
+contributor:
+  -id: "kscott"
+---
 
 On 2 December 1786, a four-page memorandum on red lake written by the portraitist Joseph-Siffred Duplessis was read to members of the Académie by the secretary, Antoine Renou.[^1] The designation *mémoire,* or memorandum, indicates that the discourse had not been solicited by the Académie, unlike a *conférence*, which was a public lecture on art that an academician was invited to give.[^2] *Mémoires* were rather projects submitted by individuals soliciting the Académie’s approval and imprimatur. Rare in the first half of the eighteenth century, the number of such memoranda by artists, inventors, and amateurs rose significantly after 1750, in spite of the fact that the Académie as professional body and as school did not formally concern itself with the materiality and craft of art. Thus, when “couleur” was discussed in the *conférences* it was in the context-specific sense of “coloris,” that is, in relation to its aesthetic value and with regard to questions of color distribution and pictorial harmony.[^3] The making, mixture, and manipulation of colors were the know-how, or secrets of the studio transmitted by apprenticeship, not discourse. Duplessis tipped his hat at the distinction and readily admitted that pigments do not, of themselves, make good pictures. But he argued that much of a picture’s “freshness,” “brilliance,” and therefore beauty, depended on them, and as such, the Académie had, he implied, a very proper though as yet formally unacknowledged interest in them. By his memorandum he sought to break with the tradition of artisanal secrecy and overcome academic hauteur. He offered his stock of personal and private knowledge of red, acquired through lengthy research and experimentation, as a gift to his fellow academicians, opening up a public road between studio and Académie.
 

@@ -1,17 +1,16 @@
 ---
 title: Intaglio
-
-Artist_first_name: Charles-Joseph
-
-Artist_last_name: Natoire
-
-Artist_years: (1700–77)
-
+owner:
+  - first_name: Charles-Joseph
+    last_name: Natoire
+    years: (1700–77)
 Type: Apparel, Collectible, Souvenir
 
 Theme: Antiquity, Death, Friendship, Memory, Travel\
 Material: Mineral/Gem\
-Author: kscott
+contributor:
+  -id: "kscott"
+---
 
 On 14 December 1778, the collection of the history painter and director of the Académie de France à Rome, Charles-Joseph Natoire, was auctioned at the hôtel d’Aligre, Rue Saint-Honoré. Natoire had died in Italy after more than twenty-five years as director at the Palazzo Mancini, but his heirs decided that the collection would sell better in Paris than in Rome.[^1] Shipped back to France and cataloged by the auctioneer Alexandre Paillet, Natoire’s “*cabinet*” had contained, in addition to examples of his own paintings and drawings, “choice and distinguished works” by “Pierre Subleyras, Jean-Paul Panini, and other Masters.”[^2] Among those who attended the sale was the artist Gabriel de Saint-Aubin, whose marginal drawings in his copy of the sale catalog capture in quick, black, accented chalk strokes, the salient features of many of the paintings, drawings, and sculptors’ **models** for sale, a sale that ended with a handful of ancient and modern gems, and a crop of red wax sulphur pastes, cast from gems.[^3] We sense the ebbing of Saint-Aubin’s interest with the gems ([fig. 82](#fig.-82)); his sketches become perfunctory, in some cases no more than the oval ghost of a form, his record of the winning bids erode as he grows distracted. Since that brief moment of his glancing attention, total silence has befallen the gems, as no art historian has reflected on their presence.[^4]
 

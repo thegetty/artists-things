@@ -1,17 +1,16 @@
 ---
 title: Carriage
-
-Artist_first_name: Jean-Baptiste
-
-Artist_last_name: Pigalle
-
-Artist_years: (1714–85)
-
+owner:
+  - first_name: Jean-Baptiste
+    last_name: Pigalle
+    years: (1714–85)
 Type: Vehicle
 
 Theme: Travel\
 Material: Plant Matter / Wood, Synthetic Materials / Glass, Synthetic Materials / Paint/Pigment Textile / Silk\
-Author: kscott
+contributor:
+  -id: "kscott"
+---
 
 Prompted to consider carriages *and* artists in the eighteenth century, we think perhaps first of specialist trades, those of the coach painter and the ornamental carver.[^1] Or, in the context of metaphors of modernity, we think of the image of the extravagantly decorated coach used by critics and satirists to figure the rise of luxury consumption and the corresponding degradation of art.[^2] We do not, generally, think of carriages as things owned and used by artists. The fine art sculptor and academician Jean-Baptiste Pigalle, who lived at the end of his life on the outskirts of Paris in the semirural district of Montmartre, compels us to think again. Parked at the stable of his house, 12 Rue de La Rochefoucault, in 1785 were a cart and a carriage and a cabriolet. In the stable were a pair of bays to drive the carriage and a black mare for the cabriolet.[^3] Pigalle’s vehicles contributed to the enormous increase in the number of carriages on the streets of the capital, which had risen from 310 in 1658 to over 15,000 by 1750.[^4] Growth in vehicular transport occurred in tandem with the gradual improvement of the country’s roads.[^5] The combination transformed travel, multiplying and speeding up connections between people and places, technological progress regarded as crucial to the modernization of the western world, according to historians.
 

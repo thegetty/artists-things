@@ -1,17 +1,16 @@
 ---
 title: Sugar Spoon
-
-Artist_first_name: François-Hubert
-
-Artist_last_name: Drouais
-
-Artist_years: (1727–75)
-
+owner:
+  - first_name: François-Hubert
+    last_name: Drouais
+    years: (1727–75)
 Type: Commodity, Intoxicant, Tableware
 
 Theme: Food and Drink, Global Commerce\
 Material: Metal/Silver\
-Author: hwilliams
+contributor:
+  -id: "hwilliams"
+---
 
 Did Drouais have a sweet tooth? Determining the culinary inclinations of an eighteenth-century artist is hampered by the omission of foodstuffs from the household contents generally itemized in estate inventories (with the notable exception of **wine**).[^1] What Drouais preferred to eat and drink can, however, be surmised from the less perishable objects that he owned—the utensils, gadgets, and vessels used to prepare, cook, serve, and consume the family’s meals and beverages. Given the period’s proclivity to specialize when it came to the functionality of kitchenware and tableware, many of these items were differentiated for quite specific uses, so that a glance even at their assortment of spoons inadvertently reveals something of the Drouais family’s dietary predilections. Via Drouais’s *cuillères à bouche* (tablespoons), *cuillères à potage* (soup spoons), *cuillères à ragout* (gravy spoons), *cuillères à café* (teaspoons), a *cuillère à olive* (olive spoon), a *cuillère à moutarde* (mustard spoon), and a *cuillière à sucre* (sugar spoon), we encounter a palate for hot soups and stews, fiery condiments, salty bites, caffeinated beverages, and indulgent sweet treats.[^2] There may be no trace of sugar itself in the records of Drouais’s home, but its erstwhile presence is betrayed by that silver sugar spoon, and with it the artist’s place in a global economy stretching from his Paris dining table, to the plantations of the Caribbean, and the slave trading ports of West Africa.
 

@@ -1,73 +1,43 @@
 ---
 title: Lantern
-
-Artist_first_name: Jean-Siméon
-
-Artist_last_name: Chardin
-
-Artist_years: (1699–1779)
-
-Artist_first_name: Charles-Nicolas
-
-Artist_last_name: Cochin
-
-Artist_years: (1715–90)
-
-Artist_first_name: Claude-François
-
-Artist_last_name: Desportes
-
-Artist_years: (1695–1774)
-
-Artist_first_name: Pierre-André
-
-Artist_last_name: Jacquemin
-
-Artist_years: (1720–73)
-
-Artist_first_name: Jean-Baptiste
-
-Artist_last_name: Lemoyne
-
-Artist_years: (1704–78)
-
-Artist_first_name: Jean-Baptiste
-
-Artist_last_name: Pigalle
-
-Artist_years: (1714–85)
-
-Artist_first_name: Claude-Joseph
-
-Artist_last_name: Vernet
-
-Artist_years: (1714–89)
-
-Artist_first_name: Joseph-Marie
-
-Artist_last_name: Vien
-
-Artist_years: (1716–1809)
-
+owner:
+  - first_name: Jean-Siméon
+    last_name: Chardin
+    years: (1699–1779)
+  - first_name: Charles-Nicolas
+    last_name: Cochin
+    years: (1715–90)
+  - first_name: Claude-François
+    last_name: Desportes
+    years: (1695–1774)
+  - first_name: Pierre-André
+    last_name: Jacquemin
+    years: (1720–73)
+  - first_name: Jean-Baptiste
+    last_name: Lemoyne
+    years: (1704–78)
+  - first_name: Jean-Baptiste
+    last_name: Pigalle
+    years: (1714–85)
+  - first_name: Claude-Joseph
+    last_name: Vernet
+    years: (1714–89)
+  - first_name: Joseph-Marie
+    last_name: Vien
+    years: (1716–1809)
 Type: Instrument
-
 Theme: Community, Gender, Louvre\
 Material: Synthetic Materials / Glass\
-Author: kscott
-
-The lantern is exceptional in this book. A utensil, to paraphrase the *Dictionnaire de l’Académie française* (1762), made of glass, horn, oilcloth, or other translucent material to protect the flame of an enclosed tallow or wax candle from the wind and rain, the lantern was generally thought to be a public utility for outdoor use in the eighteenth century, not a personal thing privately owned.[^1] These particular lanterns were ones used to light the public or semipublic passageways between artists’ *logements* (housing) at the Louvre. They belonged, in so far as the cost of fueling and maintaining them was borne collectively, to the group of artists granted rights of residency at the Louvre by royal patent (*brevet*) and listed above. The lanterns count as “artists’ things” because they served on the one hand to create an internal sense of community and personal belonging, distinguishing *brevetaires* from the master craftsmen of the town, and on the other, as an instrument of internal discipline.
-
-Bought from glaziers and supplied with fuel by chandlers, lanterns generally fall below the threshold of notice in personal records and communication. Notaries did not itemize and value stocks of candles. Candles were classed for the purposes of probate with perishables goods like food, and not stores or supplies like wood or coal.[^2] Lanterns went largely unnoticed, too, in diaries and letters. They are, in short, difficult to connect historically to particular persons. Those at the Louvre become visible and knowable only because in November 1769 a number of unnamed artists at the palace threatened not to pay the dues collected annually at New Year to cover the cost of keeping the lanterns in good repair and supplied with the wicks and fuel needed to light them.[^3] This mini rebellion, which pitted the interests and concerns of the community of *brevetaires* against that of particular individuals, prompted the sculptor Jean-Baptiste Lemoyne to write to the *directeur des bâtiments du roi*, the marquis de Marigny, forwarding a petition signed by fellow sculptor Pigalle, the painters Chardin, Desportes, Vien, and Vernet, the draftsman and printmaker Cochin, and the king’s jeweler, Pierre-André Jacquemin, and to ask him to intervene in the matter.[^4]
+contributor:
+  - id: "kscott"
+---
 
 The petitioners justified their case principally on grounds of custom. The public passages had, they said, always been lit at night. “Decency requires it, and the good of all is united in it.”[^5] The Louvre was a community as well as a legally protected enclave. The king’s artists living there were, by an act of Henri IV in 1608, distinguished from the city’s ordinary painters and sculptors by privileges that included the freedom to practice their arts without let or hindrance from the Paris guilds and by exemptions from certain municipal taxes and duties, including taxes levied to pay for the lighting and cleaning of the city’s streets.[^6] At one level the passageway lanterns represented a sign of exceptionalism: royal lighting, we might say, as opposed to city lights. At another level and more importantly, the practice of lighting the passages played a part in fostering and sustaining a sense and style of community among the denizens of the Louvre.
 
-Though not mentioned directly in the memorandum, the circumstances of the Desportes household was a likely factor in the affair. At the time of writing, Mme Desportes, wife of still-life painter, Claude-François, was responsible for collecting the lantern dues.[^7] Lemoyne alludes to the desire to spare her humiliation. Claude-François was the son of the “great” Alexandre-François Desportes, painter of Louis XIV’s hunts. He had inherited his father’s *logement* in 1743 and continued to perpetuate the family business in animal and still-life painting as best he could but without his father’s flair.[^8] Claude-François was keen, it seems, to preserve his wife’s income from lantern tending. His warm commendation of his mother’s contribution in her time to the domestic economy—she had worked as a linen draper and lace seller to afford his father the leisure to perfect his studies after nature—suggests he actively approved his wife’s occupation.[^9]
-
-Care and supply of lanterns at the Louvre represented unofficially, one could say, an office, a poor relation of the Governor of Versailles’s office to supply the *grands appartements* with beeswax candles, or equivalent in the visual arts to the posts of keeper of the king’s cabinet and drawing master to the royal household; less distinguished and less remunerative certainly, but significant nevertheless to the modest artist’s income.[^10] That the community at the Louvre took action in part to support its more vulnerable members is strongly suggested by the fact that most of the signatories of the lantern petition, signed another in 1774 to second Nicolas Desportes’ begging request to Marigny to be allowed keep the family *logement* after his cousin Claude-François’s death.[^11] Nicolas Desportes had lived with and worked for, first, Alexandre-François, his uncle, and then Claude-François; the *logement* had been his only home and its free accommodation was crucial to his prospects of supporting himself independently by painting.[^12] “The good of all,” highlighted in the lantern petition, entailed safeguarding the little jobs, like the tending of lanterns, in order to keep modest artistic livelihoods afloat in precarious times, and the corps at the Louvre united.
-
-More obviously, of course, the lanterns lit the communal areas of the Louvre. The kind of lanterns used is not made clear in the memorandum. Not lanterns with wax candles certainly. Candles made of beeswax were prohibitively expensive.[^13] More likely, they would have been either oil lamps, that is, an enclosed ceiling version of the one depicted by Cochin at the Académie’s drawing school ([fig. 93](#fig.-93)), the reservoir for oil plain to see, or lanterns supplied with tallow candles. Either could have provided, more-or-less unattended, a source of continuous light for between five and a half to twelve hours, or from dusk to dawn according to the season.[^14]
-
-The light shed would not have been as intense as that afforded by wax candles, but sufficient to vouchsafe “decency” in what the petitioners called their “gallery,” the passage connecting the *logements* at mezzanine level. By “décence” they meant that “exterior” or public expression of polite bearing,[^15] appropriate to spaces of prestige. By naming the mezzanine passageway the “small gallery” they implicitly invited comparison of it to the celebrated Grande Galerie above, and invoked an interior space of habitation and belonging as well as of convenient transit.[^16] In this passage-cum-gallery, the private space of individual studios and the public space of the palace and the greater world beyond collided. Hubert Robert’s gray-washed, black-chalk drawing of a corridor ([fig. 94](#fig.-94)), once thought to represent the entrance to his studio, affords a vivid picture of the flows in and out of this transitional space: pictures being moved out from studios or stores, a woman poised on the threshold of the private, about to step in. In the depths, a group of loiterers take up residence. Light reaches the space from a distance, through contiguous spaces. Momentarily brightened by the opening of a door, its natural state is half shadow even in the daylight hours.
+owner:
+  - first_name: Jean-Siméon
+    last_name: Chardin
+    years: (1699–1779)The light shed would not have been as intense as that afforded by wax candles, but sufficient to vouchsafe “decency” in what the petitioners called their “gallery,” the passage connecting the *logements* at mezzanine level. By “décence” they meant that “exterior” or public expression of polite bearing,[^15] appropriate to spaces of prestige. By naming the mezzanine passageway the “small gallery” they implicitly invited comparison of it to the celebrated Grande Galerie above, and invoked an interior space of habitation and belonging as well as of convenient transit.[^16] In this passage-cum-gallery, the private space of individual studios and the public space of the palace and the greater world beyond collided. Hubert Robert’s gray-washed, black-chalk drawing of a corridor ([fig. 94](#fig.-94)), once thought to represent the entrance to his studio, affords a vivid picture of the flows in and out of this transitional space: pictures being moved out from studios or stores, a woman poised on the threshold of the private, about to step in. In the depths, a group of loiterers take up residence. Light reaches the space from a distance, through contiguous spaces. Momentarily brightened by the opening of a door, its natural state is half shadow even in the daylight hours.
 
 According to the Bâtiments’ archives, the propriety of the passages at the Louvre was regularly under threat. In December 1777, the cleanliness, rather than the lighting, of the passages led to the intervention of the comte d’Angiviller, Marigny’s successor as director, into the trivialities of the everyday.[^17] The now so-called corridors, were supposed to be swept once every two weeks and sprinkled with water to settle the dust, but notwithstanding the conscientiousness of the cleaner, the place was, reported Jean-Baptiste-Marie Pierre, the king’s first painter, unacceptably filthy.[^18] D’Angiviller took up the matter with Barthouil, Inspecteur du Louvre, from whom he learned that art students habitually used the corridors as latrines and, moreover, that when Barthouil had instructed the Swiss guard to stop them defecating, he had been treated to a generous portion of their wastes on his doorstep in retaliation.[^19] Lighting was an important weapon in repressing such behavior. If it did not shame the student cohort, it did enable the identification of individual culprits.[^20]
 

@@ -1,17 +1,16 @@
 ---
 title: Wine
-
-Artist_first_name: Alexis
-
-Artist_last_name: Grimou
-
-Artist_years: (1678–1733)
-
+owner:
+  - first_name: Alexis
+    last_name: Grimou
+    years: (1678–1733)
 Type: Intoxicant, Tableware
 
 Theme: Community, Death, Everyday, Food and Drink, Global Commerce, Leisure\
 Material: Plant Matter/ Red Lake, Synthetic Materials / Glass\
-Author: hwilliams
+contributor:
+  -id: "hwilliams"
+---
 
 From the historian’s perspective, it is fitting that this book of artists’ things should end with wine. Not just because of its associations with toasting endings and beginnings, but because wine has so often been the first “thing” encountered in our inquiries into the material worlds of eighteenth-century artists. When notaries undertook the lengthy task of an estate inventory, itemizing the contents of a deceased person’s home, they usually started their cataloging efforts in the *cave* (cellar), which, if the dwelling had one, was the most common space for storing one’s wine. Consequently, wine regularly features in the initial glimpse of an artist’s material possessions, offering tantalizing insights into the extent of their wealth, their tastes as a consumer, and, above all, their drinking proclivities.
 

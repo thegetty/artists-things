@@ -1,17 +1,16 @@
 ---
 title: Sketchbook
-
-Artist_first_name: Jean-Michel
-
-Artist_last_name: Moreau the Younger
-
-Artist_years: (1741–1814)
-
+owner:
+  - first_name: Jean-Michel
+    last_name: Moreau the Younger
+    years: (1741–1814)
 Type: Artwork, Companion, Souvenir, Tool
 
 Theme: Education, Everyday, Family, Making, Studio, Travel\
 Material: Leather/Parchment, Metal/Gold/Gilding, Mineral/Chalk, Synthetic Materials / Paper\
-Author: hwilliams
+contributor:
+  -id: "hwilliams"
+---
 
 Jean-Michel Moreau’s sketchbook does not really look like a sketchbook ([fig. 145](#fig.-145)).[^1] A small, leather-bound, hard-covered volume, with decorative tooling and gilding, and even its own title—“ETU/DES” (studies)—inscribed in a panel on the spine, Moreau’s sketchbook appears far more like a **book** that might be at home on a shelf amid plays, poetry, treatises, and histories. More commonly in the eighteenth century, artists’ sketchbooks took the form of *carnets*, a kind of notebook (not unlike Johann-Georg Wille’s **journal** (see [fig. 86](#fig.-86)), though with different paper) with fairly workaday binding, which could be purchased from stationer’s shops or suppliers of artists’ materials. Jacques-Louis David, for instance, tended to shop for his sketchbooks near the Louvre, buying at least one from a color merchant on Rue du Coq Saint-Honoré and another from a paper merchant on Rue des Prêtres Saint-Germain-l’Auxerrois.[^2] By contrast, Moreau’s sketchbook was an object that seemed to owe its materiality to the largely Left Bank world of bookbinders and booksellers, in which Moreau had been immersed since 1765, when he married the niece of a bookseller and printer.[^3] From the outside, Moreau’s sketchbook thus pulls us into the public spaces of the Paris book trade. But on the inside, its drawings evoke a far more private sphere of personal encounters and intimate sociability. Made in a period when the lines between professional and domestic were less distinctly drawn, this was a thing that embodied and navigated those mutable boundaries.
 

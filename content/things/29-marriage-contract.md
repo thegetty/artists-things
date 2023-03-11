@@ -1,18 +1,17 @@
 ---
 title: Marriage Contract
-
-Artist_first_name: Jean-Baptiste
-
-Artist_last_name: Greuze
-
-Artist_years: (1725–1805)
-
+owner:
+  - first_name: Jean-Baptiste
+    last_name: Greuze
+    years: (1725–1805)
 Type: Document
 
 Theme: Family, Gender, Identity, Money, Religion\
 Material: Synthetic Materials / Ink, Synthetic Materials / Paper
 
-Author: hwilliams
+contributor:
+  -id: "hwilliams"
+---
 
 There were many happily married artists in eighteenth-century France. But Jean-Baptiste Greuze was not among them. According to their marriage contract ([fig. 102](#fig.-102)), Greuze and Anne-Gabrielle Babuty (1732–1811), the daughter of a Paris bookseller, were married on 31 January 1759, the groom was thirty-three, the bride twenty-six.[^1] Greuze had supposedly been struck by her beauty when he walked into her father’s shop one day on Rue Saint-Jacques, but he would later claim that he was tricked into the union, and that their relationship started to fall apart a few years later.[^2] After many years of escalating domestic discontent, acts of betrayal, cruelty, and rage, the marriage eventually ended thirty-four years after it began. In light of these unfortunate circumstances, it may appear a little sensationalist to select Greuze’s marriage contract for this book, given how many other contracts from happier artists’ marriages are likewise preserved in the notarial records of the Archives Nationales in Paris. But it is the very demise of Greuze’s marriage that makes the contract—as a thing—more intriguing, not least because the ensuing events gave the document a more active role than usual.
 

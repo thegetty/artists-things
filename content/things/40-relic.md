@@ -1,17 +1,16 @@
 ---
 title: Relic
-
-Artist_first_name: Hyacinthe
-
-Artist_last_name: Rigaud
-
-Artist_years: (1659–1743)
-
+owner:
+  - first_name: Hyacinthe
+    last_name: Rigaud
+    years: (1659–1743)
 Type: Apparel, Commodity, Companion, Container, Gift, Heirloom, Ritual Thing, Symbolic Thing
 
 Theme: Family, Luxury, Religion, Devotional Thing\
 Material: Metal/Gold/Gilding, Plant Matter / Wood\
-Author: hwilliams
+contributor:
+  -id: "hwilliams"
+---
 
 A relic—the physical remnants of a saint or holy figure—is something one might expect to find in a church, rather than in the home of an artist. Fragments of bodies (bones, hair, teeth, or vials of blood) and material things that once touched those bodies (clothing, belongings, instruments of death or torture) are readily accommodated in sacred sites where their ritual purpose is evident, but we do not often imagine the domestic environment of an eighteenth-century artist as a space for that kind of activity. Yet among the possessions of Hyacinthe Rigaud was an item that would suggest otherwise. Indeed, the history painter was the devoted owner of one of the most sacred types of relic worshiped within the Catholic Church: a small piece of the True Cross upon which Jesus Christ was crucified.[^1]
 

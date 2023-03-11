@@ -1,17 +1,16 @@
 ---
 title: Umbrella
-
-Artist_first_name: Jacques-Philippe
-
-Artist_last_name: Le Bas
-
-Artist_years: (1707–83)
-
+owner:
+  - first_name: Jacques-Philippe
+    last_name: Le Bas
+    years: (1707–83)
 Type: Instrument
 
 Theme: Community, Everyday, Commodity\
 Material: Plant Matter / Wood, Textile / Canvas, Textile / Silk\
-Author: kscott
+contributor:
+  -id: "kscott"
+---
 
 A rare green silk umbrella ([fig. 167](#fig.-167)) is one of the eighteenth-century treasures of the Palais Galliera, the Paris museum of fashion. It has a turned oak handle, an eight-rib hinged metal frame, and a retracting and divisible central pole to enable the close and collapse of the umbrella into a pocketable thing ([fig. 168](#fig.-168)). Although the framework of the umbrella was sometimes made of other materials (wood, baleen), the structure of this type of umbrella was generic to both umbrellas and parasols, which differed, when they did, only in the stuff of the canopy.[^1] A close taffeta weave was the choice treatment, for resistance to sun and rain, and for pliable stiffness. The cloth was sometimes given additional proofing by a coat of gum, oil, or wax, though eighteenth-century dictionary definitions suggest that a distinction was not thereby routinely made between umbrellas (*parapluies*) and parasols.[^2]
 

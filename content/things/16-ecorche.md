@@ -1,17 +1,16 @@
 ---
 title: Écorché
-
-Artist_first_name: Jean-Antoine
-
-Artist_last_name: Houdon
-
-Artist_years: (1741–1828)
-
+owner:
+  - first_name: Jean-Antoine
+    last_name: Houdon
+    years: (1741–1828)
 Type: Artwork
 
 Theme: Death, Education, Health/Medicine, Louvre, Luxury, Making, Studio, Travel, Tool\
 Material: Metal/Bronze, Mineral/Clay, Synthetic Materials / Plaster\
-Author: hwilliams
+contributor:
+  -id: "hwilliams"
+---
 
 Houdon’s écorché is a thing with many stories, not least because the thing known as “Houdon’s écorché” is actually many things existing in many forms.[^1] This anatomical **model** of a flayed human figure exists in two distinct versions: one with arm extended, one with arm raised. Both versions exist in life-size and reduced-scale formats. Each version and format were executed in different materials, mostly plaster or bronze, but also terracotta. And the dates of production extend from 1767 right into the nineteenth century, with Houdon producing numerous casts throughout his life, and copies continuing to be made after his death in 1828. In fact, versions of Houdon’s écorché are still being sold today, such is its enduring appeal as an aesthetic object and its value as an educational tool for artists: the two qualities for which it was prized from the very moment of its creation.[^2]
 

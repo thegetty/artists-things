@@ -1,17 +1,16 @@
 ---
 title: Armchair
-
-Artist_first_name: Jean-Honoré
-
-Artist_last_name: Fragonard
-
-Artist_years: (1732–1806)
-
+owner:
+  - first_name: Jean-Honoré
+    last_name: Fragonard
+    years: (1732–1806)
 Type: Furniture
 
 Theme: Administration, Louvre, Studio\
 Material: Leather/Parchment, Plant Matter / Cane, Plant Matter / Wood\
-Author: kscott
+contributor:
+  -id: "kscott"
+---
 
 In the 1790s, Jean-Honoré Fragonard stopped painting. By this point in his life, he had enjoyed a long and successful career as an artist spanning three decades, scores of clients, hundreds of artworks (paintings and drawings), and had established a name with his distinctively bravura take on the rococo mode. Indeed, the only thing he had not achieved was admission to the Académie.[^1] But at the age of sixty, he made a career change and became a bureaucrat.[^2]
 

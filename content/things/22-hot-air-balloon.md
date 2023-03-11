@@ -1,17 +1,16 @@
 ---
 title: Hot-Air Balloon
-
-Artist_first_name: Jean-François
-
-Artist_last_name: Janinet
-
-Artist_years: (1752–1814)
-
+owner:
+  - first_name: Jean-François
+    last_name: Janinet
+    years: (1752–1814)
 Type: Vehicle
 
 Theme: Invention, Leisure, Studio, Travel\
 Material: Textile / Canvas\
-Author: kscott
+contributor:
+  -id: "kscott"
+---
 
 According to Denis Diderot, the material conditions for something to be called “balloon” are that it is round and hollow, no matter how it is made, or what it is for.[^1] A balloon is an envelope, casing, or wrapper that encompasses something other. Does it qualify as a thing, specifically an artist’s thing? Should we not, rather, be indexing it by its contents? At the time of the *Encyclopédie*’s publication (1751–77) “balloon” was generally a glass object, a component in a scientific apparatus used in chemical and physical experiments to produce compound substances such as the pigments verdigris and orpiment.[^2] The printmaker Janinet’s balloon was, however, a different, inflatable type of thing, a hot-air balloon, the invention of which in 1783 was the by-product of the seventeenth century’s discovery of the materiality, that is the weight, of air. We have a scrap of the cerulean balloon that Janinet and the abbé Miollan were primed to launch from the Luxembourg gardens on 11 July 1784 ([fig. 77](#fig.-77)).
 

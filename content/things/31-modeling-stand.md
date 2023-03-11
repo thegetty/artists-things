@@ -1,17 +1,16 @@
 ---
 title: Modeling Stand
-
-Artist_first_name: Jean-Antoine
-
-Artist_last_name: Houdon
-
-Artist_years: (1741–1828)
-
+owner:
+  - first_name: Jean-Antoine
+    last_name: Houdon
+    years: (1741–1828)
 Type: Tool
 
 Theme: Making, Studio\
 Material: Mineral/Clay, Plant Matter / Wood\
-Author: kscott
+contributor:
+  -id: "kscott"
+---
 
 One of the more mundane objects on display at the Musée Carnavelet, the museum of the history of Paris, is an eighteenth-century *selle* (modeling stand) ([fig. 111](#fig.-111)) that once belonged to the sculptor Jean-Antoine Houdon. Mundane as it is in the context of the Carnavalet’s collections and also as an item of the sculptor’s equipment, this stand is, however, rare as a tool that survives from an eighteenth-century studio. There are few such others, and certainly none to compare to Jean Bourdelle’s at his house-museum near Montparnasse, or to the contents of Constantin Brancusi’s atelier reconstructed at place Georges Pompidou. Both Bourdelle and Brancusi bequeathed their tools to the public in the belief that these objects were uniquely placed to promote a better understanding of their work. That conviction was not shared by sculptors in the eighteenth century. Their tools, if not passed on to sons, pupils, or assistants, were sold in job lots in estate sales, and have been lost to history. This object, like the **palette** and the **color box** in the case of painting, stands, therefore, as an example of a larger category of artists’ things: their tools—whose purpose was to assist, develop, and improve skills of making; to make artists smarter and cannier.
 

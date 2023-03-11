@@ -1,17 +1,16 @@
 ---
 title: Burin
-
-Artist_first_name: Renée-Elisabeth
-
-Artist_last_name: Marlié
-
-Artist_years: (1714–73)
-
+owner:
+  - first_name: Renée-Elisabeth
+    last_name: Marlié
+    years: (1714–73)
 Type: Tool
 
 Theme: Family, Gender, Making, Studio\
 Material: Metal/Steel, Plant Matter / Wood, Synthetic Materials / Paper\
-Author: kscott
+contributor:
+  -id: "kscott"
+---
 
 “A burin is a steel instrument for engraving on metal.”[^1] The best kind, according to this anonymous writer of the entry “Burin” in volume 2 of Diderot and d’Alembert’s *Encyclopédie*, were those made from German or British steel: “its virtue is its fine grain and its ash gray color.”[^2] We have no way of knowing whether Renée-Elisabeth Marlié was fortunate enough to have a German burin, but we do learn from her “life,” briefly told by the collector and connoisseur Pierre-Jean Mariette, that a burin of some kind was “put in her hand” by the engraver and Royal Academician, François-Bernard Lépicié, whom she married in 1731 at the age of sixteen.[^3]
 

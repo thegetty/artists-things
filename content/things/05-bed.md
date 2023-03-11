@@ -1,17 +1,16 @@
 ---
 title: Bed
-
-Artist_first_name: Charles-Antoine
-
-Artist_last_name: Coypel
-
-Artist_years: (1694–1752)
-
+owner:
+  - first_name: Charles-Antoine
+    last_name: Coypel
+    years: (1694–1752)
 Type: Furniture, Ritual Thing
 
 Theme: Family, Memory, Identity, Louvre, Luxury\
 Material: Plant Matter / Wood, Synthetic Materials / Paint/Pigment, Textile / Cotton, Textile / Linen, Textile / Silk, Textile / Wool\
-Author: kscott
+contributor:
+  -id: "kscott"
+---
 
 Charles-Antoine Coypel’s bed does not survive, or not as a bed. What remains is a picture ([fig. 10](#fig.-10)), oil on canvas, 190 by 135 centimeters, which originally served as the backboard for a *lit à la Polonaise*.[^1] Such beds stood sideways against the wall and were distinguished by two *chevets,* or bed ends. Rarely did they incorporate large decorative paintings. However, a preparatory drawing by Coypel ([fig. 11](#fig.-11)), a history painter and a royal academician, establishes *Painting Awakening Genius* in its original function as furniture. Information about the dimensions, materials, and exact form of the bed to supplement the evidence of the drawing, alas, is not to be had because by the time of the painter’s death, bed, and **picture** had parted company; this bed is not the one inventoried with his effects.[^2]
 

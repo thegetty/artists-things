@@ -1,23 +1,17 @@
 ---
 title: Book
-
-Artist_first_name: Gilles-Marie
-
-Artist_last_name: Oppenord
-
-Artist_years: (1762–42)
-
-Artist_first_name: Gabriel
-
-Artist_last_name: de Saint-Aubin
-
-Artist_years: (1724–80)
-
-Type: Tool
-
+owner:
+  - first_name: Gilles-Marie
+    last_name: Oppenord
+    years: (1762–42)
+  - first_name: Gabriel
+    last_name: de Saint-Aubin
+    years: (1724–80)
 Theme: Education, Leisure, Studio\
 Material: Synthetic Materials / Ink, Synthetic Materials / Paper\
-Author: kscott
+contributor:
+  -id: "kscott"
+---
 
 Cesare Ripa, *Iconologia; ou Explication nouvelle de plusieurs images* (Paris, 1636) and Antoine-Joseph Pernéty, *Dictionnaire portatif de peinture, sculpture et gravure* (1757). Gilles-Marie Oppenord, architect, and Gabriel de Saint-Aubin, draftsman. Two books and two owners. How can we understand the relationship between these artists and the books they owned? That early modern artists were deeply invested in books as a sign of their status as liberal artists is to state the obvious. For Oppenord and Saint-Aubin it was perhaps particularly so since neither were academicians and thus beneficiaries of the reputation for learning that academic membership conferred. A better question is, how did artists read their books? The question is the more pertinent because reading habits were changing. Oppenord and Saint-Aubin belonged to different generations, the architect having grown up and established his career in the last decades of Louis XIV’s reign, while the draftsman came of age professionally at the time Louis XV began his personal rule in 1742, coincidentally also the year when Oppenord died. Comparison of the two artists’ relations with their books expressed in the marginalia they added to them provides material for thought on how such relations evolved.
 

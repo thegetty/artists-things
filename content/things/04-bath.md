@@ -1,17 +1,16 @@
 ---
 title: Bath
-
-Artist_first_name: Joseph-Siffred
-
-Artist_last_name: Duplessis
-
-Artist_years: (1725–1802)
-
+owner:
+  - first_name: Joseph-Siffred
+    last_name: Duplessis
+    years: (1725–1802)
 Type: Commodity, Furniture
 
 Theme: Everyday, Health/Medicine, Invention, Louvre, Luxury\
 Material: Metal/Copper\
-Author: kscott
+contributor:
+  -id: "kscott"
+---
 
 What does it mean to own a thing but not have the power to command its functions? More importantly, perhaps, how does it feel? These questions arise in the case of Joseph Siffred Duplessis’s bath. In 1788 Duplessis, Louis XVI’s official portrait painter, had been in possession of a bathtub for some time but in that particular year he sought to install it at his *logement* at the Galerie du Louvre. To that end he wrote to the comte d’Angiviller, the *directeur des bâtiments du roi,* for permission to do so. His request was denied. An argument ensued, the progress of which was first recounted by Jules Belleudy in his yet to be bettered monograph on the painter.[^1] From the summary description of the bath given during the exchanges between Duplessis and d’Angiviller, we learn that it was a common or garden bath, an infraordinary thing that for most of its life existed below the level of conscious notice, but as a result of the men’s disagreement about the practical and social values of bathing, and of bathing in relation to art and royal service, it became momentarily contentious and thereby conspicuous.
 

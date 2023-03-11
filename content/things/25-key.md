@@ -1,17 +1,16 @@
 ---
 title: Key
-
-Artist_first_name: Pierre
-
-Artist_last_name: Peyron
-
-Artist_years: (1744–1814)
-
+owner:
+  - first_name: Pierre
+    last_name: Peyron
+    years: (1744–1814)
 Type: Tool
 
 Theme: Community, Louvre\
 Material: Metal/Gold/Gilding, Metal/Steel\
-Author: kscott
+contributor:
+  -id: "kscott"
+---
 
 Returning to Paris from Rome in February 1783, the history painter Pierre Peyron was handed the key to a studio on the first floor of the Cour Carré at the “old” Louvre. He must have been aglow with pleasure from the exceptional privilege. He was officially still a student, having yet to be admitted to the Académie.[^1] His neighbors at the Louvre, by contrast, were all academicians of established distinction.[^2] Only later was he made aware of the fracas his preferment provoked.
 

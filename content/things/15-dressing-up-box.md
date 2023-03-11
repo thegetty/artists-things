@@ -1,17 +1,16 @@
 ---
 title: Dressing-Up Box
-
-Artist_first_name: Jean-Antoine
-
-Artist_last_name: Watteau
-
-Artist_years: (1684–1721)
-
+owner:
+  - first_name: Jean-Antoine
+    last_name: Watteau
+    years: (1684–1721)
 Type: Container, Tool
 
 Theme: Education, Making, Studio\
 Material: Textile / Canvas, Textile / Silk\
-Author: kscott
+contributor:
+  -id: "kscott"
+---
 
 Antoine Watteau was celebrated in his own day as the inventor of a new genre of subject painting, the *fête galante* ([fig. 45](#fig.-45)), a defining feature of which is the mix of costume, theatrical and actual, fashionable, dated and everyday, in which the figures populating his landscapes are dressed. According to the comte de Caylus, a longtime friend of the painter, and author of one of the lives of the artist, Watteau owned a collection of clothes specific to that purpose.[^1] Watteau scholars have followed Caylus in linking it to the prominence of dress in the *fêtes*.[^2] Can this book’s focus on things add anything to the considerable knowledge we already have of Watteau’s passion for the theater, dressing up, and fashion? To account historically for the costumes, rather than the images that index them, foregrounds the when, where, and why of Watteau’s collecting, and the how of his use of them.
 

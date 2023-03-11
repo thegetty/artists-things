@@ -1,17 +1,16 @@
 ---
 title: Camera Obscura
-
-Artist_first_name: Charles
-
-Artist_last_name: Parrocel
-
-Artist_years: (1688–1752)
-
+owner:
+  - first_name: Charles
+    last_name: Parrocel
+    years: (1688–1752)
 Type: Instrument
 
 Theme: Making, Studio\
 Material: Plant Matter / Wood, Synthetic Materials / Glass\
-Author: kscott
+contributor:
+  -id: "kscott"
+---
 
 A *chambre noire*, or camera obscura, in a case was inventoried in the studio of the battle painter and academician Charles Parrocel at his death in 1752.[^1] The camera obscura is an optical instrument that by alignment of a biconvex lens with a mirror projects a righted image of objects in the sun-lit world onto a two-dimensional surface in a darkened “room.” Parrocel’s camera was itemized as “for drawing,” and it was very likely of the desktop variety illustrated as figure 2 in plate 4 of “Drawing,” in Diderot and d’Alembert’s *Encyclopédie* ([fig. 21](#fig.-21)).[^2] The text of the plate itemized the components of the instrument but provided no instructions for use, observing only that, contrary to the reader’s expectation, the view seen by the projectionist lies behind, and not in front of them. The surprise that the writer anticipated this revelation would provoke suggests that although the camera obscura was a familiar object in scientific circles in mid-eighteenth-century France, it was still something of a novelty in the art world.[^3]
 

@@ -1,17 +1,16 @@
 ---
 title: Will
-
-Artist_first_name: Jean-Baptiste
-
-Artist_last_name: Massé
-
-Artist_years: (1687–1767)
-
+owner:
+  - first_name: Jean-Baptiste
+    last_name: Massé
+    years: (1687–1767)
 Type: Document
 
 Theme: Administration, Death, Family, Friendship, Identity, Money, Religion\
 Material: Synthetic Materials / Ink, Synthetic Materials / Paper\
-Author: kscott
+contributor:
+  -id: "kscott"
+---
 
 On 2 October 1765, the miniature painter Jean-Baptiste Massé signed and dated his will, put his **quill** down on the oval tray of his silver inkstand, depicted in a late red-chalk self-portrait ([fig. 183](#fig.-183)) and stored the document for safe-keeping.[^1] He was seventy-eight years old and nearing the end of a successful professional career. The preparation and writing of this, his last will and testament, must have taken days. It runs to thirty-six closely written folio-size pages stitched together with thread. The solemn concluding act of Massé’s life was, however, not over. He continued to deliberate on the division of his estate. On the 8 September 1766, 1 May 20 July September 5 and 17, 1767, he added a succession of codicils modifying the original will and adding a further twenty-four pages secured at the center of the testament with blue ribbon. Ten days later the will was deposited with his notary, Maître Guillaume-Charles Bioche and is now filed with acts completed in September 1767 by Bioche et Dulion at the Archives Nationales.[^2]
 

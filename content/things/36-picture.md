@@ -1,17 +1,16 @@
 ---
 title: Picture
-
-Artist_first_name: Nicolas
-
-Artist_last_name: de Largillière
-
-Artist_years: (1656–1746)
-
+owner:
+  - first_name: Nicolas
+    last_name: de Largillière
+    years: (1656–1746)
 Type: Artwork
 
 Theme: Identity, Religion\
 Material: Metal/Gold/Gilding, Synthetic Materials / Paint/Pigment, Textile / Canvas\
-Author: kscott
+contributor:
+  -id: "kscott"
+---
 
 Virtually all eighteenth-century artists owned pictures. At his death in 1746, the ninety-year-old portrait painter and director of the Académie, Nicolas de Largillière, owned five hundred.[^1] His assemblage of pictures far exceeded that which is accounted for by the stock, **models**, unfinished projects, and wastes of the busy studio. The sale in 1765 of the “cabinet of Monsieur de Largillière” might suggest that he combined painting with collecting, even, perhaps, picture dealing, were it not the case that, of the one hundred and fifty or so works to which attributions can confidently be made, the majority are to the artist himself.[^2] They consist of pictures both directly related to his portrait practice, and pictures not. Of the latter, a significant few were decorative, among them *Trompe l’Oeil with a Curtain,* *a Parrot, and a Cat* ([fig. 128](#fig.-128)) today at the Louvre. It was painted to decorate a specific room and remained in place after Largillière’s death at the house built for him ca. 1713–16, at 7 Rue Geoffroy Langevin, and into which he removed with his family in the first year of the Regency.[^3] The picture thus asks to be understood in the context of the domestic interior and in relation to the host of things (**armchair**, **bed**, game table, light fixtures, etc., as well as pictures) by which space was experienced as privately owned if not private per se. The question is: did this picture distinguish Largillière’s house as the house of the artist?
 

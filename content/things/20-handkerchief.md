@@ -1,17 +1,16 @@
 ---
 title: Handkerchief
-
-Artist_first_name: Charles-Nicolas
-
-Artist_last_name: Cochin
-
-Artist_years: (1715–90)
-
+owner:
+  - first_name: Charles-Nicolas
+    last_name: Cochin
+    years: (1715–90)
 Type: Apparel, Commodity, Companion, Gift
 
 Theme: Death, Everyday, Friendship, Health/Medicine\
 Material: Textile / Cotton\
-Author: kscott
+contributor:
+  -id: "kscott"
+---
 
 On 30 June 1782, the draftsman and printmaker Charles-Nicolas Cochin the Younger, formerly secretary of the Académie and responsible for the day-to-day royal administration of the arts during the ministry of the marquis de Marigny, wrote from Paris to his friend and fellow academician, the painter Jean-Baptiste Descamps at Rouen, with a “small commission:” purchase on his behalf of a dozen pocket handkerchiefs.[^1] The handkerchiefs do not survive but Cochin’s letters do. Carefully kept by the Rouennais artist, they were ceded at Descamps’s death along with the rest of his papers to the Académie de Rouen and are now at the Bibliothèque Municipale. Indirectly these letters afford evidence of the penetration of a relatively new and apparently elite thing into the consumer lives of artists. They unfold, at this one level, a practical narrative of getting in all its particular historical complexity and associated anxiety. At another, however, the handkerchief opened up a discursive space for the correspondents, suppling them with an anchor, reassuring in its banal materiality, for reflection on transcendental matters of art and death.
 

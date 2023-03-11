@@ -1,17 +1,16 @@
 ---
 title: Model
-
-Artist_first_name: Edme
-
-Artist_last_name: Bouchardon
-
-Artist_years: (1698–1762)
-
+owner:
+  - first_name: Edme
+    last_name: Bouchardon
+    years: (1698–1762)
 Type: Instrument, Tool
 
 Theme: Making, Studio\
 Material: Wax, Mineral/Clay, Synthetic Materials / Plaster\
-Author: kscott
+contributor:
+  -id: "kscott"
+---
 
 The word *model* (*modèle*) meant a number of different things according to the dictionary compiler Antoine Furetière. In life it meant the “original”—person or thing—selected for emulation, in industry it denoted the “template” used to direct operations, and in the arts it referred to a sketch medium: the sculptor’s equivalent to a drawing.[^1] This is not to say that sculptors didn’t draw. The sculptor Edme Bouchardon was regarded by his contemporaries as sculptor and draftsman in equal measure.[^2] Inventoried in his “*cabinet d’études*” or studio, after his death, were many and various models (one of them in mid-process on a four-legged **modeling stand**), a drawerful of assorted brass ***portes-crayon*** and compasses, and a range of drawing surfaces (pine tables and boards) used to make some, possibly all, of the four hundred–plus drawings related to his last project, the equestrian statue of Louis XV.[^3] However, of the three hundred drawings of the horse and rider most were studies “after nature,” which is to say, drawings that declare their orientation to the object depicted (the flesh and blood stallion and king), not the monument commissioned.[^4] By contrast, sculptor’s models were more like Furetière’s “originals” and “templates,” that is, targeted by emulation at inventions yet to be realized. Models were tools made by the sculptor for doing sculpture. As such, they were the product of a contract of work and belonged to the studio, they were not made for the market, though some of Bouchardon’s models found their way into collectors’ hands during his lifetime.[^5]
 

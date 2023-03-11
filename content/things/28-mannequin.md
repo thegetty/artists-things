@@ -1,18 +1,17 @@
 ---
 title: Mannequin
-
-Artist_first_name: Jean-Baptiste
-
-Artist_last_name: Le Prince
-
-Artist_years: (1734–81)
-
+owner:
+  - first_name: Jean-Baptiste
+    last_name: Le Prince
+    years: (1734–81)
 Type: Prop, Tool
 
 Theme: Making, Studio, Travel\
 Material: Hair, Plant Matter/ Cork, Textile / Silk
 
-Author: hwilliams
+contributor:
+  -id: "hwilliams"
+---
 
 Four lifeless figures once stood in Jean-Baptiste Le Prince’s studio. One was a life-size model of an adult man; the other three (one male; two female) were of a smaller scale but still stood at three feet or around the height of a child.[^1] These four anthropomorphic objects served the painter as mannequins, mechanical devices to aid the artist in the representation of the human form. Made and deployed in idiosyncratic ways in European artistic practice from at least the Renaissance, the mannequin became, during the eighteenth century, a more standardized machine with distinctly formulated functions.[^2] Establishing themselves firmly as familiar denizens of the atelier, these lifelike bodies were a valuable if uncanny presence that both facilitated and threatened art’s relationship with the natural and the artificial.
 

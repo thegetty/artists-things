@@ -1,17 +1,16 @@
 ---
 title: Dog
-
-Artist_first_name: Joseph-Siffred
-
-Artist_last_name: Duplessis
-
-Artist_years: (1725–1802)
-
+owner:
+  - first_name: Joseph-Siffred
+    last_name: Duplessis
+    years: (1725–1802)
 Type: Companion, Gift
 
 Theme: Animal, Family, Friendship, Louvre\
 Material: Animal\
-Author: hwilliams
+contributor:
+  -id: "hwilliams"
+---
 
 What is a dog doing in a book about things? Like many artists before and since, Joseph-Siffred Duplessis lived with a dog. On the one hand, Duplessis’s pet was a possession, something that belonged to him, like any other item of property in his Louvre *logement* (his **bath**, for instance, discussed elsewhere in this book). On the other hand, as an animate being rather than an inanimate object, the dog was unlike anything else in his home and unlike nearly everything else in this book. Like Collot’s **nightingale**, the only other animal in this collection of things, Duplessis’s dog holds an ambiguous place in these pages: a thing with value (both monetary and sentimental) and material properties, which Duplessis acquired, owned, maintained, and eventually disposed of; but also, a living creature who could behave independently of its owner and with whom Duplessis could interact and relate in very different ways. Pondering the “thingness” of Duplessis’s dog draws us into distinctly Enlightenment debates about the subjectivity of animals, a subject that many philosophers, naturalists, and theologians explored at length, usually as terrain for understanding the human condition. Were animals, following Descartes, simply automata, machines without thought, language or feeling?[^1] Or were they, as the abbé de Condillac argued, sentient beings capable of reflection, sociability, and emotion?[^2] Modern perceptions of animals incline firmly to the latter, but Duplessis’s dog invites us to consider the nature of the pet in the eighteenth century.[^3] What role did the dog play in this artist’s life? And what was the affective relationship between this particular master and hound?
 

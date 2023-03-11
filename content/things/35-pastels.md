@@ -1,17 +1,16 @@
 ---
 title: Pastels
-
-Artist_first_name: Suzanne
-
-Artist_last_name: Giroust
-
-Artist_years: (1734–72)
-
+owner:
+  - first_name: Suzanne
+    last_name: Giroust
+    years: (1734–72)
 Type: Tool
 
 Theme: Making, Studio\
 Material: Mineral/Chalk, Synthetic Materials / Paint/Pigment\
-Author: hwilliams
+contributor:
+  -id: "hwilliams"
+---
 
 Clutching a tray of vibrantly colored pastel sticks, Suzanne Giroust appears to have been searching for the right one ([fig. 125](#fig.-125)). Seated before her easel, in the company of her husband, she is painting a pastel portrait of a family friend.[^1] Her **color box** is open beside her, a white **handkerchief** lies at the ready to wipe the constant chalky dust from her hands, and a knife rests nearby to sharpen a stick should finer lines be required. From her cluttered assortment of colors, Giroust has made her selection—a deep blue—now held lightly in her fingers and about to be deployed. But first she looks up, casting a final glance at her sitter to confirm her choice by scrutinizing his garment once more. As a representation of the studio setting, this portrait of Giroust by her husband, Alexandre Roslin, offers some sense of the processes and substances of pastel painting: from the equipment and media required, to the patterns and activities of their employment. But there is a pervasive incongruity in this encounter. As a material experience, the art of pastel is presented to us here not actually *in* pastel, but in Roslin’s own preferred medium of oil.[^2] We find ourselves thus witness to an awkward moment of artistic tension, invited (ostensibly) to marvel at a celebration of pastel, but instead facing an implicit declaration of oil’s superiority. While it plays out here in the domestic context of Roslin and Giroust’s relationship, pastel was a medium that, in the artistic hierarchies of eighteenth-century France, was quite habituated to underestimation, latent or otherwise.
 

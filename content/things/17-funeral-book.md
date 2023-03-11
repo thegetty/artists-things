@@ -1,13 +1,14 @@
 ---
 title: Funeral Book
-
-Owner: Concierge of the Académie Royale
-
+owner:
+  - full_name: Concierge of the Académie Royale
 Type: Heirloom
 
 Theme: Administration, Community, Death, Memory, Louvre\
 Material: Leather/Parchment, Synthetic Materials / Paper\
-Author: kscott
+contributor:
+  -id: "kscott"
+---
 
 In 1879 Étienne Arago, playwright, journalist and militant republican, wrote a short article on the Le Nain brothers for the magazine *L’art*.[^1] His purpose was to establish the dates of each of the three brothers—Antoine, Louis, and Mathieu—whose lives and works were, at that time, often confused in the historiography of art. More or less by chance, he had discovered a book of the funeral and burial notices of academicians since the beginnings of the Académie in 1648. The opening page of the “Billets d’enterrement & de service de Messrs de l’Académie Royale de Peinture & Sculpture qui sont morts, depuis l’etablissement d’icelle en 1648 jusqu’à l’année courante,” in the library of the École Nationale Supérieure des Beaux-Arts, contains notices for Antoine’s and Louis’s funerals held two days apart at the end of May 1648 at the church of Saint-Sulpice in Paris.[^2] Following Arago’s lead, the book has been mined for the evidence of the civil status of academicians in the seventeenth and eighteenth centuries. It is an object of research also for scholars of Le Vieux Papier, a society founded in 1900 for the study of “old” paper ephemera such as wall **almanacs**, games, trade cards, and funeral notices.[^3] Art historians, however, have rarely noticed the book.[^4] For good reasons, perhaps: long lost among the former Académie’s “useless paperwork,” it is not a symbolic and ritual object like the Académie’s **document box**, in which the company’s articles of foundation were kept, nor is it an attribute of membership in group or individual Académie portraits like, for instance, the Order of Saint Michel. When considered at all, it has been in the historical context of administration and bureaucracy. We claim it for this book because, as we demonstrate, it was an unauthorized product of the bureaucracy that historians argue played so vital a role in the formation of “modern” art institutions and it thereby affords a different perspective on academic culture.[^5]
 

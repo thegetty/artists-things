@@ -1,17 +1,16 @@
 ---
 title: Wig
-
-Artist_first_name: Claude-Joseph
-
-Artist_last_name: Vernet
-
-Artist_years: (1714–89)
-
+owner:
+  - first_name: Claude-Joseph
+    last_name: Vernet
+    years: (1714–89)
 Type: Apparel
 
 Theme: Gender, Luxury, Studio\
 Material: Hair, Synthetic Materials / Plaster, Textile / Silk\
-Author: hwilliams
+contributor:
+  -id: "hwilliams"
+---
 
 In July 1762 Claude-Joseph Vernet was on the hunt for a new wigmaker. He had just arrived in Paris after nearly ten years traveling around the country—from Marseille to La Rochelle—painting his twenty Ports of France. After this long peripatetic stage of his career, Vernet was keen to settle his family and establish his artistic practice in the capital. His first activities in this endeavor addressed the essentials of Parisian life: wig and wardrobe. According to the purchases he recorded in his **order book**, Vernet began by kitting out the family in the latest fashions: a mantelet and headdress for Madame Vernet, bonnets and collars for the children, and a new silk suit for himself.[^1] Shopping for clothes proved straightforward, but the wig situation involved a more assiduous search. After all, this was not just a one-off commercial transaction like buying a hat, but rather the beginning of a significant new relationship.
 

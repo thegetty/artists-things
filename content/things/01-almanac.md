@@ -1,17 +1,16 @@
 ---
 title: Almanac
-
-Artist_first_name: Claude-Joseph
-
-Artist_last_name: Vernet
-
-Artist_years: (1714–89)
-
+owner:
+  - first_name: Claude-Joseph
+    last_name: Vernet
+    years: (1714–89)
 Type: Instrument
 
 Theme: Everyday, Travel\
 Material: Synthetic Materials / Paper\
-Author: kscott
+contributor:
+  -id: "kscott"
+---
 
 Almanacs are calendars, first and foremost. According to an eighteenth-century dictionary definition, *calendar* was in fact a synonym of *almanac* because the almanac invariably begins with a table of the days of the year, arranged in rows and gathered into weeks and months, no matter what else it also contained.[^1] The almanac proper condensed an impressive amount of astronomical, theological, meteorological, and astrological knowledge (solar and lunar orbits, Catholic feasts and saints’ days, weather warnings, and signs of the zodiac) embedding it in the typographical design by use of columns, variations in type, signs, symbols, and figures, in additional, of course, to numerals. Although the result was a dense, consolidated matrix of abstruse information, almanacs nevertheless remained easy to understand and simple to use. Their purpose was to measure time, not by the hour, like clocks and **watches**, but by the day.
 

@@ -1,15 +1,15 @@
 ---
 title: Document Box
-
-Owner_name: Secretaries of the Académie Royale
-
-Owner_years: (1650–1793)
-
+owner:
+  - full_name: Secretaries of the Académie Royale
+    years: (1650–1793)
 Type: Container, Document, Ritual Thing
 
 Theme: Administration, Community, Louvre\
 Material: Leather/Parchment, Metal/Bronze, Metal/Gold/Gilding, Plant Matter / Wood\
-Author: hwilliams
+contributor:
+  -id: "hwilliams"
+---
 
 Still residing today in the archives of the Académie at the École nationale supérieure des Beaux-Arts, there is a leather chest that witnessed a century and a half of institutional life ([fig. 39](#fig.-39)). Like the other things in this book that once occupied the Académie’s rooms—the *concierge*’s **funeral book** or Jean-Antoine Houdon’s **écorché**—the *secrétaire*’s document box is one of those rare traces that restores a sense of materiality to an institution that is often largely dematerialized in the narratives of art history, abstracted into ideas of cultural ideology, art theory, and pedagogy. By contrast, the long life of this well-used object reveals aspects of the lived experience of its members, from administrative practicalities and habitual customs, to singular dramatic events and divisive community conflicts.
 

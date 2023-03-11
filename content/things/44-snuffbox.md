@@ -1,17 +1,16 @@
 ---
 title: Snuffbox
-
-Artist_first_name: Jean-Baptiste
-
-Artist_last_name: Oudry
-
-Artist_years: (1686–1755)
-
+owner:
+  - first_name: Jean-Baptiste
+    last_name: Oudry
+    years: (1686–1755)
 Type: Apparel, Collectible, Commodity, Container, Intoxicant
 
 Theme: Global Commerce, Identity, Leisure, Luxury\
 Material: Metal/Gold/Gilding, Plant Matter/ Red Lake, Synthetic Materials / Lacquer, Synthetic Materials / Paint/Pigment\
-Author: kscott
+contributor:
+  -id: "kscott"
+---
 
 The still-life painter Jean-Baptiste Oudry took snuff. The evidence for his habit is circumstantial. In the portrait of the artist painted by Jean-Baptiste Perronneau in 1753 ([fig. 149](#fig.-149)), a red, white, and blue striped **handkerchief** blooms from the sitter’s unbuttoned pocket. It is the kind of large, dark-colored utilitarian handkerchief that was known as a *mouchoir de tabac* or snuff napkin (see [fig. 70](#fig.-70)). The painted handkerchief therefore implies the presence of a snuffbox, if not in the same pocket, then perhaps in the pocket of his white silk under-waistcoat, closer to the body for safer keeping. It could have been any one of the twenty different snuffboxes inventoried two years later at Oudry’s lodgings at the Galerie du Louvre, Rue des Orties.[^1] Given the studio context of the portrait’s fiction and the silhouette of the dog outlined in white on the canvas ready for work, the gold-lined, lacquered box (*boëte de vernis*) listed in the inventory and described as decorated on all sides with animals and hunting scenes, “painted by the late Mr. Oudry,” would have been particularly appropriate. It is this lost thing that our book aims to know better in order to understand how and why a snuffbox became an artist’s thing in the eighteenth century, precious (valued at 240 livres in the inventory) and doubly personal to Oudry for having been made for and, in part, by him.
 

@@ -1,23 +1,17 @@
 ---
 title: Harpsichord
-
-Artist_first_name: Jean-Marc
-
-Artist_last_name: Nattier
-
-Artist_years: (1685–1766)
-
-Artist_first_name: Louis
-
-Artist_last_name: Tocqué
-
-Artist_years: 0
-
-Type: Heirloom, Instrument, Prop
-
+owner:
+  - first_name: Jean-Marc
+    last_name: Nattier
+    years: (1685–1766)
+  - first_name: Louis
+    last_name: Tocqué
+    years: 0
 Theme: Family, Gender\
 Material: Feather, Plant Matter / Wood, Synthetic Materials / Paint/Pigment\
-Author: hwilliams
+contributor:
+  -id: "hwilliams"
+---
 
 Though it resided at different times in the homes of two painters—Jean-Marc Nattier and later Louis Tocqué—this harpsichord was never really owned by either. Instead it belonged to their wives and daughters. Originally, it was the possession of Madame Nattier, Marie-Madeleine Delaroche (1698–1742), who acquired it before her marriage to Nattier in 1724 or quite soon thereafter. It had evidently become a treasured possession by the time she died in 1742, aged only 44, because she bequeathed it to her eldest daughter, Marie-Catherine-Pauline Nattier (1725–75).[^1] Still a teenager living in her father’s home when she inherited the instrument, Marie-Catherine-Pauline would take it with her at the age of twenty-one, when in 1747 she became the wife of Tocqué, her father’s former student. The harpsichord even played a role in the marriage proceedings as part of her dowry, a fact that would have a lasting impact on its subsequent journey. According to the legal arrangements laid out in the couple’s **marriage contract**, the harpsichord was entailed “en préciput,” meaning that it was kept separate from her husband’s estate when Tocqué died in 1772.[^2] The harpsichord remained with Madame Tocqué through her short widowhood and she was ultimately able to bequeath it as she desired. When she died just three years later, it passed to her only daughter, Catherine-Pauline Tocqué, who became the third generation of Nattier-Tocqué women to own this musical instrument.[^3]
 

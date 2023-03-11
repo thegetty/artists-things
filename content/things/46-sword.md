@@ -1,17 +1,16 @@
 ---
 title: Sword
-
-Artist_first_name: François
-
-Artist_last_name: Lemoyne
-
-Artist_years: (1688–1737)
-
+owner:
+  - first_name: François
+    last_name: Lemoyne
+    years: (1688–1737)
 Type: Apparel, Commodity, Symbolic Thing, Weapon
 
 Theme: Antiquity, Death, Gender, Health/Medicine, Identity, Louvre\
 Material: Metal/Gold/Gilding, Metal/Steel\
-Author: hwilliams
+contributor:
+  -id: "hwilliams"
+---
 
 Many of the things in this book were present when their owners died, but this is the only one that was responsible for its owner’s death. On 4 June 1737, François Lemoyne committed suicide by stabbing himself nine times with his own sword. Professionally, at this moment, Lemoyne appeared to be at an all-time career high, having just been appointed *premier peintre du roi* (first painter to the king) after completing his enormous ceiling painting at Versailles of the *Apotheosis of Hercules* (1731–36, Château de Versailles). But at the same time, personally, he was experiencing his deepest low. After losing his wife a few years earlier, Lemoyne had plunged himself into excessive work, and then gradually descended into a relentless psychological state of anxiety and paranoia, convinced that his colleagues at the Académie were plotting to bring him down.[^1] It was in this state that, at 11 o’clock on a Saturday morning, following an ordinary session in the studio with his students, and just before a meeting with a patron about a commissioned painting, Lemoyne locked himself in his bedroom, took up his sword, and ended his life with that painful and violent act.
 

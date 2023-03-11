@@ -1,17 +1,16 @@
 ---
 title: Quill
-
-Artist_first_name: Étienne-Maurice
-
-Artist_last_name: Falconet
-
-Artist_years: (1716–91)
-
+owner:
+  - first_name: Étienne-Maurice
+    last_name: Falconet
+    years: (1716–91)
 Type: Commodity, Tool
 
 Theme: Friendship, Identity\
 Material: Feather, Synthetic Materials / Ink, Synthetic Materials / Paper\
-Author: kscott
+contributor:
+  -id: "kscott"
+---
 
 The goose, observed Georges Louis Leclerc, comte de Buffon in his *Histoire naturelle* (1749–88), is unjustly overshadowed by the swan; not only does she provide meat, she also affords “the delicate duvet feather on which idleness likes to repose, and that other flight feather, quill of our thoughts, with which,” he added, “I here write her eulogy.”[^1] To put figures on the goose’s utility: in March and September she molts a maximum of ten feathers fit for quills.[^2] In the eighteenth century, the best such feathers were imported from the Netherlands at 16 sous per thousand and 8 sous per hundred.[^3] Guyenne, Normandy and the environs of Nevers supplied the rest of the capital’s less exacting middle market.[^4] Customers bought their quills from stationers, individually and in packets, rough or dressed, cut or uncut.[^5]
 

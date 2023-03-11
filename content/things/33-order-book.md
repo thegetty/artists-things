@@ -1,17 +1,16 @@
 ---
 title: Order Book
-
-Artist_first_name: Louis-Jean-François
-
-Artist_last_name: Lagrenée
-
-Artist_years: (1724–1805)
-
+owner:
+  - first_name: Louis-Jean-François
+    last_name: Lagrenée
+    years: (1724–1805)
 Type: Tool
 
 Theme: Administration, Antiquity, Everyday, Identity, Louvre, Money, Studio, Travel\
 Material: Synthetic Materials / Ink, Synthetic Materials / Paper\
-Author: hwilliams
+contributor:
+  -id: "hwilliams"
+---
 
 “This book was written by Lagrenée, History Painter, Director of the Académie in Rome” ([fig. 114](#fig.-114)). Inscribed on the first page of a large notebook, roughly 23 by 17 centimeters, these handwritten words serve as the makeshift title page to Louis-Jean-François Lagrenée’s order book.[^1] Yet from page one, the order promised by this document is disrupted by the disorder in its making. For while Lagrenée served as director of the Académie de France in Rome from October 1781 until September 1787, the book’s contents suggest that he started keeping it much earlier, about a decade before he could have styled himself with this particular institutional moniker.[^2] Like many other pages in this book then, the title page was written out of order, either added in its entirety at a later date, or updated with a new title when its author was too.
 

@@ -1,18 +1,17 @@
 ---
 title: Letters
-
-Artist_first_name: Hyacinthe
-
-Artist_last_name: Rigaud
-
-Artist_years: (1659–1743)
-
+owner:
+  - first_name: Hyacinthe
+    last_name: Rigaud
+    years: (1659–1743)
 Type: Ritual Thing, Symbolic Thing
 
 Theme: Administration, Identity, Document\
 Material: Wax, Synthetic Materials / Ink, Synthetic Materials / Paper
 
-Author: hwilliams
+contributor:
+  -id: "hwilliams"
+---
 
 Becoming a member of the Académie—the preeminent institution of the Paris art world—was a process transacted through a ritual exchange of “things.” The artist’s side of this material interaction was a reception piece: an artwork that demonstrated the candidate’s requisite skill in their chosen media or genre (thus sculptors submitted sculptures, landscapists submitted landscapes, portraitists submitted portraits, and so on).[^1] If a reception piece was deemed worthy, the artist would be admitted directly into the Académie and the object would be accessioned into the institution’s collection, to be hung on a wall or displayed on a plinth somewhere within the Louvre apartments. From the Académie’s side, the counter offering in this ritual exchange was paper: a set of official letters—known as *lettres de réception* or *lettres de provision*—customarily given to the artist before or during their first meeting as a member. Though materially far less substantial than the artist’s contribution, the letters were just as consequential when it came to their ritual and legal significance, as an object that both embodied and declared the artist’s new status as an academician and *peintre du roi* (painter to the king).
 

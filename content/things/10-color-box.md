@@ -1,17 +1,16 @@
 ---
 title: Color Box
-
-Artist_first_name: Jean-Honoré
-
-Artist_last_name: Fragonard
-
-Artist_years: (1732–1806)
-
+owner:
+  - first_name: Jean-Honoré
+    last_name: Fragonard
+    years: (1732–1806)
 Type: Container, Tool
 
 Theme: Global Commerce, Making, Studio, Travel\
 Material: Plant Matter / Cork, Plant Matter / Wood, Synthetic Materials / Glass, Synthetic Materials / Paint/Pigment\
-Author: hwilliams
+contributor:
+  -id: "hwilliams"
+---
 
 Upstairs in the Villa-Musée Fragonard, in the southern French town of Grasse, where Jean-Honoré Fragonard was born, there is a shallow wooden box ([fig. 28](#fig.-28)). Inside, its colorful contents immediately conveys its function. Divided into nine compartments, the box is home to eighteen cork-stoppered glass bottles, slightly varied in shape, each filled with a different ground pigment and labeled by hand: Prussian blue, burnt sienna, carmine, etc. Along with the colors, the three compartments at the front are designed to house tools, with central dividers carved to a curve, so utensils can rest without rolling away. The bits and pieces left include an ebony stick, some well-worn blending stumps, and a fine brush darkened at the tip. Covered in marks and stains, this unassuming box is thought to have belonged to one of the best- and least-known painters of eighteenth-century France.[^1] Celebrated for the distinctive painterly canvases that have secured his place in the canon of European art, Fragonard is nevertheless still surprisingly enigmatic as a person.[^2] The color box thus presents a compelling material trace, promising a personal connection otherwise limited by archival sources. Now residing in a museum installed in the house of Fragonard’s cousin, where the painter lived for a year in the 1790s, the color box offers vivid insights into the practicalities and economics of eighteenth-century art making and an alternative view of the materiality of Fragonard’s painterly practice.
 

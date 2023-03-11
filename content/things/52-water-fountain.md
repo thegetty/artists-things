@@ -1,17 +1,16 @@
 ---
 title: Water Fountain
-
-Artist_first_name: Jean-Siméon
-
-Artist_last_name: Chardin
-
-Artist_years: (1699–1779)
-
+owner:
+  - first_name: Jean-Siméon
+    last_name: Chardin
+    years: (1699–1779)
 Type: Instrument
 
 Theme: Everyday\
 Material: Metal/Copper\
-Author: kscott
+contributor:
+  -id: "kscott"
+---
 
 1731 was an important year for the still-life painter Jean-Siméon Chardin. He married Marguerite Saintard in January and set up his own household in five rooms sublet from his mother and carved out of the family’s home, a house on the corner of Rue du Four and Rue Princesse in the parish of Saint-Sulpice.[^1] A kitchen was installed on the third floor and furnished with a large copper water fountain (*fontaine de cuivre*) on an oak stand to supply the needs of his household, one which included, in addition to his wife, their servant, Marie-Anne Cheneau, and from November 1731, a son, the newborn Pierre-Jean.[^2] A second, “small” copper fountain, of the tabletop variety, illustrated alongside the “large” in volume 3 of the plates of Diderot and d’Alembert’s *Encyclopédie* ([fig. 176](#fig.-176)), probably graced either the sideboard or the kitchen table. Both fountains were inventoried in 1737 following the untimely death of Saintard in February 1735. Such mundane things of ordinary consumption are present in countless artists’ inventories;[^3] only Chardin, however, made the water fountain the subject of his painting ([fig. 177](#fig.-177)), thus providing us with a visual record of its existence.[^4] His studio was, according to Georges Wildenstein’s reconstruction of the layout of the third floor from land registry records, directly opposite the kitchen, on the other side of the central staircase and at the end of a short corridor.[^5] Art historians assume that either the fountain migrated to the studio or that the painter migrated to the kitchen for the realization of the Louvre’s small painting, executed on panel circa 1734, which was unsold in 1737 and inventoried in the studio along with two other pictures of kitchen utensils.
 

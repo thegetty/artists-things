@@ -1,17 +1,16 @@
 ---
 title: Baptism Certificate
-
-Artist_first_name: Hubert
-
-Artist_last_name: Robert
-
-Artist_years: (1733–1808)
-
+owner:
+  - first_name: Hubert
+    last_name: Robert
+    years: (1733–1808)
 Type: Document
 
 Theme: Family, Identity, Money, Religion\
 Material: Synthetic Materials / Ink, Synthetic Materials / Paper\
-Author: hwilliams
+contributor:
+  -id: "hwilliams"
+---
 
 A small piece of paper, around the size of a postcard, contains enough information in its printed and handwritten lines to paint a rich picture of Hubert Robert’s earliest days ([fig. 7](#fig.-7)). A baptism certificate is, indeed, a fairly meta-thing about which to write an object biography, given that such documents are a conventional source of biographical facts, at least in the Catholic culture of eighteenth-century France, where an *acte du baptême* was a near universal marker of the beginning of a life. But as a thing with its own life, this piece of paper reveals far more than the factual information it contains about Robert’s origins, providing insights into religious customs and legal procedures, as well as a father-son relationship, and some savvy financial dealings.
 

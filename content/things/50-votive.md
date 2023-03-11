@@ -1,17 +1,16 @@
 ---
 title: Votive
-
-Artist_first_name: Pierre-Imbert
-
-Artist_last_name: Drevet
-
-Artist_years: (1697–1739)
-
+owner:
+  - first_name: Pierre-Imbert
+    last_name: Drevet
+    years: (1697–1739)
 Type: Artwork, Devotional Thing, Ritual Thing, Symbolic Thing
 
 Theme: Death, Family, Health/Medicine, Making, Religion, Studio\
 Material: Synthetic Materials / Ink, Synthetic Materials / Paper, Synthetic Materials / Paper\
-Author: hwilliams
+contributor:
+  -id: "hwilliams"
+---
 
 “Pray to God for him.” The words are easy to miss at first, nestled under a plant within the loose cross-hatched lines in the lower-right foreground of Pierre-Imbert Drevet’s engraving of *Christ’s Agony in the Garden* ([fig. 170](#fig.-170)). From afar, they might be mistaken for an accident on the plate, an inconsistency in the engraver’s otherwise crisp, controlled handling delineating the varied textures, substances, and gestures of his subject. Upon closer inspection, though, the seemingly misplaced marks resolve into their intentionally lettered forms: “Gravé Par Pierre Drevet fils / Priez Dieu Pour Luy” (engraved by Pierre Drevet son / Pray to God for him) ([fig. 171](#fig.-171)). Yet even once read, the words remain somewhat elusive in their legibility—never really clear, from no matter how close or what angle they are viewed. There is a persistent uncertainty about their place here. Discrete, but not hidden. Legible, but only just. Intentional, but somehow hesitant. Present, but out of place. Much like Drevet himself at the time he engraved this plate—the final artwork he would ever make—these words recall, in their meaning and their materiality, the desperate disquiet and spiritual suffering of their maker.[^1]
 

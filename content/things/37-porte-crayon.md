@@ -1,17 +1,16 @@
 ---
 title: *Porte-Crayon*
-
-Artist_first_name: Jean-Baptiste
-
-Artist_last_name: Perronneau
-
-Artist_years: (ca. 1716–83)
-
+owner:
+  - first_name: Jean-Baptiste
+    last_name: Perronneau
+    years: (ca. 1716–83)
 Type: Companion, Tool
 
 Theme: Identity, Studio\
 Material: Leather/Parchment, Metal/Silver, Mineral/Chalk\
-Author: kscott
+contributor:
+  -id: "kscott"
+---
 
 On 9 April 1767, the following ad appeared in the French newspaper *Annonces, affiches et avis divers:* “Lost on the 25^th^ March between the Stock Exchange and Château Trompette, *an emerald shagreen-covered CASE* \[*ÉTUI*\] *containing a pair of compasses, a porte-crayon and a* \[folding\] *set-square in silver, on which is inscribed “by Butterfield.”* The person who finds it is begged to return it to the hand of M. Perronneau, Peintre du Roi, Place du Marché Royal, at M. Lagarde’s. . . . \[The finder\] will receive a reward of 12 livres.”[^1] Never, arguably, had the *porte-crayon* (chalk holder) been more present to Perronneau than in its absence and more consciously tangible than in this moment of loss.[^2] Though translated above idiomatically as “to the hand of M. Perronneau,” literally, he begged for its return to “his grasp,” that he might hold it again. Perronneau, a Paris portrait painter in **pastel** and in oil, was on a working tour to Bordeaux when his pencil case went missing. It was not his first trip to this thriving inland Atlantic city and port on the river Garonne in the southwestern province of Guyenne and Gascony. The port was second only to Nantes in the volume and importance of its trade in sugar, tobacco, and slaves with Saint-Domingue (present-day Haiti). The city had grown rapidly in the early eighteenth century and the neighborhood between the medieval castle Trompette and Ange-Jacques Gabriel’s new Stock Exchange, where Perronneau lost his pencil case, was fashionable and home to the mansions of the city’s premier merchants. On the other side of the Exchange, was the Place du Marché Royale, where Perronneau lodged; built in 1760, it was the focus of the similarly well-to-do *quartier* Saint-Pierre. The prosperity and salubriousness of the city notwithstanding, Perronneau was nevertheless perhaps more vulnerable to misadventure away from home, and certainly more sensitive to the pain of it.
 

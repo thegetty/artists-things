@@ -1,17 +1,16 @@
 ---
 title: Teacup
-
-Artist_first_name: Jean-Marc
-
-Artist_last_name: Nattier
-
-Artist_years: (1685–1766)
-
+owner:
+  - first_name: Jean-Marc
+    last_name: Nattier
+    years: (1685–1766)
 Type: Collectible, Commodity, Intoxicant, Tableware
 
 Theme: Food and Drink, Global Commerce, Luxury, Studio\
 Material: Metal/Silver, Mineral/Clay\
-Author: kscott
+contributor:
+  -id: "kscott"
+---
 
 The court portrait painter Jean-Marc Nattier owned multiple teacups. To be exact, five sets in all: a set of six Japanese porcelain cups and saucers with a sugar bowl, a pair of “old Japan” covered cups mounted in ormolu, a set of six Meissen cups and saucers, and two sets of uncertain origin, one “Asian” and consisting of twelve cups and saucers, a teapot and a sugar bowl, and the remaining four cups and saucers described merely as of “red and white” china.[^1] Most, perhaps even all, of these cups were marked by travel. Having survived undamaged over sometimes vast distances and always against considerable odds, they partook of the marvelous and exotic.
 
