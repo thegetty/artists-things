@@ -1,15 +1,16 @@
 ---
-title: Sword
+title: "Sword"
+layout: essay
+order: 146
 owner:
   - first_name: François
     last_name: Lemoyne
     years: (1688–1737)
-Type: Apparel, Commodity, Symbolic Thing, Weapon
-
-Theme: Antiquity, Death, Gender, Health/Medicine, Identity, Louvre\
-Material: Metal/Gold/Gilding, Metal/Steel\
+type: [Apparel, Commodity, Symbolic Thing, Weapon]
+theme: [Antiquity, Death, Gender, Health/Medicine, Identity, Louvre]
+material: [Metal/Gold/Gilding, Metal/Steel]
 contributor:
-  -id: "hwilliams"
+  - id: "hwilliams"
 ---
 
 Many of the things in this book were present when their owners died, but this is the only one that was responsible for its owner’s death. On 4 June 1737, François Lemoyne committed suicide by stabbing himself nine times with his own sword. Professionally, at this moment, Lemoyne appeared to be at an all-time career high, having just been appointed *premier peintre du roi* (first painter to the king) after completing his enormous ceiling painting at Versailles of the *Apotheosis of Hercules* (1731–36, Château de Versailles). But at the same time, personally, he was experiencing his deepest low. After losing his wife a few years earlier, Lemoyne had plunged himself into excessive work, and then gradually descended into a relentless psychological state of anxiety and paranoia, convinced that his colleagues at the Académie were plotting to bring him down.[^1] It was in this state that, at 11 o’clock on a Saturday morning, following an ordinary session in the studio with his students, and just before a meeting with a patron about a commissioned painting, Lemoyne locked himself in his bedroom, took up his sword, and ended his life with that painful and violent act.
@@ -30,16 +31,16 @@ Dying by the sword was, like wearing it, evocative of noble ideals. The classica
 
 [^3]: “Procès-verbal d’apposition de scellés après le décès de François Lemoyne, premier peintre du roi,” in Jules Guiffrey, *Scellés et inventaires d’artistes français du XVII^e^ et XVIII^e^ siècle* (Paris: Charavay, 1884), 1:341–42.
 
-[^4]: “Rapport du chirurgien du Châtelet sur l’état du cadaver du sieur Lemoyne,” {{*NAAF*}}*,* 1877, 196–97.
+[^4]: “Rapport du chirurgien du Châtelet sur l’état du cadaver du sieur Lemoyne,” [[*NAAF*]]*,* 1877, 196–97.
 
 [^5]: “Rapport du chirurgien,” 196–97.
 
 [^6]: Ellery Schalk, *From Valor to Pedigree: Ideas of Nobility in the Sixteenth and Seventeenth Centuries* (Princeton: Princeton University Press, 1986), 148–49.
 
-[^7]: See, for instance, Charles-Nicolas Cochin’s letter to the marquis de Marigny, 5 September 1768, in Marc Furcy-Raynaud, *Correspondance de M. de Marigny*, {{*NAAF*}}*,* 1904, 155–56.
+[^7]: See, for instance, Charles-Nicolas Cochin’s letter to the marquis de Marigny, 5 September 1768, in Marc Furcy-Raynaud, *Correspondance de M. de Marigny*, [[*NAAF*]]*,* 1904, 155–56.
 
-[^8]: {{*PV*}}, 4:69–70, 76.
+[^8]: [[*PV*]], 4:69–70, 76.
 
 [^9]: Antoine-Joseph Dézallier d’Argenville, *Abrégé de la vie des plus fameux peintres* (Paris: 1762), 425.
 
-[^10]: The Académie’s minutes recorded only “the death” of the history painter (28 June 1737, {{*PV*}}, 5:207), while his obituary in the *Mercure* noted simply that “he died,” *Mercure de France,* June 1737, 1410, with no further details in either case.
+[^10]: The Académie’s minutes recorded only “the death” of the history painter (28 June 1737, [[*PV*]], 5:207), while his obituary in the *Mercure* noted simply that “he died,” *Mercure de France,* June 1737, 1410, with no further details in either case.

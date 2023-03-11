@@ -1,15 +1,16 @@
 ---
-title: Dressing-Up Box
+title: "Dressing-Up Box"
+layout: essay
+order: 115
 owner:
   - first_name: Jean-Antoine
     last_name: Watteau
     years: (1684–1721)
-Type: Container, Tool
-
-Theme: Education, Making, Studio\
-Material: Textile / Canvas, Textile / Silk\
+type: [Container, Tool]
+theme: [Education, Making, Studio]
+material: [Textile / Canvas, Textile / Silk]
 contributor:
-  -id: "kscott"
+  - id: "kscott"
 ---
 
 Antoine Watteau was celebrated in his own day as the inventor of a new genre of subject painting, the *fête galante* ([fig. 45](#fig.-45)), a defining feature of which is the mix of costume, theatrical and actual, fashionable, dated and everyday, in which the figures populating his landscapes are dressed. According to the comte de Caylus, a longtime friend of the painter, and author of one of the lives of the artist, Watteau owned a collection of clothes specific to that purpose.[^1] Watteau scholars have followed Caylus in linking it to the prominence of dress in the *fêtes*.[^2] Can this book’s focus on things add anything to the considerable knowledge we already have of Watteau’s passion for the theater, dressing up, and fashion? To account historically for the costumes, rather than the images that index them, foregrounds the when, where, and why of Watteau’s collecting, and the how of his use of them.
@@ -42,11 +43,11 @@ Focus on the collection of apparel, a collection which Watteau began to assemble
 
 [^2]: See especially François Moureau, “Theatre Costumes in the Work of Watteau,” in *Antoine Watteau (1684–1721): The Painter, His Time and the Legend*, ed. Margaret Morgan Grasselli and Pierre Rosenberg, exh. cat. (Washington: National Gallery of Art, 1987); Suzanne Pucci, “Watteau and the Theatre: Movable Fêtes,” in *Antoine Watteau: Perspectives on the Artist and the Culture of His Time*, ed. Mary Sheriff (Newark: Universtity of Delaware Press. 2006), 106–22.
 
-[^3]: See François Mandaret, “Jean-Antoine Watteau: The First Documents,” {{*BM*}} 153, no. 1298 (2011): 312–13.
+[^3]: See François Mandaret, “Jean-Antoine Watteau: The First Documents,” [[*BM*]] 153, no. 1298 (2011): 312–13.
 
-[^4]: Guillaume Glorieux, “Michel-Joseph Ducreux (1665–1715), marchand de masques de théâtre et d’habits de carnaval au temps de Watteau,” {{*BSHAF*}} *2006* (2007): 119–29; and Guillaume Glorieux, “Les débuts de Watteau à Paris: Le Pont Notre-Dame en 1702,” {{*GBA*}} 139 (2002): 251–62.
+[^4]: Guillaume Glorieux, “Michel-Joseph Ducreux (1665–1715), marchand de masques de théâtre et d’habits de carnaval au temps de Watteau,” [[*BSHAF*]] *2006* (2007): 119–29; and Guillaume Glorieux, “Les débuts de Watteau à Paris: Le Pont Notre-Dame en 1702,” [[*GBA*]] 139 (2002): 251–62.
 
-[^5]: See Jennifer Tonkovitch, “Claude Gillot’s Costume Designs for the Paris Opera: Some New Sources,” {{*BM*}}, 147, no. 1225 (2005): 248–52; and Tonkovitch, “A New Album of Theatre Drawings by Claude Gillot,” *Master Drawings*, 44, no. 4 (2006): 464–86.
+[^5]: See Jennifer Tonkovitch, “Claude Gillot’s Costume Designs for the Paris Opera: Some New Sources,” [[*BM*]], 147, no. 1225 (2005): 248–52; and Tonkovitch, “A New Album of Theatre Drawings by Claude Gillot,” *Master Drawings*, 44, no. 4 (2006): 464–86.
 
 [^6]: Donald Posner, *Antoine Watteau* (London: Weidenfeld & Nicholson, 1984), 47–58; Marianne Roland Michel, *Watteau: An Artist of the Eighteenth Century* (New York: Trefoil, 1984), 17–22; and Julie Anne Plax, *Watteau and the Cultural Politics of Eighteenth-Century France* (Cambridge, England: Cambridge University Press, 2000), 7–52.
 
@@ -64,7 +65,7 @@ Focus on the collection of apparel, a collection which Watteau began to assemble
 
 [^13]: Gouzi, *Restout*, D79 and 141–49.
 
-[^14]: **Mannequins** were listed among Restout’s studio paraphernalia in 1753. See {{AN}}, O^1^/1671/133–135.
+[^14]: **Mannequins** were listed among Restout’s studio paraphernalia in 1753. See [[AN]], O^1^/1671/133–135.
 
 [^15]: Gouzi, *Restout*, D81.
 
@@ -106,7 +107,7 @@ Focus on the collection of apparel, a collection which Watteau began to assemble
 
 [^34]: Caylus uses the word *express* rather than *depict* for Watteau’s representation of cloth. See Caylus, “Vie,” in Rosenberg, *Vies*, 72.
 
-[^35]: See Rosenberg and Prat, *Watteau: Catalogue raisonné*, \[\[PAGE(S)?\]\]
+[^35]: See Rosenberg and Prat, *Watteau: Catalogue raisonné*, \[\[PAGE(S)?]]
 
 [^36]: See Roger de Piles’s endorsement of Leonardo’s commendation of the damp wall in *L’Idée du peintre parfait* (Paris: Gallimard, 1993), 30–31.
 

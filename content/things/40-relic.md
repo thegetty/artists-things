@@ -1,15 +1,16 @@
 ---
-title: Relic
+title: "Relic"
+layout: essay
+order: 140
 owner:
   - first_name: Hyacinthe
     last_name: Rigaud
     years: (1659–1743)
-Type: Apparel, Commodity, Companion, Container, Gift, Heirloom, Ritual Thing, Symbolic Thing
-
-Theme: Family, Luxury, Religion, Devotional Thing\
-Material: Metal/Gold/Gilding, Plant Matter / Wood\
+type: [Apparel, Commodity, Companion, Container, Gift, Heirloom, Ritual Thing, Symbolic Thing]
+theme: [Family, Luxury, Religion, Devotional Thing]
+material: [Metal/Gold/Gilding, Plant Matter / Wood]
 contributor:
-  -id: "hwilliams"
+  - id: "hwilliams"
 ---
 
 A relic—the physical remnants of a saint or holy figure—is something one might expect to find in a church, rather than in the home of an artist. Fragments of bodies (bones, hair, teeth, or vials of blood) and material things that once touched those bodies (clothing, belongings, instruments of death or torture) are readily accommodated in sacred sites where their ritual purpose is evident, but we do not often imagine the domestic environment of an eighteenth-century artist as a space for that kind of activity. Yet among the possessions of Hyacinthe Rigaud was an item that would suggest otherwise. Indeed, the history painter was the devoted owner of one of the most sacred types of relic worshiped within the Catholic Church: a small piece of the True Cross upon which Jesus Christ was crucified.[^1]
@@ -26,7 +27,7 @@ Aside from Rigaud’s revelation about wearing his relic, however, there is litt
 
 Retrieving a sense of artists’ inner spiritual lives is an elusive challenge with a dearth of textual sources to explore them. But as Rigaud’s relic suggests, their material possessions can often fill in the gaps. Every artist at the Académie, according to the institution’s statutes, was supposed to be a professed Catholic (unless a foreigner granted exception by the king) and it is clear from Rigaud’s will that he dutifully performed the religious responsibilities of a devout believer, leaving money to his parish church for the poor, and requesting a requiem mass to be sung for the repose of his soul.[^13] But in a less public sense, the objects in his home grant insights into Rigaud’s more personal religious inclinations. His books, such as Louis-Isaac Lemaistre de Sacy’s translation of the Bible (1667–96) and Nicolas Letourneux’s *Année chrétienne* (1686), point compellingly to sympathies with Jansenism, a controversial doctrinal thread considered heretical in the Catholic Church, which nevertheless became a strong current of belief in France and especially in Paris.[^14] Among his artistic colleagues, Rigaud was not alone in sharing these theological inclinations. While declarations of Jansenist tendencies were seldom made overtly, many artists of the Académie were connected with the movement, most prominently the history painters Philippe and Jean-Baptiste de Champaigne, Jean Restout, and the engraver Charles-Nicolas Cochin.[^15] A doctrinal interest in Jansenism would certainly chime with Rigaud’s possession of the relic and his crucifixes, with their Christocentric focus and their devotional functionality. In the absence of writings articulating his beliefs, contentious or otherwise, the material things in Rigaud’s life thus offer a tantalizing glimpse of the painter’s religiosity, both in terms of his ideas and embodied practices: a sense of the theological tenets underlying his faith, and the ritual acts he may have performed to fulfil them.
 
-[^1]: Rigaud’s relic is described in several of his wills, including those of 16 June 1726, {{AN}}, {{MC}}/ET/LIII/237; 11 February 1731, {{AN}}, {{MC}}/ET/LII/256; and 29 September 1735, {{AN}}, {{MC}}/ET/LIII/275. It is mentioned in Ariane James-Sarazin, *Hyacinthe Rigaud* (Dijon: Faton, 2016), 1:247.
+[^1]: Rigaud’s relic is described in several of his wills, including those of 16 June 1726, [[AN]], [[MC]]/ET/LIII/237; 11 February 1731, [[AN]], [[MC]]/ET/LII/256; and 29 September 1735, [[AN]], [[MC]]/ET/LIII/275. It is mentioned in Ariane James-Sarazin, *Hyacinthe Rigaud* (Dijon: Faton, 2016), 1:247.
 
 [^2]: Theologically, Christ is said to have ascended bodily into heaven so, unlike saints, there are very few corporeal relics related to Christ. Passion relics (like the True Cross) are thus among the most venerated.
 
@@ -38,19 +39,19 @@ Retrieving a sense of artists’ inner spiritual lives is an elusive challenge w
 
 [^6]: These details are recorded in the relic’s description in Rigaud’s wills, see note 1.
 
-[^7]: Will, Hyacinthe Rigaud, 29 September 1735, {{AN}}, {{MC}}/ET/LIII/275. The relic is mentioned in the three wills listed in note 1.
+[^7]: Will, Hyacinthe Rigaud, 29 September 1735, [[AN]], [[MC]]/ET/LIII/275. The relic is mentioned in the three wills listed in note 1.
 
-[^8]: The terms of inheritance of Rigaud’s estate are outlined at the beginning of his estate inventory: 6 March 1744, {{AN}}, {{MC}}/ET/XLIII/383. The relic is not mentioned in this inventory.
+[^8]: The terms of inheritance of Rigaud’s estate are outlined at the beginning of his estate inventory: 6 March 1744, [[AN]], [[MC]]/ET/XLIII/383. The relic is not mentioned in this inventory.
 
-[^9]: Will, Hyacinthe Rigaud, 29 September 1735, {{AN}}, {{MC}}/ET/LIII/275.
+[^9]: Will, Hyacinthe Rigaud, 29 September 1735, [[AN]], [[MC]]/ET/LIII/275.
 
 [^10]: Cissie Fairchilds, “Marketing the Counter-Reformation: Religious Objects and Consumerism in Early Modern France,” in *Visions and Revisions of Eighteenth-Century France*, ed. Christine Adams, Jack R. Mason, and Lisa Jane Graham (University Park: Pennsylvannia State University Press, 1997), 33–34. On the presence of devotional objects in Parisian homes see Annik Pardailhé-Galabrun, *The Birth of Intimacy: Privacy and Domestic Life in Early Modern Paris*, trans. Jocelyn Phelps (Cambridge: Polity, 1991), 202–12.
 
 [^11]: On the location of dealers in religious material culture, see Jeffry Kaplow, *The Names of Kings: The Parisian Laboring Poor in the Eighteenth Century* (New York: Basic Books, 1972), 6.
 
-[^12]: Hyacinthe Rigaud, “Inventaire après décès,” 6 March 1744, {{AN}}, {{MC}}/ET/XLIII/383.
+[^12]: Hyacinthe Rigaud, “Inventaire après décès,” 6 March 1744, [[AN]], [[MC]]/ET/XLIII/383.
 
-[^13]: Will, Hyacinthe Rigaud, 29 September 1735, {{AN}}, {{MC}}/ET/LIII/275. In practice, if not in theory, some of the Académie’s French artists were actually Protestants, such as Jean-Baptiste Massé and François-André Vincent.
+[^13]: Will, Hyacinthe Rigaud, 29 September 1735, [[AN]], [[MC]]/ET/LIII/275. In practice, if not in theory, some of the Académie’s French artists were actually Protestants, such as Jean-Baptiste Massé and François-André Vincent.
 
 [^14]: “Inventaire après décès.” James-Sarazin has explored the Jansenist tone of Rigaud’s library in more detail: James-Sarazin, *Hyacinthe Rigaud*, 1:247–54. On the history of Jansenism, see William Doyle, *Jansenism: Catholic Resistance to Authority from the Reformation to the French Revolution* (London: Macmillan, 2000).
 

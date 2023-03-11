@@ -1,15 +1,16 @@
 ---
-title: Will
+title: "Will"
+layout: essay
+order: 154
 owner:
   - first_name: Jean-Baptiste
     last_name: Massé
     years: (1687–1767)
-Type: Document
-
-Theme: Administration, Death, Family, Friendship, Identity, Money, Religion\
-Material: Synthetic Materials / Ink, Synthetic Materials / Paper\
+type: [Document]
+theme: [Administration, Death, Family, Friendship, Identity, Money, Religion]
+material: [Synthetic Materials / Ink, Synthetic Materials / Paper]
 contributor:
-  -id: "kscott"
+  - id: "kscott"
 ---
 
 On 2 October 1765, the miniature painter Jean-Baptiste Massé signed and dated his will, put his **quill** down on the oval tray of his silver inkstand, depicted in a late red-chalk self-portrait ([fig. 183](#fig.-183)) and stored the document for safe-keeping.[^1] He was seventy-eight years old and nearing the end of a successful professional career. The preparation and writing of this, his last will and testament, must have taken days. It runs to thirty-six closely written folio-size pages stitched together with thread. The solemn concluding act of Massé’s life was, however, not over. He continued to deliberate on the division of his estate. On the 8 September 1766, 1 May 20 July September 5 and 17, 1767, he added a succession of codicils modifying the original will and adding a further twenty-four pages secured at the center of the testament with blue ribbon. Ten days later the will was deposited with his notary, Maître Guillaume-Charles Bioche and is now filed with acts completed in September 1767 by Bioche et Dulion at the Archives Nationales.[^2]
@@ -36,9 +37,9 @@ In his eulogy, Cochin was conspicuously silent about the state of Massé’s sou
 
 At the beginning of this entry attention was drawn to Cochin’s acknowledgment of Massé’s generosity. His liberality, according to Cochin, extended beyond his intimate circle and beyond the bestowal of stuff. Such was his generosity of spirit, says Cochin, that he had sustained friendships with both François Lemoyne and Jean-François de Troy at a time in the 1730s when their professional rivalry had bitterly divided the Académie.[^36] The spirit of charitable union that he sought instead always to promote had led him in 1764 to endeavor to level fortunes by establishing an institutional fund for the widows and orphans of impoverished academicians and it appears also to have informed the pattern of his testamentary giving to individuals.[^37] In choosing to leave sets of the same prints of the *Grande Galerie* to all his friends, did he not hope to spare the feelings of those who might have felt wounded by the preference implicit in bequests of different things?[^38] Without fear of humiliating others, Cochin publicly acknowledged his inheritance under Massé’s will. He ended his eulogy by affirming that the “most precious” gift that Massé had left the Académie was “the example of these his virtues.”[^39]
 
-[^1]: See Jean-Baptiste Massé, “Inventaire après décès,” {{AN}}, {{MC}}/ET/XCVII/422, 13 October 1767, for a verbal description of the ink stand.
+[^1]: See Jean-Baptiste Massé, “Inventaire après décès,” [[AN]], [[MC]]/ET/XCVII/422, 13 October 1767, for a verbal description of the ink stand.
 
-[^2]: “Dépôt de testament,” {{AN}}, {{MC}}/ET/XCVII/ 422, 28 September 1767.
+[^2]: “Dépôt de testament,” [[AN]], [[MC]]/ET/XCVII/ 422, 28 September 1767.
 
 [^3]: Charles-Nicolas Cochin noted in his eulogy that at Massé’s death, examples of his work were already hard to find. See Cochin, “Éloge de Jean-Baptiste Massé,” in Emile Compardon, *Un artiste oublié:* *J. B. Massé peintre de Louis XV, dessinateur, et graveur* (Paris: Charavay, 1880), 40.
 
@@ -62,7 +63,7 @@ At the beginning of this entry attention was drawn to Cochin’s acknowledgment 
 
 [^13]: Compardon, *Massé*, 99, 100.
 
-[^14]: For marginal references to the will not transcribed in Compardon, see {{AN}}, {{MC}}/ET/XCVII/422, 13 October 1767.
+[^14]: For marginal references to the will not transcribed in Compardon, see [[AN]], [[MC]]/ET/XCVII/422, 13 October 1767.
 
 [^15]: On Massé’s sense of his giving, see Compardon, *Massé*, 92–93.
 
@@ -98,7 +99,7 @@ At the beginning of this entry attention was drawn to Cochin’s acknowledgment 
 
 [^31]: On the material culture of French Protestants see David Garrioch, “Religious Identities and the Meaning of Things in Eighteenth-Century Paris,” *French History and Civilization* 3 (2009) : 17–25.
 
-[^32]: See {{AN}}, {{MC}}/ET/XCVII/422, 13 October 1767.
+[^32]: See [[AN]], [[MC]]/ET/XCVII/422, 13 October 1767.
 
 [^33]: See Compardon, *Massé*, 94–96. Massé was buried in the Protestant cemetery. In 1767 France was emerging from the Callas crisis. Massé owned pamphlets on the torture and wrongful execution of Jean Callas.
 

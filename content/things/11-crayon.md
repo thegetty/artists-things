@@ -1,15 +1,16 @@
 ---
-title: *Crayon*
+title: "*Crayon*"
+layout: essay
+order: 111
 owner:
   - first_name: Jean-Baptiste
     last_name: Huët
     years: (1745–1811)
-Type: Tool
-
-Theme: Education, Invention, Making, Studio\
-Material: Mineral/Chalk, Synthetic Materials / Paper\
+type: [Tool]
+theme: [Education, Invention, Making, Studio]
+material: [Mineral/Chalk, Synthetic Materials / Paper]
 contributor:
-  -id: "kscott"
+  - id: "kscott"
 ---
 
 *Crayon* is a generic term for a commonplace object found in every eighteenth-century studio.[^1] In spite of its ubiquity we know little about it. We grasp the *crayon* only indirectly, through its products: the mass of sketches, studies, and drawings it drew forth. However, a set of four chalk head studies by the painter Jean-Baptiste Huët, reproduced by Louis Marin Bonnet sometime after 1780 ([fig. 32](#fig.-32)), allows us to begin to understand the *crayon* from the other end. The prints inform the viewer that the specific *crayons* used by Huët had been manufactured by André Nadaux, whose shop was located on the Rue de la Vieille Draperie, Île de la Cité.[^2] They were sold in packets of a dozen, wrapped in blue paper and sealed with wax stamped with a fleur-de-lis.
@@ -36,17 +37,17 @@ At the time that Huët had bought and was using Nadaux’s crayons, he had long 
 
 [^3]: On André Nadaux (1726–1800), see Neil Jeffares, *Dictionary of Pastellists before 1800*, <http://www.pastellists.com/Articles/Nadaux.pdf>.
 
-[^4]: *Constitution viagère*, 12 February 1780, {{AN}}, {{MC}}/ET/CIX/751.
+[^4]: *Constitution viagère*, 12 February 1780, [[AN]], [[MC]]/ET/CIX/751.
 
 [^5]: On the transformations in manufacturing brought about by Nicholas-Jacques Conté, see Petroski, *The Pencil*, 70–78.
 
-[^6]: {{*PV*}}, 9:19.
+[^6]: [[*PV*]], 9:19.
 
-[^7]: For the correspondence between Antoine-Jean Amelot and the comte d’Angiviller on this matter, see {{AN}}, O^1^/1916:1780/345, 355, 356.
+[^7]: For the correspondence between Antoine-Jean Amelot and the comte d’Angiviller on this matter, see [[AN]], O^1^/1916:1780/345, 355, 356.
 
 [^8]: Charlotte Guichard, *Les Amateurs d’art aux XVIII^e^ siècle* (Seyssel: Champ Vallon, 2005), 244–45.
 
-[^9]: Nadaux, *Fabrique royale. Description et analyse des crayons de composition* (Paris: Nadaux, 1780). See {{AN}}, O^1^/1674/171, 174, 175 on Charrier, former laboratory assistant to Claude de Bernières at the Ponts et Chaussées, who lived at the Louvre, and claimed to have invented “crayons de composition” that he sold to Académie students in the 1780s.
+[^9]: Nadaux, *Fabrique royale. Description et analyse des crayons de composition* (Paris: Nadaux, 1780). See [[AN]], O^1^/1674/171, 174, 175 on Charrier, former laboratory assistant to Claude de Bernières at the Ponts et Chaussées, who lived at the Louvre, and claimed to have invented “crayons de composition” that he sold to Académie students in the 1780s.
 
 [^10]: Nadaux refused to reveal and forfeited a medal awarded him by the Société d’émulation for its invention, see Lilianne Hilaire-Perez, *Invention technique au siècle des Lumières* (Paris: Albin Michel, 2000), 214–15.
 
@@ -56,7 +57,7 @@ At the time that Huët had bought and was using Nadaux’s crayons, he had long 
 
 [^13]: On “thingness,” see Bill Brown, “Thing Theory,” *Critical Inquiry* 28, no. 1 (2001): 1–22.
 
-[^14]: See *L’Académie mise à nu*, exh. cat. (Paris: {{ENSBA}}, 2009), especially cat. no. 26.
+[^14]: See *L’Académie mise à nu*, exh. cat. (Paris: [[ENSBA]], 2009), especially cat. no. 26.
 
 [^15]: Charles-Antoine Jombert, *Méthode pour apprendre le dessein* (Paris: Jombert, 1755), 59–60. See also, Terrence Marchant, “Towards and Anthropology of Mathematizing,” *Interdisciplinary Science Reviews* 43, nos. 3–4 (2018): 295–316.
 

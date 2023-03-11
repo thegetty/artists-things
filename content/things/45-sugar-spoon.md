@@ -1,15 +1,16 @@
 ---
-title: Sugar Spoon
+title: "Sugar Spoon"
+layout: essay
+order: 145
 owner:
   - first_name: François-Hubert
     last_name: Drouais
     years: (1727–75)
-Type: Commodity, Intoxicant, Tableware
-
-Theme: Food and Drink, Global Commerce\
-Material: Metal/Silver\
+type: [Commodity, Intoxicant, Tableware]
+theme: [Food and Drink, Global Commerce]
+material: [Metal/Silver]
 contributor:
-  -id: "hwilliams"
+  - id: "hwilliams"
 ---
 
 Did Drouais have a sweet tooth? Determining the culinary inclinations of an eighteenth-century artist is hampered by the omission of foodstuffs from the household contents generally itemized in estate inventories (with the notable exception of **wine**).[^1] What Drouais preferred to eat and drink can, however, be surmised from the less perishable objects that he owned—the utensils, gadgets, and vessels used to prepare, cook, serve, and consume the family’s meals and beverages. Given the period’s proclivity to specialize when it came to the functionality of kitchenware and tableware, many of these items were differentiated for quite specific uses, so that a glance even at their assortment of spoons inadvertently reveals something of the Drouais family’s dietary predilections. Via Drouais’s *cuillères à bouche* (tablespoons), *cuillères à potage* (soup spoons), *cuillères à ragout* (gravy spoons), *cuillères à café* (teaspoons), a *cuillère à olive* (olive spoon), a *cuillère à moutarde* (mustard spoon), and a *cuillière à sucre* (sugar spoon), we encounter a palate for hot soups and stews, fiery condiments, salty bites, caffeinated beverages, and indulgent sweet treats.[^2] There may be no trace of sugar itself in the records of Drouais’s home, but its erstwhile presence is betrayed by that silver sugar spoon, and with it the artist’s place in a global economy stretching from his Paris dining table, to the plantations of the Caribbean, and the slave trading ports of West Africa.
@@ -28,7 +29,7 @@ In using his sugar spoon, it is unlikely that Drouais was ever prompted to refle
 
 [^1]: This was in part due to food’s short-lived commercial value (given its perishable nature), but also because food tended to be bought fresh for imminent consumption, rather than stocked for future use. Annik Pardailhé-Galabrun, *The Birth of Intimacy: Privacy and Domestic Life in Early Modern Paris* (Cambridge: Polity, 1991), 87.
 
-[^2]: François-Hubert Drouais, “Inventaire après décès,” 12 December 1775, {{AN}}, {{MC}}/ET/LIII/521.
+[^2]: François-Hubert Drouais, “Inventaire après décès,” 12 December 1775, [[AN]], [[MC]]/ET/LIII/521.
 
 [^3]: Robert Louis Stein, *The French Sugar Business in the Eighteenth Century* (Baton Rouge: Louisiana State University Press, 1988), 10.
 
@@ -38,7 +39,7 @@ In using his sugar spoon, it is unlikely that Drouais was ever prompted to refle
 
 [^6]: Stein, *French Sugar Business*, 12–13.
 
-[^7]: In the inventory it is described simply as being made of silver “poinçon de Paris.” {{AN}}, {{MC}}/ET/LIII/521.
+[^7]: In the inventory it is described simply as being made of silver “poinçon de Paris.” [[AN]], [[MC]]/ET/LIII/521.
 
 [^8]: François Marin, *Les dons de Comus, ou l’Art de la cuisine, réduit en pratique* (Paris: Pissot, 1758), vol. 3, 131–33.
 
@@ -56,7 +57,7 @@ In using his sugar spoon, it is unlikely that Drouais was ever prompted to refle
 
 [^15]: On material culture and colonial economies, see Anne Gerritsen and Giorgio Riello eds., *The Global Lives of Things: The Material Culture of Connections in the Early Modern World* (London: Routledge, 2015).
 
-[^16]: François-Hubert Drouais, “Inventaire après décès,” 12 December 1775, {{AN}}, {{MC}}/ET/LIII/521.
+[^16]: François-Hubert Drouais, “Inventaire après décès,” 12 December 1775, [[AN]], [[MC]]/ET/LIII/521.
 
 [^17]: On the provenance of the *sucriers* see, Jannic Durrand, Michèle Bimbenet-Privat and Frédéric Dassas, *Décors, mobilier et objets d’art du musée du Louvre de Louis XIV à Marie-Antoinette* (Paris: Somogy, 2014), 344–46.
 

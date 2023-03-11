@@ -1,15 +1,16 @@
 ---
-title: Picture
+title: "Picture"
+layout: essay
+order: 136
 owner:
   - first_name: Nicolas
     last_name: de Largillière
     years: (1656–1746)
-Type: Artwork
-
-Theme: Identity, Religion\
-Material: Metal/Gold/Gilding, Synthetic Materials / Paint/Pigment, Textile / Canvas\
+type: [Artwork]
+theme: [Identity, Religion]
+material: [Metal/Gold/Gilding, Synthetic Materials / Paint/Pigment, Textile / Canvas]
 contributor:
-  -id: "kscott"
+  - id: "kscott"
 ---
 
 Virtually all eighteenth-century artists owned pictures. At his death in 1746, the ninety-year-old portrait painter and director of the Académie, Nicolas de Largillière, owned five hundred.[^1] His assemblage of pictures far exceeded that which is accounted for by the stock, **models**, unfinished projects, and wastes of the busy studio. The sale in 1765 of the “cabinet of Monsieur de Largillière” might suggest that he combined painting with collecting, even, perhaps, picture dealing, were it not the case that, of the one hundred and fifty or so works to which attributions can confidently be made, the majority are to the artist himself.[^2] They consist of pictures both directly related to his portrait practice, and pictures not. Of the latter, a significant few were decorative, among them *Trompe l’Oeil with a Curtain,* *a Parrot, and a Cat* ([fig. 128](#fig.-128)) today at the Louvre. It was painted to decorate a specific room and remained in place after Largillière’s death at the house built for him ca. 1713–16, at 7 Rue Geoffroy Langevin, and into which he removed with his family in the first year of the Regency.[^3] The picture thus asks to be understood in the context of the domestic interior and in relation to the host of things (**armchair**, **bed**, game table, light fixtures, etc., as well as pictures) by which space was experienced as privately owned if not private per se. The question is: did this picture distinguish Largillière’s house as the house of the artist?
@@ -36,7 +37,7 @@ What of the religious pictures that weighed so heavily with Mariette and Dézall
 
 *Trompe l’Oeil with a Curtain* and the *Crucifixion* (see figs. [128](#fig.-128), [130](#fig.-130)), painted at around the same time, seem to propose contradictory versions of the artist.[^28] On the one hand: the would-be gentleman and aristocrat, recognized for the talent of his handiwork whose illusions bested nature best and the finest weaver’s and goldsmith’s work. On the other: the devout and self-effacing painter whose representations of the Passion were, according to Pellegrino Antonio Orlandi, “lifelike”—that is, vibrant (not surprising), vibrant in the telling of their stories, not in their illusionism. The life force of the *Crucifixion* derives, according to Orlandi, from the handling of light, which illuminates the scene such that the expressive reaction to Christ’s “*consummatum est*” is easily read in the ghastly gloom.[^29] The sacred subject engrosses all the image’s pictorial effects; none is left to draw attention to the author or to art in the narrowly material and technical sense of trompe l’oeil. The possibility remains, however, that decoration and icon made greater sense together, that the fantasy of bourgeois illusions in the inner space of the anteroom was framed by an outer ideal of Christian virtue filling the house. Such a reading suggests that Largillière’s house in the early eighteenth century was a theatrical and semipublic space in which he created illusions in order to prick them, and blew bubbles to watch them burst.
 
-[^1]: Georges de Lastic, “Nicolas de Largillière. Documents notaries inédits,” {{*GBA*}} 98 (1981): 7, 23–27.
+[^1]: Georges de Lastic, “Nicolas de Largillière. Documents notaries inédits,” [[*GBA*]] 98 (1981): 7, 23–27.
 
 [^2]: See *Catalogue de tableaux, estampes, desseins, bronzes, figures de marbre . . . provenant du cabinet de M. de Largillière* (Paris: Merigot, 1765).
 
@@ -60,7 +61,7 @@ What of the religious pictures that weighed so heavily with Mariette and Dézall
 
 [^12]: *Edit du Roy pour retrenchement du luxe des meubles, habits, vaisselle, équipages et bâtiments*, March 1700, see Nicolas de La Mare, *Traité de police* (Paris: Brunet, 1705–38), 1:419–22.
 
-[^13]: {{AN}}, Y3583 (17 April 1700) in Emile Compardon in {{*NAAF*}}*,* 1874–75, 223–24. See also *Largilliere*, 42. Among other artists to face similar charges were Jacques Van Schuppen (Largillière’s pupil) and Jacques Oudry (father of another). See “Catalogue des noms et demeures de ceux qui ont faits leurs declarations en execution de l’ Édit de Sa Majesté du mois de mars 1700,” {{BnF}}, Ms. f.f. 21627.
+[^13]: [[AN]], Y3583 (17 April 1700) in Emile Compardon in [[*NAAF*]]*,* 1874–75, 223–24. See also *Largilliere*, 42. Among other artists to face similar charges were Jacques Van Schuppen (Largillière’s pupil) and Jacques Oudry (father of another). See “Catalogue des noms et demeures de ceux qui ont faits leurs declarations en execution de l’ Édit de Sa Majesté du mois de mars 1700,” [[BnF]], Ms. f.f. 21627.
 
 [^14]: They are identifiable from his estate inventory. See de Lastic, “Largillière,” 15–18.
 
@@ -68,7 +69,7 @@ What of the religious pictures that weighed so heavily with Mariette and Dézall
 
 [^16]: See Reed Benhamou, “Imitation in the Decorative Arts of the Eighteenth Century,” *Journal of Design History* 4, no. 1 (1991): 1–13; and Cissie Fairchilds, “The Production and Marketing of Populuxe Goods in Eighteenth-Century Paris,” in *Consumption and the World of Goods*, ed. John Brewer and Roy Porter (London: Routledge, 1994), 228–48.
 
-[^17]: On the aesthetics of surprise, see Roger de Piles, *Cours de peinture* \[1709\] (Paris: Gallimard, 1989), 7–19, esp. 8, 11, 14.
+[^17]: On the aesthetics of surprise, see Roger de Piles, *Cours de peinture* \[1709] (Paris: Gallimard, 1989), 7–19, esp. 8, 11, 14.
 
 [^18]: For a firsthand account of the experience of trompe l’oeil, see Charles de Brosses, *Lettres d’Italie*, 2 vols. (Var: Editions d’Aujourd’hui, 1976), 1:15–16.
 
@@ -78,7 +79,7 @@ What of the religious pictures that weighed so heavily with Mariette and Dézall
 
 [^21]: Germain Brice, *Nouvelle description de la ville de Paris* (Paris: Gandouin, 1725), 2:68–69.
 
-[^22]: “Ode en strophes libres à Titon du Tillet sur la mort de M. de l’Argillière \[*sic*\] chancellier et ancien directeur de l’Académie,” in *Mercure de France,* May 1746, 134.
+[^22]: “Ode en strophes libres à Titon du Tillet sur la mort de M. de l’Argillière \[*sic*] chancellier et ancien directeur de l’Académie,” in *Mercure de France,* May 1746, 134.
 
 [^23]: Dézallier d’Argenville, *Abrégé*, 302.
 

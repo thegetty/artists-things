@@ -1,15 +1,16 @@
 ---
-title: Palette
+title: "Palette"
+layout: essay
+order: 134
 owner:
   - first_name: Elisabeth
     last_name: Vigée-Lebrun
     years: (1755–1842)
-Type: Symbolic Thing, Tool
-
-Theme: Education, Memory, Identity, Making, Studio\
-Material: Plant Matter / Wood, Synthetic Materials / Paint/Pigment\
+type: [Symbolic Thing, Tool]
+theme: [Education, Memory, Identity, Making, Studio]
+material: [Plant Matter / Wood, Synthetic Materials / Paint/Pigment]
 contributor:
-  -id: "hwilliams"
+  - id: "hwilliams"
 ---
 
 On one memorable occasion early in her career, Elisabeth Vigée-Lebrun had her social plans unexpectedly disrupted by her palette. She had received an invitation to dine with the Princess Rohan-Rochefort and was readying herself for this high-society occasion, dressing fashionably in a brand-new white satin gown.[^1] Just on the point of calling her **carriage**, the painter found herself momentarily distracted by the portrait she had begun that morning. Absorbed in that feeling of creative intensity at the start of a new project, she was “seized by a sudden desire” to revisit the canvas, so she sat down in front of her easel to contemplate what she had achieved so far.[^2] To her utter dismay, however, she discovered she had left her palette face-up on the chair. With the morning’s wet oil paint now smeared all over her new white dress, she was forced to abandon her dinner invitation, and she resolved there and then never to accept another.
@@ -52,4 +53,4 @@ As a color laboratory, site of self-definition, and embodied extension of the cr
 
 [^12]: Philip Sohm, “Palettes as Signatures and Encoded Identities in Early Modern Self-Portraits,” *Art History* 40, no. 5 (2017): 995.
 
-[^13]: “Palette pinceaux / & couteau à palette / de Jacque \[*sic*\] Louis/ (David) / restaurateur / de l’école / française.”
+[^13]: “Palette pinceaux / & couteau à palette / de Jacque \[*sic*] Louis/ (David) / restaurateur / de l’école / française.”

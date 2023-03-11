@@ -1,15 +1,16 @@
 ---
-title: Baptism Certificate
+title: "Baptism Certificate"
+layout: essay
+order: 103
 owner:
   - first_name: Hubert
     last_name: Robert
     years: (1733–1808)
-Type: Document
-
-Theme: Family, Identity, Money, Religion\
-Material: Synthetic Materials / Ink, Synthetic Materials / Paper\
+type: [Document]
+theme: [Family, Identity, Money, Religion]
+material: [Synthetic Materials / Ink, Synthetic Materials / Paper]
 contributor:
-  -id: "hwilliams"
+  - id: "hwilliams"
 ---
 
 A small piece of paper, around the size of a postcard, contains enough information in its printed and handwritten lines to paint a rich picture of Hubert Robert’s earliest days ([fig. 7](#fig.-7)). A baptism certificate is, indeed, a fairly meta-thing about which to write an object biography, given that such documents are a conventional source of biographical facts, at least in the Catholic culture of eighteenth-century France, where an *acte du baptême* was a near universal marker of the beginning of a life. But as a thing with its own life, this piece of paper reveals far more than the factual information it contains about Robert’s origins, providing insights into religious customs and legal procedures, as well as a father-son relationship, and some savvy financial dealings.
@@ -32,7 +33,7 @@ Through the baptism certificate’s passage from parish register to investment c
 
 [^4]: Neither painter was ever admitted to the guild (which was disbanded in 1776) or Académie, but Louis-Nicolas Vincent exhibited works at the Académie’s open Salon of 1791: *Collection des livrets des anciennes expositions depuis 1673 jusqu’en 1800* (Paris: Liepmannssohn, 1870), 20, 32.
 
-[^5]: {{AN}}, {{MC}}/ET/LXXXIII 490.
+[^5]: [[AN]], [[MC]]/ET/LXXXIII 490.
 
 [^6]: John Dunkley, “Bourbons on the Rocks: Tontines and Early Public Lotteries in France,” *Journal for Eighteenth-Century Studies* 30, no. 3 (2007): 311. See also, David R. Weir, “Tontines, Public Finance, and Revolution in France and England, 1688–1789,” *Journal of Economic History* 49, no. 1 (1989): 95–124.
 

@@ -1,15 +1,16 @@
 ---
-title: Intaglio
+title: "Intaglio"
+layout: essay
+order: 123
 owner:
   - first_name: Charles-Joseph
     last_name: Natoire
     years: (1700–77)
-Type: Apparel, Collectible, Souvenir
-
-Theme: Antiquity, Death, Friendship, Memory, Travel\
-Material: Mineral/Gem\
+type: [Apparel, Collectible, Souvenir]
+theme: [Antiquity, Death, Friendship, Memory, Travel]
+material: [Mineral/Gem]
 contributor:
-  -id: "kscott"
+  - id: "kscott"
 ---
 
 On 14 December 1778, the collection of the history painter and director of the Académie de France à Rome, Charles-Joseph Natoire, was auctioned at the hôtel d’Aligre, Rue Saint-Honoré. Natoire had died in Italy after more than twenty-five years as director at the Palazzo Mancini, but his heirs decided that the collection would sell better in Paris than in Rome.[^1] Shipped back to France and cataloged by the auctioneer Alexandre Paillet, Natoire’s “*cabinet*” had contained, in addition to examples of his own paintings and drawings, “choice and distinguished works” by “Pierre Subleyras, Jean-Paul Panini, and other Masters.”[^2] Among those who attended the sale was the artist Gabriel de Saint-Aubin, whose marginal drawings in his copy of the sale catalog capture in quick, black, accented chalk strokes, the salient features of many of the paintings, drawings, and sculptors’ **models** for sale, a sale that ended with a handful of ancient and modern gems, and a crop of red wax sulphur pastes, cast from gems.[^3] We sense the ebbing of Saint-Aubin’s interest with the gems ([fig. 82](#fig.-82)); his sketches become perfunctory, in some cases no more than the oval ghost of a form, his record of the winning bids erode as he grows distracted. Since that brief moment of his glancing attention, total silence has befallen the gems, as no art historian has reflected on their presence.[^4]
@@ -28,13 +29,13 @@ Before leaving Paris, Natoire organized a sale of things not for Rome. A manuscr
 
 Not collected by genre, author, or theme, and not worn as luxuries of dress, Natoire’s gems seemingly formed a more private and personal relationship with their owner than did Coypel’s and De Troy’s. Natoire confessed to Duchesne that it was close bodily experience of the ancient past at Nîmes, on visiting Jacques-Philippe Mareschal’s excavations of the Roman “fountain,” that had made him, instantly—that is without the mediation of learning—an “antiquaire.”[^20] On the day of his arrival in Rome, he wrote to his friend that such had been the impact, we might even say the shock, of the city and of his reception there, that he experienced his “landing” almost as a “dream.”[^21] Not only do his letters register his aesthetic and emotional response to specific changes of scene, they also suggest a more general temporal disorientation. Born at Nîmes, at seventeen Natoire left to finish his training in Paris. Having obtained the Prix de Rome, he spent 1723 to 1729 at the Palazzo Mancini as a *pensionnaire*. His journey south in 1751 was therefore a much longed-for return, to judge by his bid at the directorship of the school as early as 1737. He remembered the Maison Carré, “that monument that would not be the least of Rome’s,” but did not recognize his brothers, not seen since he left as a lad. He was greeted in Rome by “old acquaintances” whom he had forgotten, but he knew again the beautiful “curiosities” of the city studied in his youth.[^22] Antique things anchored his memory; they marked his place in and passage through life, transforming ancient history into private time. Natoire’s gems were his souvenirs.[^23]
 
-Susan Stewart says of the souvenir, in contrast to the collection, that it prompts narrative, storytelling not about the objects but about the persons to whom the specific things belonged. To categorize Natoire’s gems with souvenirs distinguishes them further from those collected and classified by Coypel and consumed for show by De Troy. It also sets them apart from Bouchardon’s antique gems with which, on grounds of biography, we could have expected greater affinity. Natoire and Bouchardon had studied together in Rome and the connection they formed there survived the return to France. In Paris they worked alongside each other on projects for Pierre-Jean Mariette, Natoire making copies of the collector’s drawings, Bouchardon drawing the king’s gems for Mariette’s *Traité*. In François-Hubert Drouais’s portrait of Bouchardon (1758, Paris, Musée du Louvre), the sculptor holds a volume entitled “Monum\[ents\] antiq\[ues\]” with his right hand. On his little finger sits a gem set in a gold ring that we can identify with one of the antique cameos inventoried among the sculptor’s possessions at his death in 1762.[^24] In the narrative of the portrait, the gem, though closely attached to Bouchardon, signifies across him, connecting along a diagonal “ancient monuments” in the foreground with the **models** of Bouchardon’s modern ones in the background. Insofar as the cameo speaks of Bouchardon, it tells of his participation in the epic transmission of ideal form across time and place, and of his identity in the history of the classical tradition.
+Susan Stewart says of the souvenir, in contrast to the collection, that it prompts narrative, storytelling not about the objects but about the persons to whom the specific things belonged. To categorize Natoire’s gems with souvenirs distinguishes them further from those collected and classified by Coypel and consumed for show by De Troy. It also sets them apart from Bouchardon’s antique gems with which, on grounds of biography, we could have expected greater affinity. Natoire and Bouchardon had studied together in Rome and the connection they formed there survived the return to France. In Paris they worked alongside each other on projects for Pierre-Jean Mariette, Natoire making copies of the collector’s drawings, Bouchardon drawing the king’s gems for Mariette’s *Traité*. In François-Hubert Drouais’s portrait of Bouchardon (1758, Paris, Musée du Louvre), the sculptor holds a volume entitled “Monum\[ents] antiq\[ues]” with his right hand. On his little finger sits a gem set in a gold ring that we can identify with one of the antique cameos inventoried among the sculptor’s possessions at his death in 1762.[^24] In the narrative of the portrait, the gem, though closely attached to Bouchardon, signifies across him, connecting along a diagonal “ancient monuments” in the foreground with the **models** of Bouchardon’s modern ones in the background. Insofar as the cameo speaks of Bouchardon, it tells of his participation in the epic transmission of ideal form across time and place, and of his identity in the history of the classical tradition.
 
 For Natoire, antiquity was a matter first of his own origins at Nîmes, a place he experienced as another Rome, at least in respect to the beauty of the Maison Carrée. Significant in his letters is not, however, the identity of specific monuments, large or small, but his reaction to them. His letters to his “carrissimo amico,” his dearest friend, express his longing for Duchesne’s presence: Natoire wanted to face the sights with Duchesne; more importantly, he seems to have wanted Duchesne to experience Natoire’s own response to them, to witness it as authentic and as coming from within. That response was not unequivocal, like we assume Bouchardon’s to have been from Drouais’s portrayal, rather, it was ambivalent. Natoire’s line about his pleasure in hunting *antiquailles* was followed in the very next sentence of his letter by distress at news of a death: “here we are,” he cried, “back among the dead.”[^25] The juxtaposition of topics, and the adverb “back” suggest that numbered among them are also the dead of antiquity. In response, months later, to the unexpected death of De Troy on the eve of his return to Paris, Natoire observed that “the most brilliant things” are almost always accompanied by shadow. At one level he was no more than repeating the Christian trope of the vanities. However, by articulating it metaphorically using “a phrase from painting,” as he acknowledged, he also suggested that death wastes not just individuals, but civilizations.[^26] The countervailing force of death in the letters shades Natoire’s references to the antique with nostalgia. In Drouais’s portrait and Mariette’s *Traité,* antique gems are represented as a medium, the means by which the masterpieces of sculpture and paintings of antiquity had unintentionally been perfectly preserved for the present in order to be renewed. For Natoire, antiquities, perhaps including his gems, were the battered material survivals of a past from which he felt separated but for which, desiring, he searched. Finding souvenirs in and around Rome and appropriating these *antiquailles* for his villa ([fig. 85](#fig.-85)), he set his treasures in niches, on sconces, pedestals, and on entablatures in the garden, at once safe from and united with the ruins beyond its walls. Past and present came together in his art.
 
-[^1]: Some things were sold in Italy before shipment. See {{*CDR*}}, 13:327–28.
+[^1]: Some things were sold in Italy before shipment. See [[*CDR*]], 13:327–28.
 
-[^2]: \[Alexandre-Joseph Paillet\], *Catalogue des tableaux et dessins des plus grands maîtres . . . qui composoient le cabinet de feu Charles Natoire* (Paris: Chariot & Paillet, 1778). See also JoLynn Edwards, *Alexandre Paillet: Expert et marchand de tableaux au XVIII^e^ siècle* (Paris: Arthena, 1996), 233–34.
+[^2]: \[Alexandre-Joseph Paillet], *Catalogue des tableaux et dessins des plus grands maîtres . . . qui composoient le cabinet de feu Charles Natoire* (Paris: Chariot & Paillet, 1778). See also JoLynn Edwards, *Alexandre Paillet: Expert et marchand de tableaux au XVIII^e^ siècle* (Paris: Arthena, 1996), 233–34.
 
 [^3]: Paillet, *Catalogue*: 24 lots out of a total of 377.
 
@@ -56,15 +57,15 @@ For Natoire, antiquity was a matter first of his own origins at Nîmes, a place 
 
 [^12]: The first attempt to publish the king’s gems was initiated by the comte de Caylus in the 1720s. By 1730 he has enrolled the services of Coypel and De Troy. Sometime between 1733 and 1737 Bouchardon became involved. See Smentek, *Mariette*, 195–96 and 296n22.
 
-[^13]: *Catalogue de la vente es desseins, estampes et tableaux de M. Natoire, fait avant son départ pour Rome* (6 September 1751) lots: 143, volume of prints of *Ruines de Rome* published by Justus Sadeler; 151, volume of *Figures antiques de Rome,* etched by François Perrier; 153, 161, Two volumes of prints after the Column of Trajan, {{INHA}}, Ms. VP1763/1f.
+[^13]: *Catalogue de la vente es desseins, estampes et tableaux de M. Natoire, fait avant son départ pour Rome* (6 September 1751) lots: 143, volume of prints of *Ruines de Rome* published by Justus Sadeler; 151, volume of *Figures antiques de Rome,* etched by François Perrier; 153, 161, Two volumes of prints after the Column of Trajan, [[INHA]], Ms. VP1763/1f.
 
 [^14]: See Mariette, *Traité*, 36. On Natoire and Mariette, see Perrin Stein, “Copies and Retouched Drawings by Charles-Joseph Natoire,” *Master Drawings* 38, no. 2 (2000): 167–86.
 
-[^15]: Charles-Joseph Natoire to Antoine Duchesne, 6 October 1751, in “Charles Natoire: Correspondance avec Antoine Duchesne, prévôt des Bâtiments du roi,” ed. Paul Mantz, {{*AAF*}}, 2 (1852): 261.
+[^15]: Charles-Joseph Natoire to Antoine Duchesne, 6 October 1751, in “Charles Natoire: Correspondance avec Antoine Duchesne, prévôt des Bâtiments du roi,” ed. Paul Mantz, [[*AAF*]], 2 (1852): 261.
 
 [^16]: Natoire to Duchesne, 1 March 1752, in “Charles Natoire: Correspondance,” 272.
 
-[^17]: \[Pierre-Jean Mariette\], *Catalogue des tableaux, dessins, marbres, bronzes, modèles, estampes et planches gravées . . . du cabinet de feu M. Coypel* (Paris: n.p., 1753), lot 202.
+[^17]: \[Pierre-Jean Mariette], *Catalogue des tableaux, dessins, marbres, bronzes, modèles, estampes et planches gravées . . . du cabinet de feu M. Coypel* (Paris: n.p., 1753), lot 202.
 
 [^18]: See Antoine Furetière, *Dictionnaire universelle* (The Hague: Husson, Johnson & Swart, 1727), 1: s.v. “Antiquaille”; *Dictionnaire de l’Académie Françoise*, 4th ed. (Paris: Brunet, 1762), 1: s.v. “Antiquaille.”
 
@@ -78,7 +79,7 @@ For Natoire, antiquity was a matter first of his own origins at Nîmes, a place 
 
 [^23]: See Susan Stewart, *On Longing* (Durham and London, Duke University Press, 1993), 132–50.
 
-[^24]: See Charles-Joseph Natoire, “Inventaire après décès,” 18 August 1762, {{AN}}, {{MC}}/ET/LXXVI/384.
+[^24]: See Charles-Joseph Natoire, “Inventaire après décès,” 18 August 1762, [[AN]], [[MC]]/ET/LXXVI/384.
 
 [^25]: Natoire to Duchesne, 1 March 1752, in “Charles Natoire: Correspondance,” 272.
 

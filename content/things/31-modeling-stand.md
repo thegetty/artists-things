@@ -1,15 +1,16 @@
 ---
-title: Modeling Stand
+title: "Modeling Stand"
+layout: essay
+order: 131
 owner:
   - first_name: Jean-Antoine
     last_name: Houdon
     years: (1741–1828)
-Type: Tool
-
-Theme: Making, Studio\
-Material: Mineral/Clay, Plant Matter / Wood\
+type: [Tool]
+theme: [Making, Studio]
+material: [Mineral/Clay, Plant Matter / Wood]
 contributor:
-  -id: "kscott"
+  - id: "kscott"
 ---
 
 One of the more mundane objects on display at the Musée Carnavelet, the museum of the history of Paris, is an eighteenth-century *selle* (modeling stand) ([fig. 111](#fig.-111)) that once belonged to the sculptor Jean-Antoine Houdon. Mundane as it is in the context of the Carnavalet’s collections and also as an item of the sculptor’s equipment, this stand is, however, rare as a tool that survives from an eighteenth-century studio. There are few such others, and certainly none to compare to Jean Bourdelle’s at his house-museum near Montparnasse, or to the contents of Constantin Brancusi’s atelier reconstructed at place Georges Pompidou. Both Bourdelle and Brancusi bequeathed their tools to the public in the belief that these objects were uniquely placed to promote a better understanding of their work. That conviction was not shared by sculptors in the eighteenth century. Their tools, if not passed on to sons, pupils, or assistants, were sold in job lots in estate sales, and have been lost to history. This object, like the **palette** and the **color box** in the case of painting, stands, therefore, as an example of a larger category of artists’ things: their tools—whose purpose was to assist, develop, and improve skills of making; to make artists smarter and cannier.
@@ -36,7 +37,7 @@ Houdon, however, did not use clay for rough work, or, to be more exact he buried
 
 [^2]: See Joseph Connors, “Ars Tornandi: Baroque Architecture and the Lathe,” *Journal of the Warburg and Courtauld Institutes*, 53 (1990): 217–36; and *Porphyre: La pierre pourpre des Ptolémées aux Bonapartes*, exh. cat. (Paris: Musée du Louvre, 2003).
 
-[^3]: Michel-François Dandré-Bardon, *Essai sur la sculpture* (Paris: Desaint, 1765), 60. Consequently, he recommended observation of the moderns as the best means to understand the techniques of the ancients (p. 61). See also Louis Guy Henri de Valori “Vie de M. Frémin,” in {{*Mémoires inédits*}}, 2:202 who regarded this “veil of ignorance” as a point in sculpture’s favor.
+[^3]: Michel-François Dandré-Bardon, *Essai sur la sculpture* (Paris: Desaint, 1765), 60. Consequently, he recommended observation of the moderns as the best means to understand the techniques of the ancients (p. 61). See also Louis Guy Henri de Valori “Vie de M. Frémin,” in [[*Mémoires inédits*]], 2:202 who regarded this “veil of ignorance” as a point in sculpture’s favor.
 
 [^4]: “Sculpture,” *Encyclopédie*, [http://encyclopedie.uchicago.edu/](https://encyclopedie.uchicago.edu/), 14:834–37; and Juan A. Calatrava, “Idées sur la sculpture dans l’*Encyclopédie*,” *Dix-huitième siècle* 24 (1992): 397–410.
 
@@ -52,7 +53,7 @@ Houdon, however, did not use clay for rough work, or, to be more exact he buried
 
 [^10]: William H. Sewell Jr, “Visions of Labour: Illustrations of the Mechanical Arts before, in, and after Diderot’s *Encyclopédie*,” in *Work in France: Representation, Meaning, Organization and Practice*, ed. Steven Kaplan and Cynthia Koepp (Ithaca, NY: Cornell University Press, 1986), 258.
 
-[^11]: Louis Gougenot, “Robert Le Lorrain,” in {{*Mémoires inédits*}}, 2:219.
+[^11]: Louis Gougenot, “Robert Le Lorrain,” in [[*Mémoires inédits*]], 2:219.
 
 [^12]: See the definitions of “Ébauchoir,” “Lance” and “Lancette” in Pernéty, *Dictionnaire portatif* and also his description of the actions “Bretter,” “Bretteller” and “Ébaucher.”
 
@@ -78,7 +79,7 @@ Houdon, however, did not use clay for rough work, or, to be more exact he buried
 
 [^23]: Louis-Jean-Marie Daubenton defines clay (*argille*) as the most plentiful and useful material known to man (“Argile,” *Encyclopédie*, [http://encyclopedie.uchicago.edu/](https://encyclopedie.uchicago.edu/)), 1:645; sculptor’s clay was sourced in Normandy, according to Pernéty (*Dictionaire portatif*, s.v. “Glaise”). Étienne Aubry’s *Portrait of Louis-Claude Vassé* (1771, Musée et Château de Versailles) is a remarkable pictorial attempt to obscure the dirt of working with clay by hand.
 
-[^24]: See Charles Henry ed., {{*Mémoires inédits*}} *de Charles-Nicolas Cochin sur le comte de Caylus, Bouchardon, les Slodtz* (Paris: Baur, 1880), 113–14.
+[^24]: See Charles Henry ed., [[*Mémoires inédits*]] *de Charles-Nicolas Cochin sur le comte de Caylus, Bouchardon, les Slodtz* (Paris: Baur, 1880), 113–14.
 
 [^25]: Notable collectors included La Live de Jully and Crozat de Tugny. See Maria Giulia Barberini, “Base or Noble Material? Clay Sculpture in Seventeenth and Eighteenth-Century Italy,” in *Earth and Fire. Italian Terracotta Sculpture from Donatello to Canova,* exh. cat., Museum of Fine Arts, Houston (New Haven: Yale University Press, 2001), 43–59.
 

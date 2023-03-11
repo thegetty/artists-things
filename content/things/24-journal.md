@@ -1,15 +1,16 @@
 ---
-title: Journal
+title: "Journal"
+layout: essay
+order: 124
 owner:
   - first_name: Johann-Georg
     last_name: Wille
     years: (1715–1808)
-Type: Family, Companion, Souvenir
-
-Theme: Community, Death, Everyday, Memory, Money,\
-Material: Leather/Parchment, Synthetic Materials / Ink, Synthetic Materials / Paper\
+type: [Family, Companion, Souvenir]
+theme: [Community, Death, Everyday, Memory, Money]
+material: [Leather/Parchment, Synthetic Materials / Ink, Synthetic Materials / Paper]
 contributor:
-  -id: "hwilliams"
+  - id: "hwilliams"
 ---
 
 For four decades Johann-Georg Wille, the German-born, Paris-based engraver, kept a journal.[^1] From 1759 to 1793 regular entries record his quotidian doings from when he was a forty-something *agréé* (provisional member) at the Académie until a few months after his seventy-eighth birthday. In our search for things through which to retrieve their owner’s lives, an artist’s journal presents the ultimate biographical metaobject: a thing that exists entirely in order to record that person’s experiences in firsthand accounts. Usually, the biographical value of a journal comes from considering it as a text. Indeed, ever since the publication of Wille’s journal by the art historian Georges Duplessis in 1857 (forty-nine years after the artist’s death), it has been read as a crucial source of insights, most of which can be gleaned by merely consulting Duplessis’s transcription.[^2] Wille’s writings grant access to his professional activities, international social networks, and personal relationships, and as a whole the text offers a fascinating encounter with a singular moment of French history. Inadvertently chronicling the final chapter of the ancien régime, Wille’s journal takes its reader on a journey from the seeming immutability of Louis XV’s reign, through the escalating uncertainty of the Revolution, to the chaotic dismantling of an entire social order as the new Republic emerged. But what if Wille’s journal is encountered not just as a text, but as a “thing”? What stories emerge not from the meaning of the words, but from the materiality of the notebooks that contain them? When it is the biography of the object itself—rather than the autobiographical text inscribed in it—what else might Wille’s journal reveal about the engraver’s habitual quirks, lived rhythms, and unexpected disruptions?
@@ -42,19 +43,19 @@ Despite disruptions and detours, Wille maintained a relationship with his journa
 
 [^6]: See several of the essays in Décultot, Espagne, and Martin, *Johann Georg Wille*, and the introductory sections to Elisabeth Decultot, Michel Espagne, and Michael Werner, *Johann Georg Wille (1715–1808): Briefwechsel* (Tübingen: Max Niemeyer, 1999).
 
-[^7]: Johann-Georg Wille, *Journal*, {{BnF}}, 1:102v; {{BnF}}, 3:27v.
+[^7]: Johann-Georg Wille, *Journal*, [[BnF]], 1:102v; [[BnF]], 3:27v.
 
-[^8]: Wille, *Journal*, {{BnF}}, 1:73; and {{BnF}}, 2:116v.
+[^8]: Wille, *Journal*, [[BnF]], 1:73; and [[BnF]], 2:116v.
 
-[^9]: Wille, *Journal*, Frits Lugt volume, n.p.; and Wille *Journal*, {{BnF}}, 4:58.
+[^9]: Wille, *Journal*, Frits Lugt volume, n.p.; and Wille *Journal*, [[BnF]], 4:58.
 
-[^10]: In 1792 Wille claims to have been keeping his journal for “more than forty years,” but the surviving volumes cover a total of only thirty-four years. Wille *Journal*, {{BnF}}, 4:86. On the likelihood of another volume, see also Fuhring and Buijs, “Quelques relations de Wille,” 224.
+[^10]: In 1792 Wille claims to have been keeping his journal for “more than forty years,” but the surviving volumes cover a total of only thirty-four years. Wille *Journal*, [[BnF]], 4:86. On the likelihood of another volume, see also Fuhring and Buijs, “Quelques relations de Wille,” 224.
 
 [^11]: Wille, *Journal*, Frits Lugt volume, n.p.
 
 [^12]: Joan Didion, “On Keeping a Notebook,” *Slouching towards Bethlehem* (London: Fourth Estate, 2017), 132.
 
-[^13]: Wille, *Journal*, {{BnF}}, 4:85v, 86. Duplessis cites this justification in his preface, “Mémoires et journal de J-G Wille,” xv–xvi. Ironically, Wille did write a biographical account, known as his ”mémoires,” which was published by Duplessis in 1857 in the first volume of the journal.
+[^13]: Wille, *Journal*, [[BnF]], 4:85v, 86. Duplessis cites this justification in his preface, “Mémoires et journal de J-G Wille,” xv–xvi. Ironically, Wille did write a biographical account, known as his ”mémoires,” which was published by Duplessis in 1857 in the first volume of the journal.
 
 [^14]: On Wille’s reasons for stopping and his other writing activities during his later years, see Fuhring and Buijs, “Quelques relations de Wille,” 224.
 

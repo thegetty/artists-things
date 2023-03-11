@@ -1,20 +1,21 @@
 ---
-title: Watch
+title: "Watch"
+layout: essay
+order: 151
 owner:
   - first_name: Charles-Antoine
     last_name: Coypel
     years: 1694–1752
-Type: Apparel, Collectible, Commodity, Gift, Heirloom, Instrument,
-
-Theme: Community, Invention, Louvre, Luxury, Money, Religion\
-Material: Metal/Gold/Gilding, Mineral/Gem\
+type: [Apparel, Collectible, Commodity, Gift, Heirloom, Instrument,]
+theme: [Community, Invention, Louvre, Luxury, Money, Religion]
+material: [Metal/Gold/Gilding, Mineral/Gem]
 contributor:
-  -id: "hwilliams"
+  - id: "hwilliams"
 ---
 
 ()
 
-Amid the extensive collection of *bijoux* (jewelry) itemized in the inventory of Charles-Antoine Coypel’s possessions after his death, a luxurious watch was described in some detail: “\[A\] repeater watch, made in Paris by Julien Le Roy, in a gold casing adorned with a gold chain, comprising two seals mounted on rings, one of agate the other of carnelian, and with two rows of brilliants on the hour hand and on the minute hand, all in a green case garnished with gold.”[^1] One of at least three watches that Coypel owned, this was, according to the notary who priced it, the most elaborate and the most expensive.[^2] It may also have been the most valuable to Coypel in another sense, not due to its cost per se, but because of how it came to be in his possession.
+Amid the extensive collection of *bijoux* (jewelry) itemized in the inventory of Charles-Antoine Coypel’s possessions after his death, a luxurious watch was described in some detail: “\[A] repeater watch, made in Paris by Julien Le Roy, in a gold casing adorned with a gold chain, comprising two seals mounted on rings, one of agate the other of carnelian, and with two rows of brilliants on the hour hand and on the minute hand, all in a green case garnished with gold.”[^1] One of at least three watches that Coypel owned, this was, according to the notary who priced it, the most elaborate and the most expensive.[^2] It may also have been the most valuable to Coypel in another sense, not due to its cost per se, but because of how it came to be in his possession.
 
 In terms of its price, the watch’s value came in part from its materials and design: precious metals and semiprecious stones worked by an *orfèvre* (goldsmith) into an elegant item of apparel. Conventionally worn hanging off the breeches beneath the waistcoat, a watch was an ostentatious sartorial accessory, but not one that could always be seen in its entirety.[^3] The watch’s tentative visibility is evident in Adolphe Wertmüller’s portrait of the sculptor Jean-Jacques Caffieri ([figs. 172](#fig.-172), [173](#fig.-173)), where all that can be glimpsed of his watch is one of its *cachets* (seals) peeping out from behind the waistcoat. When hidden temporarily by clothing, there was still the sound of the chain and its hanging seals, jangling with the wearer’s movements, to indicate the extent of the covered adornment. In the case of Coypel’s watch, a different kind of sound was the other source of its value as a luxury. Described as a “repeater watch,” this was the latest in pocket-watch technology, its mechanism comprising a whole separate set of cogs that activated a striking instrument to chime on the hour ([fig. 174](#fig.-174)).[^4] Though the *orfèvre* responsible for the decorative design of Coypel’s watch is now anonymous, the *horloger* (clockmaker) responsible for its engineering was recorded in the signature on its face—Julien Le Roy—one of Paris’s most renowned *horlogers*, appointed clockmaker to Louis XV in 1739.[^5]
 
@@ -34,7 +35,7 @@ Coypel and Artaud’s exchange was not a straightforward commercial transaction,
 
 The value of Coypel’s watch was increased (or at least disguised) in this exchange by its ambiguous position between various economies (commercial, social, and symbolic). And so it continued through the object’s life. When the notary itemized the watch in the inventory of Coypel’s possessions taken after his death in 1752, it was priced modestly at 1,000 livres, but it appears to have been worth more than that to Coypel. Another of the watches listed by the notary ended up in the sale of the artist’s possessions the following year, but this watch did not.[^16] Instead, it passed to his brother, Philippe, who inherited most of Coypel’s estate, apart from the few special bequests Coypel made in his **will** to family and associates (including 1000 livres to the *curé* of his own parish of Saint-Germain-l’Auxerrois).[^17] This luxury item stood out from many others Coypel had acquired, valued enough to be offered again rather than sold off for revenue. Passing through its varied economies, the object was imbued with new sentimental resonances: moving from the watch that Antoine Artaud gave Coypel for painting *Supper at Emmaus*, to become the watch that Coypel left his brother when he died.
 
-[^1]: “Une *. . .* montre à répétition faite à Paris par Julien Le Roy dans Sa boette d’or garny de Sa chaine d’or, deux cachets montés en Bague l’un d’une agatorin et l’autre de Cornaline, deux Batons de Brillants tant Sur l’eguille des heures que Sur celle des minutes dans Son Etuy de trousset Vert et garny d’or.” Charles-Antoine Coypel, “Inventaire après décès,” 25 September 1752, {{AN}}, {{MC}}/LXXVI/337, 11.
+[^1]: “Une *. . .* montre à répétition faite à Paris par Julien Le Roy dans Sa boette d’or garny de Sa chaine d’or, deux cachets montés en Bague l’un d’une agatorin et l’autre de Cornaline, deux Batons de Brillants tant Sur l’eguille des heures que Sur celle des minutes dans Son Etuy de trousset Vert et garny d’or.” Charles-Antoine Coypel, “Inventaire après décès,” 25 September 1752, [[AN]], [[MC]]/LXXVI/337, 11.
 
 [^2]: It was valued in the inventory at 1,000 livres; the other watches were 700 and 200 livres.
 
@@ -66,4 +67,4 @@ The value of Coypel’s watch was increased (or at least disguised) in this exch
 
 [^16]: *Catalogue des tableaux . . . de feu M. Coypel*, 100.
 
-[^17]: Will, Charles-Antoine Coypel, 13 June 1752, {{AN}}, {{MC}}/ET/LXXVI/335.
+[^17]: Will, Charles-Antoine Coypel, 13 June 1752, [[AN]], [[MC]]/ET/LXXVI/335.

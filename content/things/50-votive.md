@@ -1,22 +1,23 @@
 ---
-title: Votive
+title: "Votive"
+layout: essay
+order: 150
 owner:
   - first_name: Pierre-Imbert
     last_name: Drevet
     years: (1697–1739)
-Type: Artwork, Devotional Thing, Ritual Thing, Symbolic Thing
-
-Theme: Death, Family, Health/Medicine, Making, Religion, Studio\
-Material: Synthetic Materials / Ink, Synthetic Materials / Paper, Synthetic Materials / Paper\
+type: [Artwork, Devotional Thing, Ritual Thing, Symbolic Thing]
+theme: [Death, Family, Health/Medicine, Making, Religion, Studio]
+material: [Synthetic Materials / Ink, Synthetic Materials / Paper, Synthetic Materials / Paper]
 contributor:
-  -id: "hwilliams"
+  - id: "hwilliams"
 ---
 
 “Pray to God for him.” The words are easy to miss at first, nestled under a plant within the loose cross-hatched lines in the lower-right foreground of Pierre-Imbert Drevet’s engraving of *Christ’s Agony in the Garden* ([fig. 170](#fig.-170)). From afar, they might be mistaken for an accident on the plate, an inconsistency in the engraver’s otherwise crisp, controlled handling delineating the varied textures, substances, and gestures of his subject. Upon closer inspection, though, the seemingly misplaced marks resolve into their intentionally lettered forms: “Gravé Par Pierre Drevet fils / Priez Dieu Pour Luy” (engraved by Pierre Drevet son / Pray to God for him) ([fig. 171](#fig.-171)). Yet even once read, the words remain somewhat elusive in their legibility—never really clear, from no matter how close or what angle they are viewed. There is a persistent uncertainty about their place here. Discrete, but not hidden. Legible, but only just. Intentional, but somehow hesitant. Present, but out of place. Much like Drevet himself at the time he engraved this plate—the final artwork he would ever make—these words recall, in their meaning and their materiality, the desperate disquiet and spiritual suffering of their maker.[^1]
 
-In 1739, the year Drevet finished engraving *Christ’s Agony*, he was experiencing his own anguishing torment in the form of a relapsing mental instability. For around ten years, Drevet had suffered intermittently from psychological episodes, difficult to diagnose retrospectively according to modern psychopathologies, but described variously by his contemporaries as: “*la démence*” (insanity); “*une faiblesse d’esprit*” (a weakness of the mind); “*le dérangement de son esprit*” (mental disturbance); and “*une maladie* \[*qui l’empêche*\] *de se gouverner*” (an illness that prevents him from controlling himself).[^2] Drevet was far from the only eighteenth-century artist who experienced such episodes, as attested, among others, by the tragic demises of his colleagues François Lemoyne (who committed suicide by his **sword** in 1737) and later of André Rouquet (who died in an asylum in 1758).[^3] Artists’ lapses in mental stability were often attributed to “excessive work” (as some of Drevet’s relatives suggested), but Drevet believed his ill health was an act of God.[^4]
+In 1739, the year Drevet finished engraving *Christ’s Agony*, he was experiencing his own anguishing torment in the form of a relapsing mental instability. For around ten years, Drevet had suffered intermittently from psychological episodes, difficult to diagnose retrospectively according to modern psychopathologies, but described variously by his contemporaries as: “*la démence*” (insanity); “*une faiblesse d’esprit*” (a weakness of the mind); “*le dérangement de son esprit*” (mental disturbance); and “*une maladie* \[*qui l’empêche*] *de se gouverner*” (an illness that prevents him from controlling himself).[^2] Drevet was far from the only eighteenth-century artist who experienced such episodes, as attested, among others, by the tragic demises of his colleagues François Lemoyne (who committed suicide by his **sword** in 1737) and later of André Rouquet (who died in an asylum in 1758).[^3] Artists’ lapses in mental stability were often attributed to “excessive work” (as some of Drevet’s relatives suggested), but Drevet believed his ill health was an act of God.[^4]
 
-Writing to the *directeur général des bâtiments* in August 1738 after his father’s death (afraid that he might lose the Louvre *logement* they had shared), Drevet described his ongoing mental problems as “la maladie dont Dieu m’a affligé” (the illness with which God has afflicted me).[^5] His father, the engraver Pierre Drevet, had also considered his son’s psychological complaints to be a divine operation—“ayant plus à Dieu \[de\] l’affliger d’une faiblesse d’esprit” (having pleased God to afflict him with a mental weakness)—and made allowances in his will in case “le Seigneur” (the Lord) chose to strike him again. It was during one of these subsequent strikes predicted by his father that Drevet executed *Christ’s Agony*, channeling his faith and skill to create an exquisite votive—an object that might help bring an end to his suffering.
+Writing to the *directeur général des bâtiments* in August 1738 after his father’s death (afraid that he might lose the Louvre *logement* they had shared), Drevet described his ongoing mental problems as “la maladie dont Dieu m’a affligé” (the illness with which God has afflicted me).[^5] His father, the engraver Pierre Drevet, had also considered his son’s psychological complaints to be a divine operation—“ayant plus à Dieu \[de] l’affliger d’une faiblesse d’esprit” (having pleased God to afflict him with a mental weakness)—and made allowances in his will in case “le Seigneur” (the Lord) chose to strike him again. It was during one of these subsequent strikes predicted by his father that Drevet executed *Christ’s Agony*, channeling his faith and skill to create an exquisite votive—an object that might help bring an end to his suffering.
 
 If God was responsible for Drevet’s pain, then God alone had the power to relieve it. That was the reasoning behind any votive, or material offering made in a moment of crisis by or for a person seeking deliverance.[^6] Materially, Drevet’s engraving of *Christ’s Agony* was like any other print; but spiritually, it was an entirely different category of object. Invested with religious purpose as a physical sign of the artist’s supplication, this was an artwork made to do, rather than merely to be. Comparable in that respect to Largillière’s painted **picture** or Houdon’s sculpted **écorché**, this was yet another artwork that can be thought of usefully as a “thing,” finding its place in this book because of its functionality rather than for its aesthetic qualities.
 
@@ -32,7 +33,7 @@ Drevet’s psychological condition was certainly deteriorating quickly as he wor
 
 [^1]: The engraving is considered Drevet’s final work according to Ambroise Firmin-Didot, *Les Drevet: Pierre, Pierre-Imbert, Claude* (Paris: Firmin-Didot, 1876), 95.
 
-[^2]: \[Hendrick van Hulst\], “État général des portraits et autres tableaux sortis du pinceau de l’illustre M. Rigaud,” in {{*Mémoires inédits*}}, 2:197; Will, Pierre Drevet, 23 April 1736, {{AN}}, {{MC}}/ET/LX/257; *Mercure de France,* June 1742, 1416; and *Plaidoyer pour les héritiers paternels de Pierre-Imbert Drevet, intervenants, contre Claude Drevet, graveur du roi, appellant* (Paris: d’Houry, 1742), 2, 3.
+[^2]: \[Hendrick van Hulst], “État général des portraits et autres tableaux sortis du pinceau de l’illustre M. Rigaud,” in [[*Mémoires inédits*]], 2:197; Will, Pierre Drevet, 23 April 1736, [[AN]], [[MC]]/ET/LX/257; *Mercure de France,* June 1742, 1416; and *Plaidoyer pour les héritiers paternels de Pierre-Imbert Drevet, intervenants, contre Claude Drevet, graveur du roi, appellant* (Paris: d’Houry, 1742), 2, 3.
 
 [^3]: On Lemoyne’s suicide, see **sword** and Hannah Williams, “The Mysterious Suicide of François Lemoyne,” *Oxford Art Journal* 38, no. 2 (2015): 225–45. On Rouquet, see David Maskill, “The Neighbor from Hell: André Rouquet’s Eviction from the Louvre,” *Journal18* 2 “Louvre Local” (Fall 2016), <http://www.journal18.org/822>.
 
@@ -44,7 +45,7 @@ Drevet’s psychological condition was certainly deteriorating quickly as he wor
 
 [^7]: Luke 22:41–43.
 
-[^8]: The painting *Christ au jardin des Oliviers* by Jean Restout is recorded in Drevet’s “inventiare après décès,” 26 June 1739, {{AN}}, {{MC}}/ET/LX/266. On Restout’s painting see Christine Gouzi, *Jean Restout: 1692–1768* (Paris: Arthena, 2000), 237–38.
+[^8]: The painting *Christ au jardin des Oliviers* by Jean Restout is recorded in Drevet’s “inventiare après décès,” 26 June 1739, [[AN]], [[MC]]/ET/LX/266. On Restout’s painting see Christine Gouzi, *Jean Restout: 1692–1768* (Paris: Arthena, 2000), 237–38.
 
 [^9]: *Mercure de France,* June 1742, 1415–16.
 
@@ -54,6 +55,6 @@ Drevet’s psychological condition was certainly deteriorating quickly as he wor
 
 [^12]: Perroud-Christophle, *Les graveurs Drevet*, 88.
 
-[^13]: “Sentence d’Interdiction,” Pierre-Imbert Drevet, 9 April 1739, {{AN}}, Y/4562.
+[^13]: “Sentence d’Interdiction,” Pierre-Imbert Drevet, 9 April 1739, [[AN]], Y/4562.
 
-[^14]: Sentence d’Interdiction against Pierre-Imbert Drevet, 9 April 1739, {{AN}}, Y/4562. On legal proceedings concerning the mentally incapacitated in ancien régime France, see Fayçal El Ghoul, “Enfermer et interdire les fous à Paris au XVIII^e^ siècle: Une forme d’exclusion,” *Cahiers de la Méditerranée* 69 (2004): 175–87.
+[^14]: Sentence d’Interdiction against Pierre-Imbert Drevet, 9 April 1739, [[AN]], Y/4562. On legal proceedings concerning the mentally incapacitated in ancien régime France, see Fayçal El Ghoul, “Enfermer et interdire les fous à Paris au XVIII^e^ siècle: Une forme d’exclusion,” *Cahiers de la Méditerranée* 69 (2004): 175–87.

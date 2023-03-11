@@ -1,16 +1,16 @@
 ---
-title: Mannequin
+title: "Mannequin"
+layout: essay
+order: 128
 owner:
   - first_name: Jean-Baptiste
     last_name: Le Prince
     years: (1734–81)
-Type: Prop, Tool
-
-Theme: Making, Studio, Travel\
-Material: Hair, Plant Matter/ Cork, Textile / Silk
-
+type: [Prop, Tool]
+theme: [Making, Studio, Travel]
+material: [Hair, Plant Matter/ Cork, Textile / Silk]
 contributor:
-  -id: "hwilliams"
+  - id: "hwilliams"
 ---
 
 Four lifeless figures once stood in Jean-Baptiste Le Prince’s studio. One was a life-size model of an adult man; the other three (one male; two female) were of a smaller scale but still stood at three feet or around the height of a child.[^1] These four anthropomorphic objects served the painter as mannequins, mechanical devices to aid the artist in the representation of the human form. Made and deployed in idiosyncratic ways in European artistic practice from at least the Renaissance, the mannequin became, during the eighteenth century, a more standardized machine with distinctly formulated functions.[^2] Establishing themselves firmly as familiar denizens of the atelier, these lifelike bodies were a valuable if uncanny presence that both facilitated and threatened art’s relationship with the natural and the artificial.
@@ -45,7 +45,7 @@ Though the object’s use was sanctioned thanks to its deployment by the old mas
 
 [^8]: Barillet, *Sur le mannequin*, 16.
 
-[^9]: On drawing from female models, see Candace Clements, “The Academy and the Other: Les Grâces and Le Genre Galant,” {{*ECS*}} 25, no. 4 (Summer 1992), especially 472–82.
+[^9]: On drawing from female models, see Candace Clements, “The Academy and the Other: Les Grâces and Le Genre Galant,” [[*ECS*]] 25, no. 4 (Summer 1992), especially 472–82.
 
 [^10]: Antoine-Joseph Pernety, *Dictionnaire portatif de peinture, sculpture et gravure* (Paris: Bauche, 1757), 403–4; Jacques Lacombe, *Dictionnaire portatif des beaux-arts* (Paris: La Veuve Estienne & Fils, 1752), 384–85.
 
@@ -67,4 +67,4 @@ Though the object’s use was sanctioned thanks to its deployment by the old mas
 
 [^19]: Denis Diderot, “Salon de 1765,” *Oeuvres de Denis Diderot. Salons* (Paris: Brière, 1821), 1:293, 302–3.
 
-[^20]: Le Prince was received in 1765; his genre was described during his *agrément* in 1764: {{*PV*}}, 7:243.
+[^20]: Le Prince was received in 1765; his genre was described during his *agrément* in 1764: [[*PV*]], 7:243.

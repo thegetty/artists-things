@@ -1,15 +1,16 @@
 ---
-title: Écorché
+title: "Écorché"
+layout: essay
+order: 116
 owner:
   - first_name: Jean-Antoine
     last_name: Houdon
     years: (1741–1828)
-Type: Artwork
-
-Theme: Death, Education, Health/Medicine, Louvre, Luxury, Making, Studio, Travel, Tool\
-Material: Metal/Bronze, Mineral/Clay, Synthetic Materials / Plaster\
+type: [Artwork]
+theme: [Death, Education, Health/Medicine, Louvre, Luxury, Making, Studio, Travel, Tool]
+material: [Metal/Bronze, Mineral/Clay, Synthetic Materials / Plaster]
 contributor:
-  -id: "hwilliams"
+  - id: "hwilliams"
 ---
 
 Houdon’s écorché is a thing with many stories, not least because the thing known as “Houdon’s écorché” is actually many things existing in many forms.[^1] This anatomical **model** of a flayed human figure exists in two distinct versions: one with arm extended, one with arm raised. Both versions exist in life-size and reduced-scale formats. Each version and format were executed in different materials, mostly plaster or bronze, but also terracotta. And the dates of production extend from 1767 right into the nineteenth century, with Houdon producing numerous casts throughout his life, and copies continuing to be made after his death in 1828. In fact, versions of Houdon’s écorché are still being sold today, such is its enduring appeal as an aesthetic object and its value as an educational tool for artists: the two qualities for which it was prized from the very moment of its creation.[^2]
@@ -38,7 +39,7 @@ Houdon’s écorché survived its firing and the sculptor eventually presented o
 
 [^2]: An updated version of Houdon’s original écorché is, for instance, sold by the Eaton London sculpture studio.
 
-[^3]: Houdon won the prize in 1761 but did not travel until 1764. {{*PV*}}, 7:175.
+[^3]: Houdon won the prize in 1761 but did not travel until 1764. [[*PV*]], 7:175.
 
 [^4]: *Histoire de ma vie. Mémoires de Johann Christian von Mannlich (1741–1822)*, ed. Karl-Heinz Bender et Hermann Kleber, 2 vols. (Trier: Spee, 1989–93), 1:260, cited in *Jean-Antoine Houdon*, 63.
 
@@ -46,13 +47,13 @@ Houdon’s écorché survived its firing and the sculptor eventually presented o
 
 [^6]: On the écorché’s origins, see Louis Réau and Pierre Vallery-Radot, “Les deux écorchés de Houdon,” *Æsculape* 28, no. 1 (January 1938): 174–76.
 
-[^7]: Charles Natoire to the marquis de Marigny, 18 February 1767, in {{*CDR*}}, 12:140.
+[^7]: Charles Natoire to the marquis de Marigny, 18 February 1767, in [[*CDR*]], 12:140.
 
-[^8]: “Règlements qui doivent être observes par les pensionnaires de l’Académie de France à Rome” (1775), in {{*CDR*}}, 13:158.
+[^8]: “Règlements qui doivent être observes par les pensionnaires de l’Académie de France à Rome” (1775), in [[*CDR*]], 13:158.
 
 [^9]: A contrast to the professor of perspective, who was usually an artist (e.g. Abraham Bosse, Michel-Ange Challe, Sébastien Leclerc, Pierre-Antoine Demachy).
 
-[^10]: Anatole de Montaiglon ed., *Mémoires pour servir à l’histoire de l’Académie royale de peinture et de sculpture depuis 1648 jusqu’en 1664* (Paris: P. Jannet, 1853), 1:56; and Philippe Comar, “Une leçon d’anatomie à l’École des Beaux-Arts,” *Une leçon d’anatomie. Figures du corps à l’École des Beaux-Arts*, exh. cat. (Paris: {{ENSBA}}, 2008–9), 19.
+[^10]: Anatole de Montaiglon ed., *Mémoires pour servir à l’histoire de l’Académie royale de peinture et de sculpture depuis 1648 jusqu’en 1664* (Paris: P. Jannet, 1853), 1:56; and Philippe Comar, “Une leçon d’anatomie à l’École des Beaux-Arts,” *Une leçon d’anatomie. Figures du corps à l’École des Beaux-Arts*, exh. cat. (Paris: [[ENSBA]], 2008–9), 19.
 
 [^11]: “État des choses renfermées dans les caisses envoyées à son Altesse Monseigneur le duc de Saxe-Gotha,” July 1772, cited in *Jean-Antoine Houdon*, 356.
 
@@ -64,13 +65,13 @@ Houdon’s écorché survived its firing and the sculptor eventually presented o
 
 [^15]: In 1737, the professorship in anatomy was actually defunded and made into a nominal post. Comar, “Une leçon,” 21.
 
-[^16]: Houdon returned to Paris in 1768. He was *agréé* (provisionally admitted) at the Académie on 23 August 1769 in the same meeting as Jean-Baptiste Greuze’s infamous *réception*. {{*PV*}}, 8:19.
+[^16]: Houdon returned to Paris in 1768. He was *agréé* (provisionally admitted) at the Académie on 23 August 1769 in the same meeting as Jean-Baptiste Greuze’s infamous *réception*. [[*PV*]], 8:19.
 
-[^17]: 30 September 1769. {{*PV*}}, 8:24.
+[^17]: 30 September 1769. [[*PV*]], 8:24.
 
-[^18]: The Académie approved Sue’s classes, but set conditions for entry. Before enrolling, students had to pass a life drawing test. {{*PV*}}, 6:43–44.
+[^18]: The Académie approved Sue’s classes, but set conditions for entry. Before enrolling, students had to pass a life drawing test. [[*PV*]], 6:43–44.
 
-[^19]: In 1764 the comte de Caylus even proposed a slightly bizarre new Osteology Prize, with students competing to draw the best skeleton in “an interesting attitude.” The prize did not really take off. {{*PV*}}, 7:249.
+[^19]: In 1764 the comte de Caylus even proposed a slightly bizarre new Osteology Prize, with students competing to draw the best skeleton in “an interesting attitude.” The prize did not really take off. [[*PV*]], 7:249.
 
 [^20]: Jean-Antoine Houdon, 13 February 1776. Bibliothèque Municipal de Versailles, F946, no. 229, cited in *Jean-Antoine Houdon*, 64.
 
@@ -78,10 +79,10 @@ Houdon’s écorché survived its firing and the sculptor eventually presented o
 
 [^22]: Reduced-scale versions of Houdon’s écorché can be seen in paintings like Guillaume Voiriot’s *Portrait of Jean-Joseph Sue* (1789, Châteaux de Versailles et de Trianon) or Louis-Léopold Boilly’s *A Painter’s Studio* (ca. 1800, Washington, National Gallery of Art).
 
-[^23]: {{*PV*}}, 10:58, 187.
+[^23]: [[*PV*]], 10:58, 187.
 
 [^24]: Geneviève Bresc-Bautier, “Fonderie et ateliers du Roule,” *La Rue du Faubourg Saint-Honoré* (Paris: 1994), 373.
 
 [^25]: Gerhard Anton Von Halem, *Blicke auf einen Theil Deutschlands, der Schweiz und Frankreichs bey einer Reise vom Jahre 1790* (Hamburg: Carl Ernst Bohn: 1791), 1:84.
 
-[^26]: {{*PV*}}, 10:187
+[^26]: [[*PV*]], 10:187

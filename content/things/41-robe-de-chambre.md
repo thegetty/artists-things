@@ -1,15 +1,16 @@
 ---
-title: Robe de Chambre
+title: "Robe de Chambre"
+layout: essay
+order: 141
 owner:
   - first_name: Louis-Michel
     last_name: Van Loo
     years: (1707–71)
-Type: Apparel
-
-Theme: Gender, Identity, Luxury, Studio\
-Material: Textile / Silk, Textile / Wool\
+type: [Apparel]
+theme: [Gender, Identity, Luxury, Studio]
+material: [Textile / Silk, Textile / Wool]
 contributor:
-  -id: "kscott"
+  - id: "kscott"
 ---
 
 “Robe de chambre” (dressing gown), “robe de nuit” (nightgown), “Indienne” (India gown), “robe interieur” (house coat): these are just some of the words used in the eighteenth century to denote the garment depicted by Louis-Michel Van Loo in two self-portraits, the first in 1762, the second, a year later (figs. [137](#fig.-137), [138](#fig.-138)). The portraits describe a kimono-style *robe de chambre*. It has no arm or shoulder seams, and no revered collar. Instead, two widths of shot *bleu céleste* silk taffeta, joined, we infer, by a central seam at the back, fall over Van Loo’s shoulders and down the front. A small and simple upright band of silk inserted into slits on the shoulder line builds up the neck, and prevented the back seam from splitting.[^1] The detail of the visual record of cut, color and styling, the reproduction of the gown from different angles in the two self-portraits, and its reappearance in 1767 in Van Loo’s celebrated *Portrait of Diderot* (see [fig. 134](#fig.-134)), leads Lesley Miller to propose the existence of a model object, an actual dressing gown, one belonging to Van Loo and later lent to the *philosophe*.[^2] The self-portraits thus raise specific questions about Van Loo’s wardrobe and about how he wished to be seen and remembered. They also prompt general reflection on the practices and meaning of artists’ clothing before the emergence of self-consciously styled artistic dress in the nineteenth century.[^3]
@@ -42,7 +43,7 @@ At the time Louis-Michel painted his self-portraits, he was seeking appointment 
 
 [^3]: See Colin Cruise, “Artists’ Clothes,” in *The Gendered Object*, ed. Pat Kirkham (Manchester, Manchester University Press, 1996), 112–19; Elizabeth Wilson, “Bohemian Dress and the Heroism of Everyday Life,” *Fashion Theory* 2, no. 3 (1998): 225–44; and Robyne Calvert, “Manly Modes: Artistic Dress and the Styling of Masculine Identity,” *Visual Culture in Britain* 16, no. 2 (2015): 225–42.
 
-[^4]: Louis-Michel Van Loo,“Inventaire après décès,” {{AN}}, {{MC}}/ET/LVI/166, 22 April 1771. The sections of the inventory relating to clothes are published in *Autour des Vanloo: Peinture, commerce de tissus et espionage en Europe (1250–1830)*, ed. Christine Rolland (Rouen: Publications des Universités de Rouen et du Havre, 2012), 56–57.
+[^4]: Louis-Michel Van Loo,“Inventaire après décès,” [[AN]], [[MC]]/ET/LVI/166, 22 April 1771. The sections of the inventory relating to clothes are published in *Autour des Vanloo: Peinture, commerce de tissus et espionage en Europe (1250–1830)*, ed. Christine Rolland (Rouen: Publications des Universités de Rouen et du Havre, 2012), 56–57.
 
 [^5]: On court dress, see Daniel Roche, *The Culture of Clothing*, trans. Jean Birrell (Cambridge, England: Cambridge University Press, 1989), 184–220, 429–30.
 
@@ -98,7 +99,7 @@ At the time Louis-Michel painted his self-portraits, he was seeking appointment 
 
 [^31]: See **Decoration**. Also Benoît de Fauconpret, *Les chevaliers de Saint-Michel 1665–1790: Le premier ordre de mérite sociale* (Paris: Patrice du Puy, 2007).
 
-[^32]: See Étienne de La Font de Saint-Yenne, *Sentiments sur quelques ouvrages de peinture, sculpture et gravure*, in *La Font de Saint-Yenne: Oeuvre critique*, ed. Étienne Jollet (Paris: {{ENSBA}}, 2001), 286. Charles-Nicolas Cochin’s official reply on behalf of the Académie’s painters did not contradict the critique of the self-portrait. For a contrary view see abbé Charles Le Blanc, *Observations sur les ouvrages de MM. de l’Académie* (n.p., 1753), 11.
+[^32]: See Étienne de La Font de Saint-Yenne, *Sentiments sur quelques ouvrages de peinture, sculpture et gravure*, in *La Font de Saint-Yenne: Oeuvre critique*, ed. Étienne Jollet (Paris: [[ENSBA]], 2001), 286. Charles-Nicolas Cochin’s official reply on behalf of the Académie’s painters did not contradict the critique of the self-portrait. For a contrary view see abbé Charles Le Blanc, *Observations sur les ouvrages de MM. de l’Académie* (n.p., 1753), 11.
 
 [^33]: See Dandré Bardon, *La vie de Carle Van Loo*, 34.
 

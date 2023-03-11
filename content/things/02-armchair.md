@@ -1,15 +1,16 @@
 ---
-title: Armchair
+title: "Armchair"
+layout: essay
+order: 102
 owner:
   - first_name: Jean-Honoré
     last_name: Fragonard
     years: (1732–1806)
-Type: Furniture
-
-Theme: Administration, Louvre, Studio\
-Material: Leather/Parchment, Plant Matter / Cane, Plant Matter / Wood\
+type: [Furniture]
+theme: [Administration, Louvre, Studio]
+material: [Leather/Parchment, Plant Matter / Cane, Plant Matter / Wood]
 contributor:
-  -id: "kscott"
+  - id: "kscott"
 ---
 
 In the 1790s, Jean-Honoré Fragonard stopped painting. By this point in his life, he had enjoyed a long and successful career as an artist spanning three decades, scores of clients, hundreds of artworks (paintings and drawings), and had established a name with his distinctively bravura take on the rococo mode. Indeed, the only thing he had not achieved was admission to the Académie.[^1] But at the age of sixty, he made a career change and became a bureaucrat.[^2]
@@ -46,8 +47,8 @@ When considered from the perspective of his armchair, there was certainly as muc
 
 [^11]: McClellan, *Inventing the Louvre*, 91–123; and Rosenberg, “Fragonard,” 581–82.
 
-[^12]: Fragonard seems to have been living in the Louvre before he left for Grasse, as his name is included in a description from 1790: “Étatdes logemens,” transcribed in Jules Guiffrey, {{*NAAF*}}*,* 1873, 147. He then remained in the Louvre until the general eviction of all artists in 1805.
+[^12]: Fragonard seems to have been living in the Louvre before he left for Grasse, as his name is included in a description from 1790: “Étatdes logemens,” transcribed in Jules Guiffrey, [[*NAAF*]]*,* 1873, 147. He then remained in the Louvre until the general eviction of all artists in 1805.
 
-[^13]: The request of a ceiling painting for the Apollo Gallery was made following Fragonard’s *agrément* in 1766 ({{*PV*}}, 7:330–31). Ten years later, Fragonard wrote to the Académie seeking to be relieved of the obligation and it was agreed that he could submit an ordinary easel painting instead ({{*PV*}}, 8:242), but Fragonard never did that either.
+[^13]: The request of a ceiling painting for the Apollo Gallery was made following Fragonard’s *agrément* in 1766 ([[*PV*]], 7:330–31). Ten years later, Fragonard wrote to the Académie seeking to be relieved of the obligation and it was agreed that he could submit an ordinary easel painting instead ([[*PV*]], 8:242), but Fragonard never did that either.
 
 [^14]: Jacques-Louis David, *Rapport sur la suppression de la commission du Muséum* (Paris: Imprimerie Nationale, 1973), 5.

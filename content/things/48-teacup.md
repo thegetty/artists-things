@@ -1,15 +1,16 @@
 ---
-title: Teacup
+title: "Teacup"
+layout: essay
+order: 148
 owner:
   - first_name: Jean-Marc
     last_name: Nattier
     years: (1685–1766)
-Type: Collectible, Commodity, Intoxicant, Tableware
-
-Theme: Food and Drink, Global Commerce, Luxury, Studio\
-Material: Metal/Silver, Mineral/Clay\
+type: [Collectible, Commodity, Intoxicant, Tableware]
+theme: [Food and Drink, Global Commerce, Luxury, Studio]
+material: [Metal/Silver, Mineral/Clay]
 contributor:
-  -id: "kscott"
+  - id: "kscott"
 ---
 
 The court portrait painter Jean-Marc Nattier owned multiple teacups. To be exact, five sets in all: a set of six Japanese porcelain cups and saucers with a sugar bowl, a pair of “old Japan” covered cups mounted in ormolu, a set of six Meissen cups and saucers, and two sets of uncertain origin, one “Asian” and consisting of twelve cups and saucers, a teapot and a sugar bowl, and the remaining four cups and saucers described merely as of “red and white” china.[^1] Most, perhaps even all, of these cups were marked by travel. Having survived undamaged over sometimes vast distances and always against considerable odds, they partook of the marvelous and exotic.
@@ -34,7 +35,7 @@ Roche argues that in its passion for porcelain, the nobility sought to express i
 
 If we have come to know Nattier’s teacups better by this microhistory of their “lives” it has been not by the dictionary’s function to define but by history’s tracking of their movement across geographical, epistemological, social, and aesthetic spaces. For Nattier, like his patrons, his entanglement with these and other things was both exciting and disturbing. That he returned his teacups to the market in 1763 suggests that in the end, he failed to make them his own.
 
-[^1]: *Catalogue des desseins, tableaux, estampes, bronzes, porcelains et livres du cabinet de M. D\*\*\** \[Nattier\] (Paris: Joullain & Prault, 1763), 14–15.
+[^1]: *Catalogue des desseins, tableaux, estampes, bronzes, porcelains et livres du cabinet de M. D\*\*\** \[Nattier] (Paris: Joullain & Prault, 1763), 14–15.
 
 [^2]: See Carolyn Sargentson, *Merchants and Luxury Markets* (London: V&A, 1996); Stéphane Castelluccio, “Le goût pour l’Asie: Le commerce des objets chinois et japonais à Paris dans la première moitié du XVIII^e^ siècle,” in *Une des provinces du rococo: La Chine rêvée de François Boucher*, exh. cat. (Besançon: Musée des Beaux-Arts et d’Archéologie, 2019), 26–39.
 
@@ -42,7 +43,7 @@ If we have come to know Nattier’s teacups better by this microhistory of their
 
 [^4]: See Yohan Rimaud, “Les couleurs célèstes de la terre: La collection d’objets orientaux de François Boucher,” in *Une des provinces du rococo*, 62–75.
 
-[^5]: Pierre Rémy and Jean-Baptiste Glomy, *Catalogue raisonné des tableaux, sculptures . . . desseins et estampes, porcelains anciennes . . . qui composent le cabinet de feu M. le duc de Tallard* (Paris: Didot, 1756) (copy at {{INHA}}, Paris) lot 1043. There was a copy of the sale catalog in Nattier’s library, see \[Nattier\], *Catalogue*, 22: lot 44.
+[^5]: Pierre Rémy and Jean-Baptiste Glomy, *Catalogue raisonné des tableaux, sculptures . . . desseins et estampes, porcelains anciennes . . . qui composent le cabinet de feu M. le duc de Tallard* (Paris: Didot, 1756) (copy at [[INHA]], Paris) lot 1043. There was a copy of the sale catalog in Nattier’s library, see \[Nattier], *Catalogue*, 22: lot 44.
 
 [^6]: Renard, *Nattier*, 58.
 
@@ -54,7 +55,7 @@ If we have come to know Nattier’s teacups better by this microhistory of their
 
 [^10]: Rémy and Glomy, *Catalogue Tallard*, 256–57.
 
-[^11]: On Nattier’s sculpture, see \[Nattier\], *Catalogue*, 9.
+[^11]: On Nattier’s sculpture, see \[Nattier], *Catalogue*, 9.
 
 [^12]: Rémy and Glomy, *Catalogue Tallard*, lot 1089. Tea sets were not produced in Japan because the Japanese tea ceremony entailed selecting utensils specific to the occasion and the particular guests.
 
@@ -76,7 +77,7 @@ If we have come to know Nattier’s teacups better by this microhistory of their
 
 [^21]: Louis Le Comte, *Nouveaux mémoires sur l’état present de la Chine* (Paris, 1697), 1:258–59.
 
-[^22]: See Marie-Catherine Pauline Tocqué, “Vie de Jean-Marc Nattier,” in Jacqueline Lichtenstein and Christian Michel, *Conférences de l’Académie royale de peinture et de sculpture* (Paris: {{ENSBA}}, 2015) tome 6, vol. 2:919–33, at 932–33. Nattier was not alone in turning against his collection. According to Gougenot, Jean-Baptiste Oudry formed a collection “de vases, de figures, de porcelaines et de curiosités de la Chine,” but “il s’en dégoûta,” and he sold it for 9,000 livres. See Louis Gougenot, “Vie de M. Oudry,” {{*Mémoires inédits*}}, 2:371.
+[^22]: See Marie-Catherine Pauline Tocqué, “Vie de Jean-Marc Nattier,” in Jacqueline Lichtenstein and Christian Michel, *Conférences de l’Académie royale de peinture et de sculpture* (Paris: [[ENSBA]], 2015) tome 6, vol. 2:919–33, at 932–33. Nattier was not alone in turning against his collection. According to Gougenot, Jean-Baptiste Oudry formed a collection “de vases, de figures, de porcelaines et de curiosités de la Chine,” but “il s’en dégoûta,” and he sold it for 9,000 livres. See Louis Gougenot, “Vie de M. Oudry,” [[*Mémoires inédits*]], 2:371.
 
 [^23]: On Nattier’s portrait, see *Jean-Marc Nattier 1685–1766*, exh. cat. (Paris: Musée National des Chateaux de Versailles et de Trianon, 1999–2000), no. 39. In the British Museum, see a famille rose teapot with the d’Ailly coat of arms (Franks 808+), Jingdezhen, which belonged to the duc de Chaulnes’s father.
 

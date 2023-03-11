@@ -1,15 +1,16 @@
 ---
-title: Table
+title: "Table"
+layout: essay
+order: 147
 owner:
   - first_name: Jacques-Louis
     last_name: David
     years: (1748–1825)
-Type: Furniture, Prop, Symbolic Thing
-
-Theme: Antiquity, Family, Louvre, Making, Studio\
-Material: Metal/Bronze, Metal/Gold/Gilding, Plant Matter / Wood\
+type: [Furniture, Prop, Symbolic Thing]
+theme: [Antiquity, Family, Louvre, Making, Studio]
+material: [Metal/Bronze, Metal/Gold/Gilding, Plant Matter / Wood]
 contributor:
-  -id: "hwilliams"
+  - id: "hwilliams"
 ---
 
 In August 1789, Jacques-Louis David exhibited at the Salon his celebrated painting of *The Lictors Returning to Brutus the Bodies of His Sons* ([fig. 160](#fig.-160)). At this decisive moment, just weeks after the storming of the Bastille, the painting became an instant icon of revolutionary politics, a celebration of Republican ideals encapsulated in Brutus’s heroic self-sacrifice of having his own sons murdered when they conspired to restore the corrupt Tarquin monarchy and overthrow the new Roman Republic.[^1] Art historians have written at length about the significance of this now canonical painting, but generally overlooked in these political narratives is a seemingly inconsequential detail at the center of the composition. Almost completely hidden by a red cloth, but recognizable by its distinctive feet, is a table that David commissioned from the *menuisier* (cabinetmaker) Georges Jacob ([fig. 161](#fig.-161)).

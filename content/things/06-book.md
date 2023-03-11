@@ -1,5 +1,7 @@
 ---
-title: Book
+title: "Book"
+layout: essay
+order: 106
 owner:
   - first_name: Gilles-Marie
     last_name: Oppenord
@@ -7,10 +9,10 @@ owner:
   - first_name: Gabriel
     last_name: de Saint-Aubin
     years: (1724–80)
-Theme: Education, Leisure, Studio\
-Material: Synthetic Materials / Ink, Synthetic Materials / Paper\
+theme: [Education, Leisure, Studio]
+material: [Synthetic Materials / Ink, Synthetic Materials / Paper]
 contributor:
-  -id: "kscott"
+  - id: "kscott"
 ---
 
 Cesare Ripa, *Iconologia; ou Explication nouvelle de plusieurs images* (Paris, 1636) and Antoine-Joseph Pernéty, *Dictionnaire portatif de peinture, sculpture et gravure* (1757). Gilles-Marie Oppenord, architect, and Gabriel de Saint-Aubin, draftsman. Two books and two owners. How can we understand the relationship between these artists and the books they owned? That early modern artists were deeply invested in books as a sign of their status as liberal artists is to state the obvious. For Oppenord and Saint-Aubin it was perhaps particularly so since neither were academicians and thus beneficiaries of the reputation for learning that academic membership conferred. A better question is, how did artists read their books? The question is the more pertinent because reading habits were changing. Oppenord and Saint-Aubin belonged to different generations, the architect having grown up and established his career in the last decades of Louis XIV’s reign, while the draftsman came of age professionally at the time Louis XV began his personal rule in 1742, coincidentally also the year when Oppenord died. Comparison of the two artists’ relations with their books expressed in the marginalia they added to them provides material for thought on how such relations evolved.
@@ -33,7 +35,7 @@ Saint-Aubin read with a different kind of independence. His most consistent and 
 
 However, in the accompanying annotations Saint-Aubin’s reading urges him beyond illustrative repetition. It prompts in him the recollection and articulation of another discourse on color—everyday, concrete, retail talk of suppliers and prices. He takes a virtual tour of Paris to the best shops for **red lake**, orpiment, ultramarine, umber, and ivory black.[^14] He measures the rise and fall in prices over time. If we can assume that the paint brush preceded the pen in this independent reading, we can infer that Saint-Aubin’s autonomy was secured above all by the materiality of the text: by the layout of the page, by the gutter and margins. It was these physical properties that led to samples, and from samples to geography and accountancy. The marbled endpapers were further grist to Saint-Aubin’s private milling of the text ([fig. 16](#fig.-16)). At the front, easy to overlook, is a figure of a boatman curled into a landscape.’ Oppenord and Saint-Aubin responded quite differently to the circle. Oppenord works round the circles of Ripa’s emblems ([fig. 17](#fig.-17)), treating them as fixed features of the page, as monuments in a paper setting. He does not frame them, in the sense of setting them off with more of the same, he offsets them, throwing into relief their difference. Insofar as they are appropriated it is as found objects, not designs or signs. Saint-Aubin by contrast invades the page; his filling figure recasts the marbled paper as background. His is the reading response advocated by Leonardo (and I paraphrase):
 
-> \[L\]ook upon an old wall covered with dirt, or the odd appearance of some streaked stones and in them you will discover landscapes, battles, clouds, uncommon attitudes, funny faces, draperies etc. Out of this confused mass of objects, the mind will be furnished with an abundance of designs and subjects perfectly new.[^15]
+> \[L]ook upon an old wall covered with dirt, or the odd appearance of some streaked stones and in them you will discover landscapes, battles, clouds, uncommon attitudes, funny faces, draperies etc. Out of this confused mass of objects, the mind will be furnished with an abundance of designs and subjects perfectly new.[^15]
 
 Where Oppenord’s independent reading pursues and demonstrates learning, erudition, intellect, in the same humanist terms as Ripa’s *Iconologie*, Saint-Aubin’s strategies of reading and response reveal objectives quite at odds with those of Pernéty. They were at once more banal (the price of paint and canvas) and more inspired.
 
@@ -59,7 +61,7 @@ By contrast, such was the dirt and chaos of Saint-Aubin’s lodgings, Rue de Bea
 
 [^6]: His marks begin with the section on oil painting, xciii. Saint-Aubin put a cross by the statement that yellow and red orpiment should be used pure and not mixed; and on xcxvi, by the statement that retouches should be made with darks, not lights. “Particularly” is underlinedon cii for mixing vegetable colors with eel bile. Page numbers to the *Dictionnaire portatif* will hereafter be given in brackets in the text.
 
-[^7]: See *Oeuvres de Desgodets, Traité de la commodité de l’architecture*, copied by Jean Pinard, {{BnF}}, Département des Estampes et de la Photographie, Pet Fol-HA-23.
+[^7]: See *Oeuvres de Desgodets, Traité de la commodité de l’architecture*, copied by Jean Pinard, [[BnF]], Département des Estampes et de la Photographie, Pet Fol-HA-23.
 
 [^8]: Jean-François Bédard, *Decorative Games: Ornament, Rhetoric and Noble Culture in the Work of Gilles-Marie Oppenord (1672–1742)* (Newark: Associate University Presses, 2011), 18–19, 21.
 
@@ -91,10 +93,10 @@ By contrast, such was the dirt and chaos of Saint-Aubin’s lodgings, Rue de Bea
 
 [^22]: The portrait sketch on title page is of the publisher, Jean-Baptiste-Claude Bauche.
 
-[^23]: Gilles-Marie Oppenord, “Inventaire après décès,” 9 May 1742, {{AN}}, {{MC}}/ET/IV/517. His 234 volumes included dictionaries (Bayle, Moreri, Richelet, Furetière, Bruzen de la Martinière), history (Anselme, Mezeray, Fleury, Rollin), and literature (Fénelon, Corneille, Molière, and Swift).
+[^23]: Gilles-Marie Oppenord, “Inventaire après décès,” 9 May 1742, [[AN]], [[MC]]/ET/IV/517. His 234 volumes included dictionaries (Bayle, Moreri, Richelet, Furetière, Bruzen de la Martinière), history (Anselme, Mezeray, Fleury, Rollin), and literature (Fénelon, Corneille, Molière, and Swift).
 
 [^24]: Germain Brice, *Description de la ville de Paris* (Paris: Fournier, 1713), 1:127.
 
 [^25]: Mireille Rambeau, *Documents du Minutier Central concernant l’histoire de l’art (1700–1750)*, 2 vols (Paris: Imprimerie Nationale, 1964–71), 2:146.
 
-[^26]: See Jules Guiffrey, “Scellés et inventaires d’artistes, 1771–1790,” {{*NAAF*}}*,* 1885, 3:105–7.
+[^26]: See Jules Guiffrey, “Scellés et inventaires d’artistes, 1771–1790,” [[*NAAF*]]*,* 1885, 3:105–7.

@@ -1,15 +1,16 @@
 ---
-title: Gaming Set
+title: "Gaming Set"
+layout: essay
+order: 118
 owner:
   - first_name: Jean-Étienne
     last_name: Liotard
     years: (1702–89)
-Type: Commodity, Container, Gift
-
-Theme: Global Commerce, Leisure, Luxury, Travel\
-Material: Shell, Plant Matter / Wood, Synthetic Materials / Lacquer, Synthetic Materials / Paper Textile / Silk\
+type: [Commodity, Container, Gift]
+theme: [Global Commerce, Leisure, Luxury, Travel]
+material: [Shell, Plant Matter / Wood, Synthetic Materials / Lacquer, Synthetic Materials / Paper Textile / Silk]
 contributor:
-  -id: "hwilliams"
+  - id: "hwilliams"
 ---
 
 Jean-Étienne Liotard’s gaming set is an exquisite Chinese box, by origin and operation: an exotic luxury object that entices at every layer of its unboxing ([fig. 60](#fig.-60)).[^1] Kept in storage in the Musée d’art et d’histoire in Liotard’s hometown of Geneva, the set still resides in its original traveling box, made to measure from rough wooden boards, painted black on the outside, with the artist’s initials, JEL, still legible on a handwritten label in the corner. Protected inside is the set’s principal container: a sumptuous black and gold lacquer box, decorated all over with botanical designs and his initials again, this time more formally, painted in a cartouche on the lid. Opening that lid, the unpacker is greeted by five smaller lacquer boxes nestled perfectly within, decorated in a similar fashion to the main box, complete with initialed cartouches, but each one slightly individualized by the form or placement of a leaf or stem. With the final layer of boxes reached, the next mystery is their contents. Two of the small boxes are empty, presumably left so in order to accommodate two decks of cards, which would fit comfortably in their confines. The other three together contain the ultimate treasure trove: 140 mother-of-pearl counters—20 oval, 40 round, and 80 shuttle-shaped—each incised with more decorative designs and every single one bearing the artist’s initials in the center ([fig. 61](#fig.-61)).
@@ -40,7 +41,7 @@ Though created to fulfil a specific leisurely purpose, Liotard’s Chinese lacqu
 
 [^6]: Marcel Roethlisberger and Renée Loche, *Liotard: Catalogue, sources, et correspondence*, 2 vols. (Doornspijk: Davaco, 2008), 1:45.
 
-[^7]: On the empress’s interest in lacquer, see: Michael Yonan, “Veneers of Authority: Chinese Lacquers in Maria Theresa’s Vienna,” {{*ECS*}} 37, no. 4 (2004): 652–72.
+[^7]: On the empress’s interest in lacquer, see: Michael Yonan, “Veneers of Authority: Chinese Lacquers in Maria Theresa’s Vienna,” [[*ECS*]] 37, no. 4 (2004): 652–72.
 
 [^8]: This timing corresponds both with the dating of the object and the period in which Boston was first being played. On the gift of the coffee service, see Jean-Étienne Liotard to his son, Jean-Étienne Liotard, 27 May 1783, in Roethlisberger and Loche, *Liotard*, 2:767.
 

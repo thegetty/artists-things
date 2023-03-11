@@ -1,15 +1,16 @@
 ---
-title: Almanac
+title: "Almanac"
+layout: essay
+order: 101
 owner:
   - first_name: Claude-Joseph
     last_name: Vernet
     years: (1714–89)
-Type: Instrument
-
-Theme: Everyday, Travel\
-Material: Synthetic Materials / Paper\
+type: [Instrument]
+theme: [Everyday, Travel]
+material: [Synthetic Materials / Paper]
 contributor:
-  -id: "kscott"
+  - id: "kscott"
 ---
 
 Almanacs are calendars, first and foremost. According to an eighteenth-century dictionary definition, *calendar* was in fact a synonym of *almanac* because the almanac invariably begins with a table of the days of the year, arranged in rows and gathered into weeks and months, no matter what else it also contained.[^1] The almanac proper condensed an impressive amount of astronomical, theological, meteorological, and astrological knowledge (solar and lunar orbits, Catholic feasts and saints’ days, weather warnings, and signs of the zodiac) embedding it in the typographical design by use of columns, variations in type, signs, symbols, and figures, in additional, of course, to numerals. Although the result was a dense, consolidated matrix of abstruse information, almanacs nevertheless remained easy to understand and simple to use. Their purpose was to measure time, not by the hour, like clocks and **watches**, but by the day.
@@ -28,7 +29,7 @@ To propose such an interpretation presumes the correlation of historical change 
 
 Did Vernet perceive this turning point as a new beginning not only personally but professionally? Did he intend, with the almanac’s help, to find a different way, a more disciplined way, of working and thinking about work, one in which time was reckoned in standard units, regularly performed and coordinated with the actions of others—one in short, that calendars facilitate? The exchange of letters between Vernet and Marigny during the course of the execution of the *Ports of France* provides some provisional answers.
 
-On 1 August 1763 Vernet wrote to Marigny for his orders on which port to paint next, pressing him for a decision because of “the lateness of the season in regard to the things \[*opérations*\] I must undertake.”[^22] There was a season to landscape and a time to the purpose of depicting it: the “beautiful” days of summer, stretching into early autumn.[^23] In the *Port of Dieppe* ([fig. 3](#fig.-3)), the modest Normandy port proposed as the subject by Vernet and accepted by Marigny, the time of painting coincides with the time depicted. Vernet arrived in September 1763 and portrayed the quayside at dawn decked with the night’s catch of skate, rays, herring, and conger eel, fish harvested with lines and nets in late summer and early autumn.[^24] Moreover, the sharp observation of the patterns of light and shadow cast by the sun, rising, off-stage to the right, and captured seemingly in the dawn moment, suggests a natural synchrony between the diurnal rhythms of fishing and painting. But if Vernet’s reference to the time of painting in the letters is couched in the vocabulary of nature, the temporal categories he used to articulate his “operations,” and to report on his progress was much more calculating and abstract. When estimating the time needed to rough out, paint, and finish one his ports, he reckoned in days and working weeks, measurements of time that in the letters chime with the schedules of the postal system that delivered his canvases to Paris, rather than the order of nature.[^25]
+On 1 August 1763 Vernet wrote to Marigny for his orders on which port to paint next, pressing him for a decision because of “the lateness of the season in regard to the things \[*opérations*] I must undertake.”[^22] There was a season to landscape and a time to the purpose of depicting it: the “beautiful” days of summer, stretching into early autumn.[^23] In the *Port of Dieppe* ([fig. 3](#fig.-3)), the modest Normandy port proposed as the subject by Vernet and accepted by Marigny, the time of painting coincides with the time depicted. Vernet arrived in September 1763 and portrayed the quayside at dawn decked with the night’s catch of skate, rays, herring, and conger eel, fish harvested with lines and nets in late summer and early autumn.[^24] Moreover, the sharp observation of the patterns of light and shadow cast by the sun, rising, off-stage to the right, and captured seemingly in the dawn moment, suggests a natural synchrony between the diurnal rhythms of fishing and painting. But if Vernet’s reference to the time of painting in the letters is couched in the vocabulary of nature, the temporal categories he used to articulate his “operations,” and to report on his progress was much more calculating and abstract. When estimating the time needed to rough out, paint, and finish one his ports, he reckoned in days and working weeks, measurements of time that in the letters chime with the schedules of the postal system that delivered his canvases to Paris, rather than the order of nature.[^25]
 
 There is a case for saying that Vernet was compelled so to reckon time more abstractly by Marigny’s micromanagement of the project through the continuous flow of his letters enjoining the painter to keep to his task and deliver to schedule.[^26] Marigny met with some resistance. Vernet reminded the director of the constraints on speed that the frailties of the body and the materiality of paint imposes: the body must rest to recover from illness, paint must dry.[^27] Ultimately, however, Marigny’s ability to impose time discipline on Vernet was frustrated not by fever or the tackiness of black but by the exchequer.[^28] With the out-break of the Seven Years’ War in 1757, regular payments for the *Ports* in cash and on receipt ended.[^29] Vernet asked permission to take on private work to mitigate the effects of delayed payment.[^30] Marigny initially refused. He argued that the *Ports of France* was a “collection,” that is, an indivisible entity, and as such, Vernet having accepted the commission, he was bound to its continuous serial production.[^31] Vernet, on the other hand, considered the *Ports* piecework, like any other commission, that is, a discontinuous series, production of which stopped and restarted with receipt of payment. Thus, where patron and painter were as one in reckoning time in more-or-less standard units, and on concentrating work by efficiencies of organization,[^32] they were at odds over regularity in production.
 
@@ -46,7 +47,7 @@ However, his purchase of an almanac in 1763 is less likely the response of ident
 
 [^5]: Lagrange, *Vernet*, 390. On the almanac as a New Year present, see *Mémoires et journal de J. G. Wille, graveur du roi*, ed. Georges Duplessis (Paris: Renouard, 1857), 2:82.
 
-[^6]: Claude-Joseph Vernet, “Inventaire après décès,” 2 March 1790, {{AN}}, {{MC}}/ET/LXV/369.
+[^6]: Claude-Joseph Vernet, “Inventaire après décès,” 2 March 1790, [[AN]], [[MC]]/ET/LXV/369.
 
 [^7]: Almanacs retained their value as directories; Vernet renewed his in 1771. See Lagrange, *Vernet*, 398.
 

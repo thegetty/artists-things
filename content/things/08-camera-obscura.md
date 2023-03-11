@@ -1,15 +1,16 @@
 ---
-title: Camera Obscura
+title: "Camera Obscura"
+layout: essay
+order: 108
 owner:
   - first_name: Charles
     last_name: Parrocel
     years: (1688–1752)
-Type: Instrument
-
-Theme: Making, Studio\
-Material: Plant Matter / Wood, Synthetic Materials / Glass\
+type: [Instrument]
+theme: [Making, Studio]
+material: [Plant Matter / Wood, Synthetic Materials / Glass]
 contributor:
-  -id: "kscott"
+  - id: "kscott"
 ---
 
 A *chambre noire*, or camera obscura, in a case was inventoried in the studio of the battle painter and academician Charles Parrocel at his death in 1752.[^1] The camera obscura is an optical instrument that by alignment of a biconvex lens with a mirror projects a righted image of objects in the sun-lit world onto a two-dimensional surface in a darkened “room.” Parrocel’s camera was itemized as “for drawing,” and it was very likely of the desktop variety illustrated as figure 2 in plate 4 of “Drawing,” in Diderot and d’Alembert’s *Encyclopédie* ([fig. 21](#fig.-21)).[^2] The text of the plate itemized the components of the instrument but provided no instructions for use, observing only that, contrary to the reader’s expectation, the view seen by the projectionist lies behind, and not in front of them. The surprise that the writer anticipated this revelation would provoke suggests that although the camera obscura was a familiar object in scientific circles in mid-eighteenth-century France, it was still something of a novelty in the art world.[^3]
@@ -36,7 +37,7 @@ Light was a precondition of that experience, of which the camera, by the differe
 
 One of the problems created by this shift to the interior was, as Alpers, notes, the isolation of the artist.[^34] Parrocel’s natural melancholy was according to Cochin exacerbated by his distance from the center of Paris and his friends at the Louvre.[^35] Of course, melancholy had been a literary trope in the discourse on the artist since Vasari at least.[^36] In Cochin’s “La vie de Parrocel,” however, it is not a sign of genius but a symptom of psychosis. What he describes as melancholy we term paranoia. Believing that the superiority of his talent was insufficiently recognized, Parrocel felt persecuted; imagined hostile motives in the behavior of brother academicians; became progressively self-absorbed, secretive, and aloof. Relevant here is that neither the privilege of a royal studio nor access to modern, optical instruments appear to have given Parrocel a sense of agency; on the contrary, he believed himself to be the victim of forces beyond his control. The painter Nicolas Lancret was, apparently, the embodiment of those forces.[^37] Parrocel experienced Lancret’s commercial and popular success with domestic genre, with subjects native to the studio as interior, as a humiliating injustice. We catch a glimpse here of the dark side of Enlightenment and the progress of commercial culture, or the distorted images that mirrors and lenses can produce.[^38]
 
-[^1]: Charles Parrocel, “Inventaire après décès,” 3 June 1752, {{AN}}, {{MC}}/ET/CXXII/684.
+[^1]: Charles Parrocel, “Inventaire après décès,” 3 June 1752, [[AN]], [[MC]]/ET/CXXII/684.
 
 [^2]: Plate IV, “Dessein,” *Encyclopédie*, <https://encyclopedie.uchicago.edu/>*,* 22:7.
 
@@ -45,9 +46,9 @@ One of the problems created by this shift to the interior was, as Alpers, notes,
 
 [^4]: See Martin Kemp, *The Science of Art* (London: Yale University Press 1990), chapter 4.
 
-[^5]: Louis Gougenot, “Vie de Jean-Baptiste Oudry,” in {{*Mémoires inédits*}}, 2:377–78.
+[^5]: Louis Gougenot, “Vie de Jean-Baptiste Oudry,” in [[*Mémoires inédits*]], 2:377–78.
 
-[^6]: Charles-Nicolas Cochin, “Vie de Parrocel,” {{*Mémoires inédits*}}*,* 404–27; Joseph-Antoine Dézallier d’Argenville, *Abrégé de la vie des plus fameux peintres* (Paris: De Bure, 1762), 4:429–34; and Pierre-Jean Mariette, *Abecedario de P.-J. Mariette*, ed. Anatole de Montaiglon (Paris: J. B. Dumoulin, 1853–62), 4:82–83.
+[^6]: Charles-Nicolas Cochin, “Vie de Parrocel,” [[*Mémoires inédits*]]*,* 404–27; Joseph-Antoine Dézallier d’Argenville, *Abrégé de la vie des plus fameux peintres* (Paris: De Bure, 1762), 4:429–34; and Pierre-Jean Mariette, *Abecedario de P.-J. Mariette*, ed. Anatole de Montaiglon (Paris: J. B. Dumoulin, 1853–62), 4:82–83.
 
 [^7]: David Hockney, *Secret Knowledge: Rediscovering the Lost Techniques of the Old Masters* (Harmonsworth: Thames and Hudson, 2001).
 
@@ -59,7 +60,7 @@ One of the problems created by this shift to the interior was, as Alpers, notes,
 
 [^11]: The room is called a “salle” in the *inventaire*.
 
-[^12]: {{AN}}, {{MC}}/ET/CXXII/684, 3 June 1752.
+[^12]: [[AN]], [[MC]]/ET/CXXII/684, 3 June 1752.
 
 [^13]: Only two of the three commissioned works recorded in Charles-Nicolas Cochin’s biography of Parrocel were executed. This scene did not progress beyond the preparatory stage. See Cochin, “Vie de Charles Parrocel,” 409. On record of the commission in the Bâtiments’s accounts, see Fernand Engerand, *Inventaire des tableaux commendés et achetés par la direction des bâtiments du roi (1709–1792)* (Paris: E. Leroux, 1900), 381–82.
 
@@ -95,13 +96,13 @@ One of the problems created by this shift to the interior was, as Alpers, notes,
 
 [^29]: Svetlanta Alpers, “The Studio, the Laboratory and the Vexations of Art,” in *Picturing Science, Producing Art*, ed. Caroline A. Jones and Peter Galison (New York: Routledge, 1998), 401–17.
 
-[^30]: {{AN}}, {{MC}}/ET/CXXII/684, 3 June 1752.
+[^30]: [[AN]], [[MC]]/ET/CXXII/684, 3 June 1752.
 
 [^31]: Alpers, “The Studio,” 410.
 
 [^32]: Engerand, *Inventaire des tableaux*, 384–85, ft. 5.
 
-[^33]: {{AN}}, {{MC}}/ET/CXXII/684, 3 June 1752.
+[^33]: [[AN]], [[MC]]/ET/CXXII/684, 3 June 1752.
 
 [^34]: Alpers, “The Studio,” 411.
 

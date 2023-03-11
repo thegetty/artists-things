@@ -1,15 +1,16 @@
 ---
-title: Wig
+title: "Wig"
+layout: essay
+order: 153
 owner:
   - first_name: Claude-Joseph
     last_name: Vernet
     years: (1714–89)
-Type: Apparel
-
-Theme: Gender, Luxury, Studio\
-Material: Hair, Synthetic Materials / Plaster, Textile / Silk\
+type: [Apparel]
+theme: [Gender, Luxury, Studio]
+material: [Hair, Synthetic Materials / Plaster, Textile / Silk]
 contributor:
-  -id: "hwilliams"
+  - id: "hwilliams"
 ---
 
 In July 1762 Claude-Joseph Vernet was on the hunt for a new wigmaker. He had just arrived in Paris after nearly ten years traveling around the country—from Marseille to La Rochelle—painting his twenty Ports of France. After this long peripatetic stage of his career, Vernet was keen to settle his family and establish his artistic practice in the capital. His first activities in this endeavor addressed the essentials of Parisian life: wig and wardrobe. According to the purchases he recorded in his **order book**, Vernet began by kitting out the family in the latest fashions: a mantelet and headdress for Madame Vernet, bonnets and collars for the children, and a new silk suit for himself.[^1] Shopping for clothes proved straightforward, but the wig situation involved a more assiduous search. After all, this was not just a one-off commercial transaction like buying a hat, but rather the beginning of a significant new relationship.
@@ -26,11 +27,11 @@ From Vernet’s financial expenditures, material surroundings, and personal rela
 
 [^1]: Léon Lagrange, *Joseph Vernet et la peinture au XVIII siècle, avec le texte des livres de raison et un grand nombre de documents inédits* (Paris: Didier et Compagnie, 1864), 119, 388.
 
-[^2]: Mary K. Gayne, “Illicit Wigmaking in Eighteenth-Century Paris,” {{*ECS*}} 38, no. 1 (2004): 121.
+[^2]: Mary K. Gayne, “Illicit Wigmaking in Eighteenth-Century Paris,” [[*ECS*]] 38, no. 1 (2004): 121.
 
 [^3]: Lagrange, *Joseph Vernet*, 388.
 
-[^4]: François-Alexandre-Pierre Garsault, *Art du perruquier, contenant la façon de la barbe, la coupe des cheveux, la construction des perruques d’hommes et de femmes, le perruquier en vieux, et le baigneur-étuviste* (n.p. 1767), 6. On artists and hair trends, see Alden Cavanaugh, “The Coiffure of Jean-Baptiste Greuze,” {{*ECS*}} 38, no. 1 (2004): 165–81.
+[^4]: François-Alexandre-Pierre Garsault, *Art du perruquier, contenant la façon de la barbe, la coupe des cheveux, la construction des perruques d’hommes et de femmes, le perruquier en vieux, et le baigneur-étuviste* (n.p. 1767), 6. On artists and hair trends, see Alden Cavanaugh, “The Coiffure of Jean-Baptiste Greuze,” [[*ECS*]] 38, no. 1 (2004): 165–81.
 
 [^5]: Garsault, *Art du perruquier*, 7–8.
 
@@ -50,4 +51,4 @@ From Vernet’s financial expenditures, material surroundings, and personal rela
 
 [^13]: Lagrange, *Joseph Vernet*, 430.
 
-[^14]: For Vernet’s wardrobe see Claude Joseph Vernet, “Inventaire après décès,” 2 March 1790, {{AN}}, {{MC}}/ET/LVI/369.
+[^14]: For Vernet’s wardrobe see Claude Joseph Vernet, “Inventaire après décès,” 2 March 1790, [[AN]], [[MC]]/ET/LVI/369.

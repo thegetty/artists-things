@@ -1,15 +1,16 @@
 ---
-title: Pastels
+title: "Pastels"
+layout: essay
+order: 135
 owner:
   - first_name: Suzanne
     last_name: Giroust
     years: (1734–72)
-Type: Tool
-
-Theme: Making, Studio\
-Material: Mineral/Chalk, Synthetic Materials / Paint/Pigment\
+type: [Tool]
+theme: [Making, Studio]
+material: [Mineral/Chalk, Synthetic Materials / Paint/Pigment]
 contributor:
-  -id: "hwilliams"
+  - id: "hwilliams"
 ---
 
 Clutching a tray of vibrantly colored pastel sticks, Suzanne Giroust appears to have been searching for the right one ([fig. 125](#fig.-125)). Seated before her easel, in the company of her husband, she is painting a pastel portrait of a family friend.[^1] Her **color box** is open beside her, a white **handkerchief** lies at the ready to wipe the constant chalky dust from her hands, and a knife rests nearby to sharpen a stick should finer lines be required. From her cluttered assortment of colors, Giroust has made her selection—a deep blue—now held lightly in her fingers and about to be deployed. But first she looks up, casting a final glance at her sitter to confirm her choice by scrutinizing his garment once more. As a representation of the studio setting, this portrait of Giroust by her husband, Alexandre Roslin, offers some sense of the processes and substances of pastel painting: from the equipment and media required, to the patterns and activities of their employment. But there is a pervasive incongruity in this encounter. As a material experience, the art of pastel is presented to us here not actually *in* pastel, but in Roslin’s own preferred medium of oil.[^2] We find ourselves thus witness to an awkward moment of artistic tension, invited (ostensibly) to marvel at a celebration of pastel, but instead facing an implicit declaration of oil’s superiority. While it plays out here in the domestic context of Roslin and Giroust’s relationship, pastel was a medium that, in the artistic hierarchies of eighteenth-century France, was quite habituated to underestimation, latent or otherwise.
@@ -44,7 +45,7 @@ Despite inventive fixing technologies, pastel’s fragile materiality did restri
 
 [^10]: Majorie Shelley, “Painting in the Dry Manner: The Flourishing of Pastel in 18th-Century Europe,” *The Metropolitan Museum of Art Bulletin* 68, no. 4 (Spring 2011): 5–8.
 
-[^11]: Françoise-Marguerite Desbois (wife of Jean-Nicolas Vernezobre), “Inventaire après décès,” 11 March 1760, {{AN}}, {{MC}}/ET/CXXII/711.
+[^11]: Françoise-Marguerite Desbois (wife of Jean-Nicolas Vernezobre), “Inventaire après décès,” 11 March 1760, [[AN]], [[MC]]/ET/CXXII/711.
 
 [^12]: On storing pastels, see Chaperon, *Traité*, 26.
 
@@ -54,11 +55,11 @@ Despite inventive fixing technologies, pastel’s fragile materiality did restri
 
 [^15]: On fixing methods and substances, see Chaperon, *Traité*, 307–29.
 
-[^16]: Entry for 6 October 1753, {{*PV*}}, 6:367.
+[^16]: Entry for 6 October 1753, [[*PV*]], 6:367.
 
 [^17]: Charles-Nicolas Cochin, “Arts utiles et agréables,” *Journal encyclopédique* 6, no. 2 (September 1772): 476.
 
-[^18]: Jean-Jacques Bachelier was the other tester: 6 June 1772, {{*PV*}}, 8:101. Giroust would die prematurely of breast cancer only a few months later on 31 August 1772.
+[^18]: Jean-Jacques Bachelier was the other tester: 6 June 1772, [[*PV*]], 8:101. Giroust would die prematurely of breast cancer only a few months later on 31 August 1772.
 
 [^19]: Chaperon, *Traité de la peinture*, 10–11.
 

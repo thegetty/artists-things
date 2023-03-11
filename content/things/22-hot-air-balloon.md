@@ -1,15 +1,16 @@
 ---
-title: Hot-Air Balloon
+title: "Hot-Air Balloon"
+layout: essay
+order: 122
 owner:
   - first_name: Jean-François
     last_name: Janinet
     years: (1752–1814)
-Type: Vehicle
-
-Theme: Invention, Leisure, Studio, Travel\
-Material: Textile / Canvas\
+type: [Vehicle]
+theme: [Invention, Leisure, Studio, Travel]
+material: [Textile / Canvas]
 contributor:
-  -id: "kscott"
+  - id: "kscott"
 ---
 
 According to Denis Diderot, the material conditions for something to be called “balloon” are that it is round and hollow, no matter how it is made, or what it is for.[^1] A balloon is an envelope, casing, or wrapper that encompasses something other. Does it qualify as a thing, specifically an artist’s thing? Should we not, rather, be indexing it by its contents? At the time of the *Encyclopédie*’s publication (1751–77) “balloon” was generally a glass object, a component in a scientific apparatus used in chemical and physical experiments to produce compound substances such as the pigments verdigris and orpiment.[^2] The printmaker Janinet’s balloon was, however, a different, inflatable type of thing, a hot-air balloon, the invention of which in 1783 was the by-product of the seventeenth century’s discovery of the materiality, that is the weight, of air. We have a scrap of the cerulean balloon that Janinet and the abbé Miollan were primed to launch from the Luxembourg gardens on 11 July 1784 ([fig. 77](#fig.-77)).
@@ -50,7 +51,7 @@ The thrust of the caricatures, satirical songs, and critiques that flooded the m
 
 [^11]: See the debate in the *Journal de Paris*, 30 August 1783.
 
-[^12]: *Journal de Paris*, 29 March 1784. Jean Sgard argues in “Les philosophes montgolfères,” {{*SVEC*}}, 303 (1992): 105 that ballooning was the occasion for putting into practice the enlightened principles of the *Encyclopédie*.
+[^12]: *Journal de Paris*, 29 March 1784. Jean Sgard argues in “Les philosophes montgolfères,” [[*SVEC*]], 303 (1992): 105 that ballooning was the occasion for putting into practice the enlightened principles of the *Encyclopédie*.
 
 [^13]: *Journal de Paris*, 21 March 1784, 29 March 1784. Montfort is identified as “ancien officier d’artilerie” and “Directeur des plans en relief des fortifications du Royaume.”
 

@@ -1,15 +1,16 @@
 ---
-title: Dog
+title: "Dog"
+layout: essay
+order: 114
 owner:
   - first_name: Joseph-Siffred
     last_name: Duplessis
     years: (1725–1802)
-Type: Companion, Gift
-
-Theme: Animal, Family, Friendship, Louvre\
-Material: Animal\
+type: [Companion, Gift]
+theme: [Animal, Family, Friendship, Louvre]
+material: [Animal]
 contributor:
-  -id: "hwilliams"
+  - id: "hwilliams"
 ---
 
 What is a dog doing in a book about things? Like many artists before and since, Joseph-Siffred Duplessis lived with a dog. On the one hand, Duplessis’s pet was a possession, something that belonged to him, like any other item of property in his Louvre *logement* (his **bath**, for instance, discussed elsewhere in this book). On the other hand, as an animate being rather than an inanimate object, the dog was unlike anything else in his home and unlike nearly everything else in this book. Like Collot’s **nightingale**, the only other animal in this collection of things, Duplessis’s dog holds an ambiguous place in these pages: a thing with value (both monetary and sentimental) and material properties, which Duplessis acquired, owned, maintained, and eventually disposed of; but also, a living creature who could behave independently of its owner and with whom Duplessis could interact and relate in very different ways. Pondering the “thingness” of Duplessis’s dog draws us into distinctly Enlightenment debates about the subjectivity of animals, a subject that many philosophers, naturalists, and theologians explored at length, usually as terrain for understanding the human condition. Were animals, following Descartes, simply automata, machines without thought, language or feeling?[^1] Or were they, as the abbé de Condillac argued, sentient beings capable of reflection, sociability, and emotion?[^2] Modern perceptions of animals incline firmly to the latter, but Duplessis’s dog invites us to consider the nature of the pet in the eighteenth century.[^3] What role did the dog play in this artist’s life? And what was the affective relationship between this particular master and hound?
@@ -26,7 +27,7 @@ Be it in representations of endearing cognizant spaniels or in epistolary revela
 
 Duplessis may have been more dependent on his dog than some people, but he was far from alone in his canine preferences. Dogs were, according to the naturalist Louis-Jean-Marie Daubenton, the most popular pets in eighteenth-century France because they were the animals that attached themselves most easily to humans.[^7] It is difficult to discern quite how many of Duplessis’s colleagues were fellow dog owners, because the animals seldom appear in archival records: there was no paperwork associated with dog ownership (no licenses or permits), and unlike inanimate objects, they do not feature in after-death inventories. But if family portraits are evidence to go by, then other dog-owning artists certainly emerge. Nicolas de Largillière appears to have been the proud owner of a charming Doguin or Pug, who springs into the foreground of the painter’s *Portrait of the Artist and His Family* ([fig. 43](#fig.-43)). Jean-Baptiste Isabey meanwhile is shown with a larger dog—an early Pinscher or Terrier, or a mixed breed, known at the time as a “chien des rues” (street dog)—who bounds up the steps in his collar to join his master in François Gérard’s *Jean-Baptiste Isabey and His Daughter, Alexandrine* ([fig. 44](#fig.-44)).[^8] Choice of breed, as ever, reveals something about the owner, even if merely a suggestion of lifestyle.[^9] Largillière’s pug—a favored lapdog of noble ladies—conjures urbane and aristocratic connotations, while Isabey’s seems a more practical choice, both Pinschers and Terriers being bred to chase vermin (particularly useful for any artist living in the Louvre, which was known to have a rat problem).[^10] While the breed of Duplessis’s beloved old dog remains unknown, the breed of his potential new dog is mentioned explicitly as a Braque, a type of French hunting dog, usually white with brown or black markings, distinguished by its large hanging ears.[^11] Rather than indicating any inclination on Duplessis’s part to engage in sporting activities, his choice seems to have been entirely determined by the fact that this was the type of dog that d’Angiviller bred. Indeed, Duplessis specifies that he wanted a Braque “de petite espèce” (of a small size), suggesting he was aware that this was not the most appropriate breed for an urban lifestyle and ensuring he got a small one that would be content living in his Louvre lodgings.
 
-As source proved more important than suitability for Duplessis, in this instance, choice of breed reveals less about the painter’s lifestyle and more about his relationship with the *directeur général des bâtiments*. For as much as this is a story about a man and his dog, it is also a story about an artist and his patron. At the very end of his letter, Duplessis makes quite overt how entwined the two relationships were, adding a final rhetorical flourish to drive home his request: “If I got it \[the dog\] from you, I would love it even more, and I could say in truth that I do not possess anything—not even my dog—that was not a kindness from you.”[^12]
+As source proved more important than suitability for Duplessis, in this instance, choice of breed reveals less about the painter’s lifestyle and more about his relationship with the *directeur général des bâtiments*. For as much as this is a story about a man and his dog, it is also a story about an artist and his patron. At the very end of his letter, Duplessis makes quite overt how entwined the two relationships were, adding a final rhetorical flourish to drive home his request: “If I got it \[the dog] from you, I would love it even more, and I could say in truth that I do not possess anything—not even my dog—that was not a kindness from you.”[^12]
 
 In a deft display of professional bargaining (or emotional manipulation, depending how you read it), Duplessis made a plea that would have been difficult to refuse. Not only did he solicit the dog as a gift, he also established the terms upon which that gift would be given, namely a “bienfait”—an act of kindness. Like any other academician living in the Louvre, Duplessis was dependent on the *directeur général des bâtiments* as both employer and landlord. Wielding power over an artist’s professional success and their quotidian comforts, it was d’Angiviller who distributed the commissions for royal portraits that had made Duplessis’s name, and d’Angiviller who made every decision about lodgings in the Louvre (including the drama of Duplessis’s **bath**). In the context of that dynamic, the painter’s request for a dog was a dexterous ploy to push their professional relationship firmly into the personal: this particular “kindness” would be a gift from the man (d’Angiviller), rather than the role (the *directeur général des bâtiments*). Indeed, it is hard to imagine any other inanimate object being quite as effective in this regard as the dog. Not only did Duplessis connect with d’Angiviller’s own penchant for dogs (and his preferred breed), but even more compellingly, Duplessis’s affective relationship with the dog became a proxy for tacitly expressing an affective relationship with the comte: were it a gift from *you*, “I would love it even more.” Sadly, there is no surviving response to Duplessis’s letter, so we may never know the outcome of his impassioned canine gambit.
 
@@ -36,7 +37,7 @@ In a deft display of professional bargaining (or emotional manipulation, dependi
 
 [^3]: On modern relationships between dogs and humans, see Majorie Garber, *Dog Love* (New York: Touchstone, 1996).
 
-[^4]: Letter from Duplessis to d’Angiviller, 15 August 1788, {{AN}}, O^1^1674. Jules Belleudy, *J-S Duplessis, peintre du roi, 1725–1802* (Chartres: Durand, 1908), 106.
+[^4]: Letter from Duplessis to d’Angiviller, 15 August 1788, [[AN]], O^1^1674. Jules Belleudy, *J-S Duplessis, peintre du roi, 1725–1802* (Chartres: Durand, 1908), 106.
 
 [^5]: Duplessis made these remarks in another letter to d’Angiviller. Belleudy, *Duplessis*, 97.
 
@@ -52,4 +53,4 @@ In a deft display of professional bargaining (or emotional manipulation, dependi
 
 [^11]: On dogs and hunting in this period, see Amy Freund, “Sexy Beasts: The Politics of Hunting Portraiture in Eighteenth-Century France,” *Art History* 42, no. 1 (2019): 40–67.
 
-[^12]: Letter from Duplessis to d’Angiviller, 15 August 1788, {{AN}}, O^1^1674. Belleudy, *Duplessis*, 106.
+[^12]: Letter from Duplessis to d’Angiviller, 15 August 1788, [[AN]], O^1^1674. Belleudy, *Duplessis*, 106.

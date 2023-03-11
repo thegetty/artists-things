@@ -1,15 +1,16 @@
 ---
-title: Wine
+title: "Wine"
+layout: essay
+order: 155
 owner:
   - first_name: Alexis
     last_name: Grimou
     years: (1678–1733)
-Type: Intoxicant, Tableware
-
-Theme: Community, Death, Everyday, Food and Drink, Global Commerce, Leisure\
-Material: Plant Matter/ Red Lake, Synthetic Materials / Glass\
+type: [Intoxicant, Tableware]
+theme: [Community, Death, Everyday, Food and Drink, Global Commerce, Leisure]
+material: [Plant Matter/ Red Lake, Synthetic Materials / Glass]
 contributor:
-  -id: "hwilliams"
+  - id: "hwilliams"
 ---
 
 From the historian’s perspective, it is fitting that this book of artists’ things should end with wine. Not just because of its associations with toasting endings and beginnings, but because wine has so often been the first “thing” encountered in our inquiries into the material worlds of eighteenth-century artists. When notaries undertook the lengthy task of an estate inventory, itemizing the contents of a deceased person’s home, they usually started their cataloging efforts in the *cave* (cellar), which, if the dwelling had one, was the most common space for storing one’s wine. Consequently, wine regularly features in the initial glimpse of an artist’s material possessions, offering tantalizing insights into the extent of their wealth, their tastes as a consumer, and, above all, their drinking proclivities.
@@ -28,17 +29,17 @@ Yet after the painter’s death in 1733, these epicurean images took a less mirt
 
 Grimou’s self-portraits certainly emphasize the sensory qualities of wine, but in doing so, they also bring us back to its thingness. This is a different sense of thingness from wine’s existence as property found in those artists’ inventories: contained in bottles and casks; valued for its regional origins and the quality of its vintage; sold, bought, and then stored in a cellar. Instead, Grimou’s paintings attend to the feel of wine as a substance: the tactility of the glass vessels that hold it; the viscosity of its liquid form; the resonance of its translucent color; the depth of its taste; and the warm glow of its gently intoxicating effects on the body and mood of the drinker. Here, as often throughout this book, the artist’s portraits gesture to the relationship between owner and thing. Where notarized inventories clarify the facts of property (who owned what), these images speak to engagement, connection, and interaction (what it meant to possess that thing). As an act of self-representation, Grimou’s portraits draw the artist out of the working space of the studio into the social space of the tavern, constructing a self-image, via things, that lingers in a post-Regency mood of light indulgence, while gently mocking the formal pretensions of his academic colleagues. Grimou adopts the habitual pose of self-portraiture, but replaces the “things” conventionally held. Abandoning the tools of **palette** and brush, Grimou instead takes up those vessels of leisure—bottle and glass—and raises a toast with his beholder to the entwined connoisseurial pleasures of art and wine.
 
-[^1]: Jean-Baptiste Greuze, “Inventaire après décès,” 25 March 1805. {{AN}}, {{MC}}/ET/XVI/960.
+[^1]: Jean-Baptiste Greuze, “Inventaire après décès,” 25 March 1805. [[AN]], [[MC]]/ET/XVI/960.
 
-[^2]: Jean-Siméon Chardin, “Inventaire après décès,” 18 December 1779. {{AN}}, {{MC}}/ET/LVI/246.
+[^2]: Jean-Siméon Chardin, “Inventaire après décès,” 18 December 1779. [[AN]], [[MC]]/ET/LVI/246.
 
-[^3]: Charles-Antoine Coypel, “Inventaire après décès,” 25 September 1752. {{AN}}, {{MC}}/ET/LXXVI/337.
+[^3]: Charles-Antoine Coypel, “Inventaire après décès,” 25 September 1752. [[AN]], [[MC]]/ET/LXXVI/337.
 
 [^4]: On the wine trade, see Jacques Savary des Bruslons, *Dictionnaire universel de commerce* (Waesberge: Jansons, 1726–32), 1950–63.
 
 [^5]: Daniel Roche, *A History of Everyday Things: The Birth of Consumption in France, 1600–1800*, trans. Brian Pearce (Cambridge: Cambridge University Press, 2000), 232.
 
-[^6]: Charles-Antoine Coypel, “Inventaire après décès,” 25 September 1752. {{AN}}, {{MC}}/ET/LXXVI/337337; Jean-Baptiste-Marie Pierre, “Inventaire après décès,” 25 May 1789, {{AN}}, {{MC}}/ET/XXXI/253; François-Hubert Drouais, “Inventaire après décès,” 12 December 1775, {{AN}}, {{MC}}/ET/LIII/521; and Joseph Vernet, “Inventaire après décès,” 2 March 1790, {{AN}}, {{MC}}/ET/LVI/369.
+[^6]: Charles-Antoine Coypel, “Inventaire après décès,” 25 September 1752. [[AN]], [[MC]]/ET/LXXVI/337337; Jean-Baptiste-Marie Pierre, “Inventaire après décès,” 25 May 1789, [[AN]], [[MC]]/ET/XXXI/253; François-Hubert Drouais, “Inventaire après décès,” 12 December 1775, [[AN]], [[MC]]/ET/LIII/521; and Joseph Vernet, “Inventaire après décès,” 2 March 1790, [[AN]], [[MC]]/ET/LVI/369.
 
 [^7]: Pierre had fifty-five bottles and three large casks of wines from Burgundy, but only three bottles of wine from Champagne. Le Prince had a cask of champagne and sixty bottles of red wine from Champagne in his country house and a smaller cask of red from Champagne in his Louvre apartment. The *scellé* (30 September 1781) and inventory (10 October 1781) of these properties are transcribed in Jules Hédou, *Jean Le Prince et son oeuvre* (Paris: Baur, 1879), 209 and 260. On the Burgundy-Champagne rivalry in the eighteenth century, see Jean-Baptiste de Salins, *Défense du vin de Bourgogne contre le vin de Champagne* (Paris: 1702).
 
@@ -50,16 +51,16 @@ Grimou’s self-portraits certainly emphasize the sensory qualities of wine, but
 
 [^11]: This included eight *pièces* (approximately 183 liters) and one *demi-pièce* (approximately 91 liters) at Lagny-sur-Marne, and nine *demi-pièces* and a *feuillette* (approximately 137 liters each) at the Louvre. Hédou, *Jean Le Prince*, 209, 260.
 
-[^12]: “Information faite par le commissaire Daminois au sujet de la mort violente du sieur Lemoyne,” {{*NAAF*}}*,* 1877, 195.
+[^12]: “Information faite par le commissaire Daminois au sujet de la mort violente du sieur Lemoyne,” [[*NAAF*]]*,* 1877, 195.
 
-[^13]: Savary des Bruslons, *Dictionnaire universel*, 1954–55. Étienne Jeaurat’s brother, François, was a *marchand de vin* living on the same street as the painter in the 1740s (possibly in the same dwelling), {{AN}}, {{MC}}/ET/CXV/548.
+[^13]: Savary des Bruslons, *Dictionnaire universel*, 1954–55. Étienne Jeaurat’s brother, François, was a *marchand de vin* living on the same street as the painter in the 1740s (possibly in the same dwelling), [[AN]], [[MC]]/ET/CXV/548.
 
 [^14]: For the case reports, see Jules Guiffrey, *Scellés et inventaires d’artistes français du XVII^e^ et du XVIII^e^ siècle* (Paris: Charavay, 1884), 1:394–417. On Godefroy’s connections to the neighborhood, see: Noémie Étienne, “A Family Business: Picture Restorers in the Louvre Quarter,” *Journal18* 2 (2016), <https://www.journal18.org/830>.
 
 [^15]: Melissa Percival, “Taste and Trade: The Drinking Portraits of Alexis Grimou (1678–1733),” *Art Bulletin* 101, no. 1 (2019): 19–20.
 
-[^16]: “\[U\]n franc ivrogne.” *Abecedario de P. J. Mariette*, Philippe de Chennevières and Anatole de Montaiglon eds. (Paris: Dumoulin, 1853–1854), 2:335–36. On Grimou’s posthumous biographical narrative, see George Levitine, “The Eighteenth-Century Rediscovery of Alexis Grimou and the Emergence of the Proto-Bohemian Image of the French Art,” {{*ECS*}} 2, no. 1 (1968): 58–76.
+[^16]: “\[U]n franc ivrogne.” *Abecedario de P. J. Mariette*, Philippe de Chennevières and Anatole de Montaiglon eds. (Paris: Dumoulin, 1853–1854), 2:335–36. On Grimou’s posthumous biographical narrative, see George Levitine, “The Eighteenth-Century Rediscovery of Alexis Grimou and the Emergence of the Proto-Bohemian Image of the French Art,” [[*ECS*]] 2, no. 1 (1968): 58–76.
 
-[^17]: Grimou was *agréé* in 1705 but never submitted his reception pieces; his provisional status was cancelled in 1709. {{*PV*}}, 4:78–79. The Académie’s vision of the guild as a community of bawdy drinkers was cemented in the institution’s first set of Statutes (1648), where Article III banned its members from all “drunkenness, debauchery, and gambling.” {{*PV*}}, 1:7.
+[^17]: Grimou was *agréé* in 1705 but never submitted his reception pieces; his provisional status was cancelled in 1709. [[*PV*]], 4:78–79. The Académie’s vision of the guild as a community of bawdy drinkers was cemented in the institution’s first set of Statutes (1648), where Article III banned its members from all “drunkenness, debauchery, and gambling.” [[*PV*]], 1:7.
 
 [^18]: Percival, “Taste and Trade,” 6–25.

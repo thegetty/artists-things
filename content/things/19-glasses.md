@@ -1,15 +1,16 @@
 ---
-title: Glasses
+title: "Glasses"
+layout: essay
+order: 119
 owner:
   - first_name: François-André
     last_name: Vincent
     years: (1746–1816)
-Type: Apparel, Instrument
-
-Theme: Health/Medicine, Invention, Making, Studio\
-Material: Metal/Bronze, Metal/Steel, Synthetic Materials / Glass\
+type: [Apparel, Instrument]
+theme: [Health/Medicine, Invention, Making, Studio]
+material: [Metal/Bronze, Metal/Steel, Synthetic Materials / Glass]
 contributor:
-  -id: "hwilliams"
+  - id: "hwilliams"
 ---
 
 It is difficult to take one’s eyes off François-André Vincent’s glasses. In his portrait, at forty-nine, painted by Adélaïde Labille-Guiard—a lifelong acquaintance who would become his wife five years later—Vincent’s glasses are a conspicuous accessory ([fig. 65](#fig.-65)).[^1] They occupy only a fraction of the canvas’s surface area, but their location over the eyes of the sitter—where the beholder’s own eyes are inevitably drawn and redrawn—ensure that this optical device becomes the focus of everyone’s gaze. Yet what is perhaps most distracting about Vincent’s glasses is less their lenses than their arms. Compositionally and formally, these insistent appendages demand attention, with their sudden stark linearity amid the soft contours of his face, with the darkness of the metal against his pale skin and gray hair, and with the quietly observed detail of their engineered construction. The lug and hinge at the front, where the arm meets the frame, is a regular feature of spectacles to this day; but far less familiar to the modern eye is the other end, where instead of curving gently around the ear, the arm bends abruptly at a sharp angle behind Vincent’s head. This tiny detail may also have caught the attention of Vincent’s contemporaries, though for entirely different reasons. For what appears today as a cumbersome outmoded feature was, in the eighteenth-century, the height of optometric technology.
@@ -42,13 +43,13 @@ Vincent’s glasses were thus an indispensable tool for the middle-aged artist, 
 
 [^8]: Mitouflet Thomin died in 1752.
 
-[^9]: There were also five “opticiens,” two of whom were based on the Île de la Cité, one on Quai de l’Horloge. *Almanach du Commerce et de toutes les addresses de la ville de Paris* (Paris: Favre, Year VII \[1798\]), 238–39, 361.
+[^9]: There were also five “opticiens,” two of whom were based on the Île de la Cité, one on Quai de l’Horloge. *Almanach du Commerce et de toutes les addresses de la ville de Paris* (Paris: Favre, Year VII \[1798]), 238–39, 361.
 
 [^10]: Vitols, *Dictionnaire des lunettes*, 116.
 
-[^11]: Vincent was first granted apartments in the Louvre in 1784; he and Labille-Guiard moved to the former College des Quatre Nations in 1802. Jules-Joseph Guiffrey, “Brevets de logements dans la galerie du Louvre,” {{*NAAF*}}*,* 1873, 101; and Jean-Pierre Cuzin, *François-André Vincent, 1746–1816* (Paris: Arthena, 2013), 322–23.
+[^11]: Vincent was first granted apartments in the Louvre in 1784; he and Labille-Guiard moved to the former College des Quatre Nations in 1802. Jules-Joseph Guiffrey, “Brevets de logements dans la galerie du Louvre,” [[*NAAF*]]*,* 1873, 101; and Jean-Pierre Cuzin, *François-André Vincent, 1746–1816* (Paris: Arthena, 2013), 322–23.
 
-[^12]: François-André Vincent, “Inventaire après décès,” 9 August 1816, {{AN}}, {{MC}}/ET/LXIV/577. The inventory also mentions “trois paires de ciseaux,” which may have been either scissors or *binocles ciseaux* (pairs of corrective lenses with a single central handle). For Vincent’s inventory, see also Cuzin, *François-André Vincent*, 524–31.
+[^12]: François-André Vincent, “Inventaire après décès,” 9 August 1816, [[AN]], [[MC]]/ET/LXIV/577. The inventory also mentions “trois paires de ciseaux,” which may have been either scissors or *binocles ciseaux* (pairs of corrective lenses with a single central handle). For Vincent’s inventory, see also Cuzin, *François-André Vincent*, 524–31.
 
 [^13]: Mansfield and Cuzin both discuss Vincent’s health problems, recorded in various primary sources. These mostly relate to a delicate constitution in his youth (due to which he suffered in the heat and sun of Rome) and nervous attacks in his later years. Elizabeth C. Mansfield, *The Perfect Foil: François-André Vincent and the Revolution in French Painting* (Minneapolis: University of Minnesota Press, 2012), 5, 56–57; and Cuzin, *François-André Vincent*, 61.
 

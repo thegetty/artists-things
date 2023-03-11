@@ -1,15 +1,16 @@
 ---
-title: Color Box
+title: "Color Box"
+layout: essay
+order: 110
 owner:
   - first_name: Jean-Honoré
     last_name: Fragonard
     years: (1732–1806)
-Type: Container, Tool
-
-Theme: Global Commerce, Making, Studio, Travel\
-Material: Plant Matter / Cork, Plant Matter / Wood, Synthetic Materials / Glass, Synthetic Materials / Paint/Pigment\
+type: [Container, Tool]
+theme: [Global Commerce, Making, Studio, Travel]
+material: [Plant Matter / Cork, Plant Matter / Wood, Synthetic Materials / Glass, Synthetic Materials / Paint/Pigment]
 contributor:
-  -id: "hwilliams"
+  - id: "hwilliams"
 ---
 
 Upstairs in the Villa-Musée Fragonard, in the southern French town of Grasse, where Jean-Honoré Fragonard was born, there is a shallow wooden box ([fig. 28](#fig.-28)). Inside, its colorful contents immediately conveys its function. Divided into nine compartments, the box is home to eighteen cork-stoppered glass bottles, slightly varied in shape, each filled with a different ground pigment and labeled by hand: Prussian blue, burnt sienna, carmine, etc. Along with the colors, the three compartments at the front are designed to house tools, with central dividers carved to a curve, so utensils can rest without rolling away. The bits and pieces left include an ebony stick, some well-worn blending stumps, and a fine brush darkened at the tip. Covered in marks and stains, this unassuming box is thought to have belonged to one of the best- and least-known painters of eighteenth-century France.[^1] Celebrated for the distinctive painterly canvases that have secured his place in the canon of European art, Fragonard is nevertheless still surprisingly enigmatic as a person.[^2] The color box thus presents a compelling material trace, promising a personal connection otherwise limited by archival sources. Now residing in a museum installed in the house of Fragonard’s cousin, where the painter lived for a year in the 1790s, the color box offers vivid insights into the practicalities and economics of eighteenth-century art making and an alternative view of the materiality of Fragonard’s painterly practice.
@@ -38,7 +39,7 @@ On the outside of the box, across its lid, there is a final trace of ownership i
 
 [^4]: Fragonard was awarded the Académie’s *grand prix* in 1752, then entered the École des Élèves Protégés from 1753 to prepare for Rome. On the Académie de France in Rome during this period: Reed Benhamou, *Charles Natoire and the Académie de France à Rome: A Re-Evaluation* (Oxford: Voltaire Foundation, 2015).
 
-[^5]: Vien was director in Rome from 1775 to 1781. Article IV, “Règlemens qui doivent être observés par les pensionnaires de l’Académie de France à Rome,” in {{*CDR*}}, 13:159.
+[^5]: Vien was director in Rome from 1775 to 1781. Article IV, “Règlemens qui doivent être observés par les pensionnaires de l’Académie de France à Rome,” in [[*CDR*]], 13:159.
 
 [^6]: *Bergeret et Fragonard: Journal inédit d’un voyage en Italie, 1773–1774* (Paris: May et Motteroz, 1895). See also Pierre de Nolhac, “Fragonard en Italie d’après le journal de Bergeret de Grancourt,” *Revue des deux mondes* 41 (1917): 613–29.
 
@@ -46,11 +47,11 @@ On the outside of the box, across its lid, there is a final trace of ownership i
 
 [^8]: Alexander Kraft, “On the Discovery and History of Prussian Blue,” *Bulletin of the History of Chemistry* 33, no. 2 (2008): 61–67; and R. D. Harley, *Artists’ Pigments c. 1600–1835: A Study in English Documentary Sources*, 2nd ed. (London: Butterworth, 1982), 70–74, 166–72.
 
-[^9]: 23 August 1771, {{*PV*}}, 8:82.
+[^9]: 23 August 1771, [[*PV*]], 8:82.
 
-[^10]: 29 September 1781, {{*PV*}}, 9:80. In 1783, the Royal Society of Arts in London offered a prize for a harmless method of preparing lead white, without much success. Harley, *Artists’ Pigments*, 168–69.
+[^10]: 29 September 1781, [[*PV*]], 9:80. In 1783, the Royal Society of Arts in London offered a prize for a harmless method of preparing lead white, without much success. Harley, *Artists’ Pigments*, 168–69.
 
-[^11]: 22 June 1782, {{*PV*}}, 9:114; and 6 July 1782, {{*PV*}}, 9:116.
+[^11]: 22 June 1782, [[*PV*]], 9:114; and 6 July 1782, [[*PV*]], 9:116.
 
 [^12]: Martine Jaoul et al., *Des teintes et des couleurs* (Paris: RMN, 1988), 52–53; and Hannah Williams, “Artists and the City: Mapping the Art Worlds of Eighteenth-Century Paris,” *Urban History* 46, no. 1 (2019): 106–31.
 

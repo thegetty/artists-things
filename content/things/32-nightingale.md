@@ -1,15 +1,16 @@
 ---
-title: Nightingale
+title: "Nightingale"
+layout: essay
+order: 132
 owner:
   - first_name: Marie-Anne
     last_name: Collot
     years: (1748–1821)
-Type: Gift
-
-Theme: Animal, Gender, Identity, Money\
-Material: Animal\
+type: [Gift]
+theme: [Animal, Gender, Identity, Money]
+material: [Animal]
 contributor:
-  -id: "kscott"
+  - id: "kscott"
 ---
 
 On 15 May 1769 a nightingale arrived at the residence of the French sculptor Marie-Anne Collot in Saint Petersburg, together with the following note from the empress Catherine II to Étienne-Maurice Falconet, Collot’s master, whom she had accompanied to Russia: “Beg Mlle Collot to be kind to this little wild thing (*petit sauvage*).”[^1] Collot was in a state of heightened anticipation and anxiety apparently, the bird having been announced for some time.[^2] Five days earlier the gift had suddenly seemed in doubt. Catherine had written to say that not one bird in song could be found in the city though the feast day of Saints Peter and Paul, ordinarily the time when nightingales fall silent, had yet to pass.[^3] Collot’s wholehearted joy at the nightingale’s eventual arrival did not, however, suspend Catherine’s caution to hang cage and bird outside her palace lodgings, because “no one can long endure his song indoors.”[^4] What are we to make of this thing, a thing that proved both so difficult to give, because of the unpredictability of the creature’s performance, and a challenge to receive, because wild and excessive in song? Our knowledge of Collot’s life and career is largely indirect, refracted through Falconet’s correspondence with the empress and with the *philosophe* Denis Diderot (see **quill**). Does the nightingale, her very own thing, speak to us more directly about her?
@@ -62,11 +63,11 @@ Regarded as the origin of music, birdsong symbolized freedom and imitation of na
 
 [^14]: On Catherine’s commissions see Réau, *Falconet*, 2:429–48; and Marie-Liesse Pierre-Dulau, “Trois artistes à Saint-Petersburg au XVIII^e^ siècle,” in *L’Influence française au XVIII^e^ siècle*, ed. Jean-Pierre Poussou, Anne Mézin, and Yves Perret-Gentil (Paris: Presses de l’Université de Paris-Sorbonne, 2004), 148–56.
 
-[^15]: See Louis Réau, “Contrat de marriage de Pierre-Étienne Falconet et de Marie-Anne Collot, 27 juillet 1777,” {{*BSHAF*}} (1918–19): 157–61. Collot did not enter into a “communauté de biens” with her husband, as was then the custom (see **marriage contract** and **burin**) but expressly retained control of her own money.
+[^15]: See Louis Réau, “Contrat de marriage de Pierre-Étienne Falconet et de Marie-Anne Collot, 27 juillet 1777,” [[*BSHAF*]] (1918–19): 157–61. Collot did not enter into a “communauté de biens” with her husband, as was then the custom (see **marriage contract** and **burin**) but expressly retained control of her own money.
 
-[^16]: See Louis Réau, “Inventaire après décès de M. Falconet 31 janvier, 1791,” {{*BSHAF*}} (1918–19), 163–68.
+[^16]: See Louis Réau, “Inventaire après décès de M. Falconet 31 janvier, 1791,” [[*BSHAF*]] (1918–19), 163–68.
 
-[^17]: See \[Nicolas Venette\], *Traité du rossignol qui enseigne la manière de les connoître et de les élever* (Paris: Claude Prudhomme, 1707) preface (unpaginated); Nobleville, *Aëdologie*, i; Jean-Claude Hervieux de Chanteloup’s *Nouveau traité des serins de canarie* (Paris: Claude Prudhomme, 1713) was dedicated, however, to the princesse de Condé. Hervieux was the keeper of her aviary. On the visual discourse, see René Démoris, “L’oiseau et sa cage en peinture,” *Lumières* 5 (2005): 29–48.
+[^17]: See \[Nicolas Venette], *Traité du rossignol qui enseigne la manière de les connoître et de les élever* (Paris: Claude Prudhomme, 1707) preface (unpaginated); Nobleville, *Aëdologie*, i; Jean-Claude Hervieux de Chanteloup’s *Nouveau traité des serins de canarie* (Paris: Claude Prudhomme, 1713) was dedicated, however, to the princesse de Condé. Hervieux was the keeper of her aviary. On the visual discourse, see René Démoris, “L’oiseau et sa cage en peinture,” *Lumières* 5 (2005): 29–48.
 
 [^18]: Julia Breittruck, “Pet Birds. Cages and Practices of Domestication in Eighteenth-Century Paris,” *Interdisciplines* 1 (2012): 6–23. See, also, for example, Hervieux de Chanteloup, *Nouveau traité des serins*, 14–25, esp. 22; and Nobleville, *Aëdologie*, 58.
 
@@ -82,13 +83,13 @@ Regarded as the origin of music, birdsong symbolized freedom and imitation of na
 
 [^24]: On pets in the human/animal debate, see Marc Shell, “The Family Pet,” *Representations* 15 (1986): 121–53.
 
-[^25]: Georges Louis Leclerc, comte de Buffon called nightingales “carnivors,” in contrast to grain-eating, and by implication, tamer canaries. See Buffon, *Histoire naturelle des oiseaux* \[1770–83\] (Dordrecht, Blusse, 1796), 4:2. Venette called nightingales “birds of prey” in *Traité*, 56.
+[^25]: Georges Louis Leclerc, comte de Buffon called nightingales “carnivors,” in contrast to grain-eating, and by implication, tamer canaries. See Buffon, *Histoire naturelle des oiseaux* \[1770–83] (Dordrecht, Blusse, 1796), 4:2. Venette called nightingales “birds of prey” in *Traité*, 56.
 
 [^26]: Buffon, *Histoire naturelle*, 4:2. Nobleville disagreed: see *Aëdologie*, 83–93. See also Marc Shell, “Animals That Talk,” *Differences: A Journal of Feminist Cultural Studies* 15, no. 1 (2004): 93–5.
 
 [^27]: Buffon, *Histoire* naturelle, 4:1–2. According to the ornithologist Tim Birkhead the failure of nightingales to learn songs other than their own may in fact have been consequent on the lack of incentive to persuade them to so. See T. R. Birkhead and S. van Balen, “Bird-Keeping and the Development of Ornithological Science,” *Archives of Natural History* 35, no. 2 (2008): 283.
 
-[^28]: Buffon, *Histoire naturelle* 4:2. See also \[Venette\], *Traité*, 13, 34 and Nobleville, *Aëdologie*, 8. Both Venette and Nobleville insist that nightingales do not flock together, even when migrating. The English language does, however, possess a collective noun for nightingales: a watch.
+[^28]: Buffon, *Histoire naturelle* 4:2. See also \[Venette], *Traité*, 13, 34 and Nobleville, *Aëdologie*, 8. Both Venette and Nobleville insist that nightingales do not flock together, even when migrating. The English language does, however, possess a collective noun for nightingales: a watch.
 
 [^29]: Nobleville, *Aëdologie*, 2. The nightingale’s Latin name, *Luscinia*, can be translated as “little-seen songster,” from the Latin “luscus,” “half-blind,” or “half-understood” and “cano,” “to sing.”
 
@@ -104,7 +105,7 @@ Regarded as the origin of music, birdsong symbolized freedom and imitation of na
 
 [^35]: See Matthew Head, “Birdsong and the Origins of Music,” *Journal of the Royal Musical Association* 122 (1997): 1–23.
 
-[^36]: \[Venette\], *Traité*, 44.
+[^36]: \[Venette], *Traité*, 44.
 
 [^37]: Nobleville, *Aëdologie*, 7–8.
 

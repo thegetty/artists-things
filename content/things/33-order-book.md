@@ -1,15 +1,16 @@
 ---
-title: Order Book
+title: "Order Book"
+layout: essay
+order: 133
 owner:
   - first_name: Louis-Jean-François
     last_name: Lagrenée
     years: (1724–1805)
-Type: Tool
-
-Theme: Administration, Antiquity, Everyday, Identity, Louvre, Money, Studio, Travel\
-Material: Synthetic Materials / Ink, Synthetic Materials / Paper\
+type: [Tool]
+theme: [Administration, Antiquity, Everyday, Identity, Louvre, Money, Studio, Travel]
+material: [Synthetic Materials / Ink, Synthetic Materials / Paper]
 contributor:
-  -id: "hwilliams"
+  - id: "hwilliams"
 ---
 
 “This book was written by Lagrenée, History Painter, Director of the Académie in Rome” ([fig. 114](#fig.-114)). Inscribed on the first page of a large notebook, roughly 23 by 17 centimeters, these handwritten words serve as the makeshift title page to Louis-Jean-François Lagrenée’s order book.[^1] Yet from page one, the order promised by this document is disrupted by the disorder in its making. For while Lagrenée served as director of the Académie de France in Rome from October 1781 until September 1787, the book’s contents suggest that he started keeping it much earlier, about a decade before he could have styled himself with this particular institutional moniker.[^2] Like many other pages in this book then, the title page was written out of order, either added in its entirety at a later date, or updated with a new title when its author was too.
@@ -34,9 +35,9 @@ Lagrenée was certainly not alone among his colleagues in keeping an order book,
 
 It seems fitting to end by returning to the beginning, back on Lagrenée’s title page, where, on its verso, we find the final annotation ever made in the book and the most out of order of all. Made not by its original owner, but a subsequent one, the words were written by one of the Goncourt brothers, those celebrated nineteenth-century collectors and historians of the eighteenth-century art world. Having purchased the order book as an item of interest, the brothers accessioned it into their collection, getting it rebound with a monogrammed cover and inscribing it on the back of the title page with a cataloging description. Highlighting its historical significance, they described it as a “document without which it would be impossible to write the life of this likeable French painter.” Like the metal plaque added to Jacques-Louis David’s **table** by his heirs, this inscription pulls the object into its future afterlife—recalling its passage from everyday item in an eighteenth-century studio, to documentary evidence in the historiographical narratives of French art—a trajectory which would surely have delighted the self-historicizing Lagrenée.
 
-[^1]: The manuscript is now in the collection of the {{INHA}} in Paris. It has recently been digitized: <https://bibliotheque-numerique.inha.fr/viewer/32482>.
+[^1]: The manuscript is now in the collection of the [[INHA]] in Paris. It has recently been digitized: <https://bibliotheque-numerique.inha.fr/viewer/32482>.
 
-[^2]: Lagrenée’s appointment had been determined by 14 February 1781, so that seems the earliest possible moment for the inscription of the words “directeur de l’Académie à Rome.” Letter from comte d’Angiviller to Jean-Baptiste-Marie Pierre (14 February 1781), in {{*CDR*}}, 14:82.
+[^2]: Lagrenée’s appointment had been determined by 14 February 1781, so that seems the earliest possible moment for the inscription of the words “directeur de l’Académie à Rome.” Letter from comte d’Angiviller to Jean-Baptiste-Marie Pierre (14 February 1781), in [[*CDR*]], 14:82.
 
 [^3]: “Livres (commerce),” *Encyclopédie*, <https://encyclopedie.uchicago.edu/>, 9:613. On the legal role of the *livre de raison*, see Michel Cassan and Christine Nougaret, “Une typologie des écrits du for privé,” in *Les Écrits du for privé en France de la fin du Moyen Âge à 1914*, ed. Jean-Pierre Bardet and François-Joseph Ruggiu (Éditions de Comité des travaux historiques et scientifiques, 2014), 76–77.
 
@@ -48,9 +49,9 @@ It seems fitting to end by returning to the beginning, back on Lagrenée’s tit
 
 [^7]: The dating of Lagrenée’s oeuvre here follows Marc Sandoz’s catalogue raisonnée. It is another fascinating sign of the potential disorder of Lagrenée’s inventory that Sandoz felt the need to reorder it in accordance with his own cataloging system. See Sandoz, *Les Lagrenée*, 359–73.
 
-[^8]: Jules Guiffrey, “Brevet de logement dans la Galerie du Louvre,” {{*NAAF*}} (Paris: Charavay Frères, 1873), 95, 97.
+[^8]: Jules Guiffrey, “Brevet de logement dans la Galerie du Louvre,” [[*NAAF*]] (Paris: Charavay Frères, 1873), 95, 97.
 
-[^9]: Rigaud’s *livres de raison* are held in the libraries of the Institut de France and {{ENSBA}}, Paris. The most comprehensive study is Joseph Roman, *Le livre de raison du peintre Hyacinthe Rigaud* (Paris: Laurens, 1919).
+[^9]: Rigaud’s *livres de raison* are held in the libraries of the Institut de France and [[ENSBA]], Paris. The most comprehensive study is Joseph Roman, *Le livre de raison du peintre Hyacinthe Rigaud* (Paris: Laurens, 1919).
 
 [^10]: Oudry’s albums are held in the Musée du Louvre. They were analyzed as “liber veritatis” in Hal Opperman, *Jean-Baptiste Oudry (1686–1755)*, PhD diss., University of Chicago, 1972, 2 vols. (New York: Garland, 1977), 2:608*–*40.
 
