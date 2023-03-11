@@ -6,12 +6,12 @@
 // To avoid errors, variables names should not be changed or deleted, and be
 // sure to leave the colons (:) and semi-colons (;) in place.
 
-$accent-color: null;
+$accent-color: #e0582a;
 $content-background-color: null; // main text area background color
 $secondary-background-color: null; // only for modern theme
 
 // Declare the theme: modern/classic
-$theme: modern;
+$theme: classic;
 
 // Declare the navbar color style: normal/accent
 $navbar: normal;
@@ -22,6 +22,14 @@ $navbar: normal;
 // -----------------------------------------------------------------------------
 // This theme includes three embedded, open license fonts, and also uses
 // the widely available Times (files of which are not otherwise included here).
+
+
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400;1,600&family=Mulish:ital,wght@0,700;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+$lora: 'Lora', serif;
+$mulish: 'Mulish', sans-serif;
+$source-sans-pro: 'Source Sans Pro', sans-serif;
+
 $ibm-sans: 'IBM Plex Sans Condensed', sans-serif;
 $noto-sans: 'Noto Sans', sans-serif;
 $noto-serif: 'Noto Serif', serif;
@@ -73,10 +81,10 @@ $print-entry-image-display: all; // first | all
 // Themes
 // -----------------------------------------------------------------------------
 // Declare theme variables
-$quire-primary-font: null; // body and menu text
-$quire-headings-font: null; // headings
-$quire-footnotes-font: null; // footnotes and page backmatter
-$quire-navigation-font: null; // navbar and next/prev buttons
+$quire-primary-font: $lora; // body and menu text
+$quire-headings-font: $mulish; // headings
+$quire-footnotes-font: $source-sans-pro; // footnotes and page backmatter
+$quire-navigation-font: $source-sans-pro; // navbar and next/prev buttons
 
 @if $theme == classic {
   // Classic Theme
@@ -101,7 +109,7 @@ $quire-navigation-font: null; // navbar and next/prev buttons
 // Navbar
 // -----------------------------------------------------------------------------
 $navbar-height: 3rem;
-$quire-progress-bar-height: 2px;
+$quire-progress-bar-height: 0px;
 
 // Declare navbar colors
 $quire-navbar-color: null;
