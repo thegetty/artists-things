@@ -13,31 +13,50 @@ url: 'http://localhost:8080'
 
 # ------------------------------------------------------------------------------
 # Title & Description
-title: New Deal Photography
-subtitle: The Works of Dorothea Lange and Walker Evans
+title: Artists' Things
+subtitle: Rediscovering Lost Property from Eighteenth-Century France
 reading_line:
 short_title:
 
 description:
   one_line:
-  full: "In the 1930s, during America's worst financial crises, the administration of President Franklin D. Roosevelt employed photographers to document the plight of everyday folk in the Great Depression in order to push forward with their New Deal programs. Documentary photographers Dorothea Lange and Walker Evans were prolific frontrunners of these efforts and their extraordinary photographs continue to endure today. Their artistic and documentary mastery and historical importance provide key insight into a monumental turning point in American history."
+  full: |
+    Artists are makers of things. Yet it is a measure of the disembodied manner in which we generally think about artists that we rarely consider the everyday items they own. This innovative book looks at objects that once belonged to artists, revealing not only the fabric of the eighteenth-century art world in France but also unfamiliar—and sometimes unexpected—insights into the individuals who populated it, including Jean-Antoine Watteau, François Boucher, Jean-Baptiste Greuze, and Elisabeth Vigée-LeBrun.
+
+    From the curious to the mundane, from the useful to the symbolic, these items have one thing in common: they have all been eclipsed from historical view. Some of the objects still exist, like Jean-Honoré Fragonard’s color box and Jacques-Louis David’s table. Others survive only in paintings, such as Jean-Siméon Chardin’s cistern in his *Copper Drinking Fountain*, or in documents, like François Lemoyne’s sword, the instrument of his suicide. Several were literally lost, including pastelist Jean-Baptiste Perronneau’s pencil case. In this fascinating book, the authors engage with fundamental historical debates about production, consumption, and sociability through the lens of material goods owned by artists.
+  online_edition: |
+    The free online edition of this open-access publication is at [getty.edu/publications/artists-things/](https://www.getty.edu/publications/artists-things/) and includes zoomable illustrations. Free PDF and EPUB downloads of the book are also available.
 
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2022-12-01 # YYYY-MM-DD
+pub_date: 2024-01-09 # YYYY-MM-DD
 language: en
 pub_type: book # book | journal-periodical | other
 
 identifier:
-  isbn:
+  isbn: "978-1-60606-864-9"
 
 publisher:
-  - name: J. Paul Getty Trust
+  - name: Gett Research Institute
     location: Los Angeles
-    url:
+    url: https://www.getty.edu/publications/
     logo: logo-getty.png
+    address: |
+      Getty Publications
+      1200 Getty Center Drive, Suite 500
+      Los Angeles, California 90049-1682
+      [getty.edu/publications/](https://www.getty.edu/publications/)
+
+project_team:
+  - Lauren Edson, *Project Editor*
+  - Mary Christian, *Manuscript Editor*
+  - Greg Albers, *Digital Publications Manager*
+  - Marci Boudreau, *Design*
+  - Molly McGeehan, *Production*
+  - Karen Ehrman, *Rights*
+  - Erin Cecele Dunigan and Chloe Millhauser, *Digital Assistants*
 
 # ------------------------------------------------------------------------------
 # Contributors
@@ -46,27 +65,27 @@ publisher:
 contributor_as_it_appears:
 
 contributor:
-  - id: jkeller
+  - id: kscott
     type: primary
-    first_name: Judith
-    last_name: Keller
-    title: Senior Curator of Photographs
-    affiliation: J. Paul Getty Museum
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    image: contributors/judith-keller.jpg
+    first_name: Katie
+    last_name: Scott
+  - id: hwilliams
+    type: primary
+    first_name: Hannah
+    last_name: Williams
+
 
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2022 J. Paul Getty Trust
+copyright: © 2024 J. Paul Getty Trust
 
 license:
-  name: Creative Commons Attribution 4.0 International License
-  abbreviation: CC BY
-  url: https://creativecommons.org/licenses/by/4.0/
-  scope: full # full | text-only | some-exceptions
+  name: Creative Commons Attribution-NonCommerical 4.0 International License
+  abbreviation: CC BY-NC
+  url: https://creativecommons.org/licenses/by-nc/4.0/
+  scope: some-exceptions # full | text-only | some-exceptions
 
 # ------------------------------------------------------------------------------
 # Formats, Resources & Links
@@ -74,15 +93,20 @@ license:
 
 resource_link:
   - type: other-format
-    name: PDF
+    name: PDF (## MB)
     media_type: application/pdf
     link_relation: alternate
-    url: /downloads/output.pdf
+    url: /downloads/X.pdf
   - type: other-format
-    name: EPUB
+    name: EPUB (## MB)
     media_type: application/epub+zip
     link_relation: alternate
-    url: /downloads/output.epub
+    url: /downloads/X.epub
+  - type: other-format
+    name: Paperback
+    media_type: print
+    link_relation: alternate
+    url: https://shop.getty.edu/products/X
   - type: footer-link
     name: About
     link_relation: about
@@ -90,11 +114,11 @@ resource_link:
   - type: footer-link
     name: Privacy Policy
     link_relation: privacy-policy
-    url:
+    url: https://www.getty.edu/legal/privacy.html
   - type: footer-link
     name: Terms of Use
     link_relation: terms-of-service
-    url:
+    url: https://www.getty.edu/legal/copyright.html
 
 # ------------------------------------------------------------------------------
 # Subjects
@@ -102,20 +126,31 @@ resource_link:
 
 subject:
   - type: bisac
-    name: PHOTOGRAPHY / Subjects & Themes / Historical
-    identifer: PHO023100
+    name: ART / History / Baroque & Rococo
+    identifer: ART015090
+  - type: bisac
+    name: ART / European
+    identifer: ART015030
+  - type: bisac
+    name: ART / Reference
+    identifer: ART025000
   - type: keywords
-    name: photography, black-and-white, great despression
+    name: eighteenth century, France, found items, recovered, lost, missing, ownership, ordinary, illustrated, reference, anecdotes, curiosity, Jean Antoine Watteau, Francois Boucher, Jean Baptiste Greuze, Elizabeth Vigee-Lebrun, Jen Honore Fragonard, Jacques Louis David, Jean Simeon Chardin, Louvre, Francois Lemoyne, sword, innovative, engaging, almanac, marriage contract, armchair, book, pastels, camera obscura, quill, crayon, dog, shell, sketchbook, snuffbox, sugar spoon, gaming set, glasses, table, handkerchief, teacup, harpsichord, umbrella, balloon, votive, intaglio, watch, journal, water fountain, wig, key, lantern, will, letters, wine, mannequin
+
+library_of_congress_cip:
 
 # ------------------------------------------------------------------------------
 # Revision History
 # ------------------------------------------------------------------------------
 
 revision_history:
-  - date:
+  - date: January 9, 2024
     summary:
+      - First edition
 
-repository_url:
+revision_statement: "Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at [github.com/thegetty/artists-things/](https://github.com/thegetty/artists-things), where a more detailed version history is available. The revisions branch of the project repository, when present, will show any changes currently under consideration but not yet published here."
+
+repository_url: https://github.com/thegetty/artists-things
 
 # ------------------------------------------------------------------------------
 # Promo Image

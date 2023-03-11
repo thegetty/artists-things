@@ -42,6 +42,8 @@ navigation:
 pageTitle:
   labelDivider: '. '
 
+quire_credit_line: 'This publication was created using Quire™, a multiformat publishing tool from Getty.'
+
 searchEnabled: true
 
 tableOfContents:
