@@ -2,6 +2,7 @@
 title: "Sketchbook"
 layout: thing
 order: 143
+tags: thing
 owner:
   - first_name: Jean-Michel
     last_name: Moreau the Younger

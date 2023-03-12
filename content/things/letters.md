@@ -2,6 +2,7 @@
 title: "Letters"
 layout: thing
 order: 127
+tags: thing
 owner:
   - first_name: Hyacinthe
     last_name: Rigaud

@@ -2,6 +2,7 @@
 title: "Armchair"
 layout: thing
 order: 102
+tags: thing
 owner:
   - first_name: Jean-Honoré
     last_name: Fragonard

@@ -2,6 +2,7 @@
 title: "Votive"
 layout: thing
 order: 150
+tags: thing
 owner:
   - first_name: Pierre-Imbert
     last_name: Drevet

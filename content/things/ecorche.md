@@ -2,6 +2,7 @@
 title: "Écorché"
 layout: thing
 order: 116
+tags: thing
 owner:
   - first_name: Jean-Antoine
     last_name: Houdon

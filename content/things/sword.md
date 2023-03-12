@@ -2,6 +2,7 @@
 title: "Sword"
 layout: thing
 order: 146
+tags: thing
 owner:
   - first_name: François
     last_name: Lemoyne

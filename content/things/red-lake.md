@@ -2,6 +2,7 @@
 title: "Red Lake"
 layout: thing
 order: 139
+tags: thing
 owner:
   - first_name: Joseph-Siffred
     last_name: Duplessis

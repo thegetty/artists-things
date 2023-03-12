@@ -2,6 +2,7 @@
 title: "Burin"
 layout: thing
 order: 107
+tags: thing
 owner:
   - first_name: Renée-Elisabeth
     last_name: Marlié

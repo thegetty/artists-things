@@ -2,6 +2,7 @@
 title: "Dog"
 layout: thing
 order: 114
+tags: thing
 owner:
   - first_name: Joseph-Siffred
     last_name: Duplessis

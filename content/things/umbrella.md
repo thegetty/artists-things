@@ -2,6 +2,7 @@
 title: "Umbrella"
 layout: thing
 order: 149
+tags: thing
 owner:
   - first_name: Jacques-Philippe
     last_name: Le Bas

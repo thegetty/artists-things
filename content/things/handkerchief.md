@@ -2,6 +2,7 @@
 title: "Handkerchief"
 layout: thing
 order: 120
+tags: thing
 owner:
   - first_name: Charles-Nicolas
     last_name: Cochin

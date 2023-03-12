@@ -2,6 +2,7 @@
 title: "Nightingale"
 layout: thing
 order: 132
+tags: thing
 owner:
   - first_name: Marie-Anne
     last_name: Collot

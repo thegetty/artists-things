@@ -2,6 +2,7 @@
 title: "*Crayon*"
 layout: thing
 order: 111
+tags: thing
 owner:
   - first_name: Jean-Baptiste
     last_name: Huët

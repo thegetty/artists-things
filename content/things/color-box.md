@@ -2,6 +2,7 @@
 title: "Color Box"
 layout: thing
 order: 110
+tags: thing
 owner:
   - first_name: Jean-Honoré
     last_name: Fragonard

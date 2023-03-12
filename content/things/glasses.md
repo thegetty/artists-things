@@ -2,6 +2,7 @@
 title: "Glasses"
 layout: thing
 order: 119
+tags: thing
 owner:
   - first_name: François-André
     last_name: Vincent

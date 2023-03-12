@@ -2,6 +2,7 @@
 title: "Teacup"
 layout: thing
 order: 148
+tags: thing
 owner:
   - first_name: Jean-Marc
     last_name: Nattier

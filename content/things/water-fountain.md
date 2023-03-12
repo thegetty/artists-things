@@ -2,6 +2,7 @@
 title: "Water Fountain"
 layout: thing
 order: 152
+tags: thing
 owner:
   - first_name: Jean-Siméon
     last_name: Chardin

@@ -2,6 +2,7 @@
 title: "Almanac"
 layout: thing
 order: 101
+tags: thing
 owner:
   - first_name: Claude-Joseph
     last_name: Vernet

@@ -2,6 +2,7 @@
 title: "Document Box"
 layout: thing
 order: 113
+tags: thing
 owner:
   - full_name: Secretaries of the Académie Royale
     years: (1650–1793)

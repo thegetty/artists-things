@@ -2,6 +2,7 @@
 title: "Harpsichord"
 layout: thing
 order: 121
+tags: thing
 owner:
   - first_name: Jean-Marc
     last_name: Nattier

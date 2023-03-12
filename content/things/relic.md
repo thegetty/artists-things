@@ -2,6 +2,7 @@
 title: "Relic"
 layout: thing
 order: 140
+tags: thing
 owner:
   - first_name: Hyacinthe
     last_name: Rigaud

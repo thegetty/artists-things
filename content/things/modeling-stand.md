@@ -2,6 +2,7 @@
 title: "Modeling Stand"
 layout: thing
 order: 131
+tags: thing
 owner:
   - first_name: Jean-Antoine
     last_name: Houdon

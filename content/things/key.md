@@ -2,6 +2,7 @@
 title: "Key"
 layout: thing
 order: 125
+tags: thing
 owner:
   - first_name: Pierre
     last_name: Peyron

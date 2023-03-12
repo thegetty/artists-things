@@ -2,6 +2,7 @@
 title: "Sugar Spoon"
 layout: thing
 order: 145
+tags: thing
 owner:
   - first_name: François-Hubert
     last_name: Drouais

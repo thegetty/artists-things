@@ -2,6 +2,7 @@
 title: "Model"
 layout: thing
 order: 130
+tags: thing
 owner:
   - first_name: Edme
     last_name: Bouchardon

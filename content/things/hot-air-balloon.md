@@ -2,6 +2,7 @@
 title: "Hot-Air Balloon"
 layout: thing
 order: 122
+tags: thing
 owner:
   - first_name: Jean-François
     last_name: Janinet

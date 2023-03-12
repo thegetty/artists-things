@@ -2,6 +2,7 @@
 title: "Wig"
 layout: thing
 order: 153
+tags: thing
 owner:
   - first_name: Claude-Joseph
     last_name: Vernet

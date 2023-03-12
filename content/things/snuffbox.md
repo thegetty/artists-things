@@ -2,6 +2,7 @@
 title: "Snuffbox"
 layout: thing
 order: 144
+tags: thing
 owner:
   - first_name: Jean-Baptiste
     last_name: Oudry

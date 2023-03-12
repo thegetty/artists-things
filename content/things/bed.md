@@ -2,6 +2,7 @@
 title: "Bed"
 layout: thing
 order: 105
+tags: thing
 owner:
   - first_name: Charles-Antoine
     last_name: Coypel

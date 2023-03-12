@@ -2,6 +2,7 @@
 title: "Bath"
 layout: thing
 order: 104
+tags: thing
 owner:
   - first_name: Joseph-Siffred
     last_name: Duplessis

@@ -2,6 +2,7 @@
 title: "Funeral Book"
 layout: thing
 order: 117
+tags: thing
 owner:
   - full_name: Concierge of the Académie Royale
 type: [Heirloom]

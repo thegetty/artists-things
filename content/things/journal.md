@@ -2,6 +2,7 @@
 title: "Journal"
 layout: thing
 order: 124
+tags: thing
 owner:
   - first_name: Johann-Georg
     last_name: Wille

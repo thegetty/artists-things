@@ -2,6 +2,7 @@
 title: "Picture"
 layout: thing
 order: 136
+tags: thing
 owner:
   - first_name: Nicolas
     last_name: de Largillière

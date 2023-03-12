@@ -2,6 +2,7 @@
 title: "Order Book"
 layout: thing
 order: 133
+tags: thing
 owner:
   - first_name: Louis-Jean-François
     last_name: Lagrenée

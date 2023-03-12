@@ -2,6 +2,7 @@
 title: "Quill"
 layout: thing
 order: 138
+tags: thing
 owner:
   - first_name: Étienne-Maurice
     last_name: Falconet

@@ -2,6 +2,7 @@
 title: "Shell"
 layout: thing
 order: 142
+tags: thing
 owner:
   - first_name: François
     last_name: Boucher

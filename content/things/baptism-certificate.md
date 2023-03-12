@@ -2,6 +2,7 @@
 title: "Baptism Certificate"
 layout: thing
 order: 103
+tags: thing
 owner:
   - first_name: Hubert
     last_name: Robert

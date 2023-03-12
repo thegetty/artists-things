@@ -2,6 +2,7 @@
 title: "Gaming Set"
 layout: thing
 order: 118
+tags: thing
 owner:
   - first_name: Jean-Étienne
     last_name: Liotard

@@ -2,6 +2,7 @@
 title: "*Porte-Crayon*"
 layout: thing
 order: 137
+tags: thing
 owner:
   - first_name: Jean-Baptiste
     last_name: Perronneau

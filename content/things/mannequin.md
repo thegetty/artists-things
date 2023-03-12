@@ -2,6 +2,7 @@
 title: "Mannequin"
 layout: thing
 order: 128
+tags: thing
 owner:
   - first_name: Jean-Baptiste
     last_name: Le Prince

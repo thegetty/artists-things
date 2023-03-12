@@ -2,6 +2,7 @@
 title: "Pastels"
 layout: thing
 order: 135
+tags: thing
 owner:
   - first_name: Suzanne
     last_name: Giroust

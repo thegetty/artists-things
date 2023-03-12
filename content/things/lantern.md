@@ -2,6 +2,7 @@
 title: "Lantern"
 layout: thing
 order: 126
+tags: thing
 owner:
   - first_name: Jean-Siméon
     last_name: Chardin

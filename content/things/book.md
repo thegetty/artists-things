@@ -2,6 +2,7 @@
 title: "Book"
 layout: thing
 order: 106
+tags: thing
 owner:
   - first_name: Gilles-Marie
     last_name: Oppenord

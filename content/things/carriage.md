@@ -2,6 +2,7 @@
 title: "Carriage"
 layout: thing
 order: 109
+tags: thing
 owner:
   - first_name: Jean-Baptiste
     last_name: Pigalle

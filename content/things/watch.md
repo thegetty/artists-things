@@ -2,6 +2,7 @@
 title: "Watch"
 layout: thing
 order: 151
+tags: thing
 owner:
   - first_name: Charles-Antoine
     last_name: Coypel

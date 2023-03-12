@@ -2,6 +2,7 @@
 title: "Table"
 layout: thing
 order: 147
+tags: thing
 owner:
   - first_name: Jacques-Louis
     last_name: David

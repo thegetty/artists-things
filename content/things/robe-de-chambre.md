@@ -2,6 +2,7 @@
 title: "Robe de Chambre"
 layout: thing
 order: 141
+tags: thing
 owner:
   - first_name: Louis-Michel
     last_name: Van Loo

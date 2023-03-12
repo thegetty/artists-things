@@ -2,6 +2,7 @@
 title: "Intaglio"
 layout: thing
 order: 123
+tags: thing
 owner:
   - first_name: Charles-Joseph
     last_name: Natoire

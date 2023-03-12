@@ -2,6 +2,7 @@
 title: "Decoration"
 layout: thing
 order: 112
+tags: thing
 owner:
   - first_name: Joseph-Marie
     last_name: Vien

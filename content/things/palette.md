@@ -2,6 +2,7 @@
 title: "Palette"
 layout: thing
 order: 134
+tags: thing
 owner:
   - first_name: Elisabeth
     last_name: Vigée-Lebrun

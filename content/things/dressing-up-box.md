@@ -2,6 +2,7 @@
 title: "Dressing-Up Box"
 layout: thing
 order: 115
+tags: thing
 owner:
   - first_name: Jean-Antoine
     last_name: Watteau
