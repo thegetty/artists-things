@@ -1,5 +1,6 @@
 :root {
   --accent-color: #e0582a;  /* Matches $accent-color in variables.scss */
+  --beige: #f7f1e3;
   --black: #000;
   --gap: 1.75rem;
 }
@@ -193,6 +194,31 @@
 .q-figure__label--below .q-figure__modal-link {
   color: currentColor;
   text-transform: uppercase;
+}
+
+/* Figure Modal */
+q-modal {
+  background-color: var(--beige);
+}
+.q-lightbox-slides__element canvas-panel, 
+.q-lightbox-slides__element img, 
+.q-lightbox-slides__element image-service {
+  height: 80%;
+  top: 45%
+}
+.q-figure-slides__slide-ui {
+  max-width: 49rem;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  max-height: 15%;
+  align-items: flex-start;
+  overflow: scroll;
+  top: 85%;
+}
+.q-lightbox-slides__caption, .q-figure-slides__slide-ui .annotations-ui {
+  background-color: transparent;
+  color: black;
 }
 
 /* Footnotes */
