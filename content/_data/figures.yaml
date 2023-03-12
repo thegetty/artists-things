@@ -8,34 +8,34 @@ figure_list:
   - id: "fig-065"
     src: "figures/065.jpg"
     zoom: true
-    label: "Fig. 65."
+    label: "Fig. 65"
     caption: "Adélaïde Labille-Guiard (French, 1749–1803), *Portrait of François-André Vincent*, 1795. Oil on canvas, 73 × 59 cm."
     credit: "Paris, Musée du Louvre."
 
   - id: "fig-066"
     src: "figures/066.jpg"
     zoom: true
-    label: "Fig. 66."
+    label: "Fig. 66"
     caption: "Anna-Dorothea Therbusch (German, 1721/22–82), *Self-Portrait*, 1777. Oil on canvas, 154 × 118 cm."
     credit: "Berlin, Staatliche Museen."
 
   - id: "fig-067"
     src: "figures/067.jpg"
     zoom: true
-    label: "Fig. 67."
+    label: "Fig. 67"
     caption: "Jean-Siméon Chardin (French, 1699–1779), *Self-Portrait*, 1776. Pastel, 40.5 × 32.5 cm."
     credit: "Paris, Musée du Louvre, Département des Arts Graphiques."
 
   - id: "fig-068"
     src: "figures/068.jpg"
     zoom: true
-    label: "Fig. 68."
+    label: "Fig. 68"
     caption: "François-André Vincent (French, 1746–1816), *Caricature of Pierre-Charles Jombert*, detail, 1773–75. Black chalk, 107 × 43 cm."
     credit: "New York, Metropolitan Museum of Art, The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1967."
 
   - id: "fig-069"
     src: "figures/069.jpg"
     zoom: true
-    label: "Fig. 69."
+    label: "Fig. 69"
     caption: "Double-hinged wig spectacles, ca. 1795. White metal frame and glass lenses, 38 mm (eye)."
     credit: "London, British Optical Association Museum, College of Optometrists, inv. 1998.235."
