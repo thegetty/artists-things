@@ -24,6 +24,14 @@
 .quire-page__content .content a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):hover {
   border-bottom-width: 0px !important;
 }
+.q-figure__modal-link {
+  display: initial;
+  position: initial;
+  color: currentColor;
+}
+.q-figure__modal-link:hover {
+  color: var(--accent-color);
+}
 
 /*  Nav Bar */
 .quire-navbar-controls {

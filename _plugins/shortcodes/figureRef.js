@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// to accept comma-separated array, and to output with .q-figure__modal-link class
+//
 const { oneLineCommaListsAnd } = require('~lib/common-tags')
 const chalkFactory = require('~lib/chalk')
 
@@ -23,18 +27,19 @@ const logger = chalkFactory('shortcodes:figureRef')
  */
 module.exports = function(eleventyConfig) {
   return function (ids) {
-    if (!ids.length) {
+    const idArray = ids.replace(/\s/g,'').split(',')
+    if (!idArray.length) {
       logger.warn(`NoId: Figure 'ref' shortcode must include one or more values corresponding to the 'id' of a figure on the page. @example {% ref 'fig-1', 'fig-7', 'fig-11' %}`)
     }
 
-    const label = ids.length > 1 ? 'figs.' : 'fig.'
+    const label = idArray.length > 1 ? 'figs.' : 'fig.'
 
     // transform the array of figure ids into and array of markdown links
-    const links = ids.split(',').map((id, index) => {
+    const links = idArray.map((id, index) => {
       id = id.trim()
-      let text = id.replace(/^fig-/i, '')
+      let text = id.replace(/^[a-z]+-[0]{0,2}/i, '')
       if (index === 0) text = `${label} ${text}`
-      return `[${text}](#${id})`
+      return `[${text}](#${id}){.q-figure__modal-link}`
     })
 
     return oneLineCommaListsAnd`${links}`

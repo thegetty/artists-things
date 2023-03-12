@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// altered getCurrentFigureId() to work with .q-figure__modal-link class anywhere, line 46 and 50
+//
 import { LitElement, html } from 'lit'
 
 class Modal extends LitElement {
@@ -39,12 +43,11 @@ class Modal extends LitElement {
     const { target } = event
     let currentFigure = target
     while (
-      !currentFigure.matches('figure') &&
-      !currentFigure.getAttribute('id')
+      !currentFigure.getAttribute('href')
     ) {
       currentFigure = currentFigure.parentNode
     }
-    return currentFigure.getAttribute('id')
+    return currentFigure.getAttribute('href').replace("#", "")
   }
 
   open(event) {
