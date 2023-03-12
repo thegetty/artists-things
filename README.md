@@ -16,5 +16,9 @@ altered getCurrentFigureId() to work with .q-figure__modal-link class anywhere
 **_layouts/thing.liquid**
 A copy of essay.liquid, except that it adds owners to the pageHeader and a `.thing-info` grid to display type, theme, and material.
 
+**_plugins/shortcodes/index.js**
+**_plugins/shortcodes/thing.js**
+a new shortcode to create a pop-up with full data and links for a given "thing"
+
 **_plugins/shortcodes/figureRef.js**
 to accept comma-separated array, and to output with .q-figure__modal-link class

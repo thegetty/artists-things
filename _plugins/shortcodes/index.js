@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// added thing shortcode, lines 15 and 32
+//
 const addComponentTag = require('../../_plugins/components/addComponentTag')
 const annoref = require('./annoref')
 const backmatter = require('./backmatter')
@@ -8,6 +12,7 @@ const figure = require('./figure')
 const figureGroup = require('./figureGroup')
 const ref = require('./figureRef')
 const shortcodeFactory = require('../../_plugins/components/addShortcode')
+const thing = require('./thing')
 const title = require('./title')
 const tombstone = require('./tombstone')
 
@@ -24,6 +29,7 @@ module.exports = function(eleventyConfig, collections, options) {
   addShortcode('figure', figure)
   addShortcode('figuregroup', figureGroup)
   addShortcode('ref', ref)
+  addShortcode('thing', thing)
   addShortcode('title', title)
   addShortcode('tombstone', tombstone)
 }

@@ -1,7 +1,9 @@
 ---
 title: "Camera Obscura"
+aliases: [camera obscuras]
 layout: thing
 order: 108
+tags: thing
 owner:
   - first_name: Charles
     last_name: Parrocel

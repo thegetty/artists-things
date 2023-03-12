@@ -2,6 +2,7 @@
   --accent-color: #e0582a;  /* Matches $accent-color in variables.scss */
   --beige: #f7f1e3;
   --black: #000;
+  --gray: #888;
   --gap: 1.75rem;
 }
 @media screen and (min-width: 40rem) {
@@ -342,3 +343,94 @@ q-modal {
 .quire-page__content.thing-info .thing-info-grid ul li:last-child::after {
   content: "";
 }
+
+/* THING POP-UP MENU */
+/* inline buttons */
+.quire-citation__button.quire-thing__button {
+  border-bottom-width: 0px;
+  font-weight: 700;
+}
+.quire-citation__button.quire-thing__button:hover {
+  border-bottom-width: 0px;
+}
+/* main box */
+.quire-citation .quire-citation__content.quire-thing__content {
+  padding: 0;
+  border: 2px solid var(--gray);
+  box-shadow: none;
+  background-color: var(--beige);
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1rem;
+  line-height: 1.625;
+  width: 21rem;
+}
+/* each individual section */
+.quire-thing__content > span:not(.quire-thing__main) {
+  border-top: 1px solid var(--gray);
+  display: block;
+  width: 100%;
+  padding: 1em;
+}
+/* main section */
+.quire-thing__content > span.quire-thing__main {
+  display: block;
+  width: 100%;
+  background-color: var(--accent-color);
+  color: var(--beige);
+}
+.quire-thing__main__title {
+  font-size: 1.25rem;
+  display: inline-block;
+}
+.quire-thing__main__icon {
+  float: right;
+}
+.quire-thing__main__icon svg {
+  fill: var(--beige);
+  height: 1rem;
+  width: 1rem;
+  vertical-align: middle;
+}
+a:hover .quire-thing__main__icon svg {
+  fill: var(--black);
+}
+.quire-page__content .content .quire-thing__main a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url) {
+  display: block;
+  line-height: inherit;
+  padding: 1em;
+  font-size: 1rem;
+  color: inherit;
+  width: 100%;
+  border-bottom-width: 0px;
+}
+.quire-page__content .content .quire-thing__main a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):hover {
+  color: var(--black) !important;
+  border-bottom-width: 0px !important;
+}
+
+/* elements */
+.quire-thing__heading {
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: .875em;
+  display: block;
+}
+.quire-thing__content span[role="listitem"] {
+  display: block;
+}
+.quire-thing__link {
+  width: 100%; 
+  display: flex;
+  justify-content: space-between;
+  border-bottom-width: 0px !important;
+  font-size: 1rem !important;
+  line-height: inherit !important;
+}
+.quire-thing__link svg {
+  height: 1rem;
+  width: 1rem;
+}
+.quire-thing__link:hover svg {
+  fill: var(--accent-color);
+}
+
