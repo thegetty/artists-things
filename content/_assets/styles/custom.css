@@ -94,6 +94,11 @@
 .quire-navbar-controls .quire-navbar-page-controls__item button:hover svg {
   fill: var(--accent-color) !important;
 }
+@media screen and (max-width: 40rem) {
+  .quire-navbar-page-controls__item.quire-home-page {
+    display: none;
+  }
+}
 
 /* Next/Prev Buttons */
 .quire-contents-buttons li.quire-nav-button {
@@ -173,18 +178,19 @@
   float: left;
   margin-right: var(--gap);
   margin-top: 0;
-  max-width: 17.5rem;
+  width: 17.5rem;
+  max-width: calc((100% - var(--gap) - .35rem) / 2);
 }
 @media screen and (min-width: 63rem) {
   .content .q-figure.is-offset {
     margin-left: -3.5rem;
-    max-width: 21rem;
+    width: 21rem;
   }
 }
 @media screen and (min-width: 66.5rem) {
   .content .q-figure.is-offset {
     margin-left: -7rem;
-    max-width: 24.5rem;
+    width: 24.5rem;
   }
 }
 
