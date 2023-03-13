@@ -52,11 +52,17 @@
   margin-left: -.25rem;
   margin-right: 0;
 }
-.quire-navbar-button {
+.quire-navbar-button,
+.quire-search__close-button button.button {
   width: auto;
 }
 .quire-search__close-button {
   left: var(--gap);
+}
+.quire-search__close-button svg {
+  height: 1.75rem;
+  width: 1.75rem;
+  margin-left: -5px;
 }
 .quire-navbar-button.search-button, 
 .quire-navbar-button.menu-button {
