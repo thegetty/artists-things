@@ -36,11 +36,15 @@
 }
 
 /*  Nav Bar */
+.quire-navbar {
+  font-size: .9375rem;
+}
 .quire-navbar-controls {
   padding: 0 var(--gap);
 }
 .quire-navbar-page-controls__item {
   padding: 0;
+  font-weight: 300;
 }
 .quire-navbar-page-controls__item.quire-home-page {
   font-weight: 600;
@@ -284,6 +288,7 @@ q-modal {
 .quire-page__header .hero-body ul {
   font-family: 'Source Sans Pro', sans-serif;
   font-size: .875rem;
+  font-weight: 600;
   text-align: right;
 }
 .quire-page h1, .quire-page__header__title {
@@ -335,6 +340,7 @@ q-modal {
   margin-bottom: 0;
   font-weight: 700;
   text-transform: uppercase;
+  letter-spacing: .8px;
 }
 .quire-page__content.thing-info .thing-info-grid ul {
   margin: 0;
@@ -345,6 +351,7 @@ q-modal {
   margin: 0;
   text-transform: none;
   font-weight: 400;
+  letter-spacing: .3px;
 }
 .quire-page__content.thing-info .thing-info-grid ul li::before {
   content: "";
@@ -374,7 +381,7 @@ q-modal {
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 1rem;
   line-height: 1.625;
-  width: 21rem;
+  width: 17.5rem;
 }
 /* each individual section */
 .quire-thing__content > span:not(.quire-thing__main) {
@@ -393,6 +400,7 @@ q-modal {
 .quire-thing__main__title {
   font-size: 1.25rem;
   display: inline-block;
+  font-weight: 600;
 }
 .quire-thing__main__icon {
   float: right;
@@ -419,13 +427,13 @@ a:hover .quire-thing__main__icon svg {
   color: var(--black) !important;
   border-bottom-width: 0px !important;
 }
-
 /* elements */
 .quire-thing__heading {
   font-weight: 600;
   text-transform: uppercase;
   font-size: .875em;
   display: block;
+  letter-spacing: .8px;
 }
 .quire-thing__content span[role="listitem"] {
   display: block;
@@ -435,7 +443,7 @@ a:hover .quire-thing__main__icon svg {
   display: flex;
   justify-content: space-between;
   border-bottom-width: 0px !important;
-  font-size: 1rem !important;
+  font-size: 1.0625rem !important;
   line-height: inherit !important;
 }
 .quire-thing__link svg {
@@ -445,4 +453,3 @@ a:hover .quire-thing__main__icon svg {
 .quire-thing__link:hover svg {
   fill: var(--accent-color);
 }
-
