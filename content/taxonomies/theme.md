@@ -2,6 +2,7 @@
 title: Index by Theme
 layout: page
 order: 203
+class: taxonomy
 ---
 
 {% assign thingPages = collections.thing %}

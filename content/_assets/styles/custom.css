@@ -455,9 +455,27 @@ a:hover .quire-thing__main__icon svg {
 }
 
 /* TAXONMIES */
+.quire-page.taxonomy .quire-page__header {
+  margin-bottom: 0;
+  margin-top: 1.5rem;
+}
+.quire-page.taxonomy h1, 
+.quire-page.taxonomy .quire-page__header__title {
+  text-transform: uppercase;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 2.375rem;
+  font-weight: 600;
+  border-bottom: 1px solid black;
+  border-top: 1px solid black;
+  padding-bottom: 1.5rem;
+  padding-top: 1.5rem;
+  width: 100%;
+}
+.quire-page.taxonomy .quire-page__content .container .content {
+  margin-top: 0;
+}
 .quire-page__content .container .content table.taxonomy-table {
   border-bottom: 1px solid var(--black);
-  border-top: 1px solid var(--black);
   padding: 1rem 0;
 }
 .quire-page__content .container .content table.taxonomy-table th, 
