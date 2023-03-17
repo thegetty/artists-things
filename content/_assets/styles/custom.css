@@ -468,6 +468,15 @@ a:hover .quire-thing__main__icon svg {
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 1rem;
 }
+.taxonomy-table .quire-citation__button.quire-thing__button {
+  font-weight: 400;
+}
+.taxonomy-table .quire-citation.quire-thing::after {
+  content: ", ";
+}
+.taxonomy-table .quire-citation.quire-thing:last-child::after {
+  content: "";
+}
 /* Chronology by Artist */
 #artists-chronology tbody {
   columns: 3;
@@ -482,4 +491,10 @@ a:hover .quire-thing__main__icon svg {
 #artists-chronology tr td:first-child {
   width: 5.25rem;
   padding-left: 1rem !important;
+}
+/* Indexes by Type and Theme */
+#index-by-theme tr td:first-child,
+#index-by-thing tr td:first-child {
+  width: 10.5rem;
+  font-style: italic;
 }
