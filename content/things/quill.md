@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: Étienne-Maurice
     last_name: Falconet
-    years: (1716–91)
+    years: 1716–91
 type: [Commodity, Tool]
 theme: [Friendship, Identity]
 material: [Feather, Synthetic Materials / Ink, Synthetic Materials / Paper]

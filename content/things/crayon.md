@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: Jean-Baptiste
     last_name: Huët
-    years: (1745–1811)
+    years: 1745–1811
 type: [Tool]
 theme: [Education, Invention, Making, Studio]
 material: [Mineral/Chalk, Synthetic Materials / Paper]

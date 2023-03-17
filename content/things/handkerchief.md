@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: Charles-Nicolas
     last_name: Cochin
-    years: (1715–90)
+    years: 1715–90
 type: [Apparel, Commodity, Companion, Gift]
 theme: [Death, Everyday, Friendship, Health/Medicine]
 material: [Textile / Cotton]

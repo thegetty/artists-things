@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: Jean-Marc
     last_name: Nattier
-    years: (1685–1766)
+    years: 1685–1766
   - first_name: Louis
     last_name: Tocqué
     years: 0

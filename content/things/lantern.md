@@ -6,28 +6,28 @@ tags: thing
 owner:
   - first_name: Jean-Siméon
     last_name: Chardin
-    years: (1699–1779)
+    years: 1699–1779
   - first_name: Charles-Nicolas
     last_name: Cochin
-    years: (1715–90)
+    years: 1715–90
   - first_name: Claude-François
     last_name: Desportes
-    years: (1695–1774)
+    years: 1695–1774
   - first_name: Pierre-André
     last_name: Jacquemin
-    years: (1720–73)
+    years: 1720–73
   - first_name: Jean-Baptiste
     last_name: Lemoyne
-    years: (1704–78)
+    years: 1704–78
   - first_name: Jean-Baptiste
     last_name: Pigalle
-    years: (1714–85)
+    years: 1714–85
   - first_name: Claude-Joseph
     last_name: Vernet
-    years: (1714–89)
+    years: 1714–89
   - first_name: Joseph-Marie
     last_name: Vien
-    years: (1716–1809)
+    years: 1716–1809
 type: [Instrument]
 theme: [Community, Gender, Louvre]
 material: [Synthetic Materials / Glass]

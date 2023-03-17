@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: Charles-Antoine
     last_name: Coypel
-    years: (1694–1752)
+    years: 1694–1752
 type: [Furniture, Ritual Thing]
 theme: [Family, Memory, Identity, Louvre, Luxury]
 material: [Plant Matter / Wood, Synthetic Materials / Paint/Pigment, Textile / Cotton, Textile / Linen, Textile / Silk, Textile / Wool]

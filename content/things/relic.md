@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: Hyacinthe
     last_name: Rigaud
-    years: (1659–1743)
+    years: 1659–1743
 type: [Apparel, Commodity, Companion, Container, Gift, Heirloom, Ritual Thing, Symbolic Thing]
 theme: [Family, Luxury, Religion, Devotional Thing]
 material: [Metal/Gold/Gilding, Plant Matter / Wood]

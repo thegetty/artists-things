@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: Jean-Antoine
     last_name: Watteau
-    years: (1684–1721)
+    years: 1684–1721
 type: [Container, Tool]
 theme: [Education, Making, Studio]
 material: [Textile / Canvas, Textile / Silk]

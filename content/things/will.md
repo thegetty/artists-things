@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: Jean-Baptiste
     last_name: Massé
-    years: (1687–1767)
+    years: 1687–1767
 type: [Document]
 theme: [Administration, Death, Family, Friendship, Identity, Money, Religion]
 material: [Synthetic Materials / Ink, Synthetic Materials / Paper]

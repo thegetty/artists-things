@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: Jean-François
     last_name: Janinet
-    years: (1752–1814)
+    years: 1752–1814
 type: [Vehicle]
 theme: [Invention, Leisure, Studio, Travel]
 material: [Textile / Canvas]

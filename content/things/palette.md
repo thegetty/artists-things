@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: Elisabeth
     last_name: Vigée-Lebrun
-    years: (1755–1842)
+    years: 1755–1842
 type: [Symbolic Thing, Tool]
 theme: [Education, Memory, Identity, Making, Studio]
 material: [Plant Matter / Wood, Synthetic Materials / Paint/Pigment]

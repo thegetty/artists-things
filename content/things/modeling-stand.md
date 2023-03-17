@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: Jean-Antoine
     last_name: Houdon
-    years: (1741–1828)
+    years: 1741–1828
 type: [Tool]
 theme: [Making, Studio]
 material: [Mineral/Clay, Plant Matter / Wood]

@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: Louis-Michel
     last_name: Van Loo
-    years: (1707–71)
+    years: 1707–71
 type: [Apparel]
 theme: [Gender, Identity, Luxury, Studio]
 material: [Textile / Silk, Textile / Wool]

@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: Pierre
     last_name: Peyron
-    years: (1744–1814)
+    years: 1744–1814
 type: [Tool]
 theme: [Community, Louvre]
 material: [Metal/Gold/Gilding, Metal/Steel]

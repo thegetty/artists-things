@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: Suzanne
     last_name: Giroust
-    years: (1734–72)
+    years: 1734–72
 type: [Tool]
 theme: [Making, Studio]
 material: [Mineral/Chalk, Synthetic Materials / Paint/Pigment]

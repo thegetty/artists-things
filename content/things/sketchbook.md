@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: Jean-Michel
     last_name: Moreau the Younger
-    years: (1741–1814)
+    years: 1741–1814
 type: [Artwork, Companion, Souvenir, Tool]
 theme: [Education, Everyday, Family, Making, Studio, Travel]
 material: [Leather/Parchment, Metal/Gold/Gilding, Mineral/Chalk, Synthetic Materials / Paper]

@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: Jean-Marc
     last_name: Nattier
-    years: (1685–1766)
+    years: 1685–1766
 type: [Collectible, Commodity, Intoxicant, Tableware]
 theme: [Food and Drink, Global Commerce, Luxury, Studio]
 material: [Metal/Silver, Mineral/Clay]

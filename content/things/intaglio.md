@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: Charles-Joseph
     last_name: Natoire
-    years: (1700–77)
+    years: 1700–77
 type: [Apparel, Collectible, Souvenir]
 theme: [Antiquity, Death, Friendship, Memory, Travel]
 material: [Mineral/Gem]

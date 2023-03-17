@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: Jean-Honoré
     last_name: Fragonard
-    years: (1732–1806)
+    years: 1732–1806
 type: [Furniture]
 theme: [Administration, Louvre, Studio]
 material: [Leather/Parchment, Plant Matter / Cane, Plant Matter / Wood]

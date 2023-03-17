@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: Jacques-Louis
     last_name: David
-    years: (1748–1825)
+    years: 1748–1825
 type: [Furniture, Prop, Symbolic Thing]
 theme: [Antiquity, Family, Louvre, Making, Studio]
 material: [Metal/Bronze, Metal/Gold/Gilding, Plant Matter / Wood]

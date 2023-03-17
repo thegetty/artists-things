@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: Joseph-Siffred
     last_name: Duplessis
-    years: (1725–1802)
+    years: 1725–1802
 type: [Companion, Gift]
 theme: [Animal, Family, Friendship, Louvre]
 material: [Animal]

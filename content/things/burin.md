@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: Renée-Elisabeth
     last_name: Marlié
-    years: (1714–73)
+    years: 1714–73
 type: [Tool]
 theme: [Family, Gender, Making, Studio]
 material: [Metal/Steel, Plant Matter / Wood, Synthetic Materials / Paper]

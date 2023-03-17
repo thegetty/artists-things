@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: Hubert
     last_name: Robert
-    years: (1733–1808)
+    years: 1733–1808
 type: [Document]
 theme: [Family, Identity, Money, Religion]
 material: [Synthetic Materials / Ink, Synthetic Materials / Paper]

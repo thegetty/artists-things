@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: Marie-Anne
     last_name: Collot
-    years: (1748–1821)
+    years: 1748–1821
 type: [Gift]
 theme: [Animal, Gender, Identity, Money]
 material: [Animal]

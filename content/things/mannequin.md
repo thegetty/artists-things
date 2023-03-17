@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: Jean-Baptiste
     last_name: Le Prince
-    years: (1734–81)
+    years: 1734–81
 type: [Prop, Tool]
 theme: [Making, Studio, Travel]
 material: [Hair, Plant Matter/ Cork, Textile / Silk]

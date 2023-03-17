@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: Jean-Baptiste
     last_name: Perronneau
-    years: (ca. 1716–83)
+    years: ca. 1716–83
 type: [Companion, Tool]
 theme: [Identity, Studio]
 material: [Leather/Parchment, Metal/Silver, Mineral/Chalk]

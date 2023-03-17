@@ -6,10 +6,10 @@ tags: thing
 owner:
   - first_name: Gilles-Marie
     last_name: Oppenord
-    years: (1762–42)
+    years: 1762–42
   - first_name: Gabriel
     last_name: de Saint-Aubin
-    years: (1724–80)
+    years: 1724–80
 theme: [Education, Leisure, Studio]
 material: [Synthetic Materials / Ink, Synthetic Materials / Paper]
 contributor:

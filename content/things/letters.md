@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: Hyacinthe
     last_name: Rigaud
-    years: (1659–1743)
+    years: 1659–1743
 type: [Ritual Thing, Symbolic Thing]
 theme: [Administration, Identity, Document]
 material: [Wax, Synthetic Materials / Ink, Synthetic Materials / Paper]

@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: Nicolas
     last_name: de Largillière
-    years: (1656–1746)
+    years: 1656–1746
 type: [Artwork]
 theme: [Identity, Religion]
 material: [Metal/Gold/Gilding, Synthetic Materials / Paint/Pigment, Textile / Canvas]

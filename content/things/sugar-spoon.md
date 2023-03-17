@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: François-Hubert
     last_name: Drouais
-    years: (1727–75)
+    years: 1727–75
 type: [Commodity, Intoxicant, Tableware]
 theme: [Food and Drink, Global Commerce]
 material: [Metal/Silver]

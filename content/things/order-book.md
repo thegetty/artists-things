@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: Louis-Jean-François
     last_name: Lagrenée
-    years: (1724–1805)
+    years: 1724–1805
 type: [Tool]
 theme: [Administration, Antiquity, Everyday, Identity, Louvre, Money, Studio, Travel]
 material: [Synthetic Materials / Ink, Synthetic Materials / Paper]

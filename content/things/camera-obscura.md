@@ -7,7 +7,7 @@ tags: thing
 owner:
   - first_name: Charles
     last_name: Parrocel
-    years: (1688–1752)
+    years: 1688–1752
 type: [Instrument]
 theme: [Making, Studio]
 material: [Plant Matter / Wood, Synthetic Materials / Glass]

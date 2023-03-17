@@ -69,7 +69,7 @@ module.exports = function (eleventyConfig, { collections, page }) {
           ? owner.years
           : ''
   
-        owners.push(`<span role="listitem">${name} ${years}</span>`) 
+        owners.push(`<span role="listitem">${name} (${years})</span>`) 
       }
     }
 

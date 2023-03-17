@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: Jean-Étienne
     last_name: Liotard
-    years: (1702–89)
+    years: 1702–89
 type: [Commodity, Container, Gift]
 theme: [Global Commerce, Leisure, Luxury, Travel]
 material: [Shell, Plant Matter / Wood, Synthetic Materials / Lacquer, Synthetic Materials / Paper Textile / Silk]

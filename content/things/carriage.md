@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: Jean-Baptiste
     last_name: Pigalle
-    years: (1714–85)
+    years: 1714–85
 type: [Vehicle]
 theme: [Travel]
 material: [Plant Matter / Wood, Synthetic Materials / Glass, Synthetic Materials / Paint/Pigment Textile / Silk]

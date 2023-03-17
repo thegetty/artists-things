@@ -5,7 +5,7 @@ order: 113
 tags: thing
 owner:
   - full_name: Secretaries of the Académie Royale
-    years: (1650–1793)
+    years: 1650–1793
 type: [Container, Document, Ritual Thing]
 theme: [Administration, Community, Louvre]
 material: [Leather/Parchment, Metal/Bronze, Metal/Gold/Gilding, Plant Matter / Wood]

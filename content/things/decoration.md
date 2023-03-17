@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: Joseph-Marie
     last_name: Vien
-    years: (1716–1809)
+    years: 1716–1809
 type: [Apparel, Ritual Thing, Symbolic Thing]
 theme: [Memory, Identity]
 material: [Metal/Gold/Gilding, Synthetic Materials / Paint/Pigment, Textile/Silk]

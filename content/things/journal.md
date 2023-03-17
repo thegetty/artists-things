@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: Johann-Georg
     last_name: Wille
-    years: (1715–1808)
+    years: 1715–1808
 type: [Family, Companion, Souvenir]
 theme: [Community, Death, Everyday, Memory, Money]
 material: [Leather/Parchment, Synthetic Materials / Ink, Synthetic Materials / Paper]

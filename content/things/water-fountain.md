@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: Jean-Siméon
     last_name: Chardin
-    years: (1699–1779)
+    years: 1699–1779
 type: [Instrument]
 theme: [Everyday]
 material: [Metal/Copper]

@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: Claude-Joseph
     last_name: Vernet
-    years: (1714–89)
+    years: 1714–89
 type: [Instrument]
 theme: [Everyday, Travel]
 material: [Synthetic Materials / Paper]

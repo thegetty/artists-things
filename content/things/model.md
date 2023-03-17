@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: Edme
     last_name: Bouchardon
-    years: (1698–1762)
+    years: 1698–1762
 type: [Instrument, Tool]
 theme: [Making, Studio]
 material: [Wax, Mineral/Clay, Synthetic Materials / Plaster]

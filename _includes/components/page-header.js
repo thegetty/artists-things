@@ -71,7 +71,7 @@ module.exports = function(eleventyConfig) {
           ? owner.years
           : ''
   
-        ownersList.push(html`<li>${name} ${years}</li>`) 
+        ownersList.push(html`<li>${name} (${years})</li>`) 
       }
       ownersElement = html`<ul class="quire-page__header__owner">${ownersList}</ul>`
     }

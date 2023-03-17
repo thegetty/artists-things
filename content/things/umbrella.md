@@ -6,7 +6,7 @@ tags: thing
 owner:
   - first_name: Jacques-Philippe
     last_name: Le Bas
-    years: (1707–83)
+    years: 1707–83
 type: [Instrument]
 theme: [Community, Everyday, Commodity]
 material: [Plant Matter / Wood, Textile / Canvas, Textile / Silk]
