@@ -9,7 +9,7 @@ owner:
     years: 1685–1766
   - first_name: Louis
     last_name: Tocqué
-    years: 0
+    years: 1696–1772
 theme: [Family, Gender]
 material: [Feather, Plant Matter / Wood, Synthetic Materials / Paint/Pigment]
 contributor:
