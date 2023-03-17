@@ -9,7 +9,7 @@ owner:
     years: 1714–89
 type: [Apparel]
 theme: [Gender, Luxury, Studio]
-material: [Hair, Synthetic Materials / Plaster, Textile / Silk]
+material: [Animal | Hair, Synthetic Materials | Plaster, Textile | Silk]
 contributor:
   - id: "hwilliams"
 ---

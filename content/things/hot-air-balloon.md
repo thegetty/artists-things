@@ -9,7 +9,7 @@ owner:
     years: 1752–1814
 type: [Vehicle]
 theme: [Invention, Leisure, Studio, Travel]
-material: [Textile / Canvas]
+material: [Textile | Canvas]
 contributor:
   - id: "kscott"
 ---

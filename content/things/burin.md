@@ -9,7 +9,7 @@ owner:
     years: 1714–73
 type: [Tool]
 theme: [Family, Gender, Making, Studio]
-material: [Metal/Steel, Plant Matter / Wood, Synthetic Materials / Paper]
+material: [Metal | Steel, Plant Matter | Wood, Synthetic Materials | Paper]
 contributor:
   - id: "kscott"
 ---

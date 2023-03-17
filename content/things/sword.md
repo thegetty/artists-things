@@ -9,7 +9,7 @@ owner:
     years: 1688–1737
 type: [Apparel, Commodity, Symbolic Thing, Weapon]
 theme: [Antiquity, Death, Gender, Health/Medicine, Identity, Louvre]
-material: [Metal/Gold/Gilding, Metal/Steel]
+material: [Metal | Gold/Gilding, Metal | Steel]
 contributor:
   - id: "hwilliams"
 ---

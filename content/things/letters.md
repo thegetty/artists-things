@@ -9,7 +9,7 @@ owner:
     years: 1659–1743
 type: [Ritual Thing, Symbolic Thing]
 theme: [Administration, Identity, Document]
-material: [Wax, Synthetic Materials / Ink, Synthetic Materials / Paper]
+material: [Animal | Wax, Synthetic Materials | Ink, Synthetic Materials | Paper]
 contributor:
   - id: "hwilliams"
 ---

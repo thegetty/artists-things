@@ -9,7 +9,7 @@ owner:
     years: 1715–90
 type: [Apparel, Commodity, Companion, Gift]
 theme: [Death, Everyday, Friendship, Health/Medicine]
-material: [Textile / Cotton]
+material: [Textile | Cotton]
 contributor:
   - id: "kscott"
 ---

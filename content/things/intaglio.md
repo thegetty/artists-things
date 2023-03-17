@@ -9,7 +9,7 @@ owner:
     years: 1700–77
 type: [Apparel, Collectible, Souvenir]
 theme: [Antiquity, Death, Friendship, Memory, Travel]
-material: [Mineral/Gem]
+material: [Mineral | Gem]
 contributor:
   - id: "kscott"
 ---

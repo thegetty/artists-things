@@ -9,7 +9,7 @@ owner:
     years: 1741–1828
 type: [Artwork]
 theme: [Death, Education, Health/Medicine, Louvre, Luxury, Making, Studio, Travel, Tool]
-material: [Metal/Bronze, Mineral/Clay, Synthetic Materials / Plaster]
+material: [Metal | Bronze, Mineral | Clay, Synthetic Materials | Plaster]
 contributor:
   - id: "hwilliams"
 ---

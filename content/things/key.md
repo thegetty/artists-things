@@ -9,7 +9,7 @@ owner:
     years: 1744–1814
 type: [Tool]
 theme: [Community, Louvre]
-material: [Metal/Gold/Gilding, Metal/Steel]
+material: [Metal | Gold/Gilding, Metal | Steel]
 contributor:
   - id: "kscott"
 ---

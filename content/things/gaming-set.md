@@ -9,7 +9,7 @@ owner:
     years: 1702–89
 type: [Commodity, Container, Gift]
 theme: [Global Commerce, Leisure, Luxury, Travel]
-material: [Shell, Plant Matter / Wood, Synthetic Materials / Lacquer, Synthetic Materials / Paper Textile / Silk]
+material: [Animal | Shell, Plant Matter | Wood, Synthetic Materials | Lacquer, Synthetic Materials | Paper, Textile | Silk]
 contributor:
   - id: "hwilliams"
 ---

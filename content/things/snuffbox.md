@@ -9,7 +9,7 @@ owner:
     years: 1686–1755
 type: [Apparel, Collectible, Commodity, Container, Intoxicant]
 theme: [Global Commerce, Identity, Leisure, Luxury]
-material: [Metal/Gold/Gilding, Plant Matter/ Red Lake, Synthetic Materials / Lacquer, Synthetic Materials / Paint/Pigment]
+material: [Metal | Gold/Gilding, Plant Matter, Synthetic Materials | Lacquer, Synthetic Materials | Paint/Pigment]
 contributor:
   - id: "kscott"
 ---

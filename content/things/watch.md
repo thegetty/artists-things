@@ -9,7 +9,7 @@ owner:
     years: 1694–1752
 type: [Apparel, Collectible, Commodity, Gift, Heirloom, Instrument,]
 theme: [Community, Invention, Louvre, Luxury, Money, Religion]
-material: [Metal/Gold/Gilding, Mineral/Gem]
+material: [Metal | Gold/Gilding, Mineral | Gem]
 contributor:
   - id: "hwilliams"
 ---

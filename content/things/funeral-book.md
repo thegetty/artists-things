@@ -7,7 +7,7 @@ owner:
   - full_name: Concierge of the Académie Royale
 type: [Heirloom]
 theme: [Administration, Community, Death, Memory, Louvre]
-material: [Leather/Parchment, Synthetic Materials / Paper]
+material: [Animal | Leather/Parchment, Synthetic Materials | Paper]
 contributor:
   - id: "kscott"
 ---

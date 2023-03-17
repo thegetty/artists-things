@@ -9,7 +9,7 @@ owner:
     years: 1714–85
 type: [Vehicle]
 theme: [Travel]
-material: [Plant Matter / Wood, Synthetic Materials / Glass, Synthetic Materials / Paint/Pigment Textile / Silk]
+material: [Plant Matter | Wood, Synthetic Materials | Glass, Synthetic Materials | Paint/Pigment, Textile | Silk]
 contributor:
   - id: "kscott"
 ---

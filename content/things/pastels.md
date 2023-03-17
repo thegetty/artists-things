@@ -9,7 +9,7 @@ owner:
     years: 1734–72
 type: [Tool]
 theme: [Making, Studio]
-material: [Mineral/Chalk, Synthetic Materials / Paint/Pigment]
+material: [Mineral | Chalk, Synthetic Materials | Paint/Pigment]
 contributor:
   - id: "hwilliams"
 ---

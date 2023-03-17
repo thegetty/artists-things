@@ -9,7 +9,7 @@ owner:
     years: 1707–71
 type: [Apparel]
 theme: [Gender, Identity, Luxury, Studio]
-material: [Textile / Silk, Textile / Wool]
+material: [Textile | Silk, Textile | Wool]
 contributor:
   - id: "kscott"
 ---

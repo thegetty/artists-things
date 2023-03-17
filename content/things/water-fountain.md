@@ -9,7 +9,7 @@ owner:
     years: 1699–1779
 type: [Instrument]
 theme: [Everyday]
-material: [Metal/Copper]
+material: [Metal | Copper]
 contributor:
   - id: "kscott"
 ---

@@ -9,7 +9,7 @@ owner:
     years: 1707–83
 type: [Instrument]
 theme: [Community, Everyday, Commodity]
-material: [Plant Matter / Wood, Textile / Canvas, Textile / Silk]
+material: [Plant Matter | Wood, Textile | Canvas, Textile | Silk]
 contributor:
   - id: "kscott"
 ---

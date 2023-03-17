@@ -8,7 +8,7 @@ owner:
     years: 1650–1793
 type: [Container, Document, Ritual Thing]
 theme: [Administration, Community, Louvre]
-material: [Leather/Parchment, Metal/Bronze, Metal/Gold/Gilding, Plant Matter / Wood]
+material: [Animal | Leather/Parchment, Metal | Bronze, Metal | Gold/Gilding, Plant Matter | Wood]
 contributor:
   - id: "hwilliams"
 ---

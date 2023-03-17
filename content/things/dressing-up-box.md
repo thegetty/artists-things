@@ -9,7 +9,7 @@ owner:
     years: 1684–1721
 type: [Container, Tool]
 theme: [Education, Making, Studio]
-material: [Textile / Canvas, Textile / Silk]
+material: [Textile | Canvas, Textile | Silk]
 contributor:
   - id: "kscott"
 ---

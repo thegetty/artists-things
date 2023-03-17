@@ -9,7 +9,7 @@ owner:
     years: 1715–1808
 type: [Family, Companion, Souvenir]
 theme: [Community, Death, Everyday, Memory, Money]
-material: [Leather/Parchment, Synthetic Materials / Ink, Synthetic Materials / Paper]
+material: [Animal | Leather/Parchment, Synthetic Materials | Ink, Synthetic Materials | Paper]
 contributor:
   - id: "hwilliams"
 ---

@@ -9,7 +9,7 @@ owner:
     years: 1741–1828
 type: [Tool]
 theme: [Making, Studio]
-material: [Mineral/Clay, Plant Matter / Wood]
+material: [Mineral | Clay, Plant Matter | Wood]
 contributor:
   - id: "kscott"
 ---

@@ -9,7 +9,7 @@ owner:
     years: 1703–70
 type: [Collectible, Commodity, Tool]
 theme: [Global Commerce, Luxury]
-material: [Shell]
+material: [Animal | Shell]
 contributor:
   - id: "kscott"
 ---

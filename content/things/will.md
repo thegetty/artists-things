@@ -9,7 +9,7 @@ owner:
     years: 1687–1767
 type: [Document]
 theme: [Administration, Death, Family, Friendship, Identity, Money, Religion]
-material: [Synthetic Materials / Ink, Synthetic Materials / Paper]
+material: [Synthetic Materials | Ink, Synthetic Materials | Paper]
 contributor:
   - id: "kscott"
 ---

@@ -9,7 +9,7 @@ owner:
     years: 1746–1816
 type: [Apparel, Instrument]
 theme: [Health/Medicine, Invention, Making, Studio]
-material: [Metal/Bronze, Metal/Steel, Synthetic Materials / Glass]
+material: [Metal | Bronze, Metal | Steel, Synthetic Materials | Glass]
 contributor:
   - id: "hwilliams"
 ---

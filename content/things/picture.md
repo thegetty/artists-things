@@ -9,7 +9,7 @@ owner:
     years: 1656–1746
 type: [Artwork]
 theme: [Identity, Religion]
-material: [Metal/Gold/Gilding, Synthetic Materials / Paint/Pigment, Textile / Canvas]
+material: [Metal | Gold/Gilding, Synthetic Materials | Paint/Pigment, Textile | Canvas]
 contributor:
   - id: "kscott"
 ---

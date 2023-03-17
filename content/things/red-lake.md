@@ -9,7 +9,7 @@ owner:
     years: 1725–1802
 type: [Tool]
 theme: [Making, Studio]
-material: [Synthetic Materials / Paint/Pigment]
+material: [Synthetic Materials | Paint/Pigment, Plant Matter]
 contributor:
   - id: "kscott"
 ---

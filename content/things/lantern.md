@@ -30,7 +30,7 @@ owner:
     years: 1716–1809
 type: [Instrument]
 theme: [Community, Gender, Louvre]
-material: [Synthetic Materials / Glass]
+material: [Synthetic Materials | Glass]
 contributor:
   - id: "kscott"
 ---

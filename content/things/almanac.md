@@ -9,7 +9,7 @@ owner:
     years: 1714–89
 type: [Instrument]
 theme: [Everyday, Travel]
-material: [Synthetic Materials / Paper]
+material: [Synthetic Materials | Paper]
 contributor:
   - id: "kscott"
 ---

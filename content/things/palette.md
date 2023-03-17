@@ -9,7 +9,7 @@ owner:
     years: 1755–1842
 type: [Symbolic Thing, Tool]
 theme: [Education, Memory, Identity, Making, Studio]
-material: [Plant Matter / Wood, Synthetic Materials / Paint/Pigment]
+material: [Plant Matter | Wood, Synthetic Materials | Paint/Pigment]
 contributor:
   - id: "hwilliams"
 ---

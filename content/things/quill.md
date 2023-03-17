@@ -9,7 +9,7 @@ owner:
     years: 1716–91
 type: [Commodity, Tool]
 theme: [Friendship, Identity]
-material: [Feather, Synthetic Materials / Ink, Synthetic Materials / Paper]
+material: [Animal | Feather, Synthetic Materials | Ink, Synthetic Materials | Paper]
 contributor:
   - id: "kscott"
 ---

@@ -9,7 +9,7 @@ owner:
     years: 1748–1825
 type: [Furniture, Prop, Symbolic Thing]
 theme: [Antiquity, Family, Louvre, Making, Studio]
-material: [Metal/Bronze, Metal/Gold/Gilding, Plant Matter / Wood]
+material: [Metal | Bronze, Metal | Gold/Gilding, Plant Matter | Wood]
 contributor:
   - id: "hwilliams"
 ---

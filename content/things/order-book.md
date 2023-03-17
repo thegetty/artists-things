@@ -9,7 +9,7 @@ owner:
     years: 1724–1805
 type: [Tool]
 theme: [Administration, Antiquity, Everyday, Identity, Louvre, Money, Studio, Travel]
-material: [Synthetic Materials / Ink, Synthetic Materials / Paper]
+material: [Synthetic Materials | Ink, Synthetic Materials | Paper]
 contributor:
   - id: "hwilliams"
 ---

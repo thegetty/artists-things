@@ -9,7 +9,7 @@ owner:
     years: 1678–1733
 type: [Intoxicant, Tableware]
 theme: [Community, Death, Everyday, Food and Drink, Global Commerce, Leisure]
-material: [Plant Matter/ Red Lake, Synthetic Materials / Glass]
+material: [Plant Matter, Synthetic Materials | Glass]
 contributor:
   - id: "hwilliams"
 ---

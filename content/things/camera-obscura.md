@@ -10,7 +10,7 @@ owner:
     years: 1688–1752
 type: [Instrument]
 theme: [Making, Studio]
-material: [Plant Matter / Wood, Synthetic Materials / Glass]
+material: [Plant Matter | Wood, Synthetic Materials | Glass]
 contributor:
   - id: "kscott"
 ---

@@ -9,7 +9,7 @@ owner:
     years: 1745–1811
 type: [Tool]
 theme: [Education, Invention, Making, Studio]
-material: [Mineral/Chalk, Synthetic Materials / Paper]
+material: [Mineral | Chalk, Synthetic Materials | Paper]
 contributor:
   - id: "kscott"
 ---

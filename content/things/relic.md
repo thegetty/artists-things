@@ -9,7 +9,7 @@ owner:
     years: 1659–1743
 type: [Apparel, Commodity, Companion, Container, Gift, Heirloom, Ritual Thing, Symbolic Thing]
 theme: [Family, Luxury, Religion, Devotional Thing]
-material: [Metal/Gold/Gilding, Plant Matter / Wood]
+material: [Metal | Gold/Gilding, Plant Matter | Wood]
 contributor:
   - id: "hwilliams"
 ---

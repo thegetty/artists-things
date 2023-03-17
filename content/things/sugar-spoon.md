@@ -9,7 +9,7 @@ owner:
     years: 1727–75
 type: [Commodity, Intoxicant, Tableware]
 theme: [Food and Drink, Global Commerce]
-material: [Metal/Silver]
+material: [Metal | Silver]
 contributor:
   - id: "hwilliams"
 ---

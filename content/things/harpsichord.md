@@ -11,7 +11,7 @@ owner:
     last_name: Tocqué
     years: 1696–1772
 theme: [Family, Gender]
-material: [Feather, Plant Matter / Wood, Synthetic Materials / Paint/Pigment]
+material: [Animal | Feather, Plant Matter | Wood, Synthetic Materials | Paint/Pigment]
 contributor:
   - id: "hwilliams"
 ---

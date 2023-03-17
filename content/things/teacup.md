@@ -9,7 +9,7 @@ owner:
     years: 1685–1766
 type: [Collectible, Commodity, Intoxicant, Tableware]
 theme: [Food and Drink, Global Commerce, Luxury, Studio]
-material: [Metal/Silver, Mineral/Clay]
+material: [Metal | Silver, Mineral | Clay]
 contributor:
   - id: "kscott"
 ---

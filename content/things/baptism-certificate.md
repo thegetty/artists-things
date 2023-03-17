@@ -9,7 +9,7 @@ owner:
     years: 1733–1808
 type: [Document]
 theme: [Family, Identity, Money, Religion]
-material: [Synthetic Materials / Ink, Synthetic Materials / Paper]
+material: [Synthetic Materials | Ink, Synthetic Materials | Paper]
 contributor:
   - id: "hwilliams"
 ---

@@ -9,7 +9,7 @@ owner:
     years: 1741–1814
 type: [Artwork, Companion, Souvenir, Tool]
 theme: [Education, Everyday, Family, Making, Studio, Travel]
-material: [Leather/Parchment, Metal/Gold/Gilding, Mineral/Chalk, Synthetic Materials / Paper]
+material: [Animal | Leather/Parchment, Metal | Gold/Gilding, Mineral | Chalk, Synthetic Materials | Paper]
 contributor:
   - id: "hwilliams"
 ---

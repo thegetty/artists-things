@@ -9,7 +9,7 @@ owner:
     years: 1725–1802
 type: [Commodity, Furniture]
 theme: [Everyday, Health/Medicine, Invention, Louvre, Luxury]
-material: [Metal/Copper]
+material: [Metal | Copper]
 contributor:
   - id: "kscott"
 ---

@@ -9,7 +9,7 @@ owner:
     years: 1732–1806
 type: [Furniture]
 theme: [Administration, Louvre, Studio]
-material: [Leather/Parchment, Plant Matter / Cane, Plant Matter / Wood]
+material: [Animal | Leather/Parchment, Plant Matter | Cane, Plant Matter | Wood]
 contributor:
   - id: "kscott"
 ---

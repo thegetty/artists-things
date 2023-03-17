@@ -9,7 +9,7 @@ owner:
     years: 1734–81
 type: [Prop, Tool]
 theme: [Making, Studio, Travel]
-material: [Hair, Plant Matter/ Cork, Textile / Silk]
+material: [Animal | Hair, Plant Matter | Cork, Textile | Silk]
 contributor:
   - id: "hwilliams"
 ---

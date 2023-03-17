@@ -9,7 +9,7 @@ owner:
     years: 1716–1809
 type: [Apparel, Ritual Thing, Symbolic Thing]
 theme: [Memory, Identity]
-material: [Metal/Gold/Gilding, Synthetic Materials / Paint/Pigment, Textile/Silk]
+material: [Metal | Gold/Gilding, Synthetic Materials | Paint/Pigment, Textile | Silk]
 contributor:
   - id: "hwilliams"
 ---

@@ -11,7 +11,7 @@ owner:
     last_name: de Saint-Aubin
     years: 1724–80
 theme: [Education, Leisure, Studio]
-material: [Synthetic Materials / Ink, Synthetic Materials / Paper]
+material: [Synthetic Materials | Ink, Synthetic Materials | Paper]
 contributor:
   - id: "kscott"
 ---

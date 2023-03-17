@@ -10,7 +10,7 @@ owner:
     sort_years: 1716–83
 type: [Companion, Tool]
 theme: [Identity, Studio]
-material: [Leather/Parchment, Metal/Silver, Mineral/Chalk]
+material: [Animal | Leather/Parchment, Metal | Silver, Mineral | Chalk]
 contributor:
   - id: "kscott"
 ---

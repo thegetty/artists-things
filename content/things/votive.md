@@ -9,7 +9,7 @@ owner:
     years: 1697–1739
 type: [Artwork, Devotional Thing, Ritual Thing, Symbolic Thing]
 theme: [Death, Family, Health/Medicine, Making, Religion, Studio]
-material: [Synthetic Materials / Ink, Synthetic Materials / Paper, Synthetic Materials / Paper]
+material: [Synthetic Materials | Ink, Synthetic Materials | Paper, Synthetic Materials | Paper]
 contributor:
   - id: "hwilliams"
 ---

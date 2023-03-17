@@ -9,7 +9,7 @@ owner:
     years: 1698–1762
 type: [Instrument, Tool]
 theme: [Making, Studio]
-material: [Wax, Mineral/Clay, Synthetic Materials / Plaster]
+material: [Animal | Wax, Mineral | Clay, Synthetic Materials | Plaster]
 contributor:
   - id: "kscott"
 ---
