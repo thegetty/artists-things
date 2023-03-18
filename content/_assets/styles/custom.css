@@ -465,8 +465,8 @@ a:hover .quire-thing__main__icon svg {
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 2.375rem;
   font-weight: 600;
-  border-bottom: 1px solid var(--black);
   border-top: 1px solid var(--black);
+  border-bottom: 1px solid var(--black);
   padding-bottom: 1.5rem;
   padding-top: 1.5rem;
   width: 100%;
@@ -479,11 +479,10 @@ a:hover .quire-thing__main__icon svg {
 }
 .quire-page__content .container .content table.taxonomy-table th, 
 .quire-page__content .container .content table.taxonomy-table td {
-  padding-left: 0;
-  padding-right: 0;
   border-bottom-width: 0;
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 1rem;
+  padding: 0 .5rem .5rem 0;
 }
 .taxonomy-table .quire-citation__button.quire-thing__button {
   font-weight: 400;
@@ -494,55 +493,92 @@ a:hover .quire-thing__main__icon svg {
 .taxonomy-table .quire-citation.quire-thing:last-child::after {
   content: "";
 }
-/* Chronology by Artist */
-#artists-chronology tbody {
-  columns: 3;
+.quire-page__content .content .taxonomy-table tbody tr:hover {
+  background-color: transparent;
+}
+.taxonomy-table tbody {
+  columns: 2;
   column-gap: 0;
   column-rule: 1px solid var(--black);
   display: block;
   margin-left: -1rem;
+  margin-right: -1rem;
 }
-#artists-chronology tr {
+.taxonomy-table tbody tr {
   display: block;
 }
-#artists-chronology tr td:first-child {
-  width: 5.25rem;
+.taxonomy-table tr td:first-child {
+  width: 10.5rem;
   padding-left: 1rem !important;
+}
+.taxonomy-table tr td:last-child {
+  padding-right: .5rem;
 }
 /* Indexes by Type and Theme */
 #index-by-theme tr td:first-child,
 #index-by-thing tr td:first-child {
-  width: 10.5rem;
   font-style: italic;
 }
 /* Index by Material */
-#index-by-material {
+.quire-page.taxonomy[data-page-id="taxonomies-material"] h1, 
+.quire-page.taxonomy[data-page-id="taxonomies-material"] .quire-page__header__title {
+  border-bottom-width: 0px;
+}
+#index-by-material.taxonomy-table {
   columns: 2;
   column-gap: 0;
   column-rule: 1px solid var(--black);
   display: block;
 }
-#index-by-material tbody {
+#index-by-material.taxonomy-table tbody {
+  break-inside: avoid;
+  columns: 1;
   display: block;
   border-top: 1px solid var(--black);
-  padding: 1rem 0;
+  column-rule-width: 0px;
+  margin: 0;
 }
-#index-by-material tbody:first-of-type {
+#index-by-material.taxonomy-table tbody:first-of-type {
   display: none;
 }
-#index-by-material tr td:first-child {
-  width: 12.25rem;
+#index-by-material.taxonomy-table tbody tr {
+  padding-left: 1.5rem;
+}
+#index-by-material.taxonomy-table tbody tr:first-child {
+  padding-top: 1rem;
+  padding-left: .5rem;
+}
+#index-by-material.taxonomy-table tbody tr:last-child {
+  padding-bottom: .75rem;
+}
+#index-by-material.taxonomy-table tr td:first-child {
+  width: 10.5rem;
   font-style: italic;
-  padding-left: 3rem;
 }
-#index-by-material tr td:last-child {
-  padding-right: .5rem;
-}
-#index-by-material tr td.material-category-header {
+#index-by-material.taxonomy-table tr td.material-category-header {
   font-weight: 600;
   font-style: normal;
   text-transform: uppercase;
   letter-spacing: .8px;
-  padding-left: 1.75rem;
   white-space: nowrap;
+}
+#index-by-material.taxonomy-table tr td.material-category-header + td {
+  padding-left: 1rem;
+}
+@media screen and (max-width: 45.5rem) {
+  body {
+    background-color: lavender !important;
+  }
+  .taxonomy-table tbody,
+  #index-by-material.taxonomy-table {
+    columns: 1;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .taxonomy-table tr td:first-child {
+    padding-left: 0 !important;
+  }
+  #index-by-material.taxonomy-table tbody tr:first-child {
+    padding-left: 0;
+  }
 }
