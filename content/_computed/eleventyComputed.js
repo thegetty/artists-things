@@ -30,6 +30,7 @@ module.exports = {
         short_title: data.short_title,
         subtitle: data.subtitle,
         summary: data.summary,
+        tags: data.tags,
         title: data.title
       }
     },

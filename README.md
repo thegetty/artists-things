@@ -10,6 +10,9 @@ Altered to show current page title instead of homepage link
 **_includes/components/page-header.js**
 Added a list of 'owners'
 
+**_includes/components/table-of-contents/item/list.js**
+Output the list item for 'thing' pages with an image
+
 **_includes/web-components/modal/index.js**
 Altered getCurrentFigureId() to work with .q-figure__modal-link class anywhere
 
