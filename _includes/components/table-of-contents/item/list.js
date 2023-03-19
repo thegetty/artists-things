@@ -65,7 +65,7 @@ module.exports = function (eleventyConfig) {
     if (presentation === 'brief') {
       pageTitleElement = short_title || title
     } else {
-      pageTitleElement = oneLine`${pageTitle({ label, subtitle, title })}${imageElement}`
+      pageTitleElement = oneLine`<span class="page-item-title">${pageTitle({ label, subtitle, title })}</span>`
     }
 
     // Returns abstract with any links stripped out
@@ -77,7 +77,7 @@ module.exports = function (eleventyConfig) {
     let mainElement = `${markdownify(pageTitleElement)}`
 
     if (isPage) {
-      mainElement = `<a href="${urlFilter(page.url)}">${mainElement}</a>`
+      mainElement = `<a href="${urlFilter(page.url)}">${mainElement}${imageElement}</a>`
     } else {
       classes.push('no-landing')
     }
