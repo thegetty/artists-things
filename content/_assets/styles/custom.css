@@ -308,6 +308,15 @@ q-modal {
   display: none;
 }
 
+/* Abbreviations Table */
+.quire-page__content table#abbreviations {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1rem;
+}
+.quire-page__content table#abbreviations thead {
+  display: none;
+}
+
 /* Thing Info Grid */
 .quire-page__content .container .content {
   margin-top: 3rem;
