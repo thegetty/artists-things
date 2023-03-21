@@ -1,5 +1,6 @@
 ---
 title: "Baptism Certificate"
+aliases: [baptism certificates]
 layout: thing
 order: 103
 tags: thing

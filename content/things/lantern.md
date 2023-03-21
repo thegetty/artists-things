@@ -1,5 +1,6 @@
 ---
 title: "Lantern"
+aliases: [lanterns]
 layout: thing
 order: 126
 tags: thing

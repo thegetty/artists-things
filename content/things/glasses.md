@@ -1,5 +1,6 @@
 ---
 title: "Glasses"
+aliases: []
 layout: thing
 order: 119
 tags: thing

@@ -1,5 +1,6 @@
 ---
 title: "Key"
+aliases: [keys]
 layout: thing
 order: 125
 tags: thing

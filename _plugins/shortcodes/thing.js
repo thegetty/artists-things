@@ -4,7 +4,7 @@
 //
 const chalkFactory = require('~lib/chalk')
 const { html, renderOneLine } = require('~lib/common-tags')
-const { warn } = chalkFactory('shortcodes:def')
+const { warn } = chalkFactory('shortcodes:thing')
 
 /**
  * Shortcode to display pop-up vocab definitions with links to full vocab page
