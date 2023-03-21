@@ -33,28 +33,6 @@ module.exports = function (eleventyConfig, { collections, page }) {
       return renderOneLine`<span style="color:red;">${displayText}</span>`
     }
 
-    // strip def and cite shortcodes and show display value only
-    // const regex = /\{% [a-z]+ (\"([^\"]*?)\" ){1,3}%\}/g
-    // const plainDefinition = thingPage.data.definition.replace(regex, '$2')
-
-    // truncate definition but not mid-word
-    // const maxLength = 240
-    // let displayDefinition = ''
-    // if (plainDefinition.length < maxLength){
-    //   displayDefinition = plainDefinition
-    // } else {
-    //   displayDefinition = plainDefinition.substring(0, maxLength)
-    //   displayDefinition = displayDefinition
-    //     .substring(0, Math.min(
-    //       displayDefinition.length,
-    //       displayDefinition.lastIndexOf(' ')))
-    //     .concat(' ...')
-    // }
-
-    // const type = thingPage.data.type
-    // const theme = thingPage.data.theme
-    // const material = thingPage.data.material
-
     const linkIcon = `${icon({ type: 'right-arrow', description: 'View' })}`
 
     let owners = []
@@ -100,13 +78,13 @@ module.exports = function (eleventyConfig, { collections, page }) {
     return renderOneLine`
       <span class="quire-citation quire-thing expandable">
         <span class="quire-citation__button quire-thing__button" role="button" tabindex="0" aria-expanded="false">
-          ${displayText}
+          ${markdownify(displayText)}
         </span>
         <span hidden class="quire-citation__content quire-thing__content">
           
           <span class="quire-thing__main">
             <a href="${thingPage.url}">
-              <span class="quire-thing__main__title">${thingPage.data.title}</span>
+              <span class="quire-thing__main__title">${markdownify(thingPage.data.title)}</span>
               <span class="quire-thing__main__icon">${linkIcon}</span>
               <span class="quire-thing__main__owner" role="list">
                 ${owners}
