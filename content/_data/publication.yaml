@@ -69,10 +69,12 @@ contributor:
     type: primary
     first_name: Katie
     last_name: Scott
+    symbol: §
   - id: hwilliams
     type: primary
     first_name: Hannah
     last_name: Williams
+    symbol: ‡
 
 
 # ------------------------------------------------------------------------------

@@ -19,6 +19,13 @@ order: 11
 
 ## Author Symbols
 
-§ Katie Scott
-
-‡ Hannah Williams
+<table id="symbols">
+<thead>
+  <tr><td>Symbol</td><td>Full Reference </td><tr>
+</thead>
+<tbody>
+{% for person in publication.contributor %}
+  <tr><td>{{ person.symbol }}</td><td>{{ person.first_name }} {{ person.last_name }}</td><tr>
+{% endfor %}
+</tbody>
+</table>

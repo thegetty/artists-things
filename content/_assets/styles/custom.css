@@ -309,12 +309,18 @@ q-modal {
 }
 
 /* Abbreviations Table */
-.quire-page__content table#abbreviations {
+.quire-page__content table#abbreviations,
+.quire-page__content table#symbols {
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 1rem;
 }
-.quire-page__content table#abbreviations thead {
+.quire-page__content table#abbreviations thead,
+.quire-page__content table#symbols thead {
   display: none;
+}
+.quire-page__content table#abbreviations td:first-child,
+.quire-page__content table#symbols td:first-child {
+  width: 10.5rem;
 }
 
 /* Thing Info Grid */
