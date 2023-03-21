@@ -112,6 +112,6 @@ In contrast to fiction and satire, which in the eighteenth century often feature
 
 [^38]: [[AN]], [[MC]]/ET/LVII/574, Jean-Baptiste Pigalle, “Inventaire après décès,” 29 August 1785.
 
-[^39]: Jean-Félix Watin, *L’art du peintre, doreur, vernisseur* \[1773], ed. Thierry Verdier (Montpellier: Pulm, 2005), 101–2.
+[^39]: Jean-Félix Watin, *L’art du peintre, doreur, vernisseur* [1773], ed. Thierry Verdier (Montpellier: Pulm, 2005), 101–2.
 
 [^40]: Jean-Baptiste Pigalle, “Inventaire après décès,” 29 August 1785, [[AN]], [[MC]]/ET/LVII/574.

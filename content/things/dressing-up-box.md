@@ -108,7 +108,7 @@ Focus on the collection of apparel, a collection which Watteau began to assemble
 
 [^34]: Caylus uses the word *express* rather than *depict* for Watteau’s representation of cloth. See Caylus, “Vie,” in Rosenberg, *Vies*, 72.
 
-[^35]: See Rosenberg and Prat, *Watteau: Catalogue raisonné*, \[\[PAGE(S)?]]
+[^35]: See Rosenberg and Prat, *Watteau: Catalogue raisonné*, [[PAGE(S)?]]
 
 [^36]: See Roger de Piles’s endorsement of Leonardo’s commendation of the damp wall in *L’Idée du peintre parfait* (Paris: Gallimard, 1993), 30–31.
 
