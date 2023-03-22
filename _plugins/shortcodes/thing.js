@@ -70,7 +70,8 @@ module.exports = function (eleventyConfig, { collections, page }) {
     let materials = ''
     if (thingPage.data.material) {
       for (material of thingPage.data.material) {
-        newMaterial = html`<span role="listitem"><a href="/contents/" class="quire-thing__link"><span>${material}</span><span>${linkIcon}</span></a></span>`
+        const materialWithoutCategory = material.replace(/.*? \| /g, '')
+        newMaterial = html`<span role="listitem"><a href="/contents/" class="quire-thing__link"><span>${materialWithoutCategory}</span><span>${linkIcon}</span></a></span>`
         materials = materials + newMaterial
       }
     }
