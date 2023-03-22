@@ -4,6 +4,9 @@ The [Quire Eleventy package](https://github.com/thegetty/quire/tree/main/package
 
 ### New and Customized Template Files
 
+**_includes/components/icons.js**
+Added custom search icon
+
 **_includes/components/navigation.js**
 Altered to show current page title instead of homepage link
 

@@ -47,6 +47,13 @@
 .quire-navbar {
   font-size: .9375rem;
 }
+.quire-navbar *,
+.quire-navbar a { 
+  color: var(--black) !important;
+}
+.quire-navbar svg {
+  fill: var(--black);
+}
 .quire-navbar-controls {
   padding: 0 var(--gap);
 }
@@ -86,6 +93,10 @@
   width: 1.5rem;
   max-height: initial;
   max-width: initial;
+}
+.quire-search__inner .input-bar span svg {
+  max-width: 2rem;
+  max-height: 2rem;
 }
 .quire-search__close-button:hover,
 .quire-navbar-controls__left a:hover, 
