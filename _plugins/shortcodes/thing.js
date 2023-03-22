@@ -75,6 +75,16 @@ module.exports = function (eleventyConfig, { collections, page }) {
       }
     }
 
+    let mentions = ''
+    for (entry of collections.thing) {
+      if (entry.data.mentions) {
+        if (entry.data.mentions.includes(thing.toLowerCase())) {
+          newMention = html`<span role="listitem"><a href="${entry.url}" class="quire-thing__link"><span>${entry.data.title}</span><span>${linkIcon}</span></a></span>`
+          mentions = mentions + newMention
+        }
+      }
+    }
+
     return renderOneLine`
       <span class="quire-citation quire-thing expandable">
         <span class="quire-citation__button quire-thing__button" role="button" tabindex="0" aria-expanded="false">
@@ -110,6 +120,13 @@ module.exports = function (eleventyConfig, { collections, page }) {
             <span class="quire-thing__heading">Material</span>
             <span role="list">
               ${materials}
+            </span>
+          </span>
+
+          <span class="quire-thing__mentions">
+            <span class="quire-thing__heading">Also mentioned in</span>
+            <span role="list">
+              ${mentions}
             </span>
           </span>
 
