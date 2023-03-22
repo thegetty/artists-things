@@ -495,6 +495,10 @@ a:hover .quire-thing__main__icon svg {
 .quire-thing__link:hover svg {
   fill: var(--accent-color);
 }
+/* Fix for when pop-up is in footnotes area */
+.quire-page__content .container .content .footnotes .quire-citation__content.quire-thing__content * {
+  line-height: 1.625;
+}
 
 /* TABLE OF CONTENTS GRID */
 .table-of-contents-list {
