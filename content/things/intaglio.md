@@ -11,6 +11,7 @@ owner:
 type: [Apparel, Collectible, Souvenir]
 theme: [Antiquity, Death, Friendship, Memory, Travel]
 material: [Mineral | Gem]
+mentions: [model, shell]
 contributor:
   - id: "kscott"
 ---

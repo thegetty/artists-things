@@ -11,6 +11,7 @@ owner:
 type: [Furniture]
 theme: [Administration, Louvre, Studio]
 material: [Animal | Leather/Parchment, Plant Matter | Cane, Plant Matter | Wood]
+mentions: [palette, journal]
 contributor:
   - id: "kscott"
 ---

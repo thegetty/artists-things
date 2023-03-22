@@ -11,6 +11,7 @@ owner:
 type: [Instrument]
 theme: [Making, Studio]
 material: [Plant Matter | Wood, Synthetic Materials | Glass]
+mentions: ['*porte-crayon*', quill, color box, palette, wine]
 contributor:
   - id: "kscott"
 ---

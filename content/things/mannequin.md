@@ -11,6 +11,7 @@ owner:
 type: [Prop, Tool]
 theme: [Making, Studio, Travel]
 material: [Animal | Hair, Plant Matter | Cork, Textile | Silk]
+mentions: [wig, écorché, color box, '*porte-crayon*', camera obscura, dressing-up box, sword, table]
 contributor:
   - id: "hwilliams"
 ---

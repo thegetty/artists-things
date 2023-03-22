@@ -11,6 +11,7 @@ owner:
 type: [Instrument]
 theme: [Community, Everyday, Commodity]
 material: [Plant Matter | Wood, Textile | Canvas, Textile | Silk]
+mentions: [snuffbox, teacup, watch, sketchbook, carriage, dressing-up box]
 contributor:
   - id: "kscott"
 ---

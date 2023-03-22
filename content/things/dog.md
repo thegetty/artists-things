@@ -11,6 +11,7 @@ owner:
 type: [Companion, Gift]
 theme: [Animal, Family, Friendship, Louvre]
 material: [Animal]
+mentions: [nightingale, bath]
 contributor:
   - id: "hwilliams"
 ---

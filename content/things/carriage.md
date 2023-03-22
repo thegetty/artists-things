@@ -11,6 +11,7 @@ owner:
 type: [Vehicle]
 theme: [Travel]
 material: [Plant Matter | Wood, Synthetic Materials | Glass, Synthetic Materials | Paint/Pigment, Textile | Silk]
+mentions: [almanac, teacup, shell]
 contributor:
   - id: "kscott"
 ---

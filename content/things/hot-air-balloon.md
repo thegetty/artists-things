@@ -11,6 +11,7 @@ owner:
 type: [Vehicle]
 theme: [Invention, Leisure, Studio, Travel]
 material: [Textile | Canvas]
+mentions: [journal, bath, carriage, model]
 contributor:
   - id: "kscott"
 ---

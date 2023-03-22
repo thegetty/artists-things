@@ -11,6 +11,7 @@ owner:
 type: [Apparel, Commodity, Companion, Gift]
 theme: [Death, Everyday, Friendship, Health/Medicine]
 material: [Textile | Cotton]
+mentions: [decoration, snuffbox, '*robe de chambre*', palette, red lake]
 contributor:
   - id: "kscott"
 ---

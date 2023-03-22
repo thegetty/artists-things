@@ -11,6 +11,7 @@ owner:
 type: [Collectible, Commodity, Tool]
 theme: [Global Commerce, Luxury]
 material: [Animal | Shell]
+mentions: [wig, snuffbox, teacup, watch, palette, model, quill]
 contributor:
   - id: "kscott"
 ---

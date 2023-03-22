@@ -11,6 +11,7 @@ owner:
 type: [Artwork, Companion, Souvenir, Tool]
 theme: [Education, Everyday, Family, Making, Studio, Travel]
 material: [Animal | Leather/Parchment, Metal | Gold/Gilding, Mineral | Chalk, Synthetic Materials | Paper]
+mentions: [book, journal, '*crayon*', dog, armchair, wig, burin, shell, camera obscura, picture, votive, order book]
 contributor:
   - id: "hwilliams"
 ---

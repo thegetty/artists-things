@@ -11,6 +11,7 @@ owner:
 type: [Gift]
 theme: [Animal, Gender, Identity, Money]
 material: [Animal]
+mentions: [quill, watch, snuffbox, dog, marriage contract, burin, quill]
 contributor:
   - id: "kscott"
 ---

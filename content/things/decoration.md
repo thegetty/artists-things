@@ -11,6 +11,7 @@ owner:
 type: [Apparel, Ritual Thing, Symbolic Thing]
 theme: [Memory, Identity]
 material: [Metal | Gold/Gilding, Synthetic Materials | Paint/Pigment, Textile | Silk]
+mentions: [sword, letters]
 contributor:
   - id: "hwilliams"
 ---

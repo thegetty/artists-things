@@ -11,6 +11,7 @@ owner:
 type: [Container, Tool]
 theme: [Global Commerce, Making, Studio, Travel]
 material: [Plant Matter | Cork, Plant Matter | Wood, Synthetic Materials | Glass, Synthetic Materials | Paint/Pigment]
+mentions: [palette, handkerchief, red lake, armchair]
 contributor:
   - id: "hwilliams"
 ---

@@ -11,6 +11,7 @@ owner:
 type: [Tool]
 theme: [Family, Gender, Making, Studio]
 material: [Metal | Steel, Plant Matter | Wood, Synthetic Materials | Paper]
+mentions: [quill, '*crayon*', marriage contract]
 contributor:
   - id: "kscott"
 ---

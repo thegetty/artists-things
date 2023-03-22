@@ -11,6 +11,7 @@ owner:
 type: [Container, Tool]
 theme: [Education, Making, Studio]
 material: [Textile | Canvas, Textile | Silk]
+mentions: [mannequin, sketchbook, palette, écorché, wig]
 contributor:
   - id: "kscott"
 ---

@@ -11,6 +11,7 @@ owner:
 type: [Instrument]
 theme: [Everyday]
 material: [Metal | Copper]
+mentions: [table, dressing-up box, intaglio, snuffbox, sword, gaming set, umbrella, shell, teacup]
 contributor:
   - id: "kscott"
 ---

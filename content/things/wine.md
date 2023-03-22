@@ -11,6 +11,7 @@ owner:
 type: [Intoxicant, Tableware]
 theme: [Community, Death, Everyday, Food and Drink, Global Commerce, Leisure]
 material: [Plant Matter, Synthetic Materials | Glass]
+mentions: [sugar spoon, journal,sword, palette]
 contributor:
   - id: "hwilliams"
 ---

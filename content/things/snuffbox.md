@@ -11,6 +11,7 @@ owner:
 type: [Apparel, Collectible, Commodity, Container, Intoxicant]
 theme: [Global Commerce, Identity, Leisure, Luxury]
 material: [Metal | Gold/Gilding, Plant Matter, Synthetic Materials | Lacquer, Synthetic Materials | Paint/Pigment]
+mentions: [handkerchief, watch, '*portes-crayons*', dog]
 contributor:
   - id: "kscott"
 ---

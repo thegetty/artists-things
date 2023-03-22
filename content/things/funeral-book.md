@@ -9,6 +9,7 @@ owner:
 type: [Heirloom]
 theme: [Administration, Community, Death, Memory, Louvre]
 material: [Animal | Leather/Parchment, Synthetic Materials | Paper]
+mentions: [almanac, document box]
 contributor:
   - id: "kscott"
 ---

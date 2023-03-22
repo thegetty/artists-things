@@ -13,6 +13,7 @@ owner:
     years: 1724–80
 theme: [Education, Leisure, Studio]
 material: [Synthetic Materials | Ink, Synthetic Materials | Paper]
+mentions: [color box, red lake]
 contributor:
   - id: "kscott"
 ---

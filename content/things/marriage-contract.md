@@ -11,6 +11,7 @@ owner:
 type: [Document]
 theme: [Family, Gender, Identity, Money, Religion]
 material: [Synthetic Materials | Ink, Synthetic Materials | Paper]
+mentions: [book, quill]
 contributor:
   - id: "hwilliams"
 ---

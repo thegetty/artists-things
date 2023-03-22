@@ -11,9 +11,12 @@ owner:
 type: [Apparel, Instrument]
 theme: [Health/Medicine, Invention, Making, Studio]
 material: [Metal | Bronze, Metal | Steel, Synthetic Materials | Glass]
+mentions: [camera obscura]
 contributor:
   - id: "hwilliams"
 ---
+
+{% thing 'camera obscura' %}
 
 **It is difficult to take one’s eyes off François-André Vincent’s glasses.** In his portrait, at forty-nine, painted by Adélaïde Labille-Guiard—a lifelong acquaintance who would become his wife five years later—Vincent’s glasses are a conspicuous accessory ({% ref 'fig-065' %}).[^1] They occupy only a fraction of the canvas’s surface area, but their location over the eyes of the sitter—where the beholder’s own eyes are inevitably drawn and redrawn—ensure that this optical device becomes the focus of everyone’s gaze. Yet what is perhaps most distracting about Vincent’s glasses is less their lenses than their arms. Compositionally and formally, these insistent appendages demand attention, with their sudden stark linearity amid the soft contours of his face, with the darkness of the metal against his pale skin and gray hair, and with the quietly observed detail of their engineered construction. The lug and hinge at the front, where the arm meets the frame, is a regular feature of spectacles to this day; but far less familiar to the modern eye is the other end, where instead of curving gently around the ear, the arm bends abruptly at a sharp angle behind Vincent’s head. This tiny detail may also have caught the attention of Vincent’s contemporaries, though for entirely different reasons. For what appears today as a cumbersome outmoded feature was, in the eighteenth-century, the height of optometric technology.
 

@@ -11,6 +11,7 @@ owner:
 type: [Furniture, Prop, Symbolic Thing]
 theme: [Antiquity, Family, Louvre, Making, Studio]
 material: [Metal | Bronze, Metal | Gold/Gilding, Plant Matter | Wood]
+mentions: [palette, modeling stand, handkerchief, harpsichord, relic, key, mannequin, sketchbook, bed, camera obscura]
 contributor:
   - id: "hwilliams"
 ---

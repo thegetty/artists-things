@@ -11,6 +11,7 @@ owner:
 type: [Collectible, Commodity, Intoxicant, Tableware]
 theme: [Food and Drink, Global Commerce, Luxury, Studio]
 material: [Metal | Silver, Mineral | Clay]
+mentions: [intaglio]
 contributor:
   - id: "kscott"
 ---

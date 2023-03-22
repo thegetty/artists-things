@@ -11,6 +11,7 @@ owner:
 type: [Tool]
 theme: [Administration, Antiquity, Everyday, Identity, Louvre, Money, Studio, Travel]
 material: [Synthetic Materials | Ink, Synthetic Materials | Paper]
+mentions: [journal, table]
 contributor:
   - id: "hwilliams"
 ---

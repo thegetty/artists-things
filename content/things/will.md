@@ -11,6 +11,7 @@ owner:
 type: [Document]
 theme: [Administration, Death, Family, Friendship, Identity, Money, Religion]
 material: [Synthetic Materials | Ink, Synthetic Materials | Paper]
+mentions: [quill, snuffbox, votive, picture]
 contributor:
   - id: "kscott"
 ---

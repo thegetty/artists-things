@@ -11,6 +11,7 @@ owner:
 type: [Commodity, Container, Gift]
 theme: [Global Commerce, Leisure, Luxury, Travel]
 material: [Animal | Shell, Plant Matter | Wood, Synthetic Materials | Lacquer, Synthetic Materials | Paper, Textile | Silk]
+mentions: [shells, teacup, color box, document box]
 contributor:
   - id: "hwilliams"
 ---

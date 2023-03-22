@@ -12,6 +12,7 @@ owner:
 type: [Companion, Tool]
 theme: [Identity, Studio]
 material: [Animal | Leather/Parchment, Metal | Silver, Mineral | Chalk]
+mentions: [pastel, journal, will, handkerchief, watch, snuffbox]
 contributor:
   - id: "kscott"
 ---

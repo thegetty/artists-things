@@ -11,6 +11,7 @@ owner:
 type: [Commodity, Tool]
 theme: [Friendship, Identity]
 material: [Animal | Feather, Synthetic Materials | Ink, Synthetic Materials | Paper]
+mentions: ['*porte-crayon*', book, journal, order book, marriage contract, will, handkerchief, sword, journal, harpsichor, carriage]
 contributor:
   - id: "kscott"
 ---

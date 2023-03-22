@@ -11,6 +11,7 @@ owner:
 type: [Commodity, Furniture]
 theme: [Everyday, Health/Medicine, Invention, Louvre, Luxury]
 material: [Metal | Copper]
+mentions: [key, bed, glasses]
 contributor:
   - id: "kscott"
 ---

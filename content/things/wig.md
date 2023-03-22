@@ -11,6 +11,7 @@ owner:
 type: [Apparel]
 theme: [Gender, Luxury, Studio]
 material: [Animal | Hair, Synthetic Materials | Plaster, Textile | Silk]
+mentions: [order book, sword, '*robe de chambre*']
 contributor:
   - id: "hwilliams"
 ---

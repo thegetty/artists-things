@@ -11,6 +11,7 @@ owner:
 type: [Furniture, Ritual Thing]
 theme: [Family, Memory, Identity, Louvre, Luxury]
 material: [Plant Matter | Wood, Synthetic Materials | Paint/Pigment, Textile | Cotton, Textile | Linen, Textile | Silk, Textile | Wool]
+mentions: [picture, journal, teacup, carriage]
 contributor:
   - id: "kscott"
 ---

@@ -11,6 +11,7 @@ owner:
 type: [Artwork, Devotional Thing, Ritual Thing, Symbolic Thing]
 theme: [Death, Family, Health/Medicine, Making, Religion, Studio]
 material: [Synthetic Materials | Ink, Synthetic Materials | Paper, Synthetic Materials | Paper]
+mentions: [sword, picture, écorché, '*robe de chambre*']
 contributor:
   - id: "hwilliams"
 ---

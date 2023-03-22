@@ -11,6 +11,7 @@ owner:
 type: [Symbolic Thing, Tool]
 theme: [Education, Memory, Identity, Making, Studio]
 material: [Plant Matter | Wood, Synthetic Materials | Paint/Pigment]
+mentions: [carriage, artmchair, color box, red lake, modeling stand, burin, sketchbook, decoration, relic, bed, table]
 contributor:
   - id: "hwilliams"
 ---

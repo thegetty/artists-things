@@ -11,6 +11,7 @@ owner:
 type: [Apparel, Commodity, Companion, Container, Gift, Heirloom, Ritual Thing, Symbolic Thing]
 theme: [Family, Luxury, Religion, Devotional Thing]
 material: [Metal | Gold/Gilding, Plant Matter | Wood]
+mentions: [will, watch, handkerchief, almanac]
 contributor:
   - id: "hwilliams"
 ---

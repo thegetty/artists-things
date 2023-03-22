@@ -11,6 +11,7 @@ owner:
 type: [Tool]
 theme: [Making, Studio]
 material: [Mineral | Clay, Plant Matter | Wood]
+mentions: [palette, color box, wine, écorché]
 contributor:
   - id: "kscott"
 ---

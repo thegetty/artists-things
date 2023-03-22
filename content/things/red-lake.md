@@ -11,6 +11,7 @@ owner:
 type: [Tool]
 theme: [Making, Studio]
 material: [Synthetic Materials | Paint/Pigment, Plant Matter]
+mentions: [palette]
 contributor:
   - id: "kscott"
 ---

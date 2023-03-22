@@ -11,6 +11,7 @@ owner:
 type: [Tool]
 theme: [Making, Studio]
 material: [Mineral | Chalk, Synthetic Materials | Paint/Pigment]
+mentions: [color box, handkerchief, '*crayon*', '*porte-crayon*', palette, red lake, wig, shell]
 contributor:
   - id: "hwilliams"
 ---

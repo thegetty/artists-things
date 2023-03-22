@@ -13,6 +13,7 @@ owner:
     years: 1696–1772
 theme: [Family, Gender]
 material: [Animal | Feather, Plant Matter | Wood, Synthetic Materials | Paint/Pigment]
+mentions: [marriage contract, quill, water fountain, table, glasses, modeling stand, bed, table]
 contributor:
   - id: "hwilliams"
 ---

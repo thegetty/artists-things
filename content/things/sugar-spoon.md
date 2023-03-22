@@ -11,6 +11,7 @@ owner:
 type: [Commodity, Intoxicant, Tableware]
 theme: [Food and Drink, Global Commerce]
 material: [Metal | Silver]
+mention: [wine, teacup, snuffbox]
 contributor:
   - id: "hwilliams"
 ---

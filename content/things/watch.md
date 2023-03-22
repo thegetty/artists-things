@@ -11,6 +11,7 @@ owner:
 type: [Apparel, Collectible, Commodity, Gift, Heirloom, Instrument,]
 theme: [Community, Invention, Louvre, Luxury, Money, Religion]
 material: [Metal | Gold/Gilding, Mineral | Gem]
+mentions: [shell, snuffbox, bed, handkerchief, sword, will]
 contributor:
   - id: "hwilliams"
 ---

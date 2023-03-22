@@ -11,6 +11,7 @@ owner:
 type: [Instrument]
 theme: [Everyday, Travel]
 material: [Synthetic Materials | Paper]
+mentions: [watch, order book, journal, snuffbox, sword, umbrella, wig]
 contributor:
   - id: "kscott"
 ---

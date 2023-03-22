@@ -11,6 +11,7 @@ owner:
 type: [Apparel]
 theme: [Gender, Identity, Luxury, Studio]
 material: [Textile | Silk, Textile | Wool]
+mentions: [bed, handkerchief, palette, decoration, wig]
 contributor:
   - id: "kscott"
 ---

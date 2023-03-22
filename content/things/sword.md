@@ -11,6 +11,7 @@ owner:
 type: [Apparel, Commodity, Symbolic Thing, Weapon]
 theme: [Antiquity, Death, Gender, Health/Medicine, Identity, Louvre]
 material: [Metal | Gold/Gilding, Metal | Steel]
+mentions: [wig, table, watch, decoration, book]
 contributor:
   - id: "hwilliams"
 ---

@@ -11,6 +11,7 @@ owner:
 type: [Ritual Thing, Symbolic Thing]
 theme: [Administration, Identity, Document]
 material: [Animal | Wax, Synthetic Materials | Ink, Synthetic Materials | Paper]
+menitons: [order book, journal]
 contributor:
   - id: "hwilliams"
 ---
