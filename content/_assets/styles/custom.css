@@ -416,6 +416,9 @@ q-modal {
   font-size: 1rem;
   line-height: 1.625;
   width: 17.5rem;
+  bottom: auto;
+  top: 1.75rem;
+  margin-left: 10.5rem;
 }
 /* each individual section */
 .quire-thing__content > span:not(.quire-thing__main) {
@@ -468,6 +471,11 @@ a:hover .quire-thing__main__icon svg {
   font-size: .875em;
   display: block;
   letter-spacing: .8px;
+}
+.quire-thing__heading-alt {
+  font-weight: 600;
+  font-style: italic;
+  display: block;
 }
 .quire-thing__content span[role="listitem"] {
   display: block;

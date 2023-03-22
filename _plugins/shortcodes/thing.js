@@ -76,9 +76,11 @@ module.exports = function (eleventyConfig, { collections, page }) {
     }
 
     let mentions = ''
+    const aliases = thingPage.data.aliases.concat(thingPage.data.title.toLowerCase())
     for (entry of collections.thing) {
       if (entry.data.mentions) {
-        if (entry.data.mentions.includes(thing.toLowerCase())) {
+        const matches = entry.data.mentions.filter(element => aliases.includes(element))
+        if ( matches.length >= 1 ) {
           newMention = html`<span role="listitem"><a href="${entry.url}" class="quire-thing__link"><span>${entry.data.title}</span><span>${linkIcon}</span></a></span>`
           mentions = mentions + newMention
         }
@@ -124,7 +126,7 @@ module.exports = function (eleventyConfig, { collections, page }) {
           </span>
 
           <span class="quire-thing__mentions">
-            <span class="quire-thing__heading">Also mentioned in</span>
+            <span class="quire-thing__heading-alt">Also mentioned in:</span>
             <span role="list">
               ${mentions}
             </span>
