@@ -100,7 +100,7 @@ module.exports = function (eleventyConfig, { collections, page }) {
               <span class="quire-thing__main__title">${markdownify(thingPage.data.title)}</span>
               <span class="quire-thing__main__icon">${linkIcon}</span>
               <span class="quire-thing__main__owner" role="list">
-                ${owners}
+                ${owners.join('')}
               </span>
             </a>
           </span>
