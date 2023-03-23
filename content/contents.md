@@ -2,6 +2,6 @@
 title: Contents
 layout: table-of-contents
 order: 5
-presentation: brief
+presentation: list
 search: false
 ---

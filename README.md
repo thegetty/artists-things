@@ -4,17 +4,27 @@ The [Quire Eleventy package](https://github.com/thegetty/quire/tree/main/package
 
 ### New and Customized Template Files
 
+**_includes/components/icons.js**
+Added custom search icon
+
 **_includes/components/navigation.js**
 Altered to show current page title instead of homepage link
 
 **_includes/components/page-header.js**
 Added a list of 'owners'
 
+**_includes/components/table-of-contents/item/list.js**
+Output the list item for 'thing' pages with an image
+
 **_includes/web-components/modal/index.js**
 Altered getCurrentFigureId() to work with .q-figure__modal-link class anywhere
 
 **_layouts/thing.liquid**
 Copied essay.liquid, except that it adds owners to the pageHeader and a `.thing-info` grid to display type, theme, and material.
+
+**_plugins/filters/lowerCase.js**
+**_plugins/filters/index.js**
+Added new filter to convert string to lower case, for use in Liquid tempates
 
 **_plugins/shortcodes/index.js**
 **_plugins/shortcodes/thing.js**

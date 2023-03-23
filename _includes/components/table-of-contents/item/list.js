@@ -1,3 +1,8 @@
+//
+// CUSTOMIZED FILE
+// Output "thing" pages with an image
+//
+const path = require ('path')
 const { html, oneLine } = require('~lib/common-tags')
 
 /**
@@ -19,6 +24,7 @@ module.exports = function (eleventyConfig) {
   const removeHTML = eleventyConfig.getFilter('removeHTML')
   const urlFilter = eleventyConfig.getFilter('url')
   const { contributorDivider } = eleventyConfig.globalData.config.tableOfContents
+  const { imageDir } = eleventyConfig.globalData.config.figures
 
   return function (params) {
     const {
@@ -31,11 +37,13 @@ module.exports = function (eleventyConfig) {
     const {
       abstract,
       contributor: pageContributors,
+      image,
       label,
       layout,
       short_title,
       subtitle,
       summary,
+      tags,
       title
     } = page.data
 
@@ -45,17 +53,20 @@ module.exports = function (eleventyConfig) {
      */
     const isPage = !!layout
 
-    const pageContributorsElement = pageContributors
-      ? `<span class="contributor-divider">${contributorDivider}</span><span class="contributor">${contributors({ context: pageContributors, format: 'string' })}</span>`
+    const imageFile = image 
+        ? image
+        : 'figures/' + page.key.replace(' ', '-') + '.jpg'
+
+    const imageElement = tags == 'thing'
+      ? `<img src='${path.join(imageDir, imageFile)}' alt='Small thumnail image of a ${title}' />`
       : ''
 
     let pageTitleElement
     if (presentation === 'brief') {
       pageTitleElement = short_title || title
     } else {
-      pageTitleElement = oneLine`${pageTitle({ label, subtitle, title })}${pageContributorsElement}`
+      pageTitleElement = oneLine`<span class="page-item-title">${pageTitle({ label, subtitle, title })}</span>`
     }
-    const arrowIcon = `<span class="arrow" data-outputs-exclude="epub,pdf">${icon({ type: 'arrow-forward', description: '' })}</span>`
 
     // Returns abstract with any links stripped out
     const abstractText =
@@ -63,10 +74,10 @@ module.exports = function (eleventyConfig) {
         ? `<div class="abstract-text">${ removeHTML(markdownify(abstract)) }</div>`
         : ''
 
-    let mainElement = `${markdownify(pageTitleElement)}${isPage && !children ? arrowIcon : ''}`
+    let mainElement = `${markdownify(pageTitleElement)}`
 
     if (isPage) {
-      mainElement = `<a href="${urlFilter(page.url)}">${mainElement}</a>`
+      mainElement = `<a href="${urlFilter(page.url)}">${mainElement}${imageElement}</a>`
     } else {
       classes.push('no-landing')
     }

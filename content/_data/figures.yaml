@@ -1,9 +1,449 @@
 figure_list:
 
-  - id: ""
-    src: ""
-    caption: ""
-    credit: ""
+  - id: "fig-001"
+    src: "figures/001.jpg"
+    # zoom: true
+    label: "Fig. 1"
+    caption: "*Almanach Royal*, 1763, title page."
+    credit: "Paris, Bibliothèque Nationale de France. Image source: Gallica, BNF."
+
+  - id: "fig-002"
+    src: "figures/002.jpg"
+    # zoom: true
+    label: "Fig. 2"
+    caption: "Claude-Joseph Vernet (French, 1714–89), *Night*, 1762. Oil on canvas, 83.5 × 135 cm."
+    credit: "Châteaux de Versailles et de Trianon. MV5927."
+
+  - id: "fig-003"
+    src: "figures/003.jpg"
+    # zoom: true
+    label: "Fig. 3"
+    caption: "Claude-Joseph Vernet (French, 1714–89), *Port of Dieppe*, 1765. Oil on canvas, 165.5 × 264 cm."
+    credit: "Paris, Musée de la Marine, 5OA13."
+
+  - id: "fig-004"
+    src: "figures/004.jpg"
+    # zoom: true
+    label: "Fig. 4"
+    caption: "Unknown maker, *Fauteuil*, last quarter of the eighteenth century. Wood, cane, and leather, 89 × 59 cm."
+    credit: "Paris, Musée du Louvre (OA 7879), on loan to Grasse, Villa-Musée Fragonard."
+
+  - id: "fig-005"
+    src: "figures/005.jpg"
+    # zoom: true
+    label: "Fig. 5"
+    caption: "Charles-François Normand, Voltaire’s *fauteuil*, ca. 1775. Gilded beech, velvet, lacquer, iron, 91 × 66 × 55 cm."
+    credit: "Paris, Musée Carnavalet."
+
+  - id: "fig-006"
+    src: "figures/006.jpg"
+    # zoom: true
+    label: "Fig. 6"
+    caption: "André-Jacob Roubo (French, 1739–91), Design of a *fauteuil de cabinet*, 1772, from André-Jacob Roubo, *L’art du menuisier en meuble* (Paris, 1772), no. 233."
+    credit: "Paris, Bibiliothèque Nationale de France. Image source: Gallica."
+
+  - id: "fig-007"
+    src: "figures/007.jpg"
+    # zoom: true
+    label: "Fig. 7"
+    caption: "Baptism Certificate of Hubert Robert (baptism 1733, certificate issued 1760)."
+    credit: "Paris, Archives Nationales, MC ET LXXXIII 490."
+
+  - id: "fig-008"
+    src: "figures/008.jpg"
+    # zoom: true
+    label: "Fig. 8"
+    caption: "*Registre des baptêmes*, parish of Saint-Roch, 1790, page 78."
+    credit: "Archives de Paris, V.6E 1."
+
+  - id: "fig-009"
+    src: "figures/009.jpg"
+    # zoom: true
+    label: "Fig. 9"
+    caption: "Nicolas Robert’s contract for a *Tontine créée par Édit de mois de Décembre 1759*, signed 10 March 1761."
+    credit: "Paris, Archives Nationales, MC ET LXXXIII 490."
+
+  - id: "fig-010"
+    src: "figures/010.jpg"
+    # zoom: true
+    label: "Fig. 10"
+    caption: "Charles-Antoine Coypel (French, 1694–1752), *Painting Awakening Genius*, 1732. Oil on canvas, 190 × 135 cm."
+    credit: "Private collection. Image source: Christie’s/Bridgeman Images."
+
+  - id: "fig-011"
+    src: "figures/011.jpg"
+    # zoom: true
+    label: "Fig. 11"
+    caption: "Charles-Antoine Coypel (French, 1694–1752), Preparatory drawing for *Painting Awakening Genius*, 1732. Black chalk."
+    credit: "Location unknown. Image source: Christie’s catalogue."
+
+  - id: "fig-012"
+    src: "figures/012.jpg"
+    # zoom: true
+    label: "Fig. 12"
+    caption: "After Charles-Antoine Coypel (French, 1694–1752), *Don Quixote Dreams*, ca. 1727. Gobelins high-warp tapestry, 360.3 × 385 cm."
+    credit: "Los Angeles, The J. Paul Getty Museum."
+
+  - id: "fig-013"
+    src: "figures/013.jpg"
+    # zoom: true
+    label: "Fig. 13"
+    caption: "Antoine-Joseph Pernety, *Dictionnaire portatif de peinture, sculpture et gravure* (1757) annotated by Gabriel de Saint-Aubin, ca. 1757–67. Graphite."
+    credit: "Paris, Petit Palais."
+
+  - id: "fig-014"
+    src: "figures/014.jpg"
+    # zoom: true
+    label: "Fig. 14"
+    caption: "Gilles-Marie Oppenord (French, 1672–1742), Alternative frontispiece for Cesare Ripa and Jean Baudouin, *Iconologie; ou, Explication nouvelle de plusieurs emblemes* (Paris, 1636). Pen and ink."
+    credit: "Montreal, Canadian Centre for Architecture."
+
+  - id: "fig-015"
+    src: "figures/015.jpg"
+    # zoom: true
+    label: "Fig. 15"
+    caption: "Gilles-Marie Oppenord (French, 1672–1742), Alternative tailpiece for Cesare Ripa and Jean Baudouin, *Iconologie; ou, Explication nouvelle de plusieurs emblemes* (Paris, 1636). Pen and brown ink."
+    credit: "Montreal, Canadian Centre for Architecture."
+
+  - id: "fig-016"
+    src: "figures/016.jpg"
+    # zoom: true
+    label: "Fig. 16"
+    caption: "Antoine-Joseph Pernety, *Dictionnaire portatif de peinture, sculpture et gravure* (1757), annotated by Gabriel de Saint-Aubin (French, 1724–80), ca. 1757–67. Pen and black ink on endpaper."
+    credit: "Paris, Petit Palais."
+
+  - id: "fig-017"
+    src: "figures/017.jpg"
+    # zoom: true
+    label: "Fig. 17"
+    caption: "Gilles-Marie Oppenord (French, 1672–1742), “Doute,” “Discretion,” “Divinité,” “Douleur,” “Economie,” and “Égalité” in Cesare Ripa and Jean Baudouin, *Iconologie, ou Explication nouvelle de plusieurs emblemes* (Paris, 1636). Pen and ink over engraving."
+    credit: "Montreal, Canadian Centre for Architecture."
+
+  - id: "fig-018"
+    src: "figures/018.jpg"
+    # zoom: true
+    label: "Fig. 18"
+    caption: "Charles-Nicolas Cochin (French, 1715–90), *De la manière de graver à l’eau-forte et au burin*, 1745. Etching and engraving."
+    credit: "Paris, Bibliothèque Nationale de France. Image source: Gallica BNF."
+
+  - id: "fig-019"
+    src: "figures/019.jpg"
+    # zoom: true
+    label: "Fig. 19"
+    caption: "Renée Elisabeth Marlié (French, 1714–73), *Sight* from Five Senses, ca. 1741. Engraving."
+    credit: "London, British Museum."
+
+  - id: "fig-020"
+    src: "figures/020.jpg"
+    # zoom: true
+    label: "Fig. 20"
+    caption: "Renée-Elisabeth Marlié (French, 1714–73), *The Marriage Contract*, 1756. Engraving."
+    credit: "Paris, Bibliothèque National de France."
+
+  - id: "fig-021"
+    src: "figures/021.jpg"
+    # zoom: true
+    label: "Fig. 21"
+    caption: "“Dessein” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécanique* (1765), plate V."
+    credit: "Paris, Bibliothèque Nationale de France."
+
+  - id: "fig-022"
+    src: "figures/022.jpg"
+    # zoom: true
+    label: "Fig. 22"
+    caption: "Charles Parrocel, *Reception of the Turkish Ambassadors at the Tuileries*, ca. 1727. Red and black chalk."
+    credit: "Paris, Bibliothèque Nationale de France."
+
+  - id: "fig-023"
+    src: "figures/023.jpg"
+    # zoom: true
+    label: "Fig. 23"
+    caption: "Charles Parrocel (French, 1688–1752), *Cavalry Engagement*, ca. 1745. Pen and brown ink with brown and gray wash, 18.2 × 35.7 cm."
+    credit: "Stockholm, Nationalmuseum. NMH 2892/1863."
+
+  - id: "fig-024"
+    src: "figures/024.jpg"
+    # zoom: true
+    label: "Fig. 24"
+    caption: "Louis Joblot, *Dessin d’une porte loupe*, 1718."
+    credit: "Paris, Bibliothèque Nationale de France."
+
+  - id: "fig-025"
+    src: "figures/025.jpg"
+    # zoom: true
+    label: "Fig. 25"
+    caption: "Claude Sidone Michel and Louis-Charles Denos, “Route from Paris to Lyon,” from *L’Indicateur fidèle, ou guide des voyageurs* (Paris, 1767)."
+    credit: "Paris, Bibliothèque Nationale de France."
+
+  - id: "fig-026"
+    src: "figures/026.jpg"
+    # zoom: true
+    label: "Fig. 26"
+    caption: "Milestone with fleur de lys, eighteenth century."
+
+  - id: "fig-027"
+    src: "figures/027.jpg"
+    # zoom: true
+    label: "Fig. 27"
+    caption: "Cabriolet fan, ca. 1755. Paper leaves, carved ivory guards, backed with mother-of-pearl, 28.5 cm (guardstick)."
+    credit: "London, Royal Collection, RCIN 25380."
+
+  - id: "fig-028"
+    src: "figures/028.jpg"
+    # zoom: true
+    label: "Fig. 28"
+    caption: "Color box, eighteenth century. Wood, metal, glass, and various pigments, 10 × 46 × 37 cm."
+    credit: "Grasse, Villa-Musée Fragonard."
+
+  - id: "fig-029"
+    src: "figures/029.jpg"
+    # zoom: true
+    label: "Fig. 29"
+    caption: "“Peinture” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécanique* (1765), plate I, detail."
+    credit: "Image courtesy of the ARTFL Encyclopédie Project."
+
+  - id: "fig-030"
+    src: "figures/030.jpg"
+    # zoom: true
+    label: "Fig. 30"
+    caption: "Pierre Landry, *Trade Card of Louis Picard, Marchand Épicier, Au Mortier d’Or*, ca. 1695. Etching and engraving, 24 × 20 cm."
+    credit: "Waddesdon Manor."
+
+  - id: "fig-031"
+    src: "figures/031.jpg"
+    # zoom: true
+    label: "Fig. 31"
+    caption: "Jean-Honoré Fragonard (French, 1732–1806), *Head of an Old Man*, detail, ca. 1765. Oil on canvas, 54 × 45 cm. Amiens, Musée de Picardie."
+
+  - id: "fig-032"
+    src: "figures/032.jpg"
+    # zoom: true
+    label: "Fig. 32"
+    caption: "Louis-Marin Bonnet (French, 1736–93), after Jean-Baptiste Huët (French, 1745–1811), *Head of a Woman*, after 1780. Crayon-manner etching, 47.4 × 36.5 cm."
+    credit: "Paris, Institut National d’Histoire de l’Art."
+
+  - id: "fig-033"
+    src: "figures/033.jpg"
+    # zoom: true
+    label: "Fig. 33"
+    caption: "André Nadaux, Frontispiece, 1780. Crayon-manner etching."
+    credit: "Paris, Archives Nationales."
+
+  - id: "fig-034"
+    src: "figures/034.jpg"
+    # zoom: true
+    label: "Fig. 34"
+    caption: "Jean-Germain Drouais (French, 1763–88), *Academy Study*, 1779. Black chalk on paper, 54.6 × 44.5 cm."
+    credit: "Paris, École Nationale Supérieure des Beaux-Arts."
+
+  - id: "fig-035"
+    src: "figures/035.jpg"
+    # zoom: true
+    label: "Fig. 35"
+    caption: "Charles Natoire (French, 1700–1777), *Life Drawing Class*, 1746. Pen, black and brown ink, gray wash and watercolor, 45.3 × 32.2 cm."
+    credit: "London, Courtauld Institute of Art."
+
+  - id: "fig-036"
+    src: "figures/036.jpg"
+    # zoom: true
+    label: "Fig. 36"
+    caption: "Joseph-Siffrèd Duplessis (French, 1725–1802), *Joseph-Marie Vien*, 1785. Oil on canvas, 133 × 100 cm."
+    credit: "Paris, Musée du Louvre."
+
+  - id: "fig-037"
+    src: "figures/037.jpg"
+    # zoom: true
+    label: "Fig. 37"
+    caption: "Decoration of the Order of Saint Michel, eighteenth century. Gold and enamel."
+    credit: "Paris, Musée de la Légion d’Honneur et des Ordres de Chevalerie, Gift of the marquis de Champreux, 1912, inv. 0160."
+
+  - id: "fig-038"
+    src: "figures/038.jpg"
+    # zoom: true
+    label: "Fig. 38"
+    caption: "Gabrielle Capet (French, 1761–1818), *Adélaïde Labille-Guiard Painting the Portrait of Joseph-Marie Vien*, 1808. Oil on canvas, 69 × 83.5 cm."
+    credit: "Munich, Neue Pinakothek."
+
+  - id: "fig-039"
+    src: "figures/039.jpg"
+    # zoom: true
+    label: "Fig. 39"
+    caption: "The Académie’s document box (closed), ca. 1655."
+    credit: "Paris, École Nationale Supérieure des Beaux-Arts, MU 12579."
+
+  - id: "fig-040"
+    src: "figures/040.jpg"
+    # zoom: true
+    label: "Fig. 40"
+    caption: "The Académie’s document box (open), ca. 1655."
+    credit: "Paris, École Nationale Supérieure des Beaux-Arts, MU 12579."
+
+  - id: "fig-041"
+    src: "figures/041.jpg"
+    # zoom: true
+    label: "Fig. 41"
+    caption: "Jean Tiger, *Henri Testelin*, 1675."
+    credit: "Châteaux de Versailles et de Trianon."
+
+  - id: "fig-042"
+    src: "figures/042.jpg"
+    # zoom: true
+    label: "Fig. 42"
+    caption: "Joseph-Siffred Duplessis (French, 1725–1802), *Madame Fréret d’Héricourt and Her Dog*, 1769. Oil on canvas, 81.3 × 64.8 cm."
+    credit: "The Nelson-Atkins Museum of Art, Kansas City, Purchase of William Rockhill Nelson Trust."
+
+  - id: "fig-043"
+    src: "figures/043.jpg"
+    # zoom: true
+    label: "Fig. 43"
+    caption: "Nicolas de Largillière (French, 1656–1746), *Portrait of the Artist and His Family*, ca. 1704. Oil on canvas, 128 × 167 cm."
+    credit: "Kunsthalle Bremen."
+
+  - id: "fig-044"
+    src: "figures/044.jpg"
+    # zoom: true
+    label: "Fig. 44"
+    caption: "François Gérard (French, 1770–1837), *Jean-Baptiste Isabey and His Daughter, Alexandrine*, 1795. Oil on canvas, 195 × 130 cm."
+    credit: "Paris, Musée du Louvre."
+
+  - id: "fig-045"
+    src: "figures/045.jpg"
+    # zoom: true
+    label: "Fig. 45"
+    caption: "Jean-Antoine Watteau (French, 1684–1721), *Les charmes de la vie*, ca. 1718–19. Oil on canvas, 67.3 × 92.5 cm."
+    credit: "London, Wallace Collection."
+
+  - id: "fig-046"
+    src: "figures/046.jpg"
+    # zoom: true
+    label: "Fig. 46"
+    caption: "Jean Restout (French, 1692–1768), *Dedication of the Temple of Solomon*, 1743. Black and white chalk on paper, 35.8 × 67.5 cm."
+    credit: "Rouen, Musée des Beaux-Arts."
+
+  - id: "fig-047"
+    src: "figures/047.jpg"
+    # zoom: true
+    label: "Fig. 47"
+    caption: "Jean Restout (French, 1692–1768), *Dedication* *of the Temple of Solomon*, 1743. Black chalk with white highlights on blue paper, 56 × 88 cm."
+    credit: "Orléans, Musée des Beaux-Arts."
+
+  - id: "fig-048"
+    src: "figures/048.jpg"
+    # zoom: true
+    label: "Fig. 48"
+    caption: "Jean-Antoine Watteau (French, 1684–1721), *Study of Nicolas Vleughels*, ca. 1718–19. Red and black chalk on paper, 29.4 × 18.4 cm."
+    credit: "Frankfurt am Main, Städel Museum, Graphische Sammlung, 1040."
+
+  - id: "fig-049"
+    src: "figures/049.jpg"
+    # zoom: true
+    label: "Fig. 49"
+    caption: "Jean-Antoine Watteau (French, 1684–1721), *La surprise*, ca. 1718–19. Oil on panel, 36.4 × 28.2 cm."
+    credit: "Los Angeles, The J. Paul Getty Museum."
+
+  - id: "fig-050"
+    src: "figures/050.jpg"
+    # zoom: true
+    label: "Fig. 50"
+    caption: "Jean-Antoine Watteau (French, 1684–1721), *Man in a Cape*, ca. 1718–19. Red and black chalk with white heightening on paper, 27.2 × 18.9 cm."
+    credit: "Rotterdam, Museum Boijmans van Beuningen."
+
+  - id: "fig-051"
+    src: "figures/051.jpg"
+    # zoom: true
+    label: "Fig. 51"
+    caption: "Jean-Antoine Houdon (French, 1741–1828), Écorché, 1767. Plaster, 181 cm."
+    credit: "Rome, Villa Medici."
+
+  - id: "fig-052"
+    src: "figures/052.jpg"
+    # zoom: true
+    label: "Fig. 52"
+    caption: "François Tortebat, from *Abrégé d’anatomie accommodé aux arts de peinture et de sculpture* (Paris: Jean Mariette, 1733), fig. 1."
+
+  - id: "fig-053"
+    src: "figures/053.jpg"
+    # zoom: true
+    label: "Fig. 53"
+    caption: "After Edme Bouchardon (French, 1698–1762), Écorché, nineteenth-century cast of 1741 original. Plaster and metal."
+    credit: "Paris, École Nationale Supérieure des Beaux-Arts."
+
+  - id: "fig-054"
+    src: "figures/054.jpg"
+    # zoom: true
+    label: "Fig. 54"
+    caption: "Jean-Antoine Houdon (French, 1741–1828), Écorché, 1790. Bronze."
+    credit: "Paris, École Nationale Supérieure des Beaux-Arts."
+
+  - id: "fig-055"
+    src: "figures/055.jpg"
+    # zoom: true
+    label: "Fig. 55"
+    caption: "Title page, book of the funeral and burial notices of the members of the Académie royale, ca. 1703–13. Engraving and pen and ink, 50 × 30 cm."
+    credit: "Paris, École Nationale Supérieure des Beaux-Arts."
+
+  - id: "fig-056"
+    src: "figures/056.jpg"
+    # zoom: true
+    label: "Fig. 56"
+    caption: "Page from book of the funeral and burial notices of the members of the Académie royale, ca. 1703–13. Woodcut decorated letter and marbled paper."
+    credit: "Paris, École Nationale Supérieure des Beaux-Arts."
+
+  - id: "fig-057"
+    src: "figures/057.jpg"
+    # zoom: true
+    label: "Fig. 57"
+    caption: "Jean-Baptiste Tuby, Funerary Monument to Charles Le Brun’s Mother, 1669–84. Marble."
+    credit: "Paris, Church of Saint-Nicolas-du-Chardonnet."
+
+  - id: "fig-058"
+    src: "figures/058.jpg"
+    # zoom: true
+    label: "Fig. 58"
+    caption: "Page from the register of lists of members of the Académie royale, 1675–1735. Letterpress annotated in pen and ink, 45 × 30 cm."
+    credit: "Paris, École Nationale Supérieure des Beaux-Arts."
+
+  - id: "fig-059"
+    src: "figures/059.jpg"
+    # zoom: true
+    label: "Fig. 59"
+    caption: "Funeral notice for Angélique Gaudet, 1718. Woodcut."
+    credit: "Paris, École Nationale Supérieure des Beaux-Arts."
+
+  - id: "fig-060"
+    src: "figures/060.jpg"
+    # zoom: true
+    label: "Fig. 60"
+    caption: "Chinese lacquer gaming set, ca. 1770–80. Main box: 6.5 × 29 × 27 cm. Wood, black lacquer, gilding, mother-of-pearl, silk."
+    credit: "Geneva, Musée d’Art et d’Histoire."
+
+  - id: "fig-061"
+    src: "figures/061.jpg"
+    # zoom: true
+    label: "Fig. 61"
+    caption: "Three counters, from Chinese lacquer gaming set, ca. 1770–80. Mother-of-pearl."
+    credit: "Geneva, Musée d’Art et d’Histoire."
+
+  - id: "fig-062"
+    src: "figures/062.jpg"
+    # zoom: true
+    label: "Fig. 62"
+    caption: "Scoring card for *Boston russe* in Liotard’s gaming set. Printed paper on card."
+    credit: "Geneva, Musée d’Art et d’Histoire."
+
+  - id: "fig-063"
+    src: "figures/063.jpg"
+    # zoom: true
+    label: "Fig. 63"
+    caption: "Kaiserliche Porzellanmanufaktur, Coffee service for two people (Tête-à-Tête) given to Liotard by Empress Maria-Theresa, 1775–78. Porcelain, gold, leather, wood."
+    credit: "Amsterdam, Rijksmuseum, BK-1960-35."
+
+  - id: "fig-064"
+    src: "figures/064.jpg"
+    # zoom: true
+    label: "Fig. 64"
+    caption: "Unknown artist, *Interior of a Lacquerware shop, Canton, Old or New China Street*, 1840. Watercolor on paper, 11.5 × 17.2 cm)."
+    credit: "Private collection."
 
   - id: "fig-065"
     src: "figures/065.jpg"
@@ -39,3 +479,854 @@ figure_list:
     label: "Fig. 69"
     caption: "Double-hinged wig spectacles, ca. 1795. White metal frame and glass lenses, 38 mm (eye)."
     credit: "London, British Optical Association Museum, College of Optometrists, inv. 1998.235."
+
+  - id: "fig-070"
+    src: "figures/070.jpg"
+    # zoom: true
+    label: "Fig. 70"
+    caption: "Handkerchief samples from Rouen, 1737. Linen and cotton on paper."
+    credit: "Paris, Bibliothèque Nationale de France."
+
+  - id: "fig-071"
+    src: "figures/071.jpg"
+    # zoom: true
+    label: "Fig. 71"
+    caption: "Jacques-Louis David (French, 1748–1825), *Jacobus Blauw*, 1795. Oil on canvas, 92 × 73 cm."
+    credit: "London, National Gallery."
+
+  - id: "fig-072"
+    src: "figures/072.jpg"
+    # zoom: true
+    label: "Fig. 72"
+    caption: "Pierre Rabon (French, 1619–84), *Antoine de Ratabon*, 1660. Oil on canvas, 152 × 126 cm."
+    credit: "Châteaux de Versailles et de Trianon."
+
+  - id: "fig-073"
+    src: "figures/073.jpg"
+    # zoom: true
+    label: "Fig. 73"
+    caption: "Nicolas Vleughels (French, 1668–1737), *Apelles and Campaspe*, 1717. Oil on canvas, 125 × 97 cm."
+    credit: "Paris, Musée du Louvre."
+
+  - id: "fig-074"
+    src: "figures/074.jpg"
+    # zoom: true
+    label: "Fig. 74"
+    caption: "Jean-Marc Nattier (French, 1685–1766), *Self-Portrait with His Family*, 1730–62. Oil on canvas, 149 × 165 cm."
+    credit: "Châteaux de Versailles et de Trianon."
+
+  - id: "fig-075"
+    src: "figures/075.jpg"
+    # zoom: true
+    label: "Fig. 75"
+    caption: "Nicolas Dumont, modified by Pascal-Joseph Taskin in 1789. Two-manual harpsichord, 1697. Length 226 cm."
+    credit: "Philharmonie de Paris, Cité de la Musique."
+
+  - id: "fig-076"
+    src: "figures/076.jpg"
+    # zoom: true
+    label: "Fig. 76"
+    caption: "Jean-Marc Nattier (French, 1685–1766), *Madame Henriette Playing a Bass Viol*, 1754. Oil on canvas, 249 × 184 cm."
+    credit: "Châteaux de Versailles et de Trianon."
+
+  - id: "fig-077"
+    src: "figures/077.jpg"
+    # zoom: true
+    label: "Fig. 77"
+    caption: "Hot-air balloon fragment, 1784. Hemp."
+    credit: "Paris, Bibliothèque Nationale de France."
+
+  - id: "fig-078"
+    src: "figures/078.jpg"
+    # zoom: true
+    label: "Fig. 78"
+    caption: "Nicolas-Marie Gatteaux (French, 1751–1832), Medal commemorating the ascent of Joseph and Etienne Montgolfier, balloonists at the Champ de Mars, 1784. Silver, diam. 4.1 cm."
+    credit: "London, Science Museum."
+
+  - id: "fig-079"
+    src: "figures/079.jpg"
+    # zoom: true
+    label: "Fig. 79"
+    caption: "Jean-François Janinet (French, 1752–1842), Entry ticket to Janinet and Miollan’s balloon flight, 1784. Etching."
+    credit: "Paris, Bibliothèque Nationale de France."
+
+  - id: "fig-080"
+    src: "figures/080.jpg"
+    # zoom: true
+    label: "Fig. 80"
+    caption: "Jean-François Janinet (French, 1752–1842), after François Boucher (French, 1703–70), *Toilette of Venus*, 1784. Color aquatint and crayon-manner etching, 37.5 × 29.5 cm."
+    credit: "Paris, Bibliothèque Nationale de France."
+
+  - id: "fig-081"
+    src: "figures/081.jpg"
+    # zoom: true
+    label: "Fig. 81"
+    caption: "Unknown maker, *Les deux Midas*, 1784. Etching and engraving, 18.7 × 24.1 cm."
+    credit: "Paris, Bibliothèque Nationale de France."
+
+  - id: "fig-082"
+    src: "figures/082.jpg"
+    # zoom: true
+    label: "Fig. 82"
+    caption: "Gabriel de Saint-Aubin’s pencil annotations in *Catalogue des tableaux et dessins originaux des plus grands maîtres qui composoient le cabinet de feu Charles Natoire* (1778)."
+    credit: "Paris, Bibliothèque Nationale de France."
+
+  - id: "fig-083"
+    src: "figures/083.jpg"
+    # zoom: true
+    label: "Fig. 83"
+    caption: "Roman engraved gem with a group of soldiers, second–third century AD. Gold ring and onyx intaglio, 1.6 cm."
+    credit: "New York, Metropolitan Museum of Art."
+
+  - id: "fig-084"
+    src: "figures/084.jpg"
+    # zoom: true
+    label: "Fig. 84"
+    caption: "Giovanni Pichler, *Antinous*, ca. 1750–1850. Engraved gem, chalcedony."
+    credit: "Los Angeles, The J. Paul Getty Museum. 83.AL.257.17."
+
+  - id: "fig-085"
+    src: "figures/085.jpg"
+    # zoom: true
+    label: "Fig. 85"
+    caption: "Charles Natoire (French, 1700–1777), *Villa Natoire*, ca. 1760–62. Pencil, pen, ink and gray wash with white gouache and watercolor, 29.7 × 45.2 cm."
+    credit: "Frankfurt am Main, Städel Museum, 16733."
+
+  - id: "fig-086"
+    src: "figures/086.jpg"
+    # zoom: true
+    label: "Fig. 86"
+    caption: "Covers of the five surviving volumes of Johann-Georg Wille’s journal. Top row, left to right: BnF vol. 1 (1759–68), BnF vol. 2 (1768–76), Frits Lugt volume (1777–83); bottom row, left to right: BnF vol. 3 (1783–89); BnF vol. 4 (1789–93)."
+    credit: "Paris, Bibliothèque Nationale de France (images courtesy of Gallica); and Paris, Frits Lugt Collection, Fondation Custodia."
+
+  - id: "fig-087"
+    src: "figures/087.jpg"
+    # zoom: true
+    label: "Fig. 87"
+    caption: "Loose papers tucked inside front cover of Frits Lugt volume of Johann-Georg Wille’s journal (1777–83)."
+    credit: "Paris, Frits Lugt Collection, Fondation Custodia."
+
+  - id: "fig-088"
+    src: "figures/088.jpg"
+    # zoom: true
+    label: "Fig. 88"
+    caption: "Sellers’ labels inside the covers of Johann-Georg Wille’s journal notebooks. Top: BnF vol. 1 (1759–68); middle: BnF vol. 3 (1783–89); bottom: BnF vol. 4 (1789–93)."
+    credit: "Paris, Bibliothèque Nationale de France."
+
+  - id: "fig-089"
+    src: "figures/089.jpg"
+    # zoom: true
+    label: "Fig. 89"
+    caption: "Examples of pages from Johann-Georg Wille’s journals. Left: July 1760 (page 24), BnF vol. 1; (1759–68). right: August 1792 (page 86), BnF vol. 4 (1789–93)."
+    credit: "Paris, Bibliothèque Nationale de France. Images courtesy of Gallica."
+
+  - id: "fig-090"
+    src: "figures/090.jpg"
+    # zoom: true
+    label: "Fig. 90"
+    caption: "Brevêt de logement for Jacques Caffieri, 1783. Printed form with pen and ink."
+    credit: "Paris, Archives Nationales."
+
+  - id: "fig-091"
+    src: "figures/091.jpg"
+    # zoom: true
+    label: "Fig. 91"
+    caption: "Attributed to Grettepin (sculptor) and Jacques Desjardins (bronze caster), Key for the chapel at the Château de Versailles, ca. 1710. Gilt bronze and steel, 31 × 8.5 cm, 510g."
+    credit: "Châteaux de Versailles et de Trianon, Versailles."
+
+  - id: "fig-092"
+    src: "figures/092.jpg"
+    # zoom: true
+    label: "Fig. 92"
+    caption: "Pierre Peyron, *Funeral of Miltiades*, 1782. Oil on canvas, 98 × 136 cm."
+    credit: "Paris, Musée du Louvre."
+
+  - id: "fig-093"
+    src: "figures/093.jpg"
+    # zoom: true
+    label: "Fig. 93"
+    caption: "“Dessein” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécanique* (1765), plate I, detail."
+    credit: "Image courtesy of the ARTFL Encyclopédie Project."
+
+  - id: "fig-094"
+    src: "figures/094.jpg"
+    # zoom: true
+    label: "Fig. 94"
+    caption: "Hubert Robert, *View of a Corridor in the Louvre*, ca. 1780. Black chalk and gray wash, 10.2 × 13.4 cm."
+    credit: "Paris, Musée du Louvre."
+
+  - id: "fig-095"
+    src: "figures/095.jpg"
+    # zoom: true
+    label: "Fig. 95"
+    caption: "Front page of the copy of Hyacinthe Rigaud’s *lettres de reception* (1700) transcribed by Henri van Hulst (1685–1754)."
+    credit: "Paris, École Nationale Supérieure des Beaux-Arts. Ms 117."
+
+  - id: "fig-096"
+    src: "figures/096.jpg"
+    # zoom: true
+    label: "Fig. 96"
+    caption: "Hyacinthe Rigaud (French, 1659–1743), *Martins Desjardins*, 1700. Oil on canvas, 141 × 106 cm."
+    credit: "Paris, Musée du Louvre."
+
+  - id: "fig-097"
+    src: "figures/097.jpg"
+    # zoom: true
+    label: "Fig. 97"
+    caption: "Hyacinthe Rigaud (French, 1659–1743), *Saint Andrew*, 1742. Oil on canvas, 153 × 106 cm."
+    credit: "Paris, École Nationale Supérieure des Beaux-Arts. MRA 103."
+
+  - id: "fig-098"
+    src: "figures/098.jpg"
+    # zoom: true
+    label: "Fig. 98"
+    caption: "The constituent parts of a mannequin, “Dessein” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécanique* (1765), plate VII."
+    credit: "Image courtesy of the ARTFL Encyclopédie Project."
+
+  - id: "fig-099"
+    src: "figures/099.jpg"
+    # zoom: true
+    label: "Fig. 99"
+    caption: "Mannequin once owned by Louis-François Roubiliac (French, worked in England, 1702–62), undressed (left) and dressed in men’s attire (right), ca. 1750–62. Bronze, iron, hair, cork, wool, wood, leather, and silk, height 68 cm."
+    credit: "Museum of London, London."
+
+  - id: "fig-100"
+    src: "figures/100.jpg"
+    # zoom: true
+    label: "Fig. 100"
+    caption: "A mannequin posed and draped, “Dessein,” *Recueil de planches sur les sciences, les arts libéraux et les arts mécanique* (1765), plate XXVII."
+    credit: "Image courtesy of the ARTFL Encyclopédie Project."
+
+  - id: "fig-101"
+    src: "figures/101.jpg"
+    # zoom: true
+    label: "Fig. 101"
+    caption: "Jean-Baptiste Le Prince (French, 1734–81), *The Russian Cradle*, 1764–65. Oil on canvas, 59.1 × 72.7 cm."
+    credit: "Los Angeles, The J. Paul Getty Museum."
+
+  - id: "fig-102"
+    src: "figures/102.jpg"
+    # zoom: true
+    label: "Fig. 102"
+    caption: "Front page of the marriage contract of Jean-Baptiste Greuze and Anne-Gabrielle Babuty, 31 January 1759."
+    credit: "Paris, Archives Nationales, MC/ET/XXXI/165."
+
+  - id: "fig-103"
+    src: "figures/103.jpg"
+    # zoom: true
+    label: "Fig. 103"
+    caption: "Jean-Baptiste Greuze, *The Village Bride*, ca. 1761."
+    credit: "Paris, Musée du Louvre, MNR722."
+
+  - id: "fig-104"
+    src: "figures/104.jpg"
+    # zoom: true
+    label: "Fig. 104"
+    caption: "Detail of signatures in the marriage contract of Jean-Baptiste Greuze and Anne-Gabrielle Babuty, 31 January 1759."
+    credit: "Paris, Archives Nationales, MC/ET/XXXI/165."
+
+  - id: "fig-105"
+    src: "figures/105.jpg"
+    # zoom: true
+    label: "Fig. 105"
+    caption: "Detail of signatures in the *Inventaire après divorce* (post-divorce inventory) of Jean-Baptiste Greuze and Anne-Gabrielle Babuty, 30 August 1793."
+    credit: "Paris, Archives Nationales, MC/ET/XLVIII/375."
+
+  - id: "fig-106"
+    src: "figures/106.jpg"
+    # zoom: true
+    label: "Fig. 106"
+    caption: "Edme Bouchardon (French, 1698–1762), Four Seasons Fountain, 1739–45. Marble."
+    credit: "Paris, Rue de Grenelle."
+
+  - id: "fig-107"
+    src: "figures/107.jpg"
+    # zoom: true
+    label: "Fig. 107"
+    caption: "Edme Bouchardon (French, 1698–1762), Maquette for the figure of the River Marne for the Four Seasons Fountain, ca. 1739. Terracotta, 29 × 46.8 cm."
+    credit: "Paris, Musée du Louvre."
+
+  - id: "fig-108"
+    src: "figures/108.jpg"
+    # zoom: true
+    label: "Fig. 108"
+    caption: "Edme Bouchardon (French, 1698–1762), Model for the figure of Paris for the Four Seasons Fountain, ca. 1739–43. Plaster, 50 × 42 cm."
+    credit: "Paris, Musée Carnavalet."
+
+  - id: "fig-109"
+    src: "figures/109.jpg"
+    # zoom: true
+    label: "Fig. 109"
+    caption: "Edme Bouchardon (French, 1698–1762), Model for the figure of the River Marne for the Four Seasons Fountain, ca. 1739–43. Terracotta, 29 × 61 cm."
+    credit: "Private collection."
+
+  - id: "fig-110"
+    src: "figures/110.jpg"
+    # zoom: true
+    label: "Fig. 110"
+    caption: "“Sculpture: Travail du marbre,” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécanique* (1765), plate I."
+    credit: "Image courtesy of the ARTFL Encyclopédie Project."
+
+  - id: "fig-111"
+    src: "figures/111.jpg"
+    # zoom: true
+    label: "Fig. 111"
+    caption: "Jean-Antoine Houdon’s *selle* (modeling stand), second half of the eighteenth century. Wood."
+    credit: "Paris, Musée Carnavalet."
+
+  - id: "fig-112"
+    src: "figures/112.jpg"
+    # zoom: true
+    label: "Fig. 112"
+    caption: "‘Sculpture’ from *Recueil de planches sur les sciences, les arts libéraux et les arts mécanique* (1765), plate I."
+    credit: "Paris, Bibliothèque Nationale de France."
+
+  - id: "fig-113"
+    src: "figures/113.jpg"
+    # zoom: true
+    label: "Fig. 113"
+    caption: "Louis-Léopold Boilly (French, 1761–1845), *Studio of the Sculptor Jean-Antoine Houdon*, 1808. Oil on canvas, 87 × 105 cm."
+    credit: "Cherbourg-en-Cotentin, Musée Thomas Henry."
+
+  - id: "fig-114"
+    src: "figures/114.jpg"
+    # zoom: true
+    label: "Fig. 114"
+    caption: "Jean-Siméon Chardin, (French, 1699–1779), *La serinette*, 1750–51. Oil on canvas, 50 × 43 cm."
+    credit: "Paris, Musée du Louvre."
+
+  - id: "fig-115"
+    src: "figures/115.jpg"
+    # zoom: true
+    label: "Fig. 115"
+    caption: "Michel-Guillaume Aubert (French, ca. 1704–57), *Nightingale*, from Arnoult de Nobleville, *Aëdologie, ou Traité du rossignol* (1751). Etching."
+    credit: "Bibliothèque Nationale de France, Paris."
+
+  - id: "fig-116"
+    src: "figures/116.jpg"
+    # zoom: true
+    label: "Fig. 116"
+    caption: "Marie-Anne Collot (French, 1748–1821), *Henri IV*, 1770. Marble, 55 cm."
+    credit: "State Hermitage Museum, Saint Petersburg."
+
+  - id: "fig-117"
+    src: "figures/117.jpg"
+    # zoom: true
+    label: "Fig. 117"
+    caption: "Louis-Jean-François Lagrenée’s order book (*livre de raison*), ca. 1770–1805, main title page."
+    credit: "Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, Ms. 50."
+
+  - id: "fig-118"
+    src: "figures/118.jpg"
+    # zoom: true
+    label: "Fig. 118"
+    caption: "Title pages to the two main parts, “Recueil de sujets d’histoire ” (Compendium of history subjects) and “État des tableaux faits par Monsieur Lagrenée” (Inventory of paintings made by Monsieur Lagrenée), in Louis-Jean-François Lagrenée’s order book (*livre de raison*), ca. 1770–1805."
+    credit: "Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, Ms. 50."
+
+  - id: "fig-119"
+    src: "figures/119.jpg"
+    # zoom: true
+    label: "Fig. 119"
+    caption: "“État des Tableaux faits par Monsieur Lagrenée” (Inventory of paintings made by Monsieur Lagrenée), from Louis-Jean-François Lagrenée’s order book (*livre de raison*), ca. 1770–1805, 255–56."
+    credit: "Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, Ms, 50."
+
+  - id: "fig-120"
+    src: "figures/120.jpg"
+    # zoom: true
+    label: "Fig. 120"
+    caption: "“État des Tableaux faits par Monsieur Lagrenée” Inventory of paintings made by Monsieur Lagrenée, from Louis-Jean-François Lagrenée’s order book (*livre de raison*), ca. 1770–1805 273–74."
+    credit: "Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, Ms. 50."
+
+  - id: "fig-121"
+    src: "figures/121.jpg"
+    # zoom: true
+    label: "Fig. 121"
+    caption: "Marie-Victoire Lemoine (French, 1754–1820), *Studio of a Woman Painter*, 1789. Oil on canvas, 116.5 × 88.9 cm."
+    credit: "New York, Metropolitan Museum of Art, Gift of Mrs. Thorneycroft Ryle, 1957."
+
+  - id: "fig-122"
+    src: "figures/122.jpg"
+    # zoom: true
+    label: "Fig. 122"
+    caption: "“Peinture” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécanique* (1765), plate I."
+    credit: "Image courtesy of the ARTFL Encyclopédie Project."
+
+  - id: "fig-123"
+    src: "figures/123.jpg"
+    # zoom: true
+    label: "Fig. 123"
+    caption: "Jean-Baptiste Corneille (French, 1649–95), Illustration of charged palette showing the top register of *couleurs capitals,* from Roger de Piles, *Les premiers éléments de la peinture pratique* (Paris, 1684), 41."
+    credit: "Paris, Bibliothèque Nationale de France."
+
+  - id: "fig-124"
+    src: "figures/124.jpg"
+    # zoom: true
+    label: "Fig. 124"
+    caption: "Illustration of charged palette showing additional colors added on lower registers (drawn and engraved by Jean-Baptiste Corneille) from Roger de Piles, *Les premiers éléments de la peinture pratique* (Paris: 1684), 47."
+    credit: "Paris, Bibliothèque Nationale de France."
+
+  - id: "fig-125"
+    src: "figures/125.jpg"
+    # zoom: true
+    label: "Fig. 125"
+    caption: "Elisabeth Vigée-Lebrun (French, 1755–1842), *Self-Portrait in a Straw Hat*, 1782. Oil on canvas, 97.8–70.5 cm."
+    credit: "London, National Gallery."
+
+  - id: "fig-126"
+    src: "figures/126.jpg"
+    # zoom: true
+    label: "Fig. 126"
+    caption: "Palette on a plinth adorning the grave of Elisabeth Vigée-Lebrun, ca. 1842."
+    credit: "Cimetière de Louveciennes."
+
+  - id: "fig-127"
+    src: "figures/127.jpg"
+    # zoom: true
+    label: "Fig. 127"
+    caption: "Palette and assembled items of Jacques-Louis David (French, 1748–1825), 50 × 42.5 cm."
+    credit: "Paris, Musée de la Légion d’Honneur."
+
+  - id: "fig-128"
+    src: "figures/128.jpg"
+    # zoom: true
+    label: "Fig. 128"
+    caption: "Alexander Roslin (Swedish, 1718–93), *Self-Portrait with the Artist’s Wife, Suzanne Giroust, Paintinga Portrait of Henrik Wilhelm Peill*, 1767. Oil on canvas, 131 × 98.5 cm."
+    credit: "Stockholm, Nationalmuseum. NM 7141."
+
+  - id: "fig-129"
+    src: "figures/129.jpg"
+    # zoom: true
+    label: "Fig. 129"
+    caption: "Wooden box of pastels supplied by Jean-Nicolas Vernezobre in 1772. 6 × 34 × 18.5 cm."
+    credit: "Private collection. Photo by Peter Schälchli, Zurich."
+
+  - id: "fig-130"
+    src: "figures/130.jpg"
+    # zoom: true
+    label: "Fig. 130"
+    caption: "Marie-Suzanne Giroust (French, 1734–72), *Portrait of Jean-Baptiste Pigalle*, 1770. Pastel on paper, 90 × 73 cm."
+    credit: "Paris, Musée du Louvre, Département des Arts Graphiques."
+
+  - id: "fig-131"
+    src: "figures/131.jpg"
+    # zoom: true
+    label: "Fig. 131"
+    caption: "Nicolas de Largillière (French, 1656–1746), *Trompe l’Oeil with a Curtain, a Parrot, and a Cat*, ca. 1715. Oil on canvas, 261 × 251 cm."
+    credit: "Paris, Musée du Louvre."
+
+  - id: "fig-132"
+    src: "figures/132.jpg"
+    # zoom: true
+    label: "Fig. 132"
+    caption: "Nicolas de Largillière (French, 1656–1746), *Still Life with a Violin*, ca. 1715. Oil on canvas, 79 × 87.3 cm."
+    credit: "Quimper, Musée des Beaux-Arts."
+
+  - id: "fig-133"
+    src: "figures/133.jpg"
+    # zoom: true
+    label: "Fig. 133"
+    caption: "François Roettiers (Flemish, 1685–1742), after Nicolas de Largillière (French, 1656–1746), *Crucifixion*, ca. 1719. Black chalk."
+    credit: "Nouveau Musée National de Monaco."
+
+  - id: "fig-134"
+    src: "figures/134.jpg"
+    # zoom: true
+    label: "Fig. 134"
+    caption: "Michael Butterfield, *Porte-crayon* and other drawing instruments with their case, ca. 1700. Brass instruments and leather case."
+    credit: "Washington, National Museum of American History."
+
+  - id: "fig-135"
+    src: "figures/135.jpg"
+    # zoom: true
+    label: "Fig. 135"
+    caption: "Jean-Baptiste Perronneau, *Olivier Journu*, 1756. Pastel on paper laid on canvas, 58.1 × 47 cm."
+    credit: "New York, Metropolitan Museum of Art."
+
+  - id: "fig-136"
+    src: "figures/136.jpg"
+    # zoom: true
+    label: "Fig. 136"
+    caption: "Jean-Baptiste Perronneau, *Louis Metayer Phzn*, ca. 1767–68. Trois crayons and graphite on paper, 23.2 × 19 cm."
+    credit: "Amsterdam. Rijksmuseum."
+
+  - id: "fig-137"
+    src: "figures/137.jpg"
+    # zoom: true
+    label: "Fig. 137"
+    caption: "Louis-Michel Van Loo, *Denis Diderot*, 1767. Oil on canvas, 81 × 65 cm."
+    credit: "Paris, Musée du Louvre."
+
+  - id: "fig-138"
+    src: "figures/138.jpg"
+    # zoom: true
+    label: "Fig. 138"
+    caption: "Joseph-Siffred Duplessis (French, 1725–1802), *Self-Portrait*, 1780. Oil on canvas, 60 × 50 cm."
+    credit: "Carpentras, Bibliothèque Inguimbertine."
+
+  - id: "fig-139"
+    src: "figures/139.jpg"
+    # zoom: true
+    label: "Fig. 139"
+    caption: "Jean Restout (French, 1692–1768), *Portrait of Abbé Tournus*, ca. 1720–30. Oil on canvas, 92 × 73 cm."
+    credit: "Paris, Musée Carnavalet."
+
+  - id: "fig-140"
+    src: "figures/140.jpg"
+    # zoom: true
+    label: "Fig. 140"
+    caption: "Louis-Michel Van Loo, *Self-Portrait Painting the Portrait of His Father, Jean-Baptiste Van Loo*, 1762. Oil on canvas, 129.5 × 98 cm."
+    credit: "Châteaux de Versailles et de Trianon."
+
+  - id: "fig-141"
+    src: "figures/141.jpg"
+    # zoom: true
+    label: "Fig. 141"
+    caption: "Louis-Michel Van Loo, *Self-Portrait with His Sister*, 1763. Oil on canvas, 230.5 × 162 cm."
+    credit: "Châteaux de Versailles et de Trianon."
+
+  - id: "fig-142"
+    src: "figures/142.jpg"
+    # zoom: true
+    label: "Fig. 142"
+    caption: "Reconstructed Cro-Magnon shell bead necklace, 28,000 BCE. Shells."
+    credit: "Washington, Smithsonian National Museum of Natural History."
+
+  - id: "fig-143"
+    src: "figures/143.jpg"
+    # zoom: true
+    label: "Fig. 143"
+    caption: "Selection of cowries."
+    credit: "Washington, Smithsonian National Museum of Natural History."
+
+  - id: "fig-144"
+    src: "figures/144.jpg"
+    # zoom: true
+    label: "Fig. 144"
+    caption: "“Dessein” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécanique* (1765), plate II."
+    credit: "Image courtesy of the ARTFL Encyclopédie Project."
+
+  - id: "fig-145"
+    src: "figures/145.jpg"
+    # zoom: true
+    label: "Fig. 145"
+    caption: "Edmé Gersaint, *Catalogue raisonné de coquilles et autres curiosités naturelles* (1736), frontispiece."
+    credit: "Paris, Bibliothèque Nationale de France."
+
+  - id: "fig-146"
+    src: "figures/146.jpg"
+    # zoom: true
+    label: "Fig. 146"
+    caption: "Marie-Thérèse Reboul-Vien (French, 1738–1805), Illustrations of shells from Michel Adamson, *Histoire naturelle du Sénégal: Coquillage* (1757), plate 8."
+    credit: "Paris, Bibliothèque Nationale de France."
+
+  - id: "fig-147"
+    src: "figures/147.jpg"
+    # zoom: true
+    label: "Fig. 147"
+    caption: "Edme Bouchardon (French, 1698–1762), *Frog*, ca. 1745. Red chalk on paper, 15 × 20 cm."
+    credit: "Paris, Musée du Louvre, Département des Arts Graphiques."
+
+  - id: "fig-148"
+    src: "figures/148.jpg"
+    # zoom: true
+    label: "Fig. 148"
+    caption: "Cover and binding of Jean-Michel Moreau the Younger’s sketchbook, ca. 1770s. Brown leather with gilding, 18.2 × 11.1 cm."
+    credit: "Paris, Musée du Louvre, Département des Arts Graphiques, Album Moreau Jean-Michel RF1656."
+
+  - id: "fig-149"
+    src: "figures/149.jpg"
+    # zoom: true
+    label: "Fig. 149"
+    caption: "Jean-Michel Moreau the Younger (French, 1741–1814), *Woman Sewing,* Album Moreau Jean-Michel, folio 23. Pencil on paper."
+    credit: "Paris, Musée du Louvre, Département des Arts Graphiques, RF1656."
+
+  - id: "fig-150"
+    src: "figures/150.jpg"
+    # zoom: true
+    label: "Fig. 150"
+    caption: "Jean-Michel Moreau the Younger (French, 1741–1814), *Etienne Jeaurat Sleeping,* Album Moreau Jean-Michel, folio 14. Pencil with stumping on paper."
+    credit: "Paris, Musée du Louvre, Département des Arts Graphiques, RF1656."
+
+  - id: "fig-151"
+    src: "figures/151.jpg"
+    # zoom: true
+    label: "Fig. 151"
+    caption: "Jean-Michel Moreau the Younger (French, 1741–1814), *Have No Fear, My Good Friend*, 1775. Pen and brown ink and brush and brown wash, 26.7 × 21.6 cm."
+    credit: "Los Angeles, The J. Paul Getty Museum, 85.GG.416."
+
+  - id: "fig-152"
+    src: "figures/152.jpg"
+    # zoom: true
+    label: "Fig. 152"
+    caption: "Jean-Baptiste Perronneau, *Jean-Baptiste Oudry*, 1753. Oil on canvas, 105 × 131 cm."
+    credit: "Paris, Musée du Louvre."
+
+  - id: "fig-153"
+    src: "figures/153.jpg"
+    # zoom: true
+    label: "Fig. 153"
+    caption: "Jean-Baptiste Oudry (French, 1686–1755), *America* from *The* *Four Continents*, 1724. Oil on canvas."
+    credit: "Current location unknown. Image from Bridgeman Images."
+
+  - id: "fig-154"
+    src: "figures/154.jpg"
+    # zoom: true
+    label: "Fig. 154"
+    caption: "Snuffbox, ca. 1740. Papier maché."
+    credit: "Paris, Musée des Arts Décoratifs."
+
+  - id: "fig-155"
+    src: "figures/155.jpg"
+    # zoom: true
+    label: "Fig. 155"
+    caption: "Éloi Guérin (French, ca. 1714–65), Sugar spoon, 1757–58. Silver, 21.6 cm."
+    credit: "Paris, Musée du Louvre, Inv. no. OA 9733."
+
+  - id: "fig-156"
+    src: "figures/156.jpg"
+    # zoom: true
+    label: "Fig. 156"
+    caption: "Sébastien Leclerc (French, 1676–1763), *Sucrerie* (Stages of sugar production) from Jean-Baptiste du Tertre, *Histoire Générale des Antilles habitées par les François* (Paris: Thomas Jolly, 1667), 2:plate 9."
+    credit: "Photo: BnF, Dist. RMN-Grand Palais / image BnF."
+
+  - id: "fig-157"
+    src: "figures/157.jpg"
+    # zoom: true
+    label: "Fig. 157"
+    caption: "Unknown maker, Pair of sugar casters in the form of enslaved plantation workers, ca. 1730–40. Silver, 28.2 × 11 × 15 cm."
+    credit: "Paris, Musée du Louvre, Inv. no. OA 11750."
+
+  - id: "fig-158"
+    src: "figures/158.jpg"
+    # zoom: true
+    label: "Fig. 158"
+    caption: "François-Hubert Drouais (French, 1727–75), *Portrait of Joseph-Hyacinthe-François de Paule de Rigaud, comte de Vaudreuil*, 1758. Oil on canvas, 225 × 161.1 cm."
+    credit: "London, National Gallery."
+
+  - id: "fig-159"
+    src: "figures/159.jpg"
+    # zoom: true
+    label: "Fig. 159"
+    caption: "François-Hubert Drouais (French, 1727–75), *Portrait of Joseph-Hyacinthe-François de Paule de Rigaud, comte de Vaudreuil*, detail, with map showing the French colony of Saint-Domingue (present-day Haiti), 1758. Oil on canvas, 225 × 161.1 cm."
+    credit: "London, National Gallery."
+
+  - id: "fig-160"
+    src: "figures/160.jpg"
+    # zoom: true
+    label: "Fig. 160"
+    caption: "French smallsword (with scabbard) with Solingen blade, ca. 1730. Steel, gilding, 69 × 1.8 cm."
+    credit: "London, Wallace Collection, inv. A688."
+
+  - id: "fig-161"
+    src: "figures/161.jpg"
+    # zoom: true
+    label: "Fig. 161"
+    caption: "“Fourbisseur: épée blades” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécanique* (1765), plate V."
+    credit: "Image courtesy of the ARTFL Encyclopédie Project."
+
+  - id: "fig-162"
+    src: "figures/162.jpg"
+    # zoom: true
+    label: "Fig. 162"
+    caption: "Gabriel de Saint-Aubin’s marginal sketches in *Catalogue de la deuxième vente du prince de Conti* (1779). Location unknown. Image after Emile Dacier, *Catalogue de ventes et livrets de salons illustrés par Gabriel de Saint-Aubin* (Paris: Au Siège de la Société, 1909)."
+  - id: "fig-163"
+    src: "figures/163.jpg"
+    # zoom: true
+    label: "Fig. 163"
+    caption: "Jacques-Louis David (French, 1748–1825), *The Lictors Returning to Brutus the Bodies of His Sons*, 1789. Oil on canvas, 323 × 422 cm."
+    credit: "Paris, Musée du Louvre."
+
+  - id: "fig-164"
+    src: "figures/164.jpg"
+    # zoom: true
+    label: "Fig. 164"
+    caption: "Georges Jacob (French, 1739–1814) and Jacques-Louis David (French, 1748–1825), Table, ca. 1787–89. Gilt-bronze mounted mahogany."
+    credit: "Private collection."
+
+  - id: "fig-165"
+    src: "figures/165.jpg"
+    # zoom: true
+    label: "Fig. 165"
+    caption: "Jacques-Louis David (French, 1748–1825), *The Lictors Returning to Brutus the Bodies of His Sons*, 1787. Pen and black ink and gray wash, 37.2 × 42.1 cm."
+    credit: "Los Angeles, The J. Paul Getty Museum."
+
+  - id: "fig-166"
+    src: "figures/166.jpg"
+    # zoom: true
+    label: "Fig. 166"
+    caption: "Jacques-Louis David (French, 1748–1825), *Table with Two Vases*, n.d. Wash and chalk, 12.3 × 11.4 cm. Album 11, folio 13r."
+    credit: "Paris, Musée du Louvre, Inv. 26156."
+
+  - id: "fig-167"
+    src: "figures/167.jpg"
+    # zoom: true
+    label: "Fig. 167"
+    caption: "Maker unknown, Cup and saucer, ca. 1700. Porcelain from Arita, Japan."
+    credit: "London, Victoria & Albert Museum."
+
+  - id: "fig-168"
+    src: "figures/168.jpg"
+    # zoom: true
+    label: "Fig. 168"
+    caption: "Michel-Barthélemy Ollivier (French, 1712–84), *English Tea in the Salon des Quatres Glaces at the Temple*, 1766. Oil on canvas, 54 × 69.6 cm."
+    credit: "Châteaux de Versailles et de Trianon."
+
+  - id: "fig-169"
+    src: "figures/169.jpg"
+    # zoom: true
+    label: "Fig. 169"
+    caption: "Jean-Marc Nattier, *The Duchesse de Chaulnes as Hebe*, 1744. Oil on canvas, 144 × 110 cm."
+    credit: "Paris, Musée du Louvre."
+
+  - id: "fig-170"
+    src: "figures/170.jpg"
+    # zoom: true
+    label: "Fig. 170"
+    caption: "Umbrella, after 1715. Green silk, oak handle, metal frame."
+    credit: "Paris, Palais Galliera, Musée de la Mode de la Ville de Paris."
+
+  - id: "fig-171"
+    src: "figures/171.jpg"
+    # zoom: true
+    label: "Fig. 171"
+    caption: "“Boursier” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécanique* (1765), plate I."
+    credit: "Paris, Bibliothèque Nationale de France."
+
+  - id: "fig-172"
+    src: "figures/172.jpg"
+    # zoom: true
+    label: "Fig. 172"
+    caption: "Jacques-Philippe Le Bas (French, 1707–83), after François Boucher (French, 1703–70), *Le racomodeur de vieux soufflets*, 1737. Etching."
+    credit: "Paris, Bibliothèque Nationale de France."
+
+  - id: "fig-173"
+    src: "figures/173.jpg"
+    # zoom: true
+    label: "Fig. 173"
+    caption: "Pierre-Imbert Drevet (French, 1697–1739), after Jean Restout (French, 1692–1768), *Christ’s Agony in the Garden*, 1739. Engraving, first state, 53.1 × 40 cm."
+    credit: "Paris, Bibliothèque Nationale de France."
+
+  - id: "fig-174"
+    src: "figures/174.jpg"
+    # zoom: true
+    label: "Fig. 174"
+    caption: "Pierre-Imbert Drevet (French, 1697–1739), after Jean Restout (French, 1692–1768), *Christ’s Agony in the Garden*, detail of inscription, 1739. Engraving, first state, 53.1 × 40 cm."
+    credit: "Paris, Bibliothèque Nationale de France."
+
+  - id: "fig-175"
+    src: "figures/175.jpg"
+    # zoom: true
+    label: "Fig. 175"
+    caption: "Adolf-Ulric Wertmülller (Swedish, 1751–1811), *Jean-Jacques Caffieri,* 1784. Oil on canvas, 129 × 96 cm."
+    credit: "Museum of Fine Arts, Boston, Ernest Wadsworth Longfellow Fund."
+
+  - id: "fig-176"
+    src: "figures/176.jpg"
+    # zoom: true
+    label: "Fig. 176"
+    caption: "Adolf-Ulric Wertmülller (Swedish, 1751–1811), *Jean-Jacques Caffieri,* detail of watch, 1784. Oil on canvas, 129 × 96 cm."
+    credit: "Museum of Fine Arts, Boston, Ernest Wadsworth Longfellow Fund."
+
+  - id: "fig-177"
+    src: "figures/177.jpg"
+    # zoom: true
+    label: "Fig. 177"
+    caption: "“Horlogerie” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécanique* (1765), plate X, detail."
+    credit: "Image courtesy of the ARTFL Encyclopédie Project."
+
+  - id: "fig-178"
+    src: "figures/178.jpg"
+    # zoom: true
+    label: "Fig. 178"
+    caption: "Charles-Antoine Coypel (French, 1694–1752), *Supper at Emmaus*, 1749. Oil on canvas, 590 × 315 cm. Paris, Communion Chapel, Church of Saint-Merry."
+    
+  - id: "fig-179"
+    src: "figures/179.jpg"
+    # zoom: true
+    label: "Fig. 179"
+    caption: "“Chaudronnier” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécanique* (1765), plate I."
+    credit: "Paris, Bibliothèque Nationale de France."
+
+  - id: "fig-180"
+    src: "figures/180.jpg"
+    # zoom: true
+    label: "Fig. 180"
+    caption: "Jean-Siméon Chardin (French, 1699–1779), *The Copper Cistern*, ca. 1734. Oil on panel, 28.5 × 23 cm."
+    credit: "Paris, Musée du Louvre."
+
+  - id: "fig-181"
+    src: "figures/181.jpg"
+    # zoom: true
+    label: "Fig. 181"
+    caption: "Jean-Baptiste-Augustin Beausire (French, 1694–1764), Fontaine Palatine, ca. 1715."
+    credit: "Paris, Rue Garancière."
+
+  - id: "fig-182"
+    src: "figures/182.jpg"
+    # zoom: true
+    label: "Fig. 182"
+    caption: "Louis-Michel Van Loo (French, 1707–71), *Claude-Joseph Vernet*, 1768. Oil on canvas, 65 × 56.5 cm."
+    credit: "Avignon, Musée Calvet."
+
+  - id: "fig-183"
+    src: "figures/183.jpg"
+    # zoom: true
+    label: "Fig. 183"
+    caption: "Elisabeth Vigée-Lebrun, *Claude-Joseph Vernet*, 1778. Oil on canvas, 90 × 70 cm."
+    credit: "Paris, Musée du Louvre."
+
+  - id: "fig-184"
+    src: "figures/184.jpg"
+    # zoom: true
+    label: "Fig. 184"
+    caption: "“Perruquier” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécanique* (1765), plate VII."
+    credit: "Image courtesy of the ARTFL Encyclopédie Project."
+
+  - id: "fig-185"
+    src: "figures/185.jpg"
+    # zoom: true
+    label: "Fig. 185"
+    caption: "Alexander Roslin (Swedish, 1718–93), *Claude-Joseph Vernet*, 1767. Oil on canvas, 65 × 54 cm."
+    credit: "Nationalmuseum, Stockholm."
+
+  - id: "fig-186"
+    src: "figures/186.jpg"
+    # zoom: true
+    label: "Fig. 186"
+    caption: "Jean-Baptiste Massé (1687–1767), *Self-Portrait*, ca. 1740. Red chalk."
+    credit: "Paris, Musée du Louvre, Département des Arts Graphiques."
+
+  - id: "fig-187"
+    src: "figures/187.jpg"
+    # zoom: true
+    label: "Fig. 187"
+    caption: "Will of Jean-Baptiste Massé, 1766–67. Pen on paper."
+    credit: "Paris, Archives Nationales."
+
+  - id: "fig-188"
+    src: "figures/188.jpg"
+    # zoom: true
+    label: "Fig. 188"
+    caption: "Charles Natoire (French, 1700–1777), *Apotheosis of Saint Louis*, ca. 1755–56. Pen and brown ink, wash and black chalk, 49.5 × 24.2 cm."
+    credit: "Waddesdon Manor, The Rothschild Collection Trust, inv. 2018."
+
+  - id: "fig-189"
+    src: "figures/189.jpg"
+    # zoom: true
+    label: "Fig. 189"
+    caption: "Sébastien Bourdon, *Vestire nudos* from *The Seven Acts of Mercy*, ca. 1660–70. Engraving,"
+    credit: "London, Wellcome Collection."
+
+  - id: "fig-190"
+    src: "figures/190.jpg"
+    # zoom: true
+    label: "Fig. 190"
+    caption: "Alexis Grimou, *Self-Portrait as a Drinker*, 1724. Oil on canvas, 100 × 85 cm."
+    credit: "Paris, Musée du Louvre, Inv. 5045."
+
+  - id: "fig-191"
+    src: "figures/191.jpg"
+    # zoom: true
+    label: "Fig. 191"
+    caption: "Alexis Grimou, *Self-Portrait as a Drinker*, ca. 1732. Oil on canvas, 116.5 × 89.5 cm."
+    credit: "Scottish National Gallery, Edinburgh, NG664."

@@ -1,5 +1,6 @@
 ---
 title: "Glasses"
+aliases: []
 layout: thing
 order: 119
 tags: thing
@@ -10,6 +11,7 @@ owner:
 type: [Apparel, Instrument]
 theme: [Health/Medicine, Invention, Making, Studio]
 material: [Metal | Bronze, Metal | Steel, Synthetic Materials | Glass]
+mentions: [camera obscura]
 contributor:
   - id: "hwilliams"
 ---
@@ -54,7 +56,7 @@ Vincent’s glasses were thus an indispensable tool for the middle-aged artist, 
 
 [^8]: Mitouflet Thomin died in 1752.
 
-[^9]: There were also five “opticiens,” two of whom were based on the Île de la Cité, one on Quai de l’Horloge. *Almanach du Commerce et de toutes les addresses de la ville de Paris* (Paris: Favre, Year VII \[1798]), 238–39, 361.
+[^9]: There were also five “opticiens,” two of whom were based on the Île de la Cité, one on Quai de l’Horloge. *Almanach du Commerce et de toutes les addresses de la ville de Paris* (Paris: Favre, Year VII [1798]), 238–39, 361.
 
 [^10]: Vitols, *Dictionnaire des lunettes*, 116.
 

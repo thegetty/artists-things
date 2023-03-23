@@ -4,7 +4,7 @@
 //
 const chalkFactory = require('~lib/chalk')
 const { html, renderOneLine } = require('~lib/common-tags')
-const { warn } = chalkFactory('shortcodes:def')
+const { warn } = chalkFactory('shortcodes:thing')
 
 /**
  * Shortcode to display pop-up vocab definitions with links to full vocab page
@@ -32,28 +32,6 @@ module.exports = function (eleventyConfig, { collections, page }) {
       warn(`Page not found for '${thing}' on ${page.inputPath}`)
       return renderOneLine`<span style="color:red;">${displayText}</span>`
     }
-
-    // strip def and cite shortcodes and show display value only
-    // const regex = /\{% [a-z]+ (\"([^\"]*?)\" ){1,3}%\}/g
-    // const plainDefinition = thingPage.data.definition.replace(regex, '$2')
-
-    // truncate definition but not mid-word
-    // const maxLength = 240
-    // let displayDefinition = ''
-    // if (plainDefinition.length < maxLength){
-    //   displayDefinition = plainDefinition
-    // } else {
-    //   displayDefinition = plainDefinition.substring(0, maxLength)
-    //   displayDefinition = displayDefinition
-    //     .substring(0, Math.min(
-    //       displayDefinition.length,
-    //       displayDefinition.lastIndexOf(' ')))
-    //     .concat(' ...')
-    // }
-
-    // const type = thingPage.data.type
-    // const theme = thingPage.data.theme
-    // const material = thingPage.data.material
 
     const linkIcon = `${icon({ type: 'right-arrow', description: 'View' })}`
 
@@ -92,24 +70,37 @@ module.exports = function (eleventyConfig, { collections, page }) {
     let materials = ''
     if (thingPage.data.material) {
       for (material of thingPage.data.material) {
-        newMaterial = html`<span role="listitem"><a href="/contents/" class="quire-thing__link"><span>${material}</span><span>${linkIcon}</span></a></span>`
+        const materialWithoutCategory = material.replace(/.*? \| /g, '')
+        newMaterial = html`<span role="listitem"><a href="/contents/" class="quire-thing__link"><span>${materialWithoutCategory}</span><span>${linkIcon}</span></a></span>`
         materials = materials + newMaterial
+      }
+    }
+
+    let mentions = ''
+    const aliases = thingPage.data.aliases.concat(thingPage.data.title.toLowerCase())
+    for (entry of collections.thing) {
+      if (entry.data.mentions) {
+        const matches = entry.data.mentions.filter(element => aliases.includes(element))
+        if ( matches.length >= 1 ) {
+          newMention = html`<span role="listitem"><a href="${entry.url}" class="quire-thing__link"><span>${entry.data.title}</span><span>${linkIcon}</span></a></span>`
+          mentions = mentions + newMention
+        }
       }
     }
 
     return renderOneLine`
       <span class="quire-citation quire-thing expandable">
         <span class="quire-citation__button quire-thing__button" role="button" tabindex="0" aria-expanded="false">
-          ${displayText}
+          ${markdownify(displayText)}
         </span>
         <span hidden class="quire-citation__content quire-thing__content">
           
           <span class="quire-thing__main">
             <a href="${thingPage.url}">
-              <span class="quire-thing__main__title">${thingPage.data.title}</span>
+              <span class="quire-thing__main__title">${markdownify(thingPage.data.title)}</span>
               <span class="quire-thing__main__icon">${linkIcon}</span>
               <span class="quire-thing__main__owner" role="list">
-                ${owners}
+                ${owners.join('')}
               </span>
             </a>
           </span>
@@ -132,6 +123,13 @@ module.exports = function (eleventyConfig, { collections, page }) {
             <span class="quire-thing__heading">Material</span>
             <span role="list">
               ${materials}
+            </span>
+          </span>
+
+          <span class="quire-thing__mentions">
+            <span class="quire-thing__heading-alt">Also mentioned in:</span>
+            <span role="list">
+              ${mentions}
             </span>
           </span>
 

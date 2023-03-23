@@ -21,10 +21,12 @@ class: taxonomy
   </thead>
   <tbody>
 {% for type in uniqueThingTypes %}
+{% unless type == '' %}
 <tr>
 <td>{{ type }}</td>
 <td>{% for page in thingPages %}{% if page.data.type contains type %}{% thing page.data.title %} {% endif %}{% endfor %}</td>
 </tr>
+{% endunless %}
 {% endfor %}
 <tbody>
 </table>
