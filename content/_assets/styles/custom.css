@@ -514,6 +514,7 @@ a:hover .quire-thing__main__icon svg {
 .table-of-contents-list li {
   display: grid;
   grid-template-columns: 1rem auto;
+  grid-template-rows: 1rem auto;
   padding-left: 1.75rem;
 }
 .table-of-contents-list li::before {
@@ -535,7 +536,7 @@ a:hover .quire-thing__main__icon svg {
 .table-of-contents-list li:nth-child(5) ol {
   grid-column: 1 / -1;
   grid-row-start: 2;
-  margin-top: -3rem !important;
+  margin-top: .5rem !important;
   min-width: 10.5rem;
 } 
 .table-of-contents-list li:nth-child(5) ol li {
@@ -561,6 +562,15 @@ a:hover .quire-thing__main__icon svg {
   display: initial;
   content: none;
 }
+.table-of-contents-list li:nth-child(4):after {
+  content: " ";
+  width: 1px;
+  height: 192px;
+  background-color: var(--accent-color);
+  margin-left: 3rem;
+  margin-top: 3rem;
+  position: absolute;
+}
 .table-of-contents-list li:nth-child(4) ol {
   grid-column: 1 / 7;
   display: grid;
@@ -570,20 +580,43 @@ a:hover .quire-thing__main__icon svg {
   right: var(--gap);
   top: 240px;
   margin: 0 !important;
-  background-color: var(--black);
-  grid-gap: 1px;
+  padding-top: 1.75rem;
+  border-top: 1px solid var(--accent-color);
+}
+.table-of-contents-list li:nth-child(4) ol:before,
+.table-of-contents-list li:nth-child(4) ol:after {
+  content: " ";
+  width: 1px;
+  height: 1.75rem;
+  background-color: var(--accent-color);
+  position: absolute;
+}
+.table-of-contents-list li:nth-child(4) ol:before {
+  left: 0;
+}
+.table-of-contents-list li:nth-child(4) ol:after {
+  right: 0;
 }
 .table-of-contents-list li:nth-child(4) ol li {
   display: initial;
   margin-bottom: 0;
   padding-left: 0;
+  border: .5px solid var(--black);
+}
+.table-of-contents-list li:nth-child(4) ol li:nth-child(-n+5) {
+  border-top-width: 0;
+}
+.table-of-contents-list li:nth-child(4) ol li:nth-child(5n+1) {
+  border-left-width: 0;
+}
+.table-of-contents-list li:nth-child(4) ol li:nth-child(5n+5) {
+  border-right-width: 0;
 }
 .quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
   display: flex;
   flex-direction: column;
   font-family: 'Arbutus Slab', serif;
   text-transform: uppercase;
-  /* font-size: 1.625rem; */
   font-weight: 400;
   line-height: 1.1;
   margin: 0 !important;
@@ -624,9 +657,6 @@ a:hover .quire-thing__main__icon svg {
   font-size: 1.6vw;
 }
 
-
-
-
 @media screen and (min-width: 40rem) and (max-width: 66.5rem) {
   .table-of-contents-list {
     flex-direction: column;
@@ -644,10 +674,51 @@ a:hover .quire-thing__main__icon svg {
     padding-left: 0;
     display: block;
   }
+  .table-of-contents-list li:nth-child(4):after {
+    height: 1px;
+    width: 10rem;
+    margin-top: -.5rem;
+    margin-left: 4rem;
+    width: 10rem;
+  }
   .table-of-contents-list li:nth-child(4) ol {
     grid-template-columns: 33.3333% 33.3333% 33.3333%;
     left: 17.5rem;
     top: -1rem;
+    border-top-width: 0px;
+    padding-top: 0;
+    border-left: 1px solid var(--accent-color) !important;
+    padding-left: 1.75rem;
+  }
+  .table-of-contents-list li:nth-child(4) ol:before,
+  .table-of-contents-list li:nth-child(4) ol:after {
+    content: " ";
+    width: 1.75rem;
+    height: 1px;
+    background-color: var(--accent-color);
+    position: absolute;
+  }
+  .table-of-contents-list li:nth-child(4) ol:after {
+    left: 0;
+    bottom: 0;
+  }
+  .table-of-contents-list li:nth-child(4) ol li:nth-child(-n+5) {
+    border-top-width: .5px;
+  }
+  .table-of-contents-list li:nth-child(4) ol li:nth-child(5n+1) {
+    border-left-width: .5px;
+  }
+  .table-of-contents-list li:nth-child(4) ol li:nth-child(5n+5) {
+    border-right-width: .5px;
+  }
+  .table-of-contents-list li:nth-child(4) ol li:nth-child(-n+3) {
+    border-top-width: 0;
+  }
+  .table-of-contents-list li:nth-child(4) ol li:nth-child(3n+1) {
+    border-left-width: 0;
+  }
+  .table-of-contents-list li:nth-child(4) ol li:nth-child(3n+3) {
+    border-right-width: 0;
   }
   .quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
     height: calc((100vw - var(--gap) - 17.5rem - 2px ) / 3);
@@ -682,6 +753,24 @@ a:hover .quire-thing__main__icon svg {
   .quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
     font-size: 2.4vw;
   }
+  .table-of-contents-list li:nth-child(4) ol li:nth-child(-n+3) {
+    border-top-width: .5px;
+  }
+  .table-of-contents-list li:nth-child(4) ol li:nth-child(3n+1) {
+    border-left-width: .5px;
+  }
+  .table-of-contents-list li:nth-child(4) ol li:nth-child(3n+3) {
+    border-right-width: .5px;
+  }
+  .table-of-contents-list li:nth-child(4) ol li:nth-child(-n+2) {
+    border-top-width: 0;
+  }
+  .table-of-contents-list li:nth-child(4) ol li:nth-child(2n+1) {
+    border-left-width: 0;
+  }
+  .table-of-contents-list li:nth-child(4) ol li:nth-child(2n+2) {
+    border-right-width: 0;
+  }
 }
 @media screen and (max-width: 40rem) {
   .table-of-contents-list {
@@ -709,6 +798,28 @@ a:hover .quire-thing__main__icon svg {
   }
   .quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
     height: calc((100vw - var(--gap) - var(--gap) - 1px ) / 2);
+  }
+  .table-of-contents-list li:nth-child(4):after {
+    height: 148px;
+    margin-top: 1rem;
+  }
+  .table-of-contents-list li:nth-child(4) ol li:nth-child(-n+3) {
+    border-top-width: .5px;
+  }
+  .table-of-contents-list li:nth-child(4) ol li:nth-child(3n+1) {
+    border-left-width: .5px;
+  }
+  .table-of-contents-list li:nth-child(4) ol li:nth-child(3n+3) {
+    border-right-width: .5px;
+  }
+  .table-of-contents-list li:nth-child(4) ol li:nth-child(-n+2) {
+    border-top-width: 0;
+  }
+  .table-of-contents-list li:nth-child(4) ol li:nth-child(2n+1) {
+    border-left-width: 0;
+  }
+  .table-of-contents-list li:nth-child(4) ol li:nth-child(2n+2) {
+    border-right-width: 0;
   }
   .table-of-contents-list li:nth-child(5) {
     break-inside: avoid;
@@ -738,8 +849,6 @@ a:hover .quire-thing__main__icon svg {
 }
 
 
-
-
 @media screen and (min-width: 73.5rem) {
   .quire-contents-list .menu-list a,
   .quire-contents-list .menu-list .section-item ol a, 
@@ -750,8 +859,6 @@ a:hover .quire-thing__main__icon svg {
     font-size: 1.25rem;
   }
 }
-
-
 
 
 /* TAXONMIES */
