@@ -1,7 +1,7 @@
 ---
 title: Acknowledgments
 layout: page
-order: 12
+order: 302
 ---
 
 This project owes debts to many kinds of things.
