@@ -501,9 +501,12 @@ a:hover .quire-thing__main__icon svg {
 }
 
 /* TABLE OF CONTENTS GRID */
+.quire-contents-list {
+  padding: 0;
+}
 .table-of-contents-list {
   display: flex;
-  font-size: 1rem;
+  /* font-size: 1rem; */
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: 600;
   justify-content: space-between;
@@ -529,13 +532,13 @@ a:hover .quire-thing__main__icon svg {
 .table-of-contents-list li:first-child::before {
   content: none;
 }
-.table-of-contents-list li:nth-child(6) ol {
+.table-of-contents-list li:nth-child(5) ol {
   grid-column: 1 / -1;
   grid-row-start: 2;
-  margin-top: -2rem !important;
+  margin-top: -3rem !important;
   min-width: 10.5rem;
 } 
-.table-of-contents-list li:nth-child(6) ol li {
+.table-of-contents-list li:nth-child(5) ol li {
   display: list-item;
   margin-bottom: 0em;
   margin-left: .5em;
@@ -543,7 +546,7 @@ a:hover .quire-thing__main__icon svg {
   font-style: italic;
   padding-left: 0;
 }
-.table-of-contents-list li:nth-child(6) ol li:before {
+.table-of-contents-list li:nth-child(5) ol li:before {
   content: none;
   margin-bottom: 0;
 }
@@ -558,7 +561,7 @@ a:hover .quire-thing__main__icon svg {
   display: initial;
   content: none;
 }
-.table-of-contents-list li:nth-child(5) ol {
+.table-of-contents-list li:nth-child(4) ol {
   grid-column: 1 / 7;
   display: grid;
   grid-template-columns: 20% 20% 20% 20% 20%;
@@ -570,18 +573,17 @@ a:hover .quire-thing__main__icon svg {
   background-color: var(--black);
   grid-gap: 1px;
 }
-.table-of-contents-list li:nth-child(5) ol li {
+.table-of-contents-list li:nth-child(4) ol li {
   display: initial;
   margin-bottom: 0;
   padding-left: 0;
 }
-.quire-contents-list .menu-list .table-of-contents-list li:nth-child(5) ol li a {
+.quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
   display: flex;
   flex-direction: column;
   font-family: 'Arbutus Slab', serif;
   text-transform: uppercase;
-  font-size: 1.625rem;
-  font-size: 1.6vw;
+  /* font-size: 1.625rem; */
   font-weight: 400;
   line-height: 1.1;
   margin: 0 !important;
@@ -593,14 +595,14 @@ a:hover .quire-thing__main__icon svg {
   position: relative;
   display: block;
 }
-.table-of-contents-list li:nth-child(5) ol li:before {
+.table-of-contents-list li:nth-child(4) ol li:before {
   content: none;
 }
-.table-of-contents-list li:nth-child(5) ol li span {
+.table-of-contents-list li:nth-child(4) ol li span {
   position: relative;
   z-index: 1;
 }
-.table-of-contents-list li:nth-child(5) ol li img {
+.table-of-contents-list li:nth-child(4) ol li img {
   margin: 0 auto;
   position: absolute;
   max-height: 83%;
@@ -612,6 +614,145 @@ a:hover .quire-thing__main__icon svg {
 .quire-contents-list .page-item, .quire-contents-list .section-item {
   line-height: 1.3;
 }
+
+.quire-contents-list .menu-list a,
+.quire-contents-list .menu-list .section-item ol a, 
+.quire-contents-list .menu-list .section-item ol a:hover {
+  font-size: 1.4vw;
+}
+.quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
+  font-size: 1.6vw;
+}
+
+
+
+
+@media screen and (min-width: 40rem) and (max-width: 66.5rem) {
+  .table-of-contents-list {
+    flex-direction: column;
+    margin-top: 3.5rem;
+  }
+  .table-of-contents-list li::before {
+    width: 5rem;
+    height: 1px;
+    margin-bottom: 1rem;
+  }
+  .quire-contents-list {
+    padding-left: 0;
+  }
+  .table-of-contents-list li {
+    padding-left: 0;
+    display: block;
+  }
+  .table-of-contents-list li:nth-child(4) ol {
+    grid-template-columns: 33.3333% 33.3333% 33.3333%;
+    left: 17.5rem;
+    top: -1rem;
+  }
+  .quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
+    height: calc((100vw - var(--gap) - 17.5rem - 2px ) / 3);
+  }
+  .table-of-contents-list li:nth-child(5) ol {
+    margin-left: 0 !important;
+    margin-top: 0 !important;
+    display: block;
+  } 
+  .table-of-contents-list li:nth-child(5) ol li {
+    margin-left: 0;
+  }
+  .table-of-contents-list li:nth-child(5) ol li:last-child {
+    margin-bottom: 0 !important;
+  }
+  .quire-contents-list .menu-list a,
+  .quire-contents-list .menu-list .section-item ol a, 
+  .quire-contents-list .menu-list .section-item ol a:hover {
+    font-size: 1rem;
+  }
+  .quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
+    font-size: 1.9vw;
+  }
+}
+@media screen and (min-width: 40rem) and (max-width: 56rem) {
+  .table-of-contents-list li:nth-child(4) ol {
+    grid-template-columns: 50% 50%;
+  }
+  .quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
+    height: calc((100vw - var(--gap) - 17.5rem - 1px ) / 2);
+  }
+  .quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
+    font-size: 2.4vw;
+  }
+}
+@media screen and (max-width: 40rem) {
+  .table-of-contents-list {
+    display: block;
+    column-count: 2;
+  }
+  .table-of-contents-list .table-of-contents-list {
+    column-count: 1;
+  }
+  .table-of-contents-list li::before {
+    width: 5rem;
+    height: 1px;
+    margin-bottom: 1rem;
+  }
+  .quire-contents-list {
+    padding-left: .25rem;
+  }
+  .table-of-contents-list li {
+    padding-left: 0;
+    display: block;
+  }
+  .table-of-contents-list li:nth-child(4) ol {
+    grid-template-columns: 50% 50%;
+    top: 340px;
+  }
+  .quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
+    height: calc((100vw - var(--gap) - var(--gap) - 1px ) / 2);
+  }
+  .table-of-contents-list li:nth-child(5) {
+    break-inside: avoid;
+  }
+  .table-of-contents-list li:nth-child(5)::before {
+    content: none;
+  }
+  .table-of-contents-list li:nth-child(5) ol {
+    margin-left: 0 !important;
+    margin-top: 0 !important;
+    display: block;
+  } 
+  .table-of-contents-list li:nth-child(5) ol li {
+    margin-left: 0;
+  }
+  .table-of-contents-list li:nth-child(5) ol li:last-child {
+    margin-bottom: 0 !important;
+  }
+  .quire-contents-list .menu-list a,
+  .quire-contents-list .menu-list .section-item ol a, 
+  .quire-contents-list .menu-list .section-item ol a:hover {
+    font-size: 1rem;
+  }
+  .quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
+    font-size: 4vw;
+  }
+}
+
+
+
+
+@media screen and (min-width: 73.5rem) {
+  .quire-contents-list .menu-list a,
+  .quire-contents-list .menu-list .section-item ol a, 
+  .quire-contents-list .menu-list .section-item ol a:hover {
+    font-size: 1rem;
+  }
+  .quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
+    font-size: 1.25rem;
+  }
+}
+
+
+
 
 /* TAXONMIES */
 .quire-page.taxonomy .quire-page__header {
