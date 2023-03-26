@@ -54,7 +54,7 @@ There is no evidence in the *bâtiments* papers to suggest that d’Angiviller w
 
 [^10]: Belleudy, *Duplessis*, 102.
 
-[^11]: D’Angiviller’s letter to Duplessis has not survived, however its content is summarized in Duplessis’s reply, see Belleudy, *Duplessis*, [[**PAGE(S)?**]].
+[^11]: D’Angiviller’s letter to Duplessis has not survived, however its content is summarized in Duplessis’s reply, see Belleudy, *Duplessis*, **[[PAGE(S)?]]**.
 
 [^12]: Contemporary descriptions of bathtubs suggest they were standardized. See *Encyclopédie*, <https://encyclopedie.uchicago.edu/>, 2:15–16. See also François-Alexandre-Pierre de Garsault, *L’art du perruquier* (Paris: n.p., 1767), 33 and plate 5; and André Roubo, *L’art du menuisier en meubles*, 4 parts in 5 vols. (Paris: Saillant & Nyon, 1772), 3, pt. 2:660–61 and plate 240.
 
