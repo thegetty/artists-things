@@ -333,6 +333,7 @@ q-modal {
 .quire-page h1, .quire-page__header__title {
   text-align: left;
   font-size: 3.5rem;
+  font-weight: 600;
   margin: 1.5rem 0 0;
 }
 .quire-page__header__contributor {
