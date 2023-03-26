@@ -338,6 +338,15 @@ q-modal {
 .quire-page__header__contributor {
   display: none;
 }
+@media screen and (max-width: 40rem) {
+  .quire-page__header .hero-body {
+    flex-direction: column;
+  }
+  .quire-page__header .hero-body ul {
+    margin-top: .875rem;
+    text-align: left;
+  }
+}
 
 /* Abbreviations Table */
 .quire-page__content table#abbreviations,
