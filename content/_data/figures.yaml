@@ -43,7 +43,7 @@ figure_list:
     credit: "Paris, Bibiliothèque Nationale de France. Image source: Gallica."
 
   - id: "fig-007"
-    src: "figures/007.jpg"
+    src: "figures/007-FPO.jpg"
     # zoom: true
     label: "Fig. 7"
     caption: "Baptism Certificate of Hubert Robert (baptism 1733, certificate issued 1760)."
@@ -57,7 +57,7 @@ figure_list:
     credit: "Archives de Paris, V.6E 1."
 
   - id: "fig-009"
-    src: "figures/009.jpg"
+    src: "figures/009-FPO.jpg"
     # zoom: true
     label: "Fig. 9"
     caption: "Nicolas Robert’s contract for a *Tontine créée par Édit de mois de Décembre 1759*, signed 10 March 1761."
@@ -169,7 +169,7 @@ figure_list:
     credit: "Paris, Bibliothèque Nationale de France."
 
   - id: "fig-025"
-    src: "figures/025.jpg"
+    src: "figures/025-FPO.jpg"
     # zoom: true
     label: "Fig. 25"
     caption: "Claude Sidone Michel and Louis-Charles Denos, “Route from Paris to Lyon,” from *L’Indicateur fidèle, ou guide des voyageurs* (Paris, 1767)."
@@ -376,7 +376,7 @@ figure_list:
     credit: "Paris, École Nationale Supérieure des Beaux-Arts."
 
   - id: "fig-055"
-    src: "figures/055.jpg"
+    src: "figures/055-FPO.jpg"
     # zoom: true
     label: "Fig. 55"
     caption: "Title page, book of the funeral and burial notices of the members of the Académie royale, ca. 1703–13. Engraving and pen and ink, 50 × 30 cm."
@@ -397,7 +397,7 @@ figure_list:
     credit: "Paris, Church of Saint-Nicolas-du-Chardonnet."
 
   - id: "fig-058"
-    src: "figures/058.jpg"
+    src: "figures/058-FPO.jpg"
     # zoom: true
     label: "Fig. 58"
     caption: "Page from the register of lists of members of the Académie royale, 1675–1735. Letterpress annotated in pen and ink, 45 × 30 cm."
@@ -551,7 +551,7 @@ figure_list:
     credit: "Paris, Bibliothèque Nationale de France."
 
   - id: "fig-080"
-    src: "figures/080.jpg"
+    src: "figures/080-FPO.jpg"
     # zoom: true
     label: "Fig. 80"
     caption: "Jean-François Janinet (French, 1752–1842), after François Boucher (French, 1703–70), *Toilette of Venus*, 1784. Color aquatint and crayon-manner etching, 37.5 × 29.5 cm."
@@ -592,12 +592,28 @@ figure_list:
     caption: "Charles Natoire (French, 1700–1777), *Villa Natoire*, ca. 1760–62. Pencil, pen, ink and gray wash with white gouache and watercolor, 29.7 × 45.2 cm."
     credit: "Frankfurt am Main, Städel Museum, 16733."
 
-  - id: "fig-086"
-    src: "figures/086.jpg"
+  - id: "fig-086-a"
+    src: "figures/086-a.jpg"
     # zoom: true
     label: "Fig. 86"
     caption: "Covers of the five surviving volumes of Johann-Georg Wille’s journal. Top row, left to right: BnF vol. 1 (1759–68), BnF vol. 2 (1768–76), Frits Lugt volume (1777–83); bottom row, left to right: BnF vol. 3 (1783–89); BnF vol. 4 (1789–93)."
     credit: "Paris, Bibliothèque Nationale de France (images courtesy of Gallica); and Paris, Frits Lugt Collection, Fondation Custodia."
+  
+  - id: "fig-086-b"
+    src: "figures/086-b.jpg"
+    # zoom: true
+  
+  - id: "fig-086-c"
+    src: "figures/086-c.jpg"
+    # zoom: true
+  
+  - id: "fig-086-d"
+    src: "figures/086-d.jpg"
+    # zoom: true
+  
+  - id: "fig-086-e"
+    src: "figures/086-e.jpg"
+    # zoom: true
 
   - id: "fig-087"
     src: "figures/087.jpg"
@@ -613,22 +629,30 @@ figure_list:
     caption: "Sellers’ labels inside the covers of Johann-Georg Wille’s journal notebooks. Top: BnF vol. 1 (1759–68); middle: BnF vol. 3 (1783–89); bottom: BnF vol. 4 (1789–93)."
     credit: "Paris, Bibliothèque Nationale de France."
 
-  - id: "fig-089"
-    src: "figures/089.jpg"
+  - id: "fig-089-a"
+    src: "figures/089-a.jpg"
     # zoom: true
     label: "Fig. 89"
     caption: "Examples of pages from Johann-Georg Wille’s journals. Left: July 1760 (page 24), BnF vol. 1; (1759–68). right: August 1792 (page 86), BnF vol. 4 (1789–93)."
     credit: "Paris, Bibliothèque Nationale de France. Images courtesy of Gallica."
+  
+  - id: "fig-089-b"
+    src: "figures/089-b.jpg"
+    # zoom: true
 
-  - id: "fig-090"
-    src: "figures/090.jpg"
+  - id: "fig-090-a"
+    src: "figures/090-a.jpg"
     # zoom: true
     label: "Fig. 90"
     caption: "Brevêt de logement for Jacques Caffieri, 1783. Printed form with pen and ink."
     credit: "Paris, Archives Nationales."
+  
+  - id: "fig-090-b"
+    src: "figures/090-b.jpg"
+    # zoom: true
 
   - id: "fig-091"
-    src: "figures/091.jpg"
+    src: "figures/091.jpg" 
     # zoom: true
     label: "Fig. 91"
     caption: "Attributed to Grettepin (sculptor) and Jacques Desjardins (bronze caster), Key for the chapel at the Château de Versailles, ca. 1710. Gilt bronze and steel, 31 × 8.5 cm, 510g."
@@ -656,7 +680,7 @@ figure_list:
     credit: "Paris, Musée du Louvre."
 
   - id: "fig-095"
-    src: "figures/095.jpg"
+    src: "figures/095-FPO.jpg"
     # zoom: true
     label: "Fig. 95"
     caption: "Front page of the copy of Hyacinthe Rigaud’s *lettres de reception* (1700) transcribed by Henri van Hulst (1685–1754)."
@@ -683,12 +707,16 @@ figure_list:
     caption: "The constituent parts of a mannequin, “Dessein” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécanique* (1765), plate VII."
     credit: "Image courtesy of the ARTFL Encyclopédie Project."
 
-  - id: "fig-099"
-    src: "figures/099.jpg"
+  - id: "fig-099-a"
+    src: "figures/099-a.jpg"
     # zoom: true
     label: "Fig. 99"
     caption: "Mannequin once owned by Louis-François Roubiliac (French, worked in England, 1702–62), undressed (left) and dressed in men’s attire (right), ca. 1750–62. Bronze, iron, hair, cork, wool, wood, leather, and silk, height 68 cm."
     credit: "Museum of London, London."
+  
+  - id: "fig-099-b"
+    src: "figures/099-b.jpg"
+    # zoom: true
 
   - id: "fig-100"
     src: "figures/100.jpg"
@@ -705,7 +733,7 @@ figure_list:
     credit: "Los Angeles, The J. Paul Getty Museum."
 
   - id: "fig-102"
-    src: "figures/102.jpg"
+    src: "figures/102-FPO.jpg"
     # zoom: true
     label: "Fig. 102"
     caption: "Front page of the marriage contract of Jean-Baptiste Greuze and Anne-Gabrielle Babuty, 31 January 1759."
@@ -816,26 +844,38 @@ figure_list:
     caption: "Louis-Jean-François Lagrenée’s order book (*livre de raison*), ca. 1770–1805, main title page."
     credit: "Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, Ms. 50."
 
-  - id: "fig-118"
-    src: "figures/118.jpg"
+  - id: "fig-118-a"
+    src: "figures/118-a.jpg"
     # zoom: true
     label: "Fig. 118"
     caption: "Title pages to the two main parts, “Recueil de sujets d’histoire ” (Compendium of history subjects) and “État des tableaux faits par Monsieur Lagrenée” (Inventory of paintings made by Monsieur Lagrenée), in Louis-Jean-François Lagrenée’s order book (*livre de raison*), ca. 1770–1805."
     credit: "Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, Ms. 50."
 
-  - id: "fig-119"
-    src: "figures/119.jpg"
+  - id: "fig-118-b"
+    src: "figures/118-b.jpg"
+    # zoom: true
+
+  - id: "fig-119-a"
+    src: "figures/119-a.jpg"
     # zoom: true
     label: "Fig. 119"
     caption: "“État des Tableaux faits par Monsieur Lagrenée” (Inventory of paintings made by Monsieur Lagrenée), from Louis-Jean-François Lagrenée’s order book (*livre de raison*), ca. 1770–1805, 255–56."
     credit: "Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, Ms, 50."
 
-  - id: "fig-120"
-    src: "figures/120.jpg"
+  - id: "fig-119-b"
+    src: "figures/119-b.jpg"
+    # zoom: true
+
+  - id: "fig-120-a"
+    src: "figures/120-a.jpg"
     # zoom: true
     label: "Fig. 120"
     caption: "“État des Tableaux faits par Monsieur Lagrenée” Inventory of paintings made by Monsieur Lagrenée, from Louis-Jean-François Lagrenée’s order book (*livre de raison*), ca. 1770–1805 273–74."
     credit: "Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, Ms. 50."
+  
+  - id: "fig-120-b"
+    src: "figures/120-b.jpg"
+    # zoom: true
 
   - id: "fig-121"
     src: "figures/121.jpg"
@@ -1027,7 +1067,7 @@ figure_list:
     credit: "Paris, Musée du Louvre, Département des Arts Graphiques."
 
   - id: "fig-148"
-    src: "figures/148.jpg"
+    src: "figures/148-FPO.jpg"
     # zoom: true
     label: "Fig. 148"
     caption: "Cover and binding of Jean-Michel Moreau the Younger’s sketchbook, ca. 1770s. Brown leather with gilding, 18.2 × 11.1 cm."
@@ -1076,7 +1116,7 @@ figure_list:
     credit: "Paris, Musée des Arts Décoratifs."
 
   - id: "fig-155"
-    src: "figures/155.jpg"
+    src: "figures/155-FPO.jpg"
     # zoom: true
     label: "Fig. 155"
     caption: "Éloi Guérin (French, ca. 1714–65), Sugar spoon, 1757–58. Silver, 21.6 cm."
@@ -1111,7 +1151,7 @@ figure_list:
     credit: "London, National Gallery."
 
   - id: "fig-160"
-    src: "figures/160.jpg"
+    src: "figures/160-FPO.jpg"
     # zoom: true
     label: "Fig. 160"
     caption: "French smallsword (with scabbard) with Solingen blade, ca. 1730. Steel, gilding, 69 × 1.8 cm."
@@ -1129,6 +1169,7 @@ figure_list:
     # zoom: true
     label: "Fig. 162"
     caption: "Gabriel de Saint-Aubin’s marginal sketches in *Catalogue de la deuxième vente du prince de Conti* (1779). Location unknown. Image after Emile Dacier, *Catalogue de ventes et livrets de salons illustrés par Gabriel de Saint-Aubin* (Paris: Au Siège de la Société, 1909)."
+  
   - id: "fig-163"
     src: "figures/163.jpg"
     # zoom: true
@@ -1137,7 +1178,7 @@ figure_list:
     credit: "Paris, Musée du Louvre."
 
   - id: "fig-164"
-    src: "figures/164.jpg"
+    src: "figures/164-FPO.jpg"
     # zoom: true
     label: "Fig. 164"
     caption: "Georges Jacob (French, 1739–1814) and Jacques-Louis David (French, 1748–1825), Table, ca. 1787–89. Gilt-bronze mounted mahogany."
@@ -1158,7 +1199,7 @@ figure_list:
     credit: "Paris, Musée du Louvre, Inv. 26156."
 
   - id: "fig-167"
-    src: "figures/167.jpg"
+    src: "figures/167-FPO.jpg"
     # zoom: true
     label: "Fig. 167"
     caption: "Maker unknown, Cup and saucer, ca. 1700. Porcelain from Arita, Japan."
@@ -1179,14 +1220,14 @@ figure_list:
     credit: "Paris, Musée du Louvre."
 
   - id: "fig-170"
-    src: "figures/170.jpg"
+    src: "figures/170-FPO.jpg"
     # zoom: true
     label: "Fig. 170"
     caption: "Umbrella, after 1715. Green silk, oak handle, metal frame."
     credit: "Paris, Palais Galliera, Musée de la Mode de la Ville de Paris."
 
   - id: "fig-171"
-    src: "figures/171.jpg"
+    src: "figures/171-FPO.jpg"
     # zoom: true
     label: "Fig. 171"
     caption: "“Boursier” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécanique* (1765), plate I."
@@ -1297,7 +1338,7 @@ figure_list:
     credit: "Paris, Musée du Louvre, Département des Arts Graphiques."
 
   - id: "fig-187"
-    src: "figures/187.jpg"
+    src: "figures/187-FPO.jpg"
     # zoom: true
     label: "Fig. 187"
     caption: "Will of Jean-Baptiste Massé, 1766–67. Pen on paper."
