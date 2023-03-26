@@ -1,6 +1,6 @@
 ---
 title: "Robe de Chambre"
-aliases: [robes de chambre, '*robe de chambre*']
+aliases: [robes de chambre, '*robe de chambre*', '*robes de chambre*']
 layout: thing
 order: 141
 tags: thing
