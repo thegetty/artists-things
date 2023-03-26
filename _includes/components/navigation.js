@@ -2,6 +2,7 @@
 // CUSTOMIZED FILE
 // show current page title instead of homepage link, lines 76–85
 // and use icons.js filter in place of hard-coded SVG icons
+// add center contents page link to Thing pages
 //
 const truncate = require('~lib/truncate')
 const { html } = require('~lib/common-tags')
@@ -76,10 +77,13 @@ module.exports = function(eleventyConfig) {
     const navBarHomeButton = () => {
       if (!previousPage) return ''
       const { data } = currentPage
-      const { label, short_title, title } = data
+      const { label, short_title, title, tags } = data
+      const thingsLink = (tags == 'thing') 
+        ? `<a href="/contents/" class="things-grid-link">Things:</a>`
+        : ''
       return html`
         <li class="quire-navbar-page-controls__item quire-home-page">
-          ${navBarLabel({ label, short_title, title })}
+          ${thingsLink} <span class="things-page-title">${navBarLabel({ label, short_title, title })}</span>
         </li>
       `
     }

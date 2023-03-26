@@ -8,13 +8,16 @@ The [Quire Eleventy package](https://github.com/thegetty/quire/tree/main/package
 Added custom search icon
 
 **_includes/components/navigation.js**
-Altered to show current page title instead of homepage link
+Altered to show current page title instead of homepage link, as well as a link to the contents ("Things") page
 
 **_includes/components/page-header.js**
 Added a list of 'owners'
 
 **_includes/components/table-of-contents/item/list.js**
 Output the list item for 'thing' pages with an image
+
+**_includes/components/page-buttons.js**
+Added center link to Things contents page
 
 **_includes/web-components/modal/index.js**
 Altered getCurrentFigureId() to work with .q-figure__modal-link class anywhere
