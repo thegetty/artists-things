@@ -199,6 +199,12 @@
   cursor: pointer;
 }
 
+/* Page Section Break (in Introduction */
+.quire-page__content .section-break {
+  text-align: center;
+  letter-spacing: 1.75rem;
+}
+
 /* Figures */
 .content .q-figure {
   border-width: 0;
