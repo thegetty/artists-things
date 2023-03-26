@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// add link to Things content page, lines 23, adn 39–46
+//
 const { html } = require('~lib/common-tags')
 
 /**
