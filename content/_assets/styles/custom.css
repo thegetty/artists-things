@@ -179,6 +179,13 @@
   font-weight: normal;
 }
 
+/* Page Contributor */
+.quire-page__content .quire-contributor {
+  cursor: pointer;
+  font-family: 'Source Sans Pro', sans-serif;
+  margin-left: .75rem;
+}
+
 /* Figures */
 .content .q-figure {
   border-width: 0;

@@ -31,7 +31,7 @@ Added new filter to convert string to lower case, for use in Liquid tempates
 Created a new shortcode to create a pop-up with full data and links for a given "thing"
 
 **_plugins/shortcodes/contributors.js**
-Refactored logic to handle oxford commas correctly
+Refactored logic to handle oxford commas correctly; and added handling to display contributor `symbol
 
 **_plugins/shortcodes/figureRef.js**
 Refactored to accept comma-separated array, and to output with .q-figure__modal-link class
