@@ -34,7 +34,7 @@ The work performed by the snuffbox in the visual discourse of eighteenth-century
 
 The snuffbox’s lack of semiotic fixity, its standing as a metasymbol for luxury goods and the debates for and against the materiality of modern culture, suggests that acting out the self through gestures of snuff taking was not without risk. The refinement of snuff, its dark natural color lightened by addition of yellow ocher, its acrid taste and smell when raw, softened by blending with orange blossom, jasmine, or rose, raised the snuff taker above the vulgar smoker;[^24] yet inactivity—idleness—potentially also shamed the nicotine-addicted artist.[^25] For Oudry it was a risk apparently worth taking. The aristocracy of his clientele, his extensive employment by the crown and his lodgings at the Louvre, had not conferred upon him the reputation of a gentleman. He was known rather for his exceptional industry: Gougenot describes him as a workaholic, straining to build a family enterprise, exploiting his artistic capital by efficient production of lines of copies, in short, as commercially orientated and successful in business.[^26] Was the attraction of snuff its promise to offset this bourgeois artisanal image by integrating gentlemanly leisure as the also, not the other, of the entrepreneurial artist? Not according to Gougenot. He selected the guitar as sign of Oudry’s affective life away from the studio, no doubt because of the sisterhood attributed to music and painting in humanist art theory, and also, more importantly, because sociability is necessarily entailed by musical performance.[^27] Oudry the guitarist was gay, cheerful, amusing, or good company, defining characteristic in the eighteenth century of the good artist or happy genius. The consumption of snuff, though a companionable habit, did not resonate with painting in the same way, even though the practices involved in its preparation and consumption required many of the substances, tools, and skills familiar to painting.[^28] It was the immateriality of smoke and the association of smoking with dreaming that revolutionized relations between tobacco and art and led to the representation of smoking as a condition of creativity.[^29] {% contributors context=pageContributors format='symbol' %}
 
-[^1]: Jean-Baptiste Oudry, “Inventaire après décès,” [[AN]], [[MC]]/ET/LIII/345, 7 May 1755.
+[^1]: Jean-Baptiste Oudry, “Inventaire après décès,” {% abbr 'AN' %}, {% abbr 'MC' %}/ET/LIII/345, 7 May 1755.
 
 [^2]: The cabinet was situated on the mezzanine floor, next to the dining room. The bureau is described as: “an English oak secretaire with two large and two small lower drawers and a several compartments and drawers above enclosed behind a pair of doors un secrétaire anglois de bois de chêne à deux grands et deux petits tiroires par bas, à deux volets par haut avec plusieurs compartimens et tiroirs.” It was valued at 84 livres.
 
@@ -64,7 +64,7 @@ The snuffbox’s lack of semiotic fixity, its standing as a metasymbol for luxur
 
 [^15]: See Thibaut Wolvesperges, *Le meuble français en lacque* (Paris: Édition de l’Amateur, 2000).
 
-[^16]: *Les Secrets de la laque française*, Paris, Musée des Arts Décoratifs (2014), [[fig. [TK]]]{.smallcaps}. See also on the making of papier-maché boxes, “Tabatière de carton,” *Encyclopédie*, [http://encyclopedie.uchicago.edu/](https://encyclopedie.uchicago.edu/), 15:793–94.
+[^16]: *Les Secrets de la laque française*, Paris, Musée des Arts Décoratifs (2014), **[[fig. TK]]**. See also on the making of papier-maché boxes, “Tabatière de carton,” *Encyclopédie*, [http://encyclopedie.uchicago.edu/](https://encyclopedie.uchicago.edu/), 15:793–94.
 
 [^17]: Inventoried among Oudry’s drawings were volumes of unattributed ornament (nos. 30, 37), containing designs by Gilles-Marie Oppenord (no. 25), Claude Gillot (no. 77), the prints after Juste-Aurèle Meissonnier (no. 94), and a volume of his own ornamental work (no. 34), not to mention many items of chinoiserie. There can be little doubt of his interest in design.
 
@@ -72,7 +72,7 @@ The snuffbox’s lack of semiotic fixity, its standing as a metasymbol for luxur
 
 [^19]: “Un cachet garni d’un petit chien avec une cornaline” valued with one of his watches 100 livres. According to Pierre-Jean Mariette, seals were understood to have biographical significance since antiquity, see Mariette, *Traité des pierres gravées* (Paris: Mariette, 1751), 20–25.
 
-[^20]: Abbé Louis Gougenot, “Vie de M. Oudry,” in [[*Mémoires inédits*]], 2:367.
+[^20]: Abbé Louis Gougenot, “Vie de M. Oudry,” in {% abbr '*Mémoires inédits*' %}, 2:367.
 
 [^21]: When snuffboxes are visible in portraits (e.g. **fig. 71**), they are not in the hands but rest on a surface.
 

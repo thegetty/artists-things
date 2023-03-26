@@ -35,9 +35,9 @@ Whatever the relationship between the box and its eighteenth-century keepers—G
 
 [^1]: The role was also held by Louis-François Dubois de Saint-Gelais (1725–37), an amateur but not an artist. On the Académie’s *secrétaires* see: Hannah Williams, *Académie Royale: A History in Portraits* (New York: Routledge, 2015), 46, 57–61.
 
-[^2]: The first new-year reading of the *Statuts* took place on 7 January 1679. [[*PV*]], 2:142. On that occasion, it was noted that the practice would be repeated on the last Saturday of every quarter, so it is possible that the box served in more regular rituals than the annual reading.
+[^2]: The first new-year reading of the *Statuts* took place on 7 January 1679. {% abbr '*PV*' %}, 2:142. On that occasion, it was noted that the practice would be repeated on the last Saturday of every quarter, so it is possible that the box served in more regular rituals than the annual reading.
 
-[^3]: *Mémoires pour servir à l’histoire de l’Académie royale de peinture et de sculpture*, ed. Anatole de Montaiglon, 2 vols. (Paris: P. Jannet, 1853). This text was described in a meeting on 1 February 1772 as the “Mémoires de M. Testelin, rédigés par feu M. Hulst, Honoraire Amateur.” [[*PV*]], 8:94.
+[^3]: *Mémoires pour servir à l’histoire de l’Académie royale de peinture et de sculpture*, ed. Anatole de Montaiglon, 2 vols. (Paris: P. Jannet, 1853). This text was described in a meeting on 1 February 1772 as the “Mémoires de M. Testelin, rédigés par feu M. Hulst, Honoraire Amateur.” {% abbr '*PV*' %}, 8:94.
 
 [^4]: *Mémoires pour servir*, 1:95–96.
 
@@ -51,7 +51,7 @@ Whatever the relationship between the box and its eighteenth-century keepers—G
 
 [^9]: “Articles que le roi veut être augmentés et ajoutés aux premiers statuts et règlements de l’Académie Royale de Peinture et de Sculpture.” 24 December 1654, ratified by Parlement on 23 June 1655. Léon Aucoc, *Loi, statuts et règlements concernant les anciennes Académies et l’Institut de 1635 à 1889* (Paris: Imprimerie Nationale, 1889), cxiii–cxviii.
 
-[^10]: *Mémoires pour servir*, 1:183–87. Proceedings were recorded much more prosaically in the official minutes of the meeting on 3 July 1655, [[*PV*]], 1:101.
+[^10]: *Mémoires pour servir*, 1:183–87. Proceedings were recorded much more prosaically in the official minutes of the meeting on 3 July 1655, {% abbr '*PV*' %}, 1:101.
 
 [^11]: *Mémoires pour servir*, 1:182.
 

@@ -35,7 +35,7 @@ Through the baptism certificate’s passage from parish register to investment c
 
 [^4]: Neither painter was ever admitted to the guild (which was disbanded in 1776) or Académie, but Louis-Nicolas Vincent exhibited works at the Académie’s open Salon of 1791: *Collection des livrets des anciennes expositions depuis 1673 jusqu’en 1800* (Paris: Liepmannssohn, 1870), 20, 32.
 
-[^5]: [[AN]], [[MC]]/ET/LXXXIII 490.
+[^5]: {% abbr 'AN' %}, {% abbr 'MC' %}/ET/LXXXIII 490.
 
 [^6]: John Dunkley, “Bourbons on the Rocks: Tontines and Early Public Lotteries in France,” *Journal for Eighteenth-Century Studies* 30, no. 3 (2007): 311. See also, David R. Weir, “Tontines, Public Finance, and Revolution in France and England, 1688–1789,” *Journal of Economic History* 49, no. 1 (1989): 95–124.
 

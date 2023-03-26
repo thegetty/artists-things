@@ -36,9 +36,9 @@ There is no evidence in the *bâtiments* papers to suggest that d’Angiviller w
 
 [^1]: See Jules Belleudy, *J. S. Duplessis, peintre du roi (1725–1802)* (Chartres: Durand, 1913), 101–7.
 
-[^2]: See Jules-Joseph Guiffrey, “Logements d’artistes au Louvre,” [[*NAAF*]]*,* 1873, 1–221. For Coypel, see also {% thing 'bed' %}. For the Silvestres, see Dena Goodman and Emily Talbot, “Documenting Art, Writing Biography: Construction of the Silvestre Family History 1660–1868,” *Journal of Family History* 40, no. 3 (2015): 277–304. When Jacques-Augustin Silvestre wrote to Marigny in 1766 formally to request the succession of his father’s *logement*, he observed, “for more than one hundred years it has been our honor, inherited from father to son, to teach the king and the royal family to draw. For almost the same amount of time our ancestors have enjoyed possession of a *logement* at the Louvre” (“il y a plus de cent ans que de père en fils nous avons l’honneur d’enseigner à dessiner au Roy et à la famille Royale. Il y a à peu près le même temps que nos ancestres ont l’avantage de posséder un logement aux galleries du Louvre”). See [[AN]], O^1^/1673/24: Silvestre to Marigny, 30 April 1766.
+[^2]: See Jules-Joseph Guiffrey, “Logements d’artistes au Louvre,” {% abbr '*NAAF*' %}*,* 1873, 1–221. For Coypel, see also {% thing 'bed' %}. For the Silvestres, see Dena Goodman and Emily Talbot, “Documenting Art, Writing Biography: Construction of the Silvestre Family History 1660–1868,” *Journal of Family History* 40, no. 3 (2015): 277–304. When Jacques-Augustin Silvestre wrote to Marigny in 1766 formally to request the succession of his father’s *logement*, he observed, “for more than one hundred years it has been our honor, inherited from father to son, to teach the king and the royal family to draw. For almost the same amount of time our ancestors have enjoyed possession of a *logement* at the Louvre” (“il y a plus de cent ans que de père en fils nous avons l’honneur d’enseigner à dessiner au Roy et à la famille Royale. Il y a à peu près le même temps que nos ancestres ont l’avantage de posséder un logement aux galleries du Louvre”). See {% abbr 'AN' %}, O^1^/1673/24: Silvestre to Marigny, 30 April 1766.
 
-[^3]: See, Jules Guiffrey, “Histoire de l’Académie de Saint-Luc,” [[*NAAF*]], 1915, 277–78.
+[^3]: See, Jules Guiffrey, “Histoire de l’Académie de Saint-Luc,” {% abbr '*NAAF*' %}, 1915, 277–78.
 
 [^4]: The portrait was exhibited at the Salon of 1775. On the portrait, see Belleudy, *Duplessis*, 53–74.
 
@@ -46,21 +46,21 @@ There is no evidence in the *bâtiments* papers to suggest that d’Angiviller w
 
 [^6]: *Bâtiments du roi. Règlements pour leur administration par déclaration du Roi 1^er^ septembre 1776. Edit de règlement, donné au mois de septembre 1776* (Paris: Hérissant, 1776).
 
-[^7]: *Bâtiments du roi. Règlements*, art. 1 and 3. See, for example, the correspondence relating to the fitting out of Ménageot’s and Vincent’s studios in 1784: [[AN]], O^1^/1674/230, 232, 239.
+[^7]: *Bâtiments du roi. Règlements*, art. 1 and 3. See, for example, the correspondence relating to the fitting out of Ménageot’s and Vincent’s studios in 1784: {% abbr 'AN' %}, O^1^/1674/230, 232, 239.
 
-[^8]: The *bâtiments* regulations by the *Arrêts du conseil du roi* of 30 January 1672, 16 March 1757, and 30 January 1774 required the use of Bâtiments agents for works at the royal palaces; they had not been enforced. In July 1781 d’Angiviller pursued a case against a mason (Guérin) and a joiner (Bellanger) for works on the *logement* of the comtesse de Salles. The workmen were fined 300 livres but avoided imprisonment. For the *Judgement de police*, see [[AN]], O^1^/1674/24.
+[^8]: The *bâtiments* regulations by the *Arrêts du conseil du roi* of 30 January 1672, 16 March 1757, and 30 January 1774 required the use of Bâtiments agents for works at the royal palaces; they had not been enforced. In July 1781 d’Angiviller pursued a case against a mason (Guérin) and a joiner (Bellanger) for works on the *logement* of the comtesse de Salles. The workmen were fined 300 livres but avoided imprisonment. For the *Judgement de police*, see {% abbr 'AN' %}, O^1^/1674/24.
 
 [^9]: Belleudy, *Duplessis*, 95–107.
 
 [^10]: Belleudy, *Duplessis*, 102.
 
-[^11]: D’Angiviller’s letter to Duplessis has not survived, however its content is summarized in Duplessis’s reply, see Belleudy, *Duplessis*, [[PAGE(S)?]].
+[^11]: D’Angiviller’s letter to Duplessis has not survived, however its content is summarized in Duplessis’s reply, see Belleudy, *Duplessis*, [[**PAGE(S)?**]].
 
 [^12]: Contemporary descriptions of bathtubs suggest they were standardized. See *Encyclopédie*, <https://encyclopedie.uchicago.edu/>, 2:15–16. See also François-Alexandre-Pierre de Garsault, *L’art du perruquier* (Paris: n.p., 1767), 33 and plate 5; and André Roubo, *L’art du menuisier en meubles*, 4 parts in 5 vols. (Paris: Saillant & Nyon, 1772), 3, pt. 2:660–61 and plate 240.
 
-[^13]: [[AN]], O^1^/1672/293: Garnier d’Isle to Marigny, 28 November 1754.
+[^13]: {% abbr 'AN' %}, O^1^/1672/293: Garnier d’Isle to Marigny, 28 November 1754.
 
-[^14]: [[AN]], O^1^/1673/273: [Jacques-Germain Soufflot], *Rapport à Monsieur le Directeur général faite par ses ordres les 29 janvier et 5 février 1773* (15 February 1773).
+[^14]: {% abbr 'AN' %}, O^1^/1673/273: [Jacques-Germain Soufflot], *Rapport à Monsieur le Directeur général faite par ses ordres les 29 janvier et 5 février 1773* (15 February 1773).
 
 [^15]: Silvestre de Sacy, *D’Angivillier*, 65.
 
@@ -74,7 +74,7 @@ There is no evidence in the *bâtiments* papers to suggest that d’Angiviller w
 
 [^20]: On Duplessis’s health problems, see Guiffrey, “Logements d’artistes au Louvre,” 189; and Belleudy, *Duplessis*, 96–97. See also {% thing 'Glasses' %}.
 
-[^21]: Belleudy, *Duplessis*, 103–4. For the cost of baths in the 1770s, see *Almanach parisien en faveur des étrangers et personnes curieuses*, ed. Daniel Roche (Saint-Étienne, Presse Universitaire de Saint-Étienne 2000), 117–18. On the bath boats on the Seine, see Reed Benhamou, “The Public Baths and the Press: Changing Behaviors in Eighteenth-Century Paris,” [[*SVEC*]] 371 (1999): 275–303.
+[^21]: Belleudy, *Duplessis*, 103–4. For the cost of baths in the 1770s, see *Almanach parisien en faveur des étrangers et personnes curieuses*, ed. Daniel Roche (Saint-Étienne, Presse Universitaire de Saint-Étienne 2000), 117–18. On the bath boats on the Seine, see Reed Benhamou, “The Public Baths and the Press: Changing Behaviors in Eighteenth-Century Paris,” {% abbr '*SVEC*' %} 371 (1999): 275–303.
 
 [^22]: See Antoine Furetière, *Dictionnaire universelle*, 3 vols. (The Hague: Husson, Johnson & Swart 1727), s.v. “Prière”: “se dit . . . par civilité des devoirs réciproques qu”on ne refuses point aux amis, aux voisins quand ils les demandent.’
 

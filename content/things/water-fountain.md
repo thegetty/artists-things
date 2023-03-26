@@ -40,7 +40,7 @@ Chardin’s copper fountain challenges not interpretation of his still-lives as 
 
 [^1]: See Félix Herbert, “Les demeures de Jean Siméon Chardin,” *Bulletin de la Société historique du VI^e^ arrondissement* 2 (1899): 142–47.
 
-[^2]: For a reconstruction of the third floor see Georges Wildenstein, “Le décor de la vie de Chardin d’après le tableaux,” [[*GBA*]] 53 (1959): 97–106. On the inventory of 1737, see André Pascal and Roger Gaucheron, *Documents sur la vie et l’oeuvre de Chardin* (Paris: Éditions de la Galerie Pigalle, 1931).
+[^2]: For a reconstruction of the third floor see Georges Wildenstein, “Le décor de la vie de Chardin d’après le tableaux,” {% abbr '*GBA*' %} 53 (1959): 97–106. On the inventory of 1737, see André Pascal and Roger Gaucheron, *Documents sur la vie et l’oeuvre de Chardin* (Paris: Éditions de la Galerie Pigalle, 1931).
 
 [^3]: According to Annik Pardailhé-Galabrun, almost 70 percent of Paris houses were equipped with domestic water fountains. See Pardailhé-Galabrun, *La Naissance de l’intime: 3000 foyers parisiens XVII–XVIII^e^ siècles* (Paris: Presses Universitaires de France, 1998), 349.
 
@@ -48,7 +48,7 @@ Chardin’s copper fountain challenges not interpretation of his still-lives as 
 
 [^5]: Wildenstein, “Le décor,” 106. The building was pulled down in 1945.
 
-[^6]: See, J. Barrelet, “Chardin du point de vue de la verrerie,” [[*GBA*]] 53 (1959): 305–15; “De quelques objets chez Chardin,” in *Chardin, 1699–1779*, exh. cat. (Paris: Grand Palais, 1779), 67–72; and Marie-Laure de Rochebrune, “Ceramics and Glass in Chardin’s Paintings,” in *Chardin (1699–1779)*, exh. cat. (London: Royal Académie, 2000), 37–52.
+[^6]: See, J. Barrelet, “Chardin du point de vue de la verrerie,” {% abbr '*GBA*' %} 53 (1959): 305–15; “De quelques objets chez Chardin,” in *Chardin, 1699–1779*, exh. cat. (Paris: Grand Palais, 1779), 67–72; and Marie-Laure de Rochebrune, “Ceramics and Glass in Chardin’s Paintings,” in *Chardin (1699–1779)*, exh. cat. (London: Royal Académie, 2000), 37–52.
 
 [^7]: See Frank Trentmann, “Materiality in the Future of History: Things, Practices, and Politics,” *Journal of British Studies* 48, no. 2 (2009): 283–307; and Alan Warde, Daniel Welch and Jessica Paddock, “Studying Consumption through the Lens of Practice,” *Routledge Handbook of Consumption* (London: Routledge, 2017), 25–35.
 

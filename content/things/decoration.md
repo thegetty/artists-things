@@ -34,11 +34,11 @@ Whatever Vien lacked in noble blood, he certainly made up for in the eighteenth-
 
 Vien’s was undoubtedly a superlative career, but timing could have been his downfall, for he claimed the summit of those institutional structures right as they were about to crumble, only two months in fact before the storming of the Bastille. Yet though Vien remained the king’s man, leading the Académie Royale until its final demise in 1793, the Revolution did not mark the end of Vien’s success.[^22] Indeed, Vien’s greatest skill of all perhaps was his ability to work a system, and once a system was reestablished in Napoleon’s first empire, Vien found himself redecorated in the regalia of a new regime. Like the counterpoint to Duplessis’s portrait of 1785 (see [fig. 36](#fig.-36)), Gabrielle Capet’s group portrait of 1808 shows Vien in this fresh guise ([fig. 38](#fig.-38)), dressed as a member of France’s new order of nobility—an imperial count—and on his chest, where he once wore his Order of Saint Michel, a flash of red ribbon draws the eye to his new decoration: *commandeur* in Napoleon’s Légion d’honneur.[^23] What is perhaps most interesting in this coda is not that Vien survived the rupture, but rather that—as these decorations suggest—rupture is not always the best way to understand this moment of French history. After all, the Order of Saint Michel had become an order of merit long before the Légion d’honneur, and despite the different systems they represented, an ancien régime *chevalier* and an imperial *commandeur* might have more in common than their accessories. {% contributors context=pageContributors format='symbol' %}
 
-[^1]: Joseph-Marie Vien to comte d’Angiviller, 31 January 1776. [[*CDR*]], 13:188. Vien recounts the moment in his memoirs, but misremembers it happening only a fortnight after his arrival: Thomas Gaehtgens and Jacques Lugand, *Joseph-Marie Vien: Peintre du roi, 1716–1809* (Paris: Arthena, 1988), 313.
+[^1]: Joseph-Marie Vien to comte d’Angiviller, 31 January 1776. {% abbr '*CDR*' %}, 13:188. Vien recounts the moment in his memoirs, but misremembers it happening only a fortnight after his arrival: Thomas Gaehtgens and Jacques Lugand, *Joseph-Marie Vien: Peintre du roi, 1716–1809* (Paris: Arthena, 1988), 313.
 
 [^2]: Founded in 1469 by Louis XI, the Order of Saint Michel was the oldest (though not the most senior) of the French chivalric orders. The insignia is described in the 1665 statutes: *Statuts de l’Ordre de Saint Michel. Ordonnances et règlements rendus en conséquence* (Paris: Imprimerie Royale, 1728), 11.
 
-[^3]: For example, Louis-Michel Van Loo, “Inventaire après décès,” 22 April 1771, [[AN]], [[MC]]/ET/LVI/166.
+[^3]: For example, Louis-Michel Van Loo, “Inventaire après décès,” 22 April 1771, {% abbr 'AN' %}, {% abbr 'MC' %}/ET/LVI/166.
 
 [^4]: “Décoration,” *Dictonnaire de l’Académie française*, fourth edition (1762). The importance of this relationship in architecture is elaborated in part two of Katie Scott, *The Rococo Interior: Decoration and Social Spaces in Early Eighteenth-Century Paris* (London & New Haven: Yale University Press, 1995).
 
@@ -50,32 +50,32 @@ Vien’s was undoubtedly a superlative career, but timing could have been his do
 
 [^8]: On artists who were made *chevaliers* of the order, see [Jules Guiffrey], *Lettres de noblesse accordées aux artistes français (XVII^e^ et XVIII^e^ siècles)* (Paris: Dumoulin, 1873), 40–44. On artists who were ennobled, see Louis de Grandmaison, “Essai d’armorial des artistes français,” *Réunion des sociétés des Beaux-Arts des départements*, part 1 (Paris: Plon-Nourrit, 1903), 296–403, part 2 (Paris: Plon-Nourrit, 1904), 589–687.
 
-[^9]: D’Angiviller to Vien, 26 September 1775. [[*CDR*]], 13:135.
+[^9]: D’Angiviller to Vien, 26 September 1775. {% abbr '*CDR*' %}, 13:135.
 
 [^10]: Fauconpret, *Les chevaliers*, 97–100.
 
-[^11]: D’Angiviller to Vergennes, 18 September 1775. [[*CDR*]], 13:131.
+[^11]: D’Angiviller to Vergennes, 18 September 1775. {% abbr '*CDR*' %}, 13:131.
 
-[^12]: Beginning with his letter to Vergennes, 18 September 1775. [[*CDR*]], 13:131.
+[^12]: Beginning with his letter to Vergennes, 18 September 1775. {% abbr '*CDR*' %}, 13:131.
 
-[^13]: Vien’s admission was approved in Vergennes to d’Angiviller, 23 September 1775, [[*CDR*]], 13:134.
+[^13]: Vien’s admission was approved in Vergennes to d’Angiviller, 23 September 1775, {% abbr '*CDR*' %}, 13:134.
 
 [^14]: Natoire experienced the same state of limbo and actually remained in it because he did not return to Paris between his admission to the order in 1756 and his death in 1777.
 
 [^15]: On Vien’s ennoblement and reception into the order, see Grandmaison, “Essai d’armorial” (1904), 660–62; and [Guiffrey], *Lettres de noblesse*, 38–39.
 
-[^16]: D’Angiviller to Vergennes, 4 December 1775. [[*CDR*]], 13:169.
+[^16]: D’Angiviller to Vergennes, 4 December 1775. {% abbr '*CDR*' %}, 13:169.
 
-[^17]: Vien to d’Angiviller, 31 January 1776. [[*CDR*]], 13:188.
+[^17]: Vien to d’Angiviller, 31 January 1776. {% abbr '*CDR*' %}, 13:188.
 
-[^18]: [[*PV*]], 6:383, 391; and [[*PV*]], 7:95.
+[^18]: {% abbr '*PV*' %}, 6:383, 391; and {% abbr '*PV*' %}, 7:95.
 
-[^19]: [[*PV*]], 8:70, 200.
+[^19]: {% abbr '*PV*' %}, 8:70, 200.
 
-[^20]: [[*PV*]], 8, 341; and [[*PV*]], 9:69.
+[^20]: {% abbr '*PV*' %}, 8, 341; and {% abbr '*PV*' %}, 9:69.
 
-[^21]: [[*PV*]], 9:255; and [[*PV*]], 10:12.
+[^21]: {% abbr '*PV*' %}, 9:255; and {% abbr '*PV*' %}, 10:12.
 
-[^22]: On Vien’s role in the revolutionary politics of the Académie, see Nicolas Mirzoeff, “Revolution, Representation, Equality: Gender, Genre, and Emulation in the Académie Royale de Peinture et de Sculpture, 1785–1793,” [[*ECS*]] 31, no. 2 (1997–98): 153–69.
+[^22]: On Vien’s role in the revolutionary politics of the Académie, see Nicolas Mirzoeff, “Revolution, Representation, Equality: Gender, Genre, and Emulation in the Académie Royale de Peinture et de Sculpture, 1785–1793,” {% abbr '*ECS*' %} 31, no. 2 (1997–98): 153–69.
 
-[^23]: On Vien’s post-revolutionary career, see François Aubert, “Joseph-Marie Vien (sixième article),” [[*GBA*]] 23 (November 1867): 475–82.
+[^23]: On Vien’s post-revolutionary career, see François Aubert, “Joseph-Marie Vien (sixième article),” {% abbr '*GBA*' %} 23 (November 1867): 475–82.

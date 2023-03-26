@@ -36,7 +36,7 @@ Susan Stewart says of the souvenir, in contrast to the collection, that it promp
 
 For Natoire, antiquity was a matter first of his own origins at Nîmes, a place he experienced as another Rome, at least in respect to the beauty of the Maison Carrée. Significant in his letters is not, however, the identity of specific monuments, large or small, but his reaction to them. His letters to his “carrissimo amico,” his dearest friend, express his longing for Duchesne’s presence: Natoire wanted to face the sights with Duchesne; more importantly, he seems to have wanted Duchesne to experience Natoire’s own response to them, to witness it as authentic and as coming from within. That response was not unequivocal, like we assume Bouchardon’s to have been from Drouais’s portrayal, rather, it was ambivalent. Natoire’s line about his pleasure in hunting *antiquailles* was followed in the very next sentence of his letter by distress at news of a death: “here we are,” he cried, “back among the dead.”[^25] The juxtaposition of topics, and the adverb “back” suggest that numbered among them are also the dead of antiquity. In response, months later, to the unexpected death of De Troy on the eve of his return to Paris, Natoire observed that “the most brilliant things” are almost always accompanied by shadow. At one level he was no more than repeating the Christian trope of the vanities. However, by articulating it metaphorically using “a phrase from painting,” as he acknowledged, he also suggested that death wastes not just individuals, but civilizations.[^26] The countervailing force of death in the letters shades Natoire’s references to the antique with nostalgia. In Drouais’s portrait and Mariette’s *Traité,* antique gems are represented as a medium, the means by which the masterpieces of sculpture and paintings of antiquity had unintentionally been perfectly preserved for the present in order to be renewed. For Natoire, antiquities, perhaps including his gems, were the battered material survivals of a past from which he felt separated but for which, desiring, he searched. Finding souvenirs in and around Rome and appropriating these *antiquailles* for his villa ([fig. 85](#fig.-85)), he set his treasures in niches, on sconces, pedestals, and on entablatures in the garden, at once safe from and united with the ruins beyond its walls. Past and present came together in his art. {% contributors context=pageContributors format='symbol' %}
 
-[^1]: Some things were sold in Italy before shipment. See [[*CDR*]], 13:327–28.
+[^1]: Some things were sold in Italy before shipment. See {% abbr '*CDR*' %}, 13:327–28.
 
 [^2]: [Alexandre-Joseph Paillet], *Catalogue des tableaux et dessins des plus grands maîtres . . . qui composoient le cabinet de feu Charles Natoire* (Paris: Chariot & Paillet, 1778). See also JoLynn Edwards, *Alexandre Paillet: Expert et marchand de tableaux au XVIII^e^ siècle* (Paris: Arthena, 1996), 233–34.
 
@@ -60,11 +60,11 @@ For Natoire, antiquity was a matter first of his own origins at Nîmes, a place 
 
 [^12]: The first attempt to publish the king’s gems was initiated by the comte de Caylus in the 1720s. By 1730 he has enrolled the services of Coypel and De Troy. Sometime between 1733 and 1737 Bouchardon became involved. See Smentek, *Mariette*, 195–96 and 296n22.
 
-[^13]: *Catalogue de la vente es desseins, estampes et tableaux de M. Natoire, fait avant son départ pour Rome* (6 September 1751) lots: 143, volume of prints of *Ruines de Rome* published by Justus Sadeler; 151, volume of *Figures antiques de Rome,* etched by François Perrier; 153, 161, Two volumes of prints after the Column of Trajan, [[INHA]], Ms. VP1763/1f.
+[^13]: *Catalogue de la vente es desseins, estampes et tableaux de M. Natoire, fait avant son départ pour Rome* (6 September 1751) lots: 143, volume of prints of *Ruines de Rome* published by Justus Sadeler; 151, volume of *Figures antiques de Rome,* etched by François Perrier; 153, 161, Two volumes of prints after the Column of Trajan, {% abbr 'INHA' %}, Ms. VP1763/1f.
 
 [^14]: See Mariette, *Traité*, 36. On Natoire and Mariette, see Perrin Stein, “Copies and Retouched Drawings by Charles-Joseph Natoire,” *Master Drawings* 38, no. 2 (2000): 167–86.
 
-[^15]: Charles-Joseph Natoire to Antoine Duchesne, 6 October 1751, in “Charles Natoire: Correspondance avec Antoine Duchesne, prévôt des Bâtiments du roi,” ed. Paul Mantz, [[*AAF*]], 2 (1852): 261.
+[^15]: Charles-Joseph Natoire to Antoine Duchesne, 6 October 1751, in “Charles Natoire: Correspondance avec Antoine Duchesne, prévôt des Bâtiments du roi,” ed. Paul Mantz, {% abbr '*AAF*' %}, 2 (1852): 261.
 
 [^16]: Natoire to Duchesne, 1 March 1752, in “Charles Natoire: Correspondance,” 272.
 
@@ -82,7 +82,7 @@ For Natoire, antiquity was a matter first of his own origins at Nîmes, a place 
 
 [^23]: See Susan Stewart, *On Longing* (Durham and London, Duke University Press, 1993), 132–50.
 
-[^24]: See Charles-Joseph Natoire, “Inventaire après décès,” 18 August 1762, [[AN]], [[MC]]/ET/LXXVI/384.
+[^24]: See Charles-Joseph Natoire, “Inventaire après décès,” 18 August 1762, {% abbr 'AN' %}, {% abbr 'MC' %}/ET/LXXVI/384.
 
 [^25]: Natoire to Duchesne, 1 March 1752, in “Charles Natoire: Correspondance,” 272.
 

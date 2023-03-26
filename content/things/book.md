@@ -64,7 +64,7 @@ By contrast, such was the dirt and chaos of Saint-Aubin’s lodgings, Rue de Bea
 
 [^6]: His marks begin with the section on oil painting, xciii. Saint-Aubin put a cross by the statement that yellow and red orpiment should be used pure and not mixed; and on xcxvi, by the statement that retouches should be made with darks, not lights. “Particularly” is underlinedon cii for mixing vegetable colors with eel bile. Page numbers to the *Dictionnaire portatif* will hereafter be given in brackets in the text.
 
-[^7]: See *Oeuvres de Desgodets, Traité de la commodité de l’architecture*, copied by Jean Pinard, [[BnF]], Département des Estampes et de la Photographie, Pet Fol-HA-23.
+[^7]: See *Oeuvres de Desgodets, Traité de la commodité de l’architecture*, copied by Jean Pinard, {% abbr 'BnF' %}, Département des Estampes et de la Photographie, Pet Fol-HA-23.
 
 [^8]: Jean-François Bédard, *Decorative Games: Ornament, Rhetoric and Noble Culture in the Work of Gilles-Marie Oppenord (1672–1742)* (Newark: Associate University Presses, 2011), 18–19, 21.
 
@@ -96,10 +96,10 @@ By contrast, such was the dirt and chaos of Saint-Aubin’s lodgings, Rue de Bea
 
 [^22]: The portrait sketch on title page is of the publisher, Jean-Baptiste-Claude Bauche.
 
-[^23]: Gilles-Marie Oppenord, “Inventaire après décès,” 9 May 1742, [[AN]], [[MC]]/ET/IV/517. His 234 volumes included dictionaries (Bayle, Moreri, Richelet, Furetière, Bruzen de la Martinière), history (Anselme, Mezeray, Fleury, Rollin), and literature (Fénelon, Corneille, Molière, and Swift).
+[^23]: Gilles-Marie Oppenord, “Inventaire après décès,” 9 May 1742, {% abbr 'AN' %}, {% abbr 'MC' %}/ET/IV/517. His 234 volumes included dictionaries (Bayle, Moreri, Richelet, Furetière, Bruzen de la Martinière), history (Anselme, Mezeray, Fleury, Rollin), and literature (Fénelon, Corneille, Molière, and Swift).
 
 [^24]: Germain Brice, *Description de la ville de Paris* (Paris: Fournier, 1713), 1:127.
 
 [^25]: Mireille Rambeau, *Documents du Minutier Central concernant l’histoire de l’art (1700–1750)*, 2 vols (Paris: Imprimerie Nationale, 1964–71), 2:146.
 
-[^26]: See Jules Guiffrey, “Scellés et inventaires d’artistes, 1771–1790,” [[*NAAF*]]*,* 1885, 3:105–7.
+[^26]: See Jules Guiffrey, “Scellés et inventaires d’artistes, 1771–1790,” {% abbr '*NAAF*' %}*,* 1885, 3:105–7.

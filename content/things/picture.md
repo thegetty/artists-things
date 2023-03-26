@@ -40,7 +40,7 @@ What of the religious pictures that weighed so heavily with Mariette and Dézall
 
 *Trompe l’Oeil with a Curtain* and the *Crucifixion* (see figs. [131](#fig.-131), [133](#fig.-133)), painted at around the same time, seem to propose contradictory versions of the artist.[^28] On the one hand: the would-be gentleman and aristocrat, recognized for the talent of his handiwork whose illusions bested nature best and the finest weaver’s and goldsmith’s work. On the other: the devout and self-effacing painter whose representations of the Passion were, according to Pellegrino Antonio Orlandi, “lifelike”—that is, vibrant (not surprising), vibrant in the telling of their stories, not in their illusionism. The life force of the *Crucifixion* derives, according to Orlandi, from the handling of light, which illuminates the scene such that the expressive reaction to Christ’s “*consummatum est*” is easily read in the ghastly gloom.[^29] The sacred subject engrosses all the image’s pictorial effects; none is left to draw attention to the author or to art in the narrowly material and technical sense of trompe l’oeil. The possibility remains, however, that decoration and icon made greater sense together, that the fantasy of bourgeois illusions in the inner space of the anteroom was framed by an outer ideal of Christian virtue filling the house. Such a reading suggests that Largillière’s house in the early eighteenth century was a theatrical and semipublic space in which he created illusions in order to prick them, and blew bubbles to watch them burst. {% contributors context=pageContributors format='symbol' %}
 
-[^1]: Georges de Lastic, “Nicolas de Largillière. Documents notaries inédits,” [[*GBA*]] 98 (1981): 7, 23–27.
+[^1]: Georges de Lastic, “Nicolas de Largillière. Documents notaries inédits,” {% abbr '*GBA*' %} 98 (1981): 7, 23–27.
 
 [^2]: See *Catalogue de tableaux, estampes, desseins, bronzes, figures de marbre . . . provenant du cabinet de M. de Largillière* (Paris: Merigot, 1765).
 
@@ -64,7 +64,7 @@ What of the religious pictures that weighed so heavily with Mariette and Dézall
 
 [^12]: *Edit du Roy pour retrenchement du luxe des meubles, habits, vaisselle, équipages et bâtiments*, March 1700, see Nicolas de La Mare, *Traité de police* (Paris: Brunet, 1705–38), 1:419–22.
 
-[^13]: [[AN]], Y3583 (17 April 1700) in Emile Compardon in [[*NAAF*]]*,* 1874–75, 223–24. See also *Largilliere*, 42. Among other artists to face similar charges were Jacques Van Schuppen (Largillière’s pupil) and Jacques Oudry (father of another). See “Catalogue des noms et demeures de ceux qui ont faits leurs declarations en execution de l’ Édit de Sa Majesté du mois de mars 1700,” [[BnF]], Ms. f.f. 21627.
+[^13]: {% abbr 'AN' %}, Y3583 (17 April 1700) in Emile Compardon in {% abbr '*NAAF*' %}*,* 1874–75, 223–24. See also *Largilliere*, 42. Among other artists to face similar charges were Jacques Van Schuppen (Largillière’s pupil) and Jacques Oudry (father of another). See “Catalogue des noms et demeures de ceux qui ont faits leurs declarations en execution de l’ Édit de Sa Majesté du mois de mars 1700,” {% abbr 'BnF' %}, Ms. f.f. 21627.
 
 [^14]: They are identifiable from his estate inventory. See de Lastic, “Largillière,” 15–18.
 

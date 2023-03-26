@@ -50,9 +50,9 @@ This portrait of Cochin’s handkerchiefs accounts, we think, for the intensity 
 
 [^6]: See Paul Ratouis de Limay, *Aignan-Thomas Desfriches (1715–1800)* (Paris: Honoré Champion, 1907), 81–82; and a second letter on the subject on 18 May 1782, 82–84.
 
-[^7]: *Echantillons d’étoffes et toiles des manufactures de France recueillis par le maréchal de Richelieu* (n.p., n.p., 1736–37), 4:fol. 18, [[BnF]], Département des Arts Graphiques, Réserve LH–45 (B) folio), published in Roger-Armand Weigert, *Textiles en Europe sous Louis XV: Les plus beaux spécimens de la collection Richelieu* (Fribourg: Office du Livre 1964), 86. See also François-Alexandre-Pierre Garsault, *L’art de la lingerie* (Paris: Delatour 1771), 20.
+[^7]: *Echantillons d’étoffes et toiles des manufactures de France recueillis par le maréchal de Richelieu* (n.p., n.p., 1736–37), 4:fol. 18, {% abbr 'BnF' %}, Département des Arts Graphiques, Réserve LH–45 (B) folio), published in Roger-Armand Weigert, *Textiles en Europe sous Louis XV: Les plus beaux spécimens de la collection Richelieu* (Fribourg: Office du Livre 1964), 86. See also François-Alexandre-Pierre Garsault, *L’art de la lingerie* (Paris: Delatour 1771), 20.
 
-[^8]: “Mémoire général sur les bureaux de visite et de marque établis dans la ville et généralité de Rouen, sur les différentes fabriques, et sur les principaux établissements de commerce” (1787), [[AN]], F12/1365, 2–3.
+[^8]: “Mémoire général sur les bureaux de visite et de marque établis dans la ville et généralité de Rouen, sur les différentes fabriques, et sur les principaux établissements de commerce” (1787), {% abbr 'AN' %}, F12/1365, 2–3.
 
 [^9]: Michel, “Lettres,” Letter LXXVIII, 69.
 
@@ -68,13 +68,13 @@ This portrait of Cochin’s handkerchiefs accounts, we think, for the intensity 
 
 [^15]: Michel, “Lettres,” Letter LXXII, 65.
 
-[^16]: Charles-Nicolas Cochin, “Inventaire après décès,” 4 May 1790, [[AN]], [[MC]]/ET/CXV/967.
+[^16]: Charles-Nicolas Cochin, “Inventaire après décès,” 4 May 1790, {% abbr 'AN' %}, {% abbr 'MC' %}/ET/CXV/967.
 
 [^17]: On linen as an index of class, see Roche, *Culture of Clothing*, 151–83.
 
 [^18]: See Françoise Bayard, “Le mouchoir à Lyon, en Lyonnais et en Beaujolais au XVII^e^ et XVIII^e^ siècles,” in *Le Mouchoir dans tous ses états* (Cholet: Musée du Textile de Cholet, 2000), 91–104.
 
-[^19]: Oddly, there are no snuffboxes among the “jewels” listed in Cochin’s inventory ([[AN]], [[MC]]/ET/CXV/967, 4 May 1790).
+[^19]: Oddly, there are no snuffboxes among the “jewels” listed in Cochin’s inventory ({% abbr 'AN' %}, {% abbr 'MC' %}/ET/CXV/967, 4 May 1790).
 
 [^20]: If not yellow ocher, the pigment may be Naples yellow, one of the first synthetic pigments on the market.
 

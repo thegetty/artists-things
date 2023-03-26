@@ -48,7 +48,7 @@ Though the object’s use was sanctioned thanks to its deployment by the old mas
 
 [^8]: Barillet, *Sur le mannequin*, 16.
 
-[^9]: On drawing from female models, see Candace Clements, “The Academy and the Other: Les Grâces and Le Genre Galant,” [[*ECS*]] 25, no. 4 (Summer 1992), especially 472–82.
+[^9]: On drawing from female models, see Candace Clements, “The Academy and the Other: Les Grâces and Le Genre Galant,” {% abbr '*ECS*' %} 25, no. 4 (Summer 1992), especially 472–82.
 
 [^10]: Antoine-Joseph Pernety, *Dictionnaire portatif de peinture, sculpture et gravure* (Paris: Bauche, 1757), 403–4; Jacques Lacombe, *Dictionnaire portatif des beaux-arts* (Paris: La Veuve Estienne & Fils, 1752), 384–85.
 
@@ -70,4 +70,4 @@ Though the object’s use was sanctioned thanks to its deployment by the old mas
 
 [^19]: Denis Diderot, “Salon de 1765,” *Oeuvres de Denis Diderot. Salons* (Paris: Brière, 1821), 1:293, 302–3.
 
-[^20]: Le Prince was received in 1765; his genre was described during his *agrément* in 1764: [[*PV*]], 7:243.
+[^20]: Le Prince was received in 1765; his genre was described during his *agrément* in 1764: {% abbr '*PV*' %}, 7:243.

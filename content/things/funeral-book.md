@@ -38,7 +38,7 @@ Why did it not work? Reynès was not considered when a new secretary and histori
 
 [^1]: Étienne Arago, “Les frères Le Nain: À propos d’un recueil mortuaire,” *L’art* (1879): 301–9.
 
-[^2]: “Billets d’enterrement & de service de Messrs de l’Académie Royale de Peinture & Sculpture qui sont morts, depuis l’etablissement d’icelle en 1648 jusqu’à l’année courante,” [[ENSBA]].
+[^2]: “Billets d’enterrement & de service de Messrs de l’Académie Royale de Peinture & Sculpture qui sont morts, depuis l’etablissement d’icelle en 1648 jusqu’à l’année courante,” {% abbr 'ENSBA' %}.
 
 [^3]: See Octave Fidière, *État civil des peintres et sculpteurs de l’Académie royale: Billets d’enterrement de 1648 à 1713 publiés d’après le register conservé à l’École des Beaux-Arts* (Paris: Charavay, 1883); Lucien Raulet, “Billets d’enterrement et pieces funéraires,” *Le vieux papier* 40 (1907): 19–35.
 
@@ -46,11 +46,11 @@ Why did it not work? Reynès was not considered when a new secretary and histori
 
 [^5]: Classically by Nikolaus Pevsner, who describes the regime at the Académie as an “ingeniously adapted civil-servantdom” in *Academies of Art Past and Present* (London: Cambridge University Press, 1940), 101. This approach is challenged by Michel in *The Académie Royale*.
 
-[^6]: “Fait en 1703” in Reynès’s hand on the billet for Denis Parmentier appears to confirm this. On Reynès’s appointment to the post of concierge see [[*PV*]], 3:212. On the duties of the concierge, see articles XII of the 1655 statutes and article XVII of the 1664 statutes.
+[^6]: “Fait en 1703” in Reynès’s hand on the billet for Denis Parmentier appears to confirm this. On Reynès’s appointment to the post of concierge see {% abbr '*PV*' %}, 3:212. On the duties of the concierge, see articles XII of the 1655 statutes and article XVII of the 1664 statutes.
 
-[^7]: On the usher’s role see article XVI of the 1655 statutes and article XX of the 1664 statutes see [[*PV*]], 1:255. According to the *Procès-verbaux*, the ushers derived part of their income from payment of a fee of 6 livres for summons to funerals. See [[*PV*]], 2:81.
+[^7]: On the usher’s role see article XVI of the 1655 statutes and article XX of the 1664 statutes see {% abbr '*PV*' %}, 1:255. According to the *Procès-verbaux*, the ushers derived part of their income from payment of a fee of 6 livres for summons to funerals. See {% abbr '*PV*' %}, 2:81.
 
-[^8]: See [[*PV*]], 4:41, 134.
+[^8]: See {% abbr '*PV*' %}, 4:41, 134.
 
 [^9]: See the ground plan of the first floor of the Louvre, in Jacques-François Blondel, *Architecture Françoise*, 4 vols. (Paris: Jombert, 1752–56), 4:38–39 (P6).
 
@@ -58,7 +58,7 @@ Why did it not work? Reynès was not considered when a new secretary and histori
 
 [^11]: Michel de Certeau, *The Practices of Everyday Life* (Berkeley: University of California Press, 1984), 29–42.
 
-[^12]: The notices were printed in three sizes of poster (small, medium, and large). The *jurés-crieurs* were organized in a guild. They enjoyed a monopoly on the publication and distribution of burial notices. Small posters were priced by the *Tarif des droits, salaires et vacations attribuez aux jurés-crieurs de Paris* (1671) at 40 sous, medium at 50 sous and large at 3 livres. The distributor was paid 30 sous per day. For an example of funeral costs later in the century, see “Mémoire des fournitures de deuil” for the sculptor Edme Bouchardon, 28/07/1762 ([[AN]], AB/XIX/4220:400 billets were printed and posted at a cost of 32 livres.
+[^12]: The notices were printed in three sizes of poster (small, medium, and large). The *jurés-crieurs* were organized in a guild. They enjoyed a monopoly on the publication and distribution of burial notices. Small posters were priced by the *Tarif des droits, salaires et vacations attribuez aux jurés-crieurs de Paris* (1671) at 40 sous, medium at 50 sous and large at 3 livres. The distributor was paid 30 sous per day. For an example of funeral costs later in the century, see “Mémoire des fournitures de deuil” for the sculptor Edme Bouchardon, 28/07/1762 ({% abbr 'AN' %}, AB/XIX/4220:400 billets were printed and posted at a cost of 32 livres.
 
 [^13]: 32 of the 184 notices were written, not printed.
 
@@ -68,11 +68,11 @@ Why did it not work? Reynès was not considered when a new secretary and histori
 
 [^16]: Those used by notaries are now at the Archives Nationales de France: ADXX^c^/78–89. A further collection from the files of the Châtelet are at the Archives de Paris.
 
-[^17]: [[BnF]], Ms. f.f. 22155.
+[^17]: {% abbr 'BnF' %}, Ms. f.f. 22155.
 
 [^18]: Robert Darnton, “Policing Writers in Paris c. 1750,” *Representations* 5 (1984): 1–31.
 
-[^19]: [[ENSBA]], Ms. 22.
+[^19]: {% abbr 'ENSBA' %}, Ms. 22.
 
 [^20]: Fidière, *État civil*, nos. 4, 5, 11, 23, 26, 42, 58, 127.
 
@@ -84,14 +84,14 @@ Why did it not work? Reynès was not considered when a new secretary and histori
 
 [^24]: See Fidière, *État civil*, nos. 5, 7, 12, 16, 37, 38, 47, 53, 72, 87, 97, 112, 177. The last four (Samuel Bernard, Louis Elle Ferdinand, Jacques Rousseau and Jean Forest) converted to Catholicism and were reintegrated into the AcadémieSee also Lucien Raulet, “Les billets d’enterrement d’artistes huguenots de l’ancienne Académie royale de peinture et de sculpture (1653–1712),” *Bulletin de la Société de l’histoire du protestantisme,* 1907, 53–69.
 
-[^25]: [[*PV*]] 3:197–98 (10 October 1681).
+[^25]: {% abbr '*PV*' %} 3:197–98 (10 October 1681).
 
-[^26]: [[ENSBA]], Ms. 475.
+[^26]: {% abbr 'ENSBA' %}, Ms. 475.
 
-[^27]: [[ENSBA]], Ms. 475, 39–40.
+[^27]: {% abbr 'ENSBA' %}, Ms. 475, 39–40.
 
-[^28]: See Jacqueline Lichtenstein and Christian Michel, *Conférences de l’Académie royale de peinture et de sculpture* (Paris: [[ENSBA]], 2008), 2, pt. 1:31–387.
+[^28]: See Jacqueline Lichtenstein and Christian Michel, *Conférences de l’Académie royale de peinture et de sculpture* (Paris: {% abbr 'ENSBA' %}, 2008), 2, pt. 1:31–387.
 
 [^29]: See Préaud, “On ne meurt qu’une fois.”
 
-[^30]: See, for example, during the first decade of the eighteenth century: [[*PV*]], 3:319 (death of Antoine Paillet, Recteur); 4:30 (death of Thomas Regnaudin, adjoint recteur, and Nicolas de Plattemontagne, professeur); 4:54 (death of Noël Coypel, recteur); 4:129 (death of Etinne Baudet, conseiller).
+[^30]: See, for example, during the first decade of the eighteenth century: {% abbr '*PV*' %}, 3:319 (death of Antoine Paillet, Recteur); 4:30 (death of Thomas Regnaudin, adjoint recteur, and Nicolas de Plattemontagne, professeur); 4:54 (death of Noël Coypel, recteur); 4:129 (death of Etinne Baudet, conseiller).

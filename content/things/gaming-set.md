@@ -44,7 +44,7 @@ Though created to fulfil a specific leisurely purpose, Liotard’s Chinese lacqu
 
 [^6]: Marcel Roethlisberger and Renée Loche, *Liotard: Catalogue, sources, et correspondence*, 2 vols. (Doornspijk: Davaco, 2008), 1:45.
 
-[^7]: On the empress’s interest in lacquer, see: Michael Yonan, “Veneers of Authority: Chinese Lacquers in Maria Theresa’s Vienna,” [[*ECS*]] 37, no. 4 (2004): 652–72.
+[^7]: On the empress’s interest in lacquer, see: Michael Yonan, “Veneers of Authority: Chinese Lacquers in Maria Theresa’s Vienna,” {% abbr '*ECS*' %} 37, no. 4 (2004): 652–72.
 
 [^8]: This timing corresponds both with the dating of the object and the period in which Boston was first being played. On the gift of the coffee service, see Jean-Étienne Liotard to his son, Jean-Étienne Liotard, 27 May 1783, in Roethlisberger and Loche, *Liotard*, 2:767.
 

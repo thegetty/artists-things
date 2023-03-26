@@ -40,7 +40,7 @@ Houdon, however, did not use clay for rough work, or, to be more exact he buried
 
 [^2]: See Joseph Connors, “Ars Tornandi: Baroque Architecture and the Lathe,” *Journal of the Warburg and Courtauld Institutes*, 53 (1990): 217–36; and *Porphyre: La pierre pourpre des Ptolémées aux Bonapartes*, exh. cat. (Paris: Musée du Louvre, 2003).
 
-[^3]: Michel-François Dandré-Bardon, *Essai sur la sculpture* (Paris: Desaint, 1765), 60. Consequently, he recommended observation of the moderns as the best means to understand the techniques of the ancients (p. 61). See also Louis Guy Henri de Valori “Vie de M. Frémin,” in [[*Mémoires inédits*]], 2:202 who regarded this “veil of ignorance” as a point in sculpture’s favor.
+[^3]: Michel-François Dandré-Bardon, *Essai sur la sculpture* (Paris: Desaint, 1765), 60. Consequently, he recommended observation of the moderns as the best means to understand the techniques of the ancients (p. 61). See also Louis Guy Henri de Valori “Vie de M. Frémin,” in {% abbr '*Mémoires inédits*' %}, 2:202 who regarded this “veil of ignorance” as a point in sculpture’s favor.
 
 [^4]: “Sculpture,” *Encyclopédie*, [http://encyclopedie.uchicago.edu/](https://encyclopedie.uchicago.edu/), 14:834–37; and Juan A. Calatrava, “Idées sur la sculpture dans l’*Encyclopédie*,” *Dix-huitième siècle* 24 (1992): 397–410.
 
@@ -56,7 +56,7 @@ Houdon, however, did not use clay for rough work, or, to be more exact he buried
 
 [^10]: William H. Sewell Jr, “Visions of Labour: Illustrations of the Mechanical Arts before, in, and after Diderot’s *Encyclopédie*,” in *Work in France: Representation, Meaning, Organization and Practice*, ed. Steven Kaplan and Cynthia Koepp (Ithaca, NY: Cornell University Press, 1986), 258.
 
-[^11]: Louis Gougenot, “Robert Le Lorrain,” in [[*Mémoires inédits*]], 2:219.
+[^11]: Louis Gougenot, “Robert Le Lorrain,” in {% abbr '*Mémoires inédits*' %}, 2:219.
 
 [^12]: See the definitions of “Ébauchoir,” “Lance” and “Lancette” in Pernéty, *Dictionnaire portatif* and also his description of the actions “Bretter,” “Bretteller” and “Ébaucher.”
 
@@ -82,7 +82,7 @@ Houdon, however, did not use clay for rough work, or, to be more exact he buried
 
 [^23]: Louis-Jean-Marie Daubenton defines clay (*argille*) as the most plentiful and useful material known to man (“Argile,” *Encyclopédie*, [http://encyclopedie.uchicago.edu/](https://encyclopedie.uchicago.edu/)), 1:645; sculptor’s clay was sourced in Normandy, according to Pernéty (*Dictionaire portatif*, s.v. “Glaise”). Étienne Aubry’s *Portrait of Louis-Claude Vassé* (1771, Musée et Château de Versailles) is a remarkable pictorial attempt to obscure the dirt of working with clay by hand.
 
-[^24]: See Charles Henry ed., [[*Mémoires inédits*]] *de Charles-Nicolas Cochin sur le comte de Caylus, Bouchardon, les Slodtz* (Paris: Baur, 1880), 113–14.
+[^24]: See Charles Henry ed., {% abbr '*Mémoires inédits*' %} *de Charles-Nicolas Cochin sur le comte de Caylus, Bouchardon, les Slodtz* (Paris: Baur, 1880), 113–14.
 
 [^25]: Notable collectors included La Live de Jully and Crozat de Tugny. See Maria Giulia Barberini, “Base or Noble Material? Clay Sculpture in Seventeenth and Eighteenth-Century Italy,” in *Earth and Fire. Italian Terracotta Sculpture from Donatello to Canova,* exh. cat., Museum of Fine Arts, Houston (New Haven: Yale University Press, 2001), 43–59.
 

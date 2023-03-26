@@ -36,13 +36,13 @@ Design aesthetics were, however, less stable than musical ones. Mechanisms might
 
 On at least one occasion, however, the harpsichord broke free of its domestic interior, not through a physical relocation, but via a fictional performance. Among the many roles the object played in its long life—musical instrument, item of inheritance, dowry, heirloom, piece of furniture—in 1754, it also became a studio prop for one of Nattier’s most important commissions: his portrait of the king’s daughter, *Madame Henriette Playing a Bass Viol* ([fig. 76](#fig.-76)).[^17] By this time, the instrument itself was residing in Tocqué’s home, so Nattier presumably used his unfinished self-portrait as a model, as suggested in the striking similarities, not only between the objects (a double manual with a green case, dark cheek, and gilded scalloped legs), but also in their depictions (cut off at the left edge of the canvas, with music on the stand, and a blue curtain overhead). Yet the differences between the family portrait and the royal portrait underscore its different roles in each work: from its dominant foreground position as narrator or quasi member of the family, to an incidental bit part in the mid-ground as a thematically appropriate compositional device. Like David’s {% thing 'table' %} in his painting of *Brutus* ([fig. 160](#fig.-160)), this was a real thing playing a fictional part—the family harpsichord masquerading as the princess’s harpsichord. But unlike the table, designed expressly for that purpose, the harpsichord’s performance was more of a cameo appearance, fifteen minutes of fame before returning to everyday life. {% contributors context=pageContributors format='symbol' %}
 
-[^1]: It is described as “provenant de la succession de sa mère” in the marriage contract of Marie-Catherine-Pauline Nattier and Louis Tocqué, 6 February 1747, [[AN]], [[MC]]/ET/LIX/238. The contract is transcribed in Renard, *Jean-Marc Nattier* (Saint-Rémy-en-l’Eau: Monelle Hayot, 1999), 194.
+[^1]: It is described as “provenant de la succession de sa mère” in the marriage contract of Marie-Catherine-Pauline Nattier and Louis Tocqué, 6 February 1747, {% abbr 'AN' %}, {% abbr 'MC' %}/ET/LIX/238. The contract is transcribed in Renard, *Jean-Marc Nattier* (Saint-Rémy-en-l’Eau: Monelle Hayot, 1999), 194.
 
-[^2]: Marriage contract, Louis Tocqué and Marie-Catherine-Pauline Nattier, 6 February 1747, [[AN]], [[MC]]/ET/LIX/238.
+[^2]: Marriage contract, Louis Tocqué and Marie-Catherine-Pauline Nattier, 6 February 1747, {% abbr 'AN' %}, {% abbr 'MC' %}/ET/LIX/238.
 
-[^3]: The harpsichord is not mentioned separately in Marie-Catherine-Pauline Nattier’s will, but Catherine-Pauline Tocqué was designated as her mother’s principal heir, inheriting everything apart from a small number of specific items bequeathed to family members and servants. Will, Marie-Catherine-Pauline Nattier (Madame Tocqué), 27 March 1775, [[AN]], [[MC]]/ET/CXIII/477. See also Renard, *Jean-Marc Nattier*, 205.
+[^3]: The harpsichord is not mentioned separately in Marie-Catherine-Pauline Nattier’s will, but Catherine-Pauline Tocqué was designated as her mother’s principal heir, inheriting everything apart from a small number of specific items bequeathed to family members and servants. Will, Marie-Catherine-Pauline Nattier (Madame Tocqué), 27 March 1775, {% abbr 'AN' %}, {% abbr 'MC' %}/ET/CXIII/477. See also Renard, *Jean-Marc Nattier*, 205.
 
-[^4]: It is described as a Dumont harpsicord in the estate inventory of Marie-Catherine-Pauline Nattier (Madame Tocqué), 10 April 1775, [[AN]], [[MC]]/ET/CXIII/477.
+[^4]: It is described as a Dumont harpsicord in the estate inventory of Marie-Catherine-Pauline Nattier (Madame Tocqué), 10 April 1775, {% abbr 'AN' %}, {% abbr 'MC' %}/ET/CXIII/477.
 
 [^5]: Nicolas Dumont (1673–ca. 1710) was a Parisian harpsichord maker, received into the Guild of Instrument Makers in 1675. Donald H. Boalch, *Makers of the Harpsichord and Clavichord, 1440–1840*, third edition (Oxford: Clarendon, 1995), 52, 305–6. On the form of the harpsichord see Edward L. Kottick, *A History of the Harpsichord* (Bloomington: Indiana University Press, 2003). Thanks to Julie Anne Sadie Goode and Jenny Nex for assistance with research on eighteenth-century French harpsichords.
 
@@ -58,14 +58,14 @@ On at least one occasion, however, the harpsichord broke free of its domestic in
 
 [^11]: For Nattier’s and Tocque’s addresses during their careers, see Hannah Williams and Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](http://www.artistsinparis.org).
 
-[^12]: Marie-Catherine-Pauline Nattier (Madame Tocqué), “Inventaire après décès,”10 April 1775, [[AN]], [[MC]]/ET/CXIII/477. See also Renard, *Jean-Marc Nattier*, 148.
+[^12]: Marie-Catherine-Pauline Nattier (Madame Tocqué), “Inventaire après décès,”10 April 1775, {% abbr 'AN' %}, {% abbr 'MC' %}/ET/CXIII/477. See also Renard, *Jean-Marc Nattier*, 148.
 
 [^13]: On the decoration of harpsichords, see Sheridan Germann, “Monsieur Doublet and His Confrères: The Harpsichord Decorators of Paris,” *Early Music* 8, no. 4 (1980): 435–53; and Kottick, *A History of the Harpsichord*, 263–64.
 
-[^14]: An *opposition* by Jean Desnoue, *raccommodeur de clavecins*, was made in the *Scellé* of Charles Boit on 6 February 1727. [[AN]], Y/15767.
+[^14]: An *opposition* by Jean Desnoue, *raccommodeur de clavecins*, was made in the *Scellé* of Charles Boit on 6 February 1727. {% abbr 'AN' %}, Y/15767.
 
-[^15]: Marie-Catherine-Pauline Nattier (Madame Tocqué), “Inventaire après décès,” 10 April 1775, [[AN]], [[MC]]/ET/CXIII/477.
+[^15]: Marie-Catherine-Pauline Nattier (Madame Tocqué), “Inventaire après décès,” 10 April 1775, {% abbr 'AN' %}, {% abbr 'MC' %}/ET/CXIII/477.
 
-[^16]: Louis Gougenot, “Vie de M. Oudry,” in L. Dussieux et al. eds., [[*Mémoires inédits*]], 2:379. Léon Lagrange, *Joseph Vernet et la peinture au XVIII^e^ siècle, avec le texte des livres de raison et un grand nombre de documents inédits* (Paris: Didier, 1864), 392.
+[^16]: Louis Gougenot, “Vie de M. Oudry,” in L. Dussieux et al. eds., {% abbr '*Mémoires inédits*' %}, 2:379. Léon Lagrange, *Joseph Vernet et la peinture au XVIII^e^ siècle, avec le texte des livres de raison et un grand nombre de documents inédits* (Paris: Didier, 1864), 392.
 
 [^17]: The harpsichord would appear in several versions and studio copies of this important commission.

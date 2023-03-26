@@ -60,7 +60,7 @@ This is not to say that Falconet aspired to the status of the man of letters. On
 
 [^10]: Étienne Maurice Falconet, *Traduction des XXXIV^e^, XXXV^e^, et XXXVI^e^ livres de Pline* (Amsterdam: Rey, 1772).
 
-[^11]: See Jules Guiffrey, “Correspondance des artistes français travaillant à l’étranger,” [[*NAAF*]], 1878, 81–82.
+[^11]: See Jules Guiffrey, “Correspondance des artistes français travaillant à l’étranger,” {% abbr '*NAAF*' %}, 1878, 81–82.
 
 [^12]: Étienne-Maurice Falconet, *Réflexions sur la sculpture* (n.p.: n.p., 1761). See Falconet, “Reflections on Sculpture,” in *Lectures on Art: Selected Conférences from the Académie Royale de Peinture et de Sculpture, 1667–1772*, ed. Christian Michel and Jacquline Lichtenstein, trans. Chris Miller (Los Angeles: Getty Research Institute, 2020), 408–27.
 
@@ -80,7 +80,7 @@ This is not to say that Falconet aspired to the status of the man of letters. On
 
 [^20]: On ink, see Adrian Johns, “Ink,” in *Materials and Experience in Early Modern Europe: Between Market and Laboratory*, ed. Ursula Klein and E. C. Spary (Chicago: University of Chicago Press, 2010), 101–24.
 
-[^21]: [[AN]], [[MC]]/XCI/1036, 21 August 1766. The inventory was drawn up in the name of Falconet’s wife Anne Suzanne Moulin, who had died in 1748. Falconet bought the property in 1756 from the heirs of the sculptor Jules Martin Desjardins ([[AN]], [[MC]]/ET/LXXVII/251, vente 2 June 1756). There was a desk in the antechamber and another, of walnut, in the cabinet on the first floor.
+[^21]: {% abbr 'AN' %}, {% abbr 'MC' %}/XCI/1036, 21 August 1766. The inventory was drawn up in the name of Falconet’s wife Anne Suzanne Moulin, who had died in 1748. Falconet bought the property in 1756 from the heirs of the sculptor Jules Martin Desjardins ({% abbr 'AN' %}, {% abbr 'MC' %}/ET/LXXVII/251, vente 2 June 1756). There was a desk in the antechamber and another, of walnut, in the cabinet on the first floor.
 
 [^22]: See Letters IV and VI in Benot, *Le pour et le contre*, 60, 67, 71. Falconet took two letters from Diderot with him when he left for Russia and inserted a draft of his responses between the Diderot’s lines. See Emita Hill, “Diderot’s Letter to Falconet, Summer 1767,” *Diderot Studies* 20 (1981): 125–41. None of the original letters of the correspondence survive, only fair copies. See Biblithèque Nationale de France, Département des Manuscrits, n.a.f. 24983.
 

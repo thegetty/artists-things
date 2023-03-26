@@ -42,7 +42,7 @@ Cochin’s anecdotes on Bouchardon’s life were written after the sculptor’s 
 
 [^2]: See Juliette Trey, “‘Ils veulent tous l’imiter, et aucun n’en approche’: Bouchardon et les dessinateurs de son temps,” in *Edme Bouchardon (1698–1762): Une idée du beau*, exh. cat. (Paris: Musée du Louvre, 2016), 24–33.
 
-[^3]: Edme Bouchardon, “Inventaire après décès,” 18 August 1762, [[AN]], [[MC]]/ET/LXXVI/384.
+[^3]: Edme Bouchardon, “Inventaire après décès,” 18 August 1762, {% abbr 'AN' %}, {% abbr 'MC' %}/ET/LXXVI/384.
 
 [^4]: See Édouard Kopp, *Edme Bouchardon: The Learned Draftsman* (Los Angeles: J. Paul Getty Museum, 2017), 193–234.
 
@@ -60,7 +60,7 @@ Cochin’s anecdotes on Bouchardon’s life were written after the sculptor’s 
 
 [^11]: See *Edme Bouchardon (1698–1762)*, cat. 212, model for the cardinal Fleury monument.
 
-[^12]: [[AN]], ABXIX/4228, dossier 10, *Mémoire des frais fait par E.B. . . . pour le mausolée de Son Em^ce^ le Cardinal de Fleury*, 24 May 1743. He gave 4 months’ anxiety and worry as his fourth and last reason. He received 4,000 livres for the work and kept the model.
+[^12]: {% abbr 'AN' %}, ABXIX/4228, dossier 10, *Mémoire des frais fait par E.B. . . . pour le mausolée de Son Em^ce^ le Cardinal de Fleury*, 24 May 1743. He gave 4 months’ anxiety and worry as his fourth and last reason. He received 4,000 livres for the work and kept the model.
 
 [^13]: Gerold Weber, “Dessins et maquettes d’Edme Bouchardon,” *Revue de l’art* 6 (1969): 39–50.
 
@@ -76,7 +76,7 @@ Cochin’s anecdotes on Bouchardon’s life were written after the sculptor’s 
 
 [^19]: Mariette uses “colossal” to describe and commend the fountain’s forms. See, “Lettre de M. M\*\*\*,” in Caylus, *Vie*, 90.
 
-[^20]: Charles-Nicolas Cochin, [[*Mémoires inédits*]] *de Charles-Nicolas Cochin*, ed. Charles Henry (Paris: Baur, 1880), 86. Cochin thought Bouchardon’s models failed to reach perfection in this regard.
+[^20]: Charles-Nicolas Cochin, {% abbr '*Mémoires inédits*' %} *de Charles-Nicolas Cochin*, ed. Charles Henry (Paris: Baur, 1880), 86. Cochin thought Bouchardon’s models failed to reach perfection in this regard.
 
 [^21]: See, for instance, the small bronzes of the antique Nile and the Tiber by Buirette in the sculptor François Girardon’s collection.
 
@@ -90,7 +90,7 @@ Cochin’s anecdotes on Bouchardon’s life were written after the sculptor’s 
 
 [^26]: Pierre-Jean Mariette, *Description des travaux qui ont précédé, accompagné et suivi la fonte en bronze . . . de la statue équestre de Louis XV* (Paris: P. G. Le Mercier, 1768), plate 1. See also Geneviève Bresc-Bautier, “Fonderie et ateliers du Roule,” in *Rue du Faubourg Saint-Honoré* (Paris: DAAVP, 1997), 372–77.
 
-[^27]: See [[AN]], [[MC]]/ET/LXXVI/384, 18 August 1762 for models stored in the principal atelier.
+[^27]: See {% abbr 'AN' %}, {% abbr 'MC' %}/ET/LXXVI/384, 18 August 1762 for models stored in the principal atelier.
 
 [^28]: *Encyclopédie*, [http://encyclopedie.uchicago.edu/](https://encyclopedie.uchicago.edu/), 25:22:1.
 

@@ -60,9 +60,9 @@ Vincent’s glasses were thus an indispensable tool for the middle-aged artist, 
 
 [^10]: Vitols, *Dictionnaire des lunettes*, 116.
 
-[^11]: Vincent was first granted apartments in the Louvre in 1784; he and Labille-Guiard moved to the former College des Quatre Nations in 1802. Jules-Joseph Guiffrey, “Brevets de logements dans la galerie du Louvre,” [[*NAAF*]]*,* 1873, 101; and Jean-Pierre Cuzin, *François-André Vincent, 1746–1816* (Paris: Arthena, 2013), 322–23.
+[^11]: Vincent was first granted apartments in the Louvre in 1784; he and Labille-Guiard moved to the former College des Quatre Nations in 1802. Jules-Joseph Guiffrey, “Brevets de logements dans la galerie du Louvre,” {% abbr '*NAAF*' %}*,* 1873, 101; and Jean-Pierre Cuzin, *François-André Vincent, 1746–1816* (Paris: Arthena, 2013), 322–23.
 
-[^12]: François-André Vincent, “Inventaire après décès,” 9 August 1816, [[AN]], [[MC]]/ET/LXIV/577. The inventory also mentions “trois paires de ciseaux,” which may have been either scissors or *binocles ciseaux* (pairs of corrective lenses with a single central handle). For Vincent’s inventory, see also Cuzin, *François-André Vincent*, 524–31.
+[^12]: François-André Vincent, “Inventaire après décès,” 9 August 1816, {% abbr 'AN' %}, {% abbr 'MC' %}/ET/LXIV/577. The inventory also mentions “trois paires de ciseaux,” which may have been either scissors or *binocles ciseaux* (pairs of corrective lenses with a single central handle). For Vincent’s inventory, see also Cuzin, *François-André Vincent*, 524–31.
 
 [^13]: Mansfield and Cuzin both discuss Vincent’s health problems, recorded in various primary sources. These mostly relate to a delicate constitution in his youth (due to which he suffered in the heat and sun of Rome) and nervous attacks in his later years. Elizabeth C. Mansfield, *The Perfect Foil: François-André Vincent and the Revolution in French Painting* (Minneapolis: University of Minnesota Press, 2012), 5, 56–57; and Cuzin, *François-André Vincent*, 61.
 

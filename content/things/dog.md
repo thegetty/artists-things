@@ -40,7 +40,7 @@ In a deft display of professional bargaining (or emotional manipulation, dependi
 
 [^3]: On modern relationships between dogs and humans, see Majorie Garber, *Dog Love* (New York: Touchstone, 1996).
 
-[^4]: Letter from Duplessis to d’Angiviller, 15 August 1788, [[AN]], O^1^1674. Jules Belleudy, *J-S Duplessis, peintre du roi, 1725–1802* (Chartres: Durand, 1908), 106.
+[^4]: Letter from Duplessis to d’Angiviller, 15 August 1788, {% abbr 'AN' %}, O^1^1674. Jules Belleudy, *J-S Duplessis, peintre du roi, 1725–1802* (Chartres: Durand, 1908), 106.
 
 [^5]: Duplessis made these remarks in another letter to d’Angiviller. Belleudy, *Duplessis*, 97.
 
@@ -56,4 +56,4 @@ In a deft display of professional bargaining (or emotional manipulation, dependi
 
 [^11]: On dogs and hunting in this period, see Amy Freund, “Sexy Beasts: The Politics of Hunting Portraiture in Eighteenth-Century France,” *Art History* 42, no. 1 (2019): 40–67.
 
-[^12]: Letter from Duplessis to d’Angiviller, 15 August 1788, [[AN]], O^1^1674. Belleudy, *Duplessis*, 106.
+[^12]: Letter from Duplessis to d’Angiviller, 15 August 1788, {% abbr 'AN' %}, O^1^1674. Belleudy, *Duplessis*, 106.

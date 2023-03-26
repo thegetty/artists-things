@@ -52,23 +52,23 @@ The later context of the Bâtiments’ role under d’Angiviller in disciplining
 
 [^3]: It is unclear whether Mme Desportes actually lit the lanterns or simply administered their use. The Swiss guard was responsible for the public spaces of the Louvre.
 
-[^4]: Jean-Baptiste Lemoyne to the marquis de Marigny, 4 November 1769. [[AN]], O^1^/1673/152.
+[^4]: Jean-Baptiste Lemoyne to the marquis de Marigny, 4 November 1769. {% abbr 'AN' %}, O^1^/1673/152.
 
-[^5]: Jean-Siméon Chardin, Charles-Nicolas Cochin, Pierre-André Jacquemin, Jean-Baptiste Lemoyne, Jean-Baptise Pigalle, Claude-Joseph Vernet and Joseph-Marie Vienby, Memorandum, [[AN]], O^1^/1673/153.
+[^5]: Jean-Siméon Chardin, Charles-Nicolas Cochin, Pierre-André Jacquemin, Jean-Baptiste Lemoyne, Jean-Baptise Pigalle, Claude-Joseph Vernet and Joseph-Marie Vienby, Memorandum, {% abbr 'AN' %}, O^1^/1673/153.
 
-[^6]: For the letters patent of Henri IV (1608), confirmed and elaborated by Louis XIV (1673), see Jules-Joseph Guiffrey, “Logements d’artistes au Louvre,” [[*NAAF*]]*,* 1873, 40, 73. On the *logements* more generally, see Yvonne Singer-Lecocq, *Un Louvre inconnu: Quand l’état logeait ses artistes, 1608–1806* (Paris: Perrin, 1986); Elena Palacios Carral, “The Freelancer: The Individuation of the Artist’s Work in Paris, 1608–1805,” *AA Files* 77 (2020): 103–12.
+[^6]: For the letters patent of Henri IV (1608), confirmed and elaborated by Louis XIV (1673), see Jules-Joseph Guiffrey, “Logements d’artistes au Louvre,” {% abbr '*NAAF*' %}*,* 1873, 40, 73. On the *logements* more generally, see Yvonne Singer-Lecocq, *Un Louvre inconnu: Quand l’état logeait ses artistes, 1608–1806* (Paris: Perrin, 1986); Elena Palacios Carral, “The Freelancer: The Individuation of the Artist’s Work in Paris, 1608–1805,” *AA Files* 77 (2020): 103–12.
 
 [^7]: Mme Desportes is identified in Claude-Joseph Vernet’s accounts as the person in charge of the lanterns. See Léon Lagrange, *Joseph Vernet et la peinture du XVIII^e^ siècle* (Paris: Didier, 1864).
 
 [^8]: Claude François had moved in with his father in 1739.
 
-[^9]: See Claude-François Desportes, “Vie de M. Desportes, peintre d’animaux” (1748) in [[*Mémoires inédits*]], 2: 101.
+[^9]: See Claude-François Desportes, “Vie de M. Desportes, peintre d’animaux” (1748) in {% abbr '*Mémoires inédits*' %}, 2: 101.
 
 [^10]: On the supply of candles to the royal palaces, see Castelluccio, *L’Éclairage*, 63–76.
 
-[^11]: [[AN]], O^1^/1673/345: Resubmission of a *placet* originally tendered by Claude-François Desportes ([[AN]], O^1^/1673/330) before his death. The resubmission is signed by Chardin, Vernet, Loriot, Bailly, Lagrenée, Restout, Roettiers, Duviver, Lemoyne, Vien, and La Tour among others. See also [[AN]], O^1^/1673/329.
+[^11]: {% abbr 'AN' %}, O^1^/1673/345: Resubmission of a *placet* originally tendered by Claude-François Desportes ({% abbr 'AN' %}, O^1^/1673/330) before his death. The resubmission is signed by Chardin, Vernet, Loriot, Bailly, Lagrenée, Restout, Roettiers, Duviver, Lemoyne, Vien, and La Tour among others. See also {% abbr 'AN' %}, O^1^/1673/329.
 
-[^12]: Nicolas Desportes had lived at the family *logement* for forty-three years. An independent report on the matter ([[AN]], O^1^/1673/344) by Bâtiments personnel noted that the Desportes “has for a long time been a loved and regarded family” (“est une famille aimée et considérée depuis longtemps dans les galleries.”)
+[^12]: Nicolas Desportes had lived at the family *logement* for forty-three years. An independent report on the matter ({% abbr 'AN' %}, O^1^/1673/344) by Bâtiments personnel noted that the Desportes “has for a long time been a loved and regarded family” (“est une famille aimée et considérée depuis longtemps dans les galleries.”)
 
 [^13]: On prices of oil, tallow, and wax, see Castelluccio, *L’Éclairage*, 19–20, 32–33. Beeswax candles were roughly three times as expensive as tallow.
 
@@ -76,9 +76,9 @@ The later context of the Bâtiments’ role under d’Angiviller in disciplining
 
 [^15]: See *Dictionnaire de l’Académie française*, 1: s.v. “Décence.”
 
-[^16]: Anonymous memorandum, [[AN]], O^1^/1673/153. On the early history of corridors, see Reed Benhamou, “Parallel Walls, Parallel Worlds: The Place of Masters and Servants in the ‘Maisons de Plaisance’ of Jacques-François Blondel,” *Journal of Design History* 7, no. 1 (1994): 1–11.
+[^16]: Anonymous memorandum, {% abbr 'AN' %}, O^1^/1673/153. On the early history of corridors, see Reed Benhamou, “Parallel Walls, Parallel Worlds: The Place of Masters and Servants in the ‘Maisons de Plaisance’ of Jacques-François Blondel,” *Journal of Design History* 7, no. 1 (1994): 1–11.
 
-[^17]: See Marc Furcy-Raynaud ed., “Correspondance de M. d’Angiviller avec Pierre,” [[*NAAF*]]*,* 1905, 152–54, Jean-Baptiste Marie Pierre to the comte d’Angiviller, 4 December 1777.
+[^17]: See Marc Furcy-Raynaud ed., “Correspondance de M. d’Angiviller avec Pierre,” {% abbr '*NAAF*' %}*,* 1905, 152–54, Jean-Baptiste Marie Pierre to the comte d’Angiviller, 4 December 1777.
 
 [^18]: On the “*ballayeurs*” resident in the palace, see Guiffrey, “Logements d’artistes au Louvre,” 150–51.
 
@@ -88,9 +88,9 @@ The later context of the Bâtiments’ role under d’Angiviller in disciplining
 
 [^21]: Furcy-Raynaud, “Correspondance,” 157.
 
-[^22]: See [[AN]], O^1^/1673/571: d’Angiviller to Vallayer-Coster, 9 April 1779.
+[^22]: See {% abbr 'AN' %}, O^1^/1673/571: d’Angiviller to Vallayer-Coster, 9 April 1779.
 
-[^23]: [[AN]], O^1^/1673/574: Brébion to d’Angiviller, 12 April 1779.
+[^23]: {% abbr 'AN' %}, O^1^/1673/574: Brébion to d’Angiviller, 12 April 1779.
 
 [^24]: Michel Foucault*, A History of Sexuality: Volume 1, An Introduction* (New York: Vintage, 1980), esp. 94, 139.
 

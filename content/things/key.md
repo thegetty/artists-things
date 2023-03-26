@@ -29,11 +29,11 @@ At the Louvre’s Cour Carré, d’Angiviller had a freer hand because, as Jules
 
 We can never know how Peyron felt as he took the key from his pocket, slipped it into the lock, turned it, and opened the door into his room looking out to the river. The records of the Bâtiments du Roi, rich though they are in information about the emotions that motivated artists to ask for a studio—pride, ambition, entitlement, love, desperation etc.—tell us nothing about the experience of taking possession of one. The history painter Louis Galloche was an exception: he wrote to Philibert Orry in January 1744 of his joy on learning that the king had granted him a *logement*, and that he fully expected to blossom from “the great advantage” of occupying “one of the most beautiful vantage points in the universe” from which to view and reflect upon Nature’s “tout ensemble.”[^24] Peyron’s joy, if such it was, was short-lived. In 1785 he was moved to the Gobelins. {% contributors context=pageContributors format='symbol' %}
 
-[^1]: Peyron was agréé on 27 September 1783. See [[*PV*]], 9:168.
+[^1]: Peyron was agréé on 27 September 1783. See {% abbr '*PV*' %}, 9:168.
 
 [^2]: At the Cour Carré in 1783 were Nicolas Brenet, Gabriel-François Doyen, Joseph-Siffred Duplessis, Jean-Baptiste Le prince, and Hubert Robert.
 
-[^3]: It was Lagrenée’s idea initially that Peyron, one of his pupils, we assigned his studio, thereby safeguarding its return to Lagrenée when he returned to Paris. See [[*CDR*]], 14:96, 97, 265, 266.
+[^3]: It was Lagrenée’s idea initially that Peyron, one of his pupils, we assigned his studio, thereby safeguarding its return to Lagrenée when he returned to Paris. See {% abbr '*CDR*' %}, 14:96, 97, 265, 266.
 
 [^4]: The six paintings sent in October arrived in Madrid in January 1783. Three (*Landscape with a Sunset*, *Landscape with a Waterfall* and *The Kite*) are at the Prado, Madrid, a fourth is the Duke of Westminster’s collection, the remaining two are lost.
 
@@ -51,11 +51,11 @@ We can never know how Peyron felt as he took the key from his pocket, slipped it
 
 [^11]: Henri-Louis Duhamel de Monceau, *L’art du serrurier* (Paris: Saillant & Desaint, 1767), 109, 119–20.
 
-[^12]: [[AN]], O^1^/1674/158: Vernet to the comte d’Angiviller, 4 November 1783.
+[^12]: {% abbr 'AN' %}, O^1^/1674/158: Vernet to the comte d’Angiviller, 4 November 1783.
 
 [^13]: Guiffrey, “Correspondance,” 90: Vernet to the comte d’Angiviller, 2 December 1783.
 
-[^14]: [[AN]], O^1^/1673/504: Aubry to the comte d’Angiviller, 1 March 1777.
+[^14]: {% abbr 'AN' %}, O^1^/1673/504: Aubry to the comte d’Angiviller, 1 March 1777.
 
 [^15]: Both also said they had found it impossible to find alternative studio space in the immediate environs of the Louvre.
 
@@ -67,12 +67,12 @@ We can never know how Peyron felt as he took the key from his pocket, slipped it
 
 [^19]: D’Angiviller’s commissioned the *Death of Alcestes* (1785) for himself, and the *Death of Socrates* (1787) for the king.
 
-[^20]: Jules-Joseph Guiffrey, “Logements d’artistes au Louvre,” [[*NAAF*]]*,* 1873, 15, 18.
+[^20]: Jules-Joseph Guiffrey, “Logements d’artistes au Louvre,” {% abbr '*NAAF*' %}*,* 1873, 15, 18.
 
-[^21]: [[AN]], O^1^/1674/240, Jean-Baptiste Huez to the comte d’Angiviller, 27 November 1784; and [[AN]], O^1^/1674/240bis, d’Angiviller to Huez, 15 December 1784. D’Angiviller took much more care in choosing his words to Vernet. The repeated crossed-out words in a draft of a letter to Vernet, 21 February 1782 ([[AN]], O^1^/1674/104) indicate that he was keen to spare Vernet’s pride.
+[^21]: {% abbr 'AN' %}, O^1^/1674/240, Jean-Baptiste Huez to the comte d’Angiviller, 27 November 1784; and {% abbr 'AN' %}, O^1^/1674/240bis, d’Angiviller to Huez, 15 December 1784. D’Angiviller took much more care in choosing his words to Vernet. The repeated crossed-out words in a draft of a letter to Vernet, 21 February 1782 ({% abbr 'AN' %}, O^1^/1674/104) indicate that he was keen to spare Vernet’s pride.
 
-[^22]: [[AN]], O^1^/1674/117.
+[^22]: {% abbr 'AN' %}, O^1^/1674/117.
 
 [^23]: See Guiffrey, “Logements d’artistes au Louvre,” 14, 127–35.
 
-[^24]: [[AN]], O^1^/1672/81.
+[^24]: {% abbr 'AN' %}, O^1^/1672/81.

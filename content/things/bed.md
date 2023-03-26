@@ -42,11 +42,11 @@ Among Coypel’s high-born friends was the marquis de Calvière, an aristocrat a
 
 [^1]: See Thierry Lefrançois, *Charles Coypel. Peintre du roi (1694–1752)* (Geneva: Arthena 1994), P 115. The terminology of bed types is in André Jacob Roubo, *L’art du menuisier*, 4 parts in 5 vols. (Paris: Delatour, 1769–75), 3, pt. 2:665–85.
 
-[^2]: Charles Coypel, “*Inventaire après décès*,” 25 September 1752, [[AN]], [[MC]]/ET/LXXVI/337.
+[^2]: Charles Coypel, “*Inventaire après décès*,” 25 September 1752, {% abbr 'AN' %}, {% abbr 'MC' %}/ET/LXXVI/337.
 
 [^3]: The phrasing is ambiguous because the documentary evidence does not indicate whether the picture alone was detached or whether the whole bed was replaced.
 
-[^4]: [[AN]], [[MC]]/ET/LXXVI/337, 25 September 1752: only the mirrors approximated the cost of the bed.
+[^4]: {% abbr 'AN' %}, {% abbr 'MC' %}/ET/LXXVI/337, 25 September 1752: only the mirrors approximated the cost of the bed.
 
 [^5]: Henri Havard, *Dictionnaire de l’ammeublement et de la decoration* (Paris: Quantin, 1894), 3:424. Havard mistakenly gives the date of Mignard’s marriage as 1660.
 
@@ -60,9 +60,9 @@ Among Coypel’s high-born friends was the marquis de Calvière, an aristocrat a
 
 [^10]: On the Coypel studios, see Nicole Garnier, *Antoine Coypel (1661–1722)* (Paris: Arthena, 1989), 171–72; and Lefrançois, *Charles Coypel*, 42.
 
-[^11]: Jules-Joseph Guiffrey, “Logements d’artistes au Louvre,” [[*NAAF*]], 1873, 1–221.
+[^11]: Jules-Joseph Guiffrey, “Logements d’artistes au Louvre,” {% abbr '*NAAF*' %}, 1873, 1–221.
 
-[^12]: See Coypel’s *inventaire après décès*, 25 September 1752, [[AN]], [[MC]]/ET/LXXVI/337.
+[^12]: See Coypel’s *inventaire après décès*, 25 September 1752, {% abbr 'AN' %}, {% abbr 'MC' %}/ET/LXXVI/337.
 
 [^13]: For Antoine Coypel’s inventory, see Garnier, *Antoine Coypel*, 249–55. For further comparison of the Louvre lodgings, see Scott, “Parade’s End,” 23–37.
 
@@ -78,7 +78,7 @@ Among Coypel’s high-born friends was the marquis de Calvière, an aristocrat a
 
 [^19]: For the silks available in the second half of the eighteenth century, see Lesley Miller, *Selling Silks: A Merchant’s Sample Book 1764* (New York: V&A, 2014).
 
-[^20]: [[AN]], ET/LXXVI/337, 25 September 1752: hangings “de cotton à fleurs.”
+[^20]: {% abbr 'AN' %}, ET/LXXVI/337, 25 September 1752: hangings “de cotton à fleurs.”
 
 [^21]: Thomas P. Campbell, “Collectors and Connoisseurs: The Status and Perception of Tapestry, 1600–1660,” in *Tapestry in the Baroque: Threads of Splendor*, exh. cat. (New Haven: Yale University Press; and New York: Metropolitan Museum of Art, 2007), 325–39. Tapestry was used also in nonelite housing, see Annik Pardailhé-Galabrun, *La naissance de l’intime* (Paris: Presses Universitaires de France, 1988), 368–76.
 
@@ -86,7 +86,7 @@ Among Coypel’s high-born friends was the marquis de Calvière, an aristocrat a
 
 [^23]: Havard, *Dictionnaire*, 3:421–22; and Jean Aimar Piganiol de La Force, *Description de Paris, de Versailles, de Marly, de Meudon, de S.-Cloud* (Paris: Poiron, 1745), 3:87.
 
-[^24]: [[AN]], ET/LXXVI/337, 25 September 1752, 69 different porcelain teacups, saucers and *pots pouri*, valued collectively at just 8 livres, indicating useful wares. On Coypel’s sociability, see Jean-Baptiste Massé, “Lettre de M. Massé, Peintre du roi et conseiller en son Académie Royale de Peinture et de Sculpture,” *Mercure de France,* August 1752, 147–48.
+[^24]: {% abbr 'AN' %}, ET/LXXVI/337, 25 September 1752, 69 different porcelain teacups, saucers and *pots pouri*, valued collectively at just 8 livres, indicating useful wares. On Coypel’s sociability, see Jean-Baptiste Massé, “Lettre de M. Massé, Peintre du roi et conseiller en son Académie Royale de Peinture et de Sculpture,” *Mercure de France,* August 1752, 147–48.
 
 [^25]: See Garnier, *Antoine Coypel*, 250. Antoine Coypel’s carriage, which was upholstered in red velvet and taffeta curtains, was valued 300 livres.
 

@@ -46,19 +46,19 @@ Despite disruptions and detours, Wille maintained a relationship with his journa
 
 [^6]: See several of the essays in Décultot, Espagne, and Martin, *Johann Georg Wille*, and the introductory sections to Elisabeth Decultot, Michel Espagne, and Michael Werner, *Johann Georg Wille (1715–1808): Briefwechsel* (Tübingen: Max Niemeyer, 1999).
 
-[^7]: Johann-Georg Wille, *Journal*, [[BnF]], 1:102v; [[BnF]], 3:27v.
+[^7]: Johann-Georg Wille, *Journal*, {% abbr 'BnF' %}, 1:102v; {% abbr 'BnF' %}, 3:27v.
 
-[^8]: Wille, *Journal*, [[BnF]], 1:73; and [[BnF]], 2:116v.
+[^8]: Wille, *Journal*, {% abbr 'BnF' %}, 1:73; and {% abbr 'BnF' %}, 2:116v.
 
-[^9]: Wille, *Journal*, Frits Lugt volume, n.p.; and Wille *Journal*, [[BnF]], 4:58.
+[^9]: Wille, *Journal*, Frits Lugt volume, n.p.; and Wille *Journal*, {% abbr 'BnF' %}, 4:58.
 
-[^10]: In 1792 Wille claims to have been keeping his journal for “more than forty years,” but the surviving volumes cover a total of only thirty-four years. Wille *Journal*, [[BnF]], 4:86. On the likelihood of another volume, see also Fuhring and Buijs, “Quelques relations de Wille,” 224.
+[^10]: In 1792 Wille claims to have been keeping his journal for “more than forty years,” but the surviving volumes cover a total of only thirty-four years. Wille *Journal*, {% abbr 'BnF' %}, 4:86. On the likelihood of another volume, see also Fuhring and Buijs, “Quelques relations de Wille,” 224.
 
 [^11]: Wille, *Journal*, Frits Lugt volume, n.p.
 
 [^12]: Joan Didion, “On Keeping a Notebook,” *Slouching towards Bethlehem* (London: Fourth Estate, 2017), 132.
 
-[^13]: Wille, *Journal*, [[BnF]], 4:85v, 86. Duplessis cites this justification in his preface, “Mémoires et journal de J-G Wille,” xv–xvi. Ironically, Wille did write a biographical account, known as his ”mémoires,” which was published by Duplessis in 1857 in the first volume of the journal.
+[^13]: Wille, *Journal*, {% abbr 'BnF' %}, 4:85v, 86. Duplessis cites this justification in his preface, “Mémoires et journal de J-G Wille,” xv–xvi. Ironically, Wille did write a biographical account, known as his ”mémoires,” which was published by Duplessis in 1857 in the first volume of the journal.
 
 [^14]: On Wille’s reasons for stopping and his other writing activities during his later years, see Fuhring and Buijs, “Quelques relations de Wille,” 224.
 

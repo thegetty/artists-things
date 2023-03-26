@@ -36,7 +36,7 @@ Drevet’s psychological condition was certainly deteriorating quickly as he wor
 
 [^1]: The engraving is considered Drevet’s final work according to Ambroise Firmin-Didot, *Les Drevet: Pierre, Pierre-Imbert, Claude* (Paris: Firmin-Didot, 1876), 95.
 
-[^2]: [Hendrick van Hulst], “État général des portraits et autres tableaux sortis du pinceau de l’illustre M. Rigaud,” in [[*Mémoires inédits*]], 2:197; Will, Pierre Drevet, 23 April 1736, [[AN]], [[MC]]/ET/LX/257; *Mercure de France,* June 1742, 1416; and *Plaidoyer pour les héritiers paternels de Pierre-Imbert Drevet, intervenants, contre Claude Drevet, graveur du roi, appellant* (Paris: d’Houry, 1742), 2, 3.
+[^2]: [Hendrick van Hulst], “État général des portraits et autres tableaux sortis du pinceau de l’illustre M. Rigaud,” in {% abbr '*Mémoires inédits*' %}, 2:197; Will, Pierre Drevet, 23 April 1736, {% abbr 'AN' %}, {% abbr 'MC' %}/ET/LX/257; *Mercure de France,* June 1742, 1416; and *Plaidoyer pour les héritiers paternels de Pierre-Imbert Drevet, intervenants, contre Claude Drevet, graveur du roi, appellant* (Paris: d’Houry, 1742), 2, 3.
 
 [^3]: On Lemoyne’s suicide, see {% thing 'sword' %} and Hannah Williams, “The Mysterious Suicide of François Lemoyne,” *Oxford Art Journal* 38, no. 2 (2015): 225–45. On Rouquet, see David Maskill, “The Neighbor from Hell: André Rouquet’s Eviction from the Louvre,” *Journal18* 2 “Louvre Local” (Fall 2016), <http://www.journal18.org/822>.
 
@@ -48,7 +48,7 @@ Drevet’s psychological condition was certainly deteriorating quickly as he wor
 
 [^7]: Luke 22:41–43.
 
-[^8]: The painting *Christ au jardin des Oliviers* by Jean Restout is recorded in Drevet’s “inventiare après décès,” 26 June 1739, [[AN]], [[MC]]/ET/LX/266. On Restout’s painting see Christine Gouzi, *Jean Restout: 1692–1768* (Paris: Arthena, 2000), 237–38.
+[^8]: The painting *Christ au jardin des Oliviers* by Jean Restout is recorded in Drevet’s “inventiare après décès,” 26 June 1739, {% abbr 'AN' %}, {% abbr 'MC' %}/ET/LX/266. On Restout’s painting see Christine Gouzi, *Jean Restout: 1692–1768* (Paris: Arthena, 2000), 237–38.
 
 [^9]: *Mercure de France,* June 1742, 1415–16.
 
@@ -58,6 +58,6 @@ Drevet’s psychological condition was certainly deteriorating quickly as he wor
 
 [^12]: Perroud-Christophle, *Les graveurs Drevet*, 88.
 
-[^13]: “Sentence d’Interdiction,” Pierre-Imbert Drevet, 9 April 1739, [[AN]], Y/4562.
+[^13]: “Sentence d’Interdiction,” Pierre-Imbert Drevet, 9 April 1739, {% abbr 'AN' %}, Y/4562.
 
-[^14]: Sentence d’Interdiction against Pierre-Imbert Drevet, 9 April 1739, [[AN]], Y/4562. On legal proceedings concerning the mentally incapacitated in ancien régime France, see Fayçal El Ghoul, “Enfermer et interdire les fous à Paris au XVIII^e^ siècle: Une forme d’exclusion,” *Cahiers de la Méditerranée* 69 (2004): 175–87.
+[^14]: Sentence d’Interdiction against Pierre-Imbert Drevet, 9 April 1739, {% abbr 'AN' %}, Y/4562. On legal proceedings concerning the mentally incapacitated in ancien régime France, see Fayçal El Ghoul, “Enfermer et interdire les fous à Paris au XVIII^e^ siècle: Une forme d’exclusion,” *Cahiers de la Méditerranée* 69 (2004): 175–87.

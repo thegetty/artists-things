@@ -54,7 +54,7 @@ The thrust of the caricatures, satirical songs, and critiques that flooded the m
 
 [^11]: See the debate in the *Journal de Paris*, 30 August 1783.
 
-[^12]: *Journal de Paris*, 29 March 1784. Jean Sgard argues in “Les philosophes montgolfères,” [[*SVEC*]], 303 (1992): 105 that ballooning was the occasion for putting into practice the enlightened principles of the *Encyclopédie*.
+[^12]: *Journal de Paris*, 29 March 1784. Jean Sgard argues in “Les philosophes montgolfères,” {% abbr '*SVEC*' %}, 303 (1992): 105 that ballooning was the occasion for putting into practice the enlightened principles of the *Encyclopédie*.
 
 [^13]: *Journal de Paris*, 21 March 1784, 29 March 1784. Montfort is identified as “ancien officier d’artilerie” and “Directeur des plans en relief des fortifications du Royaume.”
 

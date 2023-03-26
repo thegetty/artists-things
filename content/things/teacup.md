@@ -46,7 +46,7 @@ If we have come to know Nattier’s teacups better by this microhistory of their
 
 [^4]: See Yohan Rimaud, “Les couleurs célèstes de la terre: La collection d’objets orientaux de François Boucher,” in *Une des provinces du rococo*, 62–75.
 
-[^5]: Pierre Rémy and Jean-Baptiste Glomy, *Catalogue raisonné des tableaux, sculptures . . . desseins et estampes, porcelains anciennes . . . qui composent le cabinet de feu M. le duc de Tallard* (Paris: Didot, 1756) (copy at [[INHA]], Paris) lot 1043. There was a copy of the sale catalog in Nattier’s library, see [Nattier], *Catalogue*, 22: lot 44.
+[^5]: Pierre Rémy and Jean-Baptiste Glomy, *Catalogue raisonné des tableaux, sculptures . . . desseins et estampes, porcelains anciennes . . . qui composent le cabinet de feu M. le duc de Tallard* (Paris: Didot, 1756) (copy at {% abbr 'INHA' %}, Paris) lot 1043. There was a copy of the sale catalog in Nattier’s library, see [Nattier], *Catalogue*, 22: lot 44.
 
 [^6]: Renard, *Nattier*, 58.
 
@@ -80,7 +80,7 @@ If we have come to know Nattier’s teacups better by this microhistory of their
 
 [^21]: Louis Le Comte, *Nouveaux mémoires sur l’état present de la Chine* (Paris, 1697), 1:258–59.
 
-[^22]: See Marie-Catherine Pauline Tocqué, “Vie de Jean-Marc Nattier,” in Jacqueline Lichtenstein and Christian Michel, *Conférences de l’Académie royale de peinture et de sculpture* (Paris: [[ENSBA]], 2015) tome 6, vol. 2:919–33, at 932–33. Nattier was not alone in turning against his collection. According to Gougenot, Jean-Baptiste Oudry formed a collection “de vases, de figures, de porcelaines et de curiosités de la Chine,” but “il s’en dégoûta,” and he sold it for 9,000 livres. See Louis Gougenot, “Vie de M. Oudry,” [[*Mémoires inédits*]], 2:371.
+[^22]: See Marie-Catherine Pauline Tocqué, “Vie de Jean-Marc Nattier,” in Jacqueline Lichtenstein and Christian Michel, *Conférences de l’Académie royale de peinture et de sculpture* (Paris: {% abbr 'ENSBA' %}, 2015) tome 6, vol. 2:919–33, at 932–33. Nattier was not alone in turning against his collection. According to Gougenot, Jean-Baptiste Oudry formed a collection “de vases, de figures, de porcelaines et de curiosités de la Chine,” but “il s’en dégoûta,” and he sold it for 9,000 livres. See Louis Gougenot, “Vie de M. Oudry,” {% abbr '*Mémoires inédits*' %}, 2:371.
 
 [^23]: On Nattier’s portrait, see *Jean-Marc Nattier 1685–1766*, exh. cat. (Paris: Musée National des Chateaux de Versailles et de Trianon, 1999–2000), no. 39. In the British Museum, see a famille rose teapot with the d’Ailly coat of arms (Franks 808+), Jingdezhen, which belonged to the duc de Chaulnes’s father.
 

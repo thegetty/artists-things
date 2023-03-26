@@ -30,11 +30,11 @@ From Vernet’s financial expenditures, material surroundings, and personal rela
 
 [^1]: Léon Lagrange, *Joseph Vernet et la peinture au XVIII siècle, avec le texte des livres de raison et un grand nombre de documents inédits* (Paris: Didier et Compagnie, 1864), 119, 388.
 
-[^2]: Mary K. Gayne, “Illicit Wigmaking in Eighteenth-Century Paris,” [[*ECS*]] 38, no. 1 (2004): 121.
+[^2]: Mary K. Gayne, “Illicit Wigmaking in Eighteenth-Century Paris,” {% abbr '*ECS*' %} 38, no. 1 (2004): 121.
 
 [^3]: Lagrange, *Joseph Vernet*, 388.
 
-[^4]: François-Alexandre-Pierre Garsault, *Art du perruquier, contenant la façon de la barbe, la coupe des cheveux, la construction des perruques d’hommes et de femmes, le perruquier en vieux, et le baigneur-étuviste* (n.p. 1767), 6. On artists and hair trends, see Alden Cavanaugh, “The Coiffure of Jean-Baptiste Greuze,” [[*ECS*]] 38, no. 1 (2004): 165–81.
+[^4]: François-Alexandre-Pierre Garsault, *Art du perruquier, contenant la façon de la barbe, la coupe des cheveux, la construction des perruques d’hommes et de femmes, le perruquier en vieux, et le baigneur-étuviste* (n.p. 1767), 6. On artists and hair trends, see Alden Cavanaugh, “The Coiffure of Jean-Baptiste Greuze,” {% abbr '*ECS*' %} 38, no. 1 (2004): 165–81.
 
 [^5]: Garsault, *Art du perruquier*, 7–8.
 
@@ -54,4 +54,4 @@ From Vernet’s financial expenditures, material surroundings, and personal rela
 
 [^13]: Lagrange, *Joseph Vernet*, 430.
 
-[^14]: For Vernet’s wardrobe see Claude Joseph Vernet, “Inventaire après décès,” 2 March 1790, [[AN]], [[MC]]/ET/LVI/369.
+[^14]: For Vernet’s wardrobe see Claude Joseph Vernet, “Inventaire après décès,” 2 March 1790, {% abbr 'AN' %}, {% abbr 'MC' %}/ET/LVI/369.

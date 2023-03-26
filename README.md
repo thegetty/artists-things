@@ -27,6 +27,11 @@ Copied essay.liquid, except that it adds owners to the pageHeader and a `.thing-
 Added new filter to convert string to lower case, for use in Liquid tempates
 
 **_plugins/shortcodes/index.js**
+Registered the new `abbr` and `thing` shortcodes
+
+**_plugins/shortcodes/abbr.js**
+Created a new shortcode to wrap abbreviations in the text. Currently just adds a `title` attribute.
+
 **_plugins/shortcodes/thing.js**
 Created a new shortcode to create a pop-up with full data and links for a given "thing"
 

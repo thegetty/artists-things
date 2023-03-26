@@ -46,15 +46,15 @@ It is of course possible that the confinement of the green parasol in Le Bas’s
 
 [^6]: On Le Bas, see Roger Portalis and Henri Beraldi, *Les graveurs du XVIII^e^ siècle* (Paris: Morgand & Fatout, 1880–82), 2:564–90.
 
-[^7]: Jacques-Philippe Le Bas, “Inventaire après décès,” [[AN]], [[MC]]/ET/XLV/582 23 April 1783; the street disappeared with the opening of the boulevard Saint-Germain in 1855.
+[^7]: Jacques-Philippe Le Bas, “Inventaire après décès,” {% abbr 'AN' %}, {% abbr 'MC' %}/ET/XLV/582 23 April 1783; the street disappeared with the opening of the boulevard Saint-Germain in 1855.
 
 [^8]: Le Bas, “Inventaire après décès.” Canes and especially stockings are identified by Fairchilds as “populuxe.”
 
-[^9]: See Hayot de Longpré, *Catalogue de tableaux, sculpture, desseins, estampes . . . provenant de la succession de feu M. Le Bas* (Paris: Clousier, 1783); François-Charles Joullain, “L’oeuvre de Jacques-Philippe Le Bas, Graveur,” 5 vols. (1789), [[BnF]], Département des Estampes et de la Photographie: (Ee11–Ee11d in-fol. See also Charles-Étienne Gaucher, “Nécrologie [de M. Le Bas],” *Journal de Paris,* 12 May 1783, 554–55.
+[^9]: See Hayot de Longpré, *Catalogue de tableaux, sculpture, desseins, estampes . . . provenant de la succession de feu M. Le Bas* (Paris: Clousier, 1783); François-Charles Joullain, “L’oeuvre de Jacques-Philippe Le Bas, Graveur,” 5 vols. (1789), {% abbr 'BnF' %}, Département des Estampes et de la Photographie: (Ee11–Ee11d in-fol. See also Charles-Étienne Gaucher, “Nécrologie [de M. Le Bas],” *Journal de Paris,* 12 May 1783, 554–55.
 
 [^10]: Joullain, “L’oeuvre,” “Avertissement,” n.p. See Lionel Gossman, “Anecdote and History,” *History and Theory* 42, no. 2 (2003): 143–68.
 
-[^11]: An exception is the chevalier de Valory’s life of Jean-François De Troy, see [[*Mémoires inédits*]], 2:255–88.
+[^11]: An exception is the chevalier de Valory’s life of Jean-François De Troy, see {% abbr '*Mémoires inédits*' %}, 2:255–88.
 
 [^12]: Hayot de Longpré, *Catalogue*, v (clothes); Joullain, “L’oeuvre” (Ee 11), iv–v (wedding jewels).
 

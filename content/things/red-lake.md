@@ -26,13 +26,13 @@ To confirm and prosecute his theories he contacted the chemist Jean Darcet, rece
 
 Thus far our account of Duplessis’s memorandum has stressed the scientific nature of its discourse and of the painter’s thinking and experimenting: his division of natural objects into animal, vegetal and, by implication, mineral realms, his problematization of the “goodness” of pigments in terms of common variables (brightness and solidity), and his recourse to repeat trials to establish chemical “facts.” However, this recipe for red lake, his gift to the Académie, was traditionally wrapped. Duplessis framed his conceptualization a stable, enduring red lake as a “discovery” by references to the ancient dyestuff murex, source of the prestigious Tyrian purple praised by Pliny.[^20] Though he did not subscribe to the chevalier de Jaucourt’s contentions that the imperial purple of the ancient world had been no more beautiful that its modern manifestation, and that murex had ceased to be used simply because cheaper and better alternatives (cochineal and Brazil wood) had been sourced in the New World, he thus accepted the importance of history in determining the value and meaning of color.[^21] “Pourpre” was, according to Duplessis, a lost art, a holy grail, toward whose recovery all his spare energies were bent.[^22] The objectivity with which he seemingly treated the “facts” about colorants from Europe and the Americas may have stripped red of the local knowledge and meaning that it had for farmers in Zealand, or peasants in Oaxaca, but in doing so it also enabled the better translation and embedding of red lake into the semiotics of European art.[^23] Duplessis, as portrait painter to the king and the court, was acutely aware of the symbolic value of pigments and hues: the silky shimmer of purple for aristocrats, dull woolen scarlet for the untitled.[^24] It is surely significant that his only other intervention on matters of color should have concerned ultramarine, an old pigment, first imported from Afghanistan and at times worth more than its weight in gold.[^25] Though “Prussian” blue had generally been accepted as a cheaper synthetic alternative of equal stability and strength, Duplessis lobbied the *directeur des bâtiments du roi* to pursue measures at an international and diplomatic level to secure a readier supply and consequently a fall in price.[^26] Duplessis’s sympathies were thus entirely with the Académie whose secretary, harassed apparently by the increasing number of new art products submitted by inventors to the Académie for examination, argued that what was needed was not new pigments but a better understanding of the old ones. In this the Académie was sometimes at odds with the Bâtiments. While the comte d’Angiviller made concerted efforts to secure ultramarine for the king’s artists from Turkey and Russia through diplomatic channels, he chided academicians as reactionary, resistant to progress, specifically to the introduction of new, commercially invented alternatives to traditional compounds.[^27] {% contributors context=pageContributors format='symbol' %}
 
-[^1]: [[*PV*]], 9:300.
+[^1]: {% abbr '*PV*' %}, 9:300.
 
 [^2]: See Christian Michel and Jacqueline Lichtenstein, eds., *Lectures on Art: Selected Conférences from the Académie Royale de Peinture et de Sculpture, 1667–1772*, trans. Chris Miller (Los Angeles: Getty Research Institute, 2020).
 
 [^3]: The distinction between *couleur* and *coloris* was one made by Roger de Piles in *Dialogue sur la couleur* (Paris: Langlois, 1673). See also his “Termes de peinture” at the end of *Conversation sur la connoissance de la peinture* (Paris: Langlois, 1677). Thomas Puttfarken, *Roger de Piles’s Theory of Art* (New Haven: Yale University Press, 1985), 59–63.
 
-[^4]: [[ENSBA]], Ms. 237.15, fol. 4.
+[^4]: {% abbr 'ENSBA' %}, Ms. 237.15, fol. 4.
 
 [^5]: See Jo Kirby and Raymond White, “Identification of Red Lake Pigment Dyestuffs and a Discussion of Their Use,” *National Gallery Technical Bulletin* 17 (1996): 56–80; and Jo Kirby, Marika Spring and Catherine Higgit, “The Technology of Eighteenth- and Nineteenth-Century Red Lake Pigments,” *National Gallery Technical Bulletin* 28 (2007): 69–81.
 
@@ -68,14 +68,14 @@ Thus far our account of Duplessis’s memorandum has stressed the scientific nat
 
 [^21]: “Pourpre,” *Encyclopédie*, <https://encyclopedie.uchicago.edu/>, 13:245.
 
-[^22]: [[ENSBA]]: Ms. 237.15, fol. 3–4.
+[^22]: {% abbr 'ENSBA' %}: Ms. 237.15, fol. 3–4.
 
 [^23]: On the discourse of science in France as “objective” or “neutral,” see Camille Frémontier-Murphy, “La construction monarchique d’un lieu neutre: L’Académie royale des sciences au palais du Louvre,” in *Règlements, usage et science dans la France de l’absolutisme*, ed. Christiane Demeulenaere-Douyère and Éric Brion (Paris: Tec & Doc, 2002), 170–203.
 
 [^24]: Compare Duplessis’s *Portrait of comte d’Angivillier,* 1778, Musée et Château de Versailles, with his *Portrait of Benjamin Franklin,* 1778, New York, Metropolitan Museum of Art.
 
-[^25]: In Charles Parrocel’s “Inventaire après décès,” 3 June 1752 lapis lazuli, or ultramarine in solid form, was itemized with the painter’s “jewels,” not his studio equipment. See [[AN]], [[MC]]/ET/CXXII/684.
+[^25]: In Charles Parrocel’s “Inventaire après décès,” 3 June 1752 lapis lazuli, or ultramarine in solid form, was itemized with the painter’s “jewels,” not his studio equipment. See {% abbr 'AN' %}, {% abbr 'MC' %}/ET/CXXII/684.
 
-[^26]: See [[AN]], O^1^/1918/237.
+[^26]: See {% abbr 'AN' %}, O^1^/1918/237.
 
-[^27]: On d’Angiviller’s efforts in 1786 to obtain ultramarine from Turkey and Russia through the intermediary of Auguste de Choiseul Gouffier, ambassador to Constantinople, see [[AN]], O^1^/1918/ 313, 316; and O^1^/1919/99, 107, 146. D’Angiviller’s frustration boiled over in the case of zinc white, proposed by the chemist De Morveau in 1781as an alternative to the carcinogenic lead white traditionally used by painters. See d’Angiviller to Jean-Baptiste Marie Pierre, 19 January 1783 ([[AN]], O^1^/1916/123).
+[^27]: On d’Angiviller’s efforts in 1786 to obtain ultramarine from Turkey and Russia through the intermediary of Auguste de Choiseul Gouffier, ambassador to Constantinople, see {% abbr 'AN' %}, O^1^/1918/ 313, 316; and O^1^/1919/99, 107, 146. D’Angiviller’s frustration boiled over in the case of zinc white, proposed by the chemist De Morveau in 1781as an alternative to the carcinogenic lead white traditionally used by painters. See d’Angiviller to Jean-Baptiste Marie Pierre, 19 January 1783 ({% abbr 'AN' %}, O^1^/1916/123).

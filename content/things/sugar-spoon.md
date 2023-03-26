@@ -32,7 +32,7 @@ In using his sugar spoon, it is unlikely that Drouais was ever prompted to refle
 
 [^1]: This was in part due to food’s short-lived commercial value (given its perishable nature), but also because food tended to be bought fresh for imminent consumption, rather than stocked for future use. Annik Pardailhé-Galabrun, *The Birth of Intimacy: Privacy and Domestic Life in Early Modern Paris* (Cambridge: Polity, 1991), 87.
 
-[^2]: François-Hubert Drouais, “Inventaire après décès,” 12 December 1775, [[AN]], [[MC]]/ET/LIII/521.
+[^2]: François-Hubert Drouais, “Inventaire après décès,” 12 December 1775, {% abbr 'AN' %}, {% abbr 'MC' %}/ET/LIII/521.
 
 [^3]: Robert Louis Stein, *The French Sugar Business in the Eighteenth Century* (Baton Rouge: Louisiana State University Press, 1988), 10.
 
@@ -42,7 +42,7 @@ In using his sugar spoon, it is unlikely that Drouais was ever prompted to refle
 
 [^6]: Stein, *French Sugar Business*, 12–13.
 
-[^7]: In the inventory it is described simply as being made of silver “poinçon de Paris.” [[AN]], [[MC]]/ET/LIII/521.
+[^7]: In the inventory it is described simply as being made of silver “poinçon de Paris.” {% abbr 'AN' %}, {% abbr 'MC' %}/ET/LIII/521.
 
 [^8]: François Marin, *Les dons de Comus, ou l’Art de la cuisine, réduit en pratique* (Paris: Pissot, 1758), vol. 3, 131–33.
 
@@ -60,7 +60,7 @@ In using his sugar spoon, it is unlikely that Drouais was ever prompted to refle
 
 [^15]: On material culture and colonial economies, see Anne Gerritsen and Giorgio Riello eds., *The Global Lives of Things: The Material Culture of Connections in the Early Modern World* (London: Routledge, 2015).
 
-[^16]: François-Hubert Drouais, “Inventaire après décès,” 12 December 1775, [[AN]], [[MC]]/ET/LIII/521.
+[^16]: François-Hubert Drouais, “Inventaire après décès,” 12 December 1775, {% abbr 'AN' %}, {% abbr 'MC' %}/ET/LIII/521.
 
 [^17]: On the provenance of the *sucriers* see, Jannic Durrand, Michèle Bimbenet-Privat and Frédéric Dassas, *Décors, mobilier et objets d’art du musée du Louvre de Louis XIV à Marie-Antoinette* (Paris: Somogy, 2014), 344–46.
 

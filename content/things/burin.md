@@ -48,7 +48,7 @@ The *Marriage Contract* is Marlié last known engraving. Shortly after Lépicié
 
 [^5]: Charles-Nicolas Cochin refused to discuss the physical properties of burins in detail in *De la manière de graver à l’eau-forte et au burin* (Paris: Jombert, 1745), 100, because each engraver choses what suits them best. See also Claude-Henri Watelet’s article “Gravure” in *Encyclopédie*, 7:888.
 
-[^6]: See Cochin, *De la manière*, 100–101. After Gérald Edelick’s death in 1707 students fought over his burins in the hope that his art was his tool. See Cousin de Constamine, “Vie d’Edelinck,” in [[*Mémoires inédits*]], 2:58; and Antony Griffiths, *Print before Photography* (New Haven: Yale University Press, 2016), 471.
+[^6]: See Cochin, *De la manière*, 100–101. After Gérald Edelick’s death in 1707 students fought over his burins in the hope that his art was his tool. See Cousin de Constamine, “Vie d’Edelinck,” in {% abbr '*Mémoires inédits*' %}, 2:58; and Antony Griffiths, *Print before Photography* (New Haven: Yale University Press, 2016), 471.
 
 [^7]: Watelet noted that the hilt of the burin sits in the palm of the hand such that its blade aligns directly with the bones of the forearm. See Watelet, “Gravure” in *Encyclopédie*, 7:888.
 
@@ -58,7 +58,7 @@ The *Marriage Contract* is Marlié last known engraving. Shortly after Lépicié
 
 [^10]: On tacit knowledge, see Michael Polanyi, *The Tacit Dimension* (1966, reprint Chicago: University of Chicago Press, 2009).
 
-[^11]: See Abraham Bosse’s “preface” (1645), republished in Cochin, *De la manière*, xvii. See also Cousin de Constamine, “Vie d’Edelinck” in [[*Mémoires inédits*]] 2:57 on Edelinck as a teacher: “son trait ne fut ni précédé, ni suivit d’aucun discours”; cf. Jean-Gérard Castex, “Réduire la gravure en art et en principes: Lecture et réception du *Traité des manières de graver à l’eau-forte* d’Abraham Bosse,” in *Réduire en art: La technologie de la Renaissance aux Lumières*, ed. Pascal Dubourg and Hélène Vérin (Paris: Maison des sciences de l’homme, 2014), 235–48.
+[^11]: See Abraham Bosse’s “preface” (1645), republished in Cochin, *De la manière*, xvii. See also Cousin de Constamine, “Vie d’Edelinck” in {% abbr '*Mémoires inédits*' %} 2:57 on Edelinck as a teacher: “son trait ne fut ni précédé, ni suivit d’aucun discours”; cf. Jean-Gérard Castex, “Réduire la gravure en art et en principes: Lecture et réception du *Traité des manières de graver à l’eau-forte* d’Abraham Bosse,” in *Réduire en art: La technologie de la Renaissance aux Lumières*, ed. Pascal Dubourg and Hélène Vérin (Paris: Maison des sciences de l’homme, 2014), 235–48.
 
 [^12]: See Marianne Grivel, *Le commerce de l’estampe à Paris au XVII^e^ siècle* (Geneva: Droz, 1987), 96–99.
 
@@ -66,7 +66,7 @@ The *Marriage Contract* is Marlié last known engraving. Shortly after Lépicié
 
 [^14]: See Delia Gaze, ed., *Dictionary of Women Artists* (London: Routledge, 1997), 1:62.
 
-[^15]: See Charles Joullain fils, *Oeuvre de Jacques-Philippe Le Bas*, 5 vols. ([[BnF]], Ee11–Ee11d fol), 1.
+[^15]: See Charles Joullain fils, *Oeuvre de Jacques-Philippe Le Bas*, 5 vols. ({% abbr 'BnF' %}, Ee11–Ee11d fol), 1.
 
 [^16]: On the marriage contract in the ancien régime see Claude-Joseph de Ferrière, *La science parfaite des notaires*, updated by François-Benoît Visme (Paris: Saugrain, 1752), 1, pt. 4, esp. 256–63.
 

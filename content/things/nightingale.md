@@ -66,9 +66,9 @@ Regarded as the origin of music, birdsong symbolized freedom and imitation of na
 
 [^14]: On Catherine’s commissions see Réau, *Falconet*, 2:429–48; and Marie-Liesse Pierre-Dulau, “Trois artistes à Saint-Petersburg au XVIII^e^ siècle,” in *L’Influence française au XVIII^e^ siècle*, ed. Jean-Pierre Poussou, Anne Mézin, and Yves Perret-Gentil (Paris: Presses de l’Université de Paris-Sorbonne, 2004), 148–56.
 
-[^15]: See Louis Réau, “Contrat de marriage de Pierre-Étienne Falconet et de Marie-Anne Collot, 27 juillet 1777,” [[*BSHAF*]] (1918–19): 157–61. Collot did not enter into a “communauté de biens” with her husband, as was then the custom (see {% thing 'marriage contract' %} and {% thing 'burin' %}) but expressly retained control of her own money.
+[^15]: See Louis Réau, “Contrat de marriage de Pierre-Étienne Falconet et de Marie-Anne Collot, 27 juillet 1777,” {% abbr '*BSHAF*' %} (1918–19): 157–61. Collot did not enter into a “communauté de biens” with her husband, as was then the custom (see {% thing 'marriage contract' %} and {% thing 'burin' %}) but expressly retained control of her own money.
 
-[^16]: See Louis Réau, “Inventaire après décès de M. Falconet 31 janvier, 1791,” [[*BSHAF*]] (1918–19), 163–68.
+[^16]: See Louis Réau, “Inventaire après décès de M. Falconet 31 janvier, 1791,” {% abbr '*BSHAF*' %} (1918–19), 163–68.
 
 [^17]: See [Nicolas Venette], *Traité du rossignol qui enseigne la manière de les connoître et de les élever* (Paris: Claude Prudhomme, 1707) preface (unpaginated); Nobleville, *Aëdologie*, i; Jean-Claude Hervieux de Chanteloup’s *Nouveau traité des serins de canarie* (Paris: Claude Prudhomme, 1713) was dedicated, however, to the princesse de Condé. Hervieux was the keeper of her aviary. On the visual discourse, see René Démoris, “L’oiseau et sa cage en peinture,” *Lumières* 5 (2005): 29–48.
 

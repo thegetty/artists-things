@@ -30,24 +30,24 @@ Though Rigaud received his letters in that ritual exchange in 1700, the copy tha
 
 [^1]: On the rituals of the admission process, see Hannah Williams, *Académie Royale: A History in Portraits* (New York: Routledge, 2015), 82–98. On reception pieces submitted by painters, see *Les peintres du roi*, exh. cat. (Paris: Réunion des Musées Nationaux, 2000).
 
-[^2]: Copy of Hyacinthe Rigaud’s *lettres de réception* (1700), [[ENSBA]], Ms. 117, n.p.
+[^2]: Copy of Hyacinthe Rigaud’s *lettres de réception* (1700), {% abbr 'ENSBA' %}, Ms. 117, n.p.
 
-[^3]: The text of Rigaud’s *lettres de réception* was, as per the custom at the time, transcribed into a register so that the Académie also had a copy of its contractual contents: *Registre de toutes les expeditions emenées de l’Académie Royalle de Peinture et de Sculpture—commencé le dixième octobre 1681*. [[ENSBA]], Ms. 40.
+[^3]: The text of Rigaud’s *lettres de réception* was, as per the custom at the time, transcribed into a register so that the Académie also had a copy of its contractual contents: *Registre de toutes les expeditions emenées de l’Académie Royalle de Peinture et de Sculpture—commencé le dixième octobre 1681*. {% abbr 'ENSBA' %}, Ms. 40.
 
 [^4]: *Encyclopédie méthodique: Beaux-Arts* (Paris: Panckoucke, 1788), 1:415–16.
 
-[^5]: Rigaud was *agréé* in August 1684: [[*PV*]], 2:281–83.
+[^5]: Rigaud was *agréé* in August 1684: {% abbr '*PV*' %}, 2:281–83.
 
-[^6]: Rigaud struggled to get La Chapelle-Bessé to sit, so in 1687 the Académie agreed that his reception could proceed with the portrait of Desjardins alone: [[*PV*]], 2:347. Rigaud was still supposed to paint the other portrait, but this presumably became more difficult after La Chapelle-Bessé died in 1694.
+[^6]: Rigaud struggled to get La Chapelle-Bessé to sit, so in 1687 the Académie agreed that his reception could proceed with the portrait of Desjardins alone: {% abbr '*PV*' %}, 2:347. Rigaud was still supposed to paint the other portrait, but this presumably became more difficult after La Chapelle-Bessé died in 1694.
 
 [^7]: Between his *agrément* and his *réception*, Rigaud’s studio produced over 600 portraits. See James-Sarazin, *Hyacinthe Rigaud, 1659–1743*, 2 vols. (Dijon: Faton, 2016), 2:37–231.
 
-[^8]: Most artists of other genres who wanted the status of a history painter were initially given letters in the “lesser” genre and then had to reapply with a history painting for a second reception. For instance, Jean-Jacques Bachelier was admitted as a still life painter in 1752, but submitted a new reception piece of *Roman Charity* and was re-issued the letters of a history painter in 1763: [[*PV*]], 7:231.
+[^8]: Most artists of other genres who wanted the status of a history painter were initially given letters in the “lesser” genre and then had to reapply with a history painting for a second reception. For instance, Jean-Jacques Bachelier was admitted as a still life painter in 1752, but submitted a new reception piece of *Roman Charity* and was re-issued the letters of a history painter in 1763: {% abbr '*PV*' %}, 7:231.
 
-[^9]: 2 January 1700: [[*PV*]], 3, 285.
+[^9]: 2 January 1700: {% abbr '*PV*' %}, 3, 285.
 
-[^10]: One such reminder was issued in January 1712, [[*PV*]], 4:139–40.
+[^10]: One such reminder was issued in January 1712, {% abbr '*PV*' %}, 4:139–40.
 
-[^11]: 26 May 1742, [[*PV*]], 5:320.
+[^11]: 26 May 1742, {% abbr '*PV*' %}, 5:320.
 
-[^12]: [[ENSBA]], Ms. 117.
+[^12]: {% abbr 'ENSBA' %}, Ms. 117.

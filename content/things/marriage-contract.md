@@ -30,9 +30,9 @@ After these legal proceedings, Greuze and Babuty’s marriage contract would mak
 
 As detached as notarial documents may seem as sources, the marriage contract and the post-divorce inventory remain the material vestiges of two civic rituals that marked the beginning and end of a relationship. A such, these things also bear a trace of the human experience. This emerges perhaps most strikingly in the couple’s signatures and the poignant contrast between their confident ebullience at the marriage of 1759 ([fig. 104](#fig.-104)) (Babuty’s elegant and calligraphic; Greuze’s complete with flourishing underwhirl) and their austere pragmatism at the divorce of 1793 ([fig. 105](#fig.-105)) (Babuty’s reduced version written in a tremulous hand; and Greuze’s perfunctory in its lack of ornament). Indeed, in the latter, the names are not even signed in the same ink, suggesting either they refused to share a {% thing 'quill' %}, or more likely, they signed on separate occasions. In one document, a bride and groom, standing together surrounded by friends and family; in the other, an acrimoniously divorced couple, unwilling to share the same space. {% contributors context=pageContributors format='symbol' %}
 
-[^1]: Marriage contract, Jean-Baptiste Greuze and Anne-Gabrielle Babuty, 31 January 1759. [[AN]], [[MC]]/ET/XXXI/165.
+[^1]: Marriage contract, Jean-Baptiste Greuze and Anne-Gabrielle Babuty, 31 January 1759. {% abbr 'AN' %}, {% abbr 'MC' %}/ET/XXXI/165.
 
-[^2]: “Mémoire de Greuze contre sa femme,” (ca. 1791), transcribed in [[*AAF*]] (1852–53), 154–60.
+[^2]: “Mémoire de Greuze contre sa femme,” (ca. 1791), transcribed in {% abbr '*AAF*' %} (1852–53), 154–60.
 
 [^3]: Marriage contract, Jean-Baptiste Greuze and Anne-Gabrielle Babuty.
 
@@ -46,12 +46,12 @@ As detached as notarial documents may seem as sources, the marriage contract and
 
 [^8]: “Mémoire de Greuze contre sa femme,” 163.
 
-[^9]: “Plainte de Greuze au sujet de l’inconduite de sa femme” (1785), in [[*BSHAF*]] (1877): 164–66.
+[^9]: “Plainte de Greuze au sujet de l’inconduite de sa femme” (1785), in {% abbr '*BSHAF*' %} (1877): 164–66.
 
 [^10]: Roderick G. Phillips, “Le divorce en France à la fin du XVIII^e^ siècle,” *Annales. Economies, sociétés, civilisations* 34, no. 2 (1979): 385.
 
 [^11]: “Mémoire de Greuze contre sa femme,” 153–64.
 
-[^12]: Jean-Baptiste Greuze et Anne-Gabrielle Babuty, “Inventaire après divorce,”30 August 1793, [[AN]], [[MC]]/ET/XLVIII/375.
+[^12]: Jean-Baptiste Greuze et Anne-Gabrielle Babuty, “Inventaire après divorce,”30 August 1793, {% abbr 'AN' %}, {% abbr 'MC' %}/ET/XLVIII/375.
 
 [^13]: One copy of Greuze and Babuty’s marriage contract was kept in their home, the other (the one that survives today) was kept by the notary.

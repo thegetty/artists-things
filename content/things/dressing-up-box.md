@@ -46,11 +46,11 @@ Focus on the collection of apparel, a collection which Watteau began to assemble
 
 [^2]: See especially François Moureau, “Theatre Costumes in the Work of Watteau,” in *Antoine Watteau (1684–1721): The Painter, His Time and the Legend*, ed. Margaret Morgan Grasselli and Pierre Rosenberg, exh. cat. (Washington: National Gallery of Art, 1987); Suzanne Pucci, “Watteau and the Theatre: Movable Fêtes,” in *Antoine Watteau: Perspectives on the Artist and the Culture of His Time*, ed. Mary Sheriff (Newark: Universtity of Delaware Press. 2006), 106–22.
 
-[^3]: See François Mandaret, “Jean-Antoine Watteau: The First Documents,” [[*BM*]] 153, no. 1298 (2011): 312–13.
+[^3]: See François Mandaret, “Jean-Antoine Watteau: The First Documents,” {% abbr '*BM*' %} 153, no. 1298 (2011): 312–13.
 
-[^4]: Guillaume Glorieux, “Michel-Joseph Ducreux (1665–1715), marchand de masques de théâtre et d’habits de carnaval au temps de Watteau,” [[*BSHAF*]] *2006* (2007): 119–29; and Guillaume Glorieux, “Les débuts de Watteau à Paris: Le Pont Notre-Dame en 1702,” [[*GBA*]] 139 (2002): 251–62.
+[^4]: Guillaume Glorieux, “Michel-Joseph Ducreux (1665–1715), marchand de masques de théâtre et d’habits de carnaval au temps de Watteau,” {% abbr '*BSHAF*' %} *2006* (2007): 119–29; and Guillaume Glorieux, “Les débuts de Watteau à Paris: Le Pont Notre-Dame en 1702,” {% abbr '*GBA*' %} 139 (2002): 251–62.
 
-[^5]: See Jennifer Tonkovitch, “Claude Gillot’s Costume Designs for the Paris Opera: Some New Sources,” [[*BM*]], 147, no. 1225 (2005): 248–52; and Tonkovitch, “A New Album of Theatre Drawings by Claude Gillot,” *Master Drawings*, 44, no. 4 (2006): 464–86.
+[^5]: See Jennifer Tonkovitch, “Claude Gillot’s Costume Designs for the Paris Opera: Some New Sources,” {% abbr '*BM*' %}, 147, no. 1225 (2005): 248–52; and Tonkovitch, “A New Album of Theatre Drawings by Claude Gillot,” *Master Drawings*, 44, no. 4 (2006): 464–86.
 
 [^6]: Donald Posner, *Antoine Watteau* (London: Weidenfeld & Nicholson, 1984), 47–58; Marianne Roland Michel, *Watteau: An Artist of the Eighteenth Century* (New York: Trefoil, 1984), 17–22; and Julie Anne Plax, *Watteau and the Cultural Politics of Eighteenth-Century France* (Cambridge, England: Cambridge University Press, 2000), 7–52.
 
@@ -68,7 +68,7 @@ Focus on the collection of apparel, a collection which Watteau began to assemble
 
 [^13]: Gouzi, *Restout*, D79 and 141–49.
 
-[^14]: {% thing 'Mannequins' %} were listed among Restout’s studio paraphernalia in 1753. See [[AN]], O^1^/1671/133–135.
+[^14]: {% thing 'Mannequins' %} were listed among Restout’s studio paraphernalia in 1753. See {% abbr 'AN' %}, O^1^/1671/133–135.
 
 [^15]: Gouzi, *Restout*, D81.
 
@@ -110,7 +110,7 @@ Focus on the collection of apparel, a collection which Watteau began to assemble
 
 [^34]: Caylus uses the word *express* rather than *depict* for Watteau’s representation of cloth. See Caylus, “Vie,” in Rosenberg, *Vies*, 72.
 
-[^35]: See Rosenberg and Prat, *Watteau: Catalogue raisonné*, [[PAGE(S)?]]
+[^35]: See Rosenberg and Prat, *Watteau: Catalogue raisonné*, **[[PAGE(S)?]]**
 
 [^36]: See Roger de Piles’s endorsement of Leonardo’s commendation of the damp wall in *L’Idée du peintre parfait* (Paris: Gallimard, 1993), 30–31.
 

@@ -186,6 +186,11 @@
   margin-left: .75rem;
 }
 
+/* Page Abbreviation */
+.quire-page__content .abbreviation {
+  cursor: pointer;
+}
+
 /* Figures */
 .content .q-figure {
   border-width: 0;

@@ -48,7 +48,7 @@ At the time Louis-Michel painted his self-portraits, he was seeking appointment 
 
 [^3]: See Colin Cruise, “Artists’ Clothes,” in *The Gendered Object*, ed. Pat Kirkham (Manchester, Manchester University Press, 1996), 112–19; Elizabeth Wilson, “Bohemian Dress and the Heroism of Everyday Life,” *Fashion Theory* 2, no. 3 (1998): 225–44; and Robyne Calvert, “Manly Modes: Artistic Dress and the Styling of Masculine Identity,” *Visual Culture in Britain* 16, no. 2 (2015): 225–42.
 
-[^4]: Louis-Michel Van Loo,“Inventaire après décès,” [[AN]], [[MC]]/ET/LVI/166, 22 April 1771. The sections of the inventory relating to clothes are published in *Autour des Vanloo: Peinture, commerce de tissus et espionage en Europe (1250–1830)*, ed. Christine Rolland (Rouen: Publications des Universités de Rouen et du Havre, 2012), 56–57.
+[^4]: Louis-Michel Van Loo,“Inventaire après décès,” {% abbr 'AN' %}, {% abbr 'MC' %}/ET/LVI/166, 22 April 1771. The sections of the inventory relating to clothes are published in *Autour des Vanloo: Peinture, commerce de tissus et espionage en Europe (1250–1830)*, ed. Christine Rolland (Rouen: Publications des Universités de Rouen et du Havre, 2012), 56–57.
 
 [^5]: On court dress, see Daniel Roche, *The Culture of Clothing*, trans. Jean Birrell (Cambridge, England: Cambridge University Press, 1989), 184–220, 429–30.
 
@@ -104,7 +104,7 @@ At the time Louis-Michel painted his self-portraits, he was seeking appointment 
 
 [^31]: See {% thing 'Decoration' %}. Also Benoît de Fauconpret, *Les chevaliers de Saint-Michel 1665–1790: Le premier ordre de mérite sociale* (Paris: Patrice du Puy, 2007).
 
-[^32]: See Étienne de La Font de Saint-Yenne, *Sentiments sur quelques ouvrages de peinture, sculpture et gravure*, in *La Font de Saint-Yenne: Oeuvre critique*, ed. Étienne Jollet (Paris: [[ENSBA]], 2001), 286. Charles-Nicolas Cochin’s official reply on behalf of the Académie’s painters did not contradict the critique of the self-portrait. For a contrary view see abbé Charles Le Blanc, *Observations sur les ouvrages de MM. de l’Académie* (n.p., 1753), 11.
+[^32]: See Étienne de La Font de Saint-Yenne, *Sentiments sur quelques ouvrages de peinture, sculpture et gravure*, in *La Font de Saint-Yenne: Oeuvre critique*, ed. Étienne Jollet (Paris: {% abbr 'ENSBA' %}, 2001), 286. Charles-Nicolas Cochin’s official reply on behalf of the Académie’s painters did not contradict the critique of the self-portrait. For a contrary view see abbé Charles Le Blanc, *Observations sur les ouvrages de MM. de l’Académie* (n.p., 1753), 11.
 
 [^33]: See Dandré Bardon, *La vie de Carle Van Loo*, 34.
 

@@ -50,7 +50,7 @@ However, his purchase of an almanac in 1763 is less likely the response of ident
 
 [^5]: Lagrange, *Vernet*, 390. On the almanac as a New Year present, see *Mémoires et journal de J. G. Wille, graveur du roi*, ed. Georges Duplessis (Paris: Renouard, 1857), 2:82.
 
-[^6]: Claude-Joseph Vernet, “Inventaire après décès,” 2 March 1790, [[AN]], [[MC]]/ET/LXV/369.
+[^6]: Claude-Joseph Vernet, “Inventaire après décès,” 2 March 1790, {% abbr 'AN' %}, {% abbr 'MC' %}/ET/LXV/369.
 
 [^7]: Almanacs retained their value as directories; Vernet renewed his in 1771. See Lagrange, *Vernet*, 398.
 
