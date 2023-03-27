@@ -16,7 +16,7 @@ contributor:
   - id: "kscott"
 ---
 
-*Crayon* is a generic term for a commonplace object found in every eighteenth-century studio.[^1] In spite of its ubiquity we know little about it. We grasp the *crayon* only indirectly, through its products: the mass of sketches, studies, and drawings it drew forth. However, a set of four chalk head studies by the painter Jean-Baptiste Huët, reproduced by Louis Marin Bonnet sometime after 1780 ([fig. 32](#fig.-32)), allows us to begin to understand the *crayon* from the other end. The prints inform the viewer that the specific *crayons* used by Huët had been manufactured by André Nadaux, whose shop was located on the Rue de la Vieille Draperie, Île de la Cité.[^2] They were sold in packets of a dozen, wrapped in blue paper and sealed with wax stamped with a fleur-de-lis.
+***Crayon* is a generic term for a commonplace object** found in every eighteenth-century studio.[^1] In spite of its ubiquity we know little about it. We grasp the *crayon* only indirectly, through its products: the mass of sketches, studies, and drawings it drew forth. However, a set of four chalk head studies by the painter Jean-Baptiste Huët, reproduced by Louis Marin Bonnet sometime after 1780 ([fig. 32](#fig.-32)), allows us to begin to understand the *crayon* from the other end. The prints inform the viewer that the specific *crayons* used by Huët had been manufactured by André Nadaux, whose shop was located on the Rue de la Vieille Draperie, Île de la Cité.[^2] They were sold in packets of a dozen, wrapped in blue paper and sealed with wax stamped with a fleur-de-lis.
 
 Nadaux, a printmaker, draftsman, and natural scientist, was also a shopkeeper and specialist supplier of artists’ crayons.[^3] In 1780 he had bought the exclusive rights to the “secret” of his *crayons de composition* from Gabriel Dumarest, a “draftsman” on the Pont Notre-Dame. From the contract of sale between the two tradesmen we learn that for an annuity of 200 livres, Dumarest agreed to provide Nadaux with recipes for assorted crayons and a written explanation of the techniques necessary to their production.[^4] In addition, he consented to assist Nadaux practically in mastering the “secret,” time and inclination permitting. Before Conté, it seems therefore, *crayons* were produced on a small scale and that the integrated process could only be fully transferred by demonstration.[^5]
 
@@ -32,7 +32,7 @@ That mathematical and geometrical sensibility was not developed in isolation and
 
 Natoire’s image depicts not only the arrangement of persons and things in his narrative of learning, it also encodes social values. The beginners are positioned unchaired and below the more advanced students, and the professor sits before, enthroned in the foreground. He, possibly Natoire himself, holds his students to order, a discipline he enacted not only formally by his rank but also by his posing of the model and through the matter of *crayon*. According to Jombert, professors often forbade students to sharpen their pencils more than once during a drawing session, and in so doing compelled them to reproduce the hierarchies of sharp outline (*trait*) and blunt shading, representation and illusion, that was the foundation of its humanistic theory of art.[^20]
 
-At the time that Huët had bought and was using Nadaux’s crayons, he had long since left the classroom. For him, as no doubt for the purchasers of Bonnet’s prints after his *Têtes de femmes*, the attraction and value of Nadaux’s products lay in their colors—red, blue, and green.[^21] Arguably that freedom to cherish crayons on grounds other than line was won by the prior internalization of linear values to the point that habituation pushed them below the level of conscious notice.
+At the time that Huët had bought and was using Nadaux’s crayons, he had long since left the classroom. For him, as no doubt for the purchasers of Bonnet’s prints after his *Têtes de femmes*, the attraction and value of Nadaux’s products lay in their colors—red, blue, and green.[^21] Arguably that freedom to cherish crayons on grounds other than line was won by the prior internalization of linear values to the point that habituation pushed them below the level of conscious notice. {% contributors context=pageContributors format='symbol' %}
 
 [^1]: We have chosen the French *crayon* over the English *pencil* because a pencil refers to a drawing tool with a graphite core, whereas *crayon* is an inclusive noun whose meaning included charcoal, black and red chalk, and pastel, in addition to graphite. For contemporary definitions, see Jacques Lacombe, *Dictionnaire portatif des beaux-arts* (Paris: Hérissant & Estienne, 1752), s.vv. “Crayon,” “Crayons,” “Crayonner;” Antoine-Joseph Pernety, *Dictionnaire portatif de peinture, de sculpture et de gravure* (Paris: Bauche, 1757), s.vv. “Crayon,” “Crayonner.” For the evolution of crayons into modern pencils, see Henry Petroski, *The Pencil: A History of Design and Circumstance* (London: Faber & Faber, 1989).
 
@@ -40,17 +40,17 @@ At the time that Huët had bought and was using Nadaux’s crayons, he had long 
 
 [^3]: On André Nadaux (1726–1800), see Neil Jeffares, *Dictionary of Pastellists before 1800*, <http://www.pastellists.com/Articles/Nadaux.pdf>.
 
-[^4]: *Constitution viagère*, 12 February 1780, [[AN]], [[MC]]/ET/CIX/751.
+[^4]: *Constitution viagère*, 12 February 1780, {% abbr 'AN' %}, {% abbr 'MC' %}/ET/CIX/751.
 
 [^5]: On the transformations in manufacturing brought about by Nicholas-Jacques Conté, see Petroski, *The Pencil*, 70–78.
 
-[^6]: [[*PV*]], 9:19.
+[^6]: {% abbr '*PV*' %}, 9:19.
 
-[^7]: For the correspondence between Antoine-Jean Amelot and the comte d’Angiviller on this matter, see [[AN]], O^1^/1916:1780/345, 355, 356.
+[^7]: For the correspondence between Antoine-Jean Amelot and the comte d’Angiviller on this matter, see {% abbr 'AN' %}, O^1^/1916:1780/345, 355, 356.
 
 [^8]: Charlotte Guichard, *Les Amateurs d’art aux XVIII^e^ siècle* (Seyssel: Champ Vallon, 2005), 244–45.
 
-[^9]: Nadaux, *Fabrique royale. Description et analyse des crayons de composition* (Paris: Nadaux, 1780). See [[AN]], O^1^/1674/171, 174, 175 on Charrier, former laboratory assistant to Claude de Bernières at the Ponts et Chaussées, who lived at the Louvre, and claimed to have invented “crayons de composition” that he sold to Académie students in the 1780s.
+[^9]: Nadaux, *Fabrique royale. Description et analyse des crayons de composition* (Paris: Nadaux, 1780). See {% abbr 'AN' %}, O^1^/1674/171, 174, 175 on Charrier, former laboratory assistant to Claude de Bernières at the Ponts et Chaussées, who lived at the Louvre, and claimed to have invented “crayons de composition” that he sold to Académie students in the 1780s.
 
 [^10]: Nadaux refused to reveal and forfeited a medal awarded him by the Société d’émulation for its invention, see Lilianne Hilaire-Perez, *Invention technique au siècle des Lumières* (Paris: Albin Michel, 2000), 214–15.
 
@@ -60,7 +60,7 @@ At the time that Huët had bought and was using Nadaux’s crayons, he had long 
 
 [^13]: On “thingness,” see Bill Brown, “Thing Theory,” *Critical Inquiry* 28, no. 1 (2001): 1–22.
 
-[^14]: See *L’Académie mise à nu*, exh. cat. (Paris: [[ENSBA]], 2009), especially cat. no. 26.
+[^14]: See *L’Académie mise à nu*, exh. cat. (Paris: {% abbr 'ENSBA' %}, 2009), especially cat. no. 26.
 
 [^15]: Charles-Antoine Jombert, *Méthode pour apprendre le dessein* (Paris: Jombert, 1755), 59–60. See also, Terrence Marchant, “Towards and Anthropology of Mathematizing,” *Interdisciplinary Science Reviews* 43, nos. 3–4 (2018): 295–316.
 

@@ -16,7 +16,7 @@ contributor:
   - id: "kscott"
 ---
 
-“A burin is a steel instrument for engraving on metal.”[^1] The best kind, according to this anonymous writer of the entry “Burin” in volume 2 of Diderot and d’Alembert’s *Encyclopédie*, were those made from German or British steel: “its virtue is its fine grain and its ash gray color.”[^2] We have no way of knowing whether Renée-Elisabeth Marlié was fortunate enough to have a German burin, but we do learn from her “life,” briefly told by the collector and connoisseur Pierre-Jean Mariette, that a burin of some kind was “put in her hand” by the engraver and Royal Academician, François-Bernard Lépicié, whom she married in 1731 at the age of sixteen.[^3]
+**“A burin is a steel instrument for engraving on metal.”**[^1] The best kind, according to this anonymous writer of the entry “Burin” in volume 2 of Diderot and d’Alembert’s *Encyclopédie*, were those made from German or British steel: “its virtue is its fine grain and its ash gray color.”[^2] We have no way of knowing whether Renée-Elisabeth Marlié was fortunate enough to have a German burin, but we do learn from her “life,” briefly told by the collector and connoisseur Pierre-Jean Mariette, that a burin of some kind was “put in her hand” by the engraver and Royal Academician, François-Bernard Lépicié, whom she married in 1731 at the age of sixteen.[^3]
 
 Burins consist of a square shaft that tapers toward a diamond- or lozenge-shaped cutting face ([fig. 18](#fig.-18)). They were supplied in a variety of sizes by the capital’s master needlemakers and were later fitted with wooden handles furnished by its master turners.[^4] These were not generic tools. Rather, they were made to the engraver’s specification: in relation both to hand-size and with regard to habits of practice. Some engravers favored long burins, others short, some square-tipped, others lozenge.[^5] Of whatever kind, a burin did not become a tool, properly speaking, however, until it had been remade in the printmaker’s workshop.[^6] The handle was cut away and flattened in a line perpendicular to the cutting face, and the point was further shaped, sharpened, and refined on an oil stone. The burin was therefore a highly individualized thing that belonged to its owner not only as property but as an extension of the body (hand and lower arm) and of thought: it prefigured the character of the line—bold, fine, etc.—that she envisaged, and intended to cut.[^7]
 
@@ -36,7 +36,7 @@ By the end of the seventeenth century the status of engraving was under assault.
 
 Marlié’s print was advertised in the *Mercure de France* in November 1756.[^28] Having praised the print in generic terms for capturing the “beauties” of Vanloo’s “Drawing” and the “vigour” of his “*Coloris*,” the writer of the ad concluded by saying that the print “pays tribute also to M. L’Epicié, deceased, who knew how to leave us a second self . . . by resurrecting his talents” in his wife. The compliment was backhanded. It implied that although Marlié signed her work in her own name, nevertheless, under Lépicié’s training, she had not developed an independent artistic voice.[^29] Not a compliment, it was, in Lépicié’s case, also not a figure of speech. His purpose had indeed been to create a second, indistinguishable self, to share the labor of printmaking by “finishing” his work to preserve by her burin his etched *disegno* from the wear and tear of printing, thus increasing the size of the edition that could be pulled from the workshop’s copper plates and consequently the profitability of the business. In an invoice in the form of a poetic writ, addressed by Lépicié to the Fermiers généraux in June 1738, the engraver observed that the print they had commissioned from him after Hyacinthe Rigaud’s *Portrait of Philibert Orry*, had taken two years of “painful and continuous labor,” during which “Patience” had been his soul’s only condition and “Migraine” his only companion.[^30] Marlié was that patience personified. So close is her technique to his that connoisseurs find it impossible to untangle their work.
 
-The *Marriage Contract* is Marlié last known engraving. Shortly after Lépicié’s death in 1755 she put her burin down. Released from a contract of drudgery and artistic nonentity, she retired at his lodging at the Louvre.
+The *Marriage Contract* is Marlié last known engraving. Shortly after Lépicié’s death in 1755 she put her burin down. Released from a contract of drudgery and artistic nonentity, she retired at his lodging at the Louvre. {% contributors context=pageContributors format='symbol' %}
 
 [^1]: “Burin” in *Encyclopedie,* 2:465, <https://encyclopedie.uchicago.edu/>.
 
@@ -48,7 +48,7 @@ The *Marriage Contract* is Marlié last known engraving. Shortly after Lépicié
 
 [^5]: Charles-Nicolas Cochin refused to discuss the physical properties of burins in detail in *De la manière de graver à l’eau-forte et au burin* (Paris: Jombert, 1745), 100, because each engraver choses what suits them best. See also Claude-Henri Watelet’s article “Gravure” in *Encyclopédie*, 7:888.
 
-[^6]: See Cochin, *De la manière*, 100–101. After Gérald Edelick’s death in 1707 students fought over his burins in the hope that his art was his tool. See Cousin de Constamine, “Vie d’Edelinck,” in [[*Mémoires inédits*]], 2:58; and Antony Griffiths, *Print before Photography* (New Haven: Yale University Press, 2016), 471.
+[^6]: See Cochin, *De la manière*, 100–101. After Gérald Edelick’s death in 1707 students fought over his burins in the hope that his art was his tool. See Cousin de Constamine, “Vie d’Edelinck,” in {% abbr '*Mémoires inédits*' %}, 2:58; and Antony Griffiths, *Print before Photography* (New Haven: Yale University Press, 2016), 471.
 
 [^7]: Watelet noted that the hilt of the burin sits in the palm of the hand such that its blade aligns directly with the bones of the forearm. See Watelet, “Gravure” in *Encyclopédie*, 7:888.
 
@@ -58,7 +58,7 @@ The *Marriage Contract* is Marlié last known engraving. Shortly after Lépicié
 
 [^10]: On tacit knowledge, see Michael Polanyi, *The Tacit Dimension* (1966, reprint Chicago: University of Chicago Press, 2009).
 
-[^11]: See Abraham Bosse’s “preface” (1645), republished in Cochin, *De la manière*, xvii. See also Cousin de Constamine, “Vie d’Edelinck” in [[*Mémoires inédits*]] 2:57 on Edelinck as a teacher: “son trait ne fut ni précédé, ni suivit d’aucun discours”; cf. Jean-Gérard Castex, “Réduire la gravure en art et en principes: Lecture et réception du *Traité des manières de graver à l’eau-forte* d’Abraham Bosse,” in *Réduire en art: La technologie de la Renaissance aux Lumières*, ed. Pascal Dubourg and Hélène Vérin (Paris: Maison des sciences de l’homme, 2014), 235–48.
+[^11]: See Abraham Bosse’s “preface” (1645), republished in Cochin, *De la manière*, xvii. See also Cousin de Constamine, “Vie d’Edelinck” in {% abbr '*Mémoires inédits*' %} 2:57 on Edelinck as a teacher: “son trait ne fut ni précédé, ni suivit d’aucun discours”; cf. Jean-Gérard Castex, “Réduire la gravure en art et en principes: Lecture et réception du *Traité des manières de graver à l’eau-forte* d’Abraham Bosse,” in *Réduire en art: La technologie de la Renaissance aux Lumières*, ed. Pascal Dubourg and Hélène Vérin (Paris: Maison des sciences de l’homme, 2014), 235–48.
 
 [^12]: See Marianne Grivel, *Le commerce de l’estampe à Paris au XVII^e^ siècle* (Geneva: Droz, 1987), 96–99.
 
@@ -66,7 +66,7 @@ The *Marriage Contract* is Marlié last known engraving. Shortly after Lépicié
 
 [^14]: See Delia Gaze, ed., *Dictionary of Women Artists* (London: Routledge, 1997), 1:62.
 
-[^15]: See Charles Joullain fils, *Oeuvre de Jacques-Philippe Le Bas*, 5 vols. ([[BnF]], Ee11–Ee11d fol), 1.
+[^15]: See Charles Joullain fils, *Oeuvre de Jacques-Philippe Le Bas*, 5 vols. ({% abbr 'BnF' %}, Ee11–Ee11d fol), 1.
 
 [^16]: On the marriage contract in the ancien régime see Claude-Joseph de Ferrière, *La science parfaite des notaires*, updated by François-Benoît Visme (Paris: Saugrain, 1752), 1, pt. 4, esp. 256–63.
 

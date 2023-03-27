@@ -24,11 +24,10 @@ $navbar: normal;
 // the widely available Times (files of which are not otherwise included here).
 
 
-@import url('https://fonts.googleapis.com/css2?family=Arbutus+Slab&family=Lora:ital,wght@0,400;0,600;1,400;1,600&family=Mulish:ital,wght@0,700;1,700&family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arbutus+Slab&family=Lora:ital,wght@0,400;0,600;1,400;1,600&family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap');
 
 $arbutus: 'Arbutus Slab', serif;
 $lora: 'Lora', serif;
-$mulish: 'Mulish', sans-serif;
 $source-sans-pro: 'Source Sans Pro', sans-serif;
 
 $ibm-sans: 'IBM Plex Sans Condensed', sans-serif;
@@ -83,7 +82,7 @@ $print-entry-image-display: all; // first | all
 // -----------------------------------------------------------------------------
 // Declare theme variables
 $quire-primary-font: $lora; // body and menu text
-$quire-headings-font: $mulish; // headings
+$quire-headings-font: $source-sans-pro; // headings
 $quire-footnotes-font: $source-sans-pro; // footnotes and page backmatter
 $quire-navigation-font: $source-sans-pro; // navbar and next/prev buttons
 

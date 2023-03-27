@@ -16,7 +16,7 @@ contributor:
   - id: "kscott"
 ---
 
-Antoine Watteau was celebrated in his own day as the inventor of a new genre of subject painting, the *fête galante* ([fig. 45](#fig.-45)), a defining feature of which is the mix of costume, theatrical and actual, fashionable, dated and everyday, in which the figures populating his landscapes are dressed. According to the comte de Caylus, a longtime friend of the painter, and author of one of the lives of the artist, Watteau owned a collection of clothes specific to that purpose.[^1] Watteau scholars have followed Caylus in linking it to the prominence of dress in the *fêtes*.[^2] Can this book’s focus on things add anything to the considerable knowledge we already have of Watteau’s passion for the theater, dressing up, and fashion? To account historically for the costumes, rather than the images that index them, foregrounds the when, where, and why of Watteau’s collecting, and the how of his use of them.
+**Antoine Watteau was celebrated in his own day** as the inventor of a new genre of subject painting, the *fête galante* ([fig. 45](#fig.-45)), a defining feature of which is the mix of costume, theatrical and actual, fashionable, dated and everyday, in which the figures populating his landscapes are dressed. According to the comte de Caylus, a longtime friend of the painter, and author of one of the lives of the artist, Watteau owned a collection of clothes specific to that purpose.[^1] Watteau scholars have followed Caylus in linking it to the prominence of dress in the *fêtes*.[^2] Can this book’s focus on things add anything to the considerable knowledge we already have of Watteau’s passion for the theater, dressing up, and fashion? To account historically for the costumes, rather than the images that index them, foregrounds the when, where, and why of Watteau’s collecting, and the how of his use of them.
 
 Neither costumes nor container has survived. In none of the other lives of Watteau is the costume collection mentioned. Description of the painter’s goods and chattels in the documents concerning his estate is so limited that it adds little to our knowledge of his things, not even confirmation that the costumes were still in his possession at the time of his death.[^3] In short, direct evidence about the collection is in limited supply.
 
@@ -40,17 +40,17 @@ Directly transposing figure and figure groups from sketchbook to canvas and work
 
 Meanwhile, what of the behaviors of cloth, the folding noticed by Caylus? Watteau was, his works suggest, fascinated by the myriad creases, crumples, wrinkles, rumples, tucks, pleats, and gathers, “expressed” by cloth, his attention trapped by the curious, often complex shapes it folded and wrapped.[^34] An unexplained rumple in Vleughels’s cloak (see [fig. 48](#fig.-48)) creates a puzzling trapezoid shape across the lower body. The cloak–rifle–man assemblage sketched on a sheet of studies of a soldier (Courtauld Institute of Art, London), configures, through the cloak’s wrapping action, a strange polygonal shape, comprised of two unequal triangles, the bases of which sit and hang on the diagonal of the gun.[^35] A later study of a man in a cape ([fig. 50](#fig.-50)), likewise withholds information about the body beneath the wrap and gather of silk. It tells rather of the folds the silk itself knots, folds that like the damp patches on walls, invite imaginative projection: here, the features perhaps of a grotesque face.[^36]
 
-Focus on the collection of apparel, a collection which Watteau began to assemble at the beginning of his career and very likely kept to the end, has revealed when, where, and how it orientated his artistic practice, how it anchored his knowledge of the dressed body (like the {% thing 'écorché' %} grounded knowledge of the nude) and how it stimulated his imagination. License so to reconstruct the collection’s functions is given by the sources, the works, and also by recent scholarship that emphasizes the lack of conventional fit between the costumes and the social identities of the persons wearing them in the fêtes galantes. What was so transgressive about Watteau’s portrayal of the dressed figure is that, whatever he or she is wearing—haute couture, yesterday’s fashions, theatrical dress, rustic rags—they appear to be no one other than themselves, though themselves dressed up almost to the point of disguise. Identity by this account was constructed on the surface, through artifice, and not conferred by blood, birth, or sensibility. According to Caylus, Watteau was once bewitched by a {% thing 'wig' %}. Brought to his studio by a barber client, Watteau was enchanted by its perfect “imitation of nature.”[^37] Apparel was to him, apparently, no less natural than the body.
+Focus on the collection of apparel, a collection which Watteau began to assemble at the beginning of his career and very likely kept to the end, has revealed when, where, and how it orientated his artistic practice, how it anchored his knowledge of the dressed body (like the {% thing 'écorché' %} grounded knowledge of the nude) and how it stimulated his imagination. License so to reconstruct the collection’s functions is given by the sources, the works, and also by recent scholarship that emphasizes the lack of conventional fit between the costumes and the social identities of the persons wearing them in the fêtes galantes. What was so transgressive about Watteau’s portrayal of the dressed figure is that, whatever he or she is wearing—haute couture, yesterday’s fashions, theatrical dress, rustic rags—they appear to be no one other than themselves, though themselves dressed up almost to the point of disguise. Identity by this account was constructed on the surface, through artifice, and not conferred by blood, birth, or sensibility. According to Caylus, Watteau was once bewitched by a {% thing 'wig' %}. Brought to his studio by a barber client, Watteau was enchanted by its perfect “imitation of nature.”[^37] Apparel was to him, apparently, no less natural than the body. {% contributors context=pageContributors format='symbol' %}
 
 [^1]: Anne-Claude-Philippe de Tubières, comte de Caylus, “La vie d’Antoine Watteau,” in Pierre Rosenberg, ed. *Vies anciennes de Watteau* (Paris: Honoré Champion, 1984), 78.
 
 [^2]: See especially François Moureau, “Theatre Costumes in the Work of Watteau,” in *Antoine Watteau (1684–1721): The Painter, His Time and the Legend*, ed. Margaret Morgan Grasselli and Pierre Rosenberg, exh. cat. (Washington: National Gallery of Art, 1987); Suzanne Pucci, “Watteau and the Theatre: Movable Fêtes,” in *Antoine Watteau: Perspectives on the Artist and the Culture of His Time*, ed. Mary Sheriff (Newark: Universtity of Delaware Press. 2006), 106–22.
 
-[^3]: See François Mandaret, “Jean-Antoine Watteau: The First Documents,” [[*BM*]] 153, no. 1298 (2011): 312–13.
+[^3]: See François Mandaret, “Jean-Antoine Watteau: The First Documents,” {% abbr '*BM*' %} 153, no. 1298 (2011): 312–13.
 
-[^4]: Guillaume Glorieux, “Michel-Joseph Ducreux (1665–1715), marchand de masques de théâtre et d’habits de carnaval au temps de Watteau,” [[*BSHAF*]] *2006* (2007): 119–29; and Guillaume Glorieux, “Les débuts de Watteau à Paris: Le Pont Notre-Dame en 1702,” [[*GBA*]] 139 (2002): 251–62.
+[^4]: Guillaume Glorieux, “Michel-Joseph Ducreux (1665–1715), marchand de masques de théâtre et d’habits de carnaval au temps de Watteau,” {% abbr '*BSHAF*' %} *2006* (2007): 119–29; and Guillaume Glorieux, “Les débuts de Watteau à Paris: Le Pont Notre-Dame en 1702,” {% abbr '*GBA*' %} 139 (2002): 251–62.
 
-[^5]: See Jennifer Tonkovitch, “Claude Gillot’s Costume Designs for the Paris Opera: Some New Sources,” [[*BM*]], 147, no. 1225 (2005): 248–52; and Tonkovitch, “A New Album of Theatre Drawings by Claude Gillot,” *Master Drawings*, 44, no. 4 (2006): 464–86.
+[^5]: See Jennifer Tonkovitch, “Claude Gillot’s Costume Designs for the Paris Opera: Some New Sources,” {% abbr '*BM*' %}, 147, no. 1225 (2005): 248–52; and Tonkovitch, “A New Album of Theatre Drawings by Claude Gillot,” *Master Drawings*, 44, no. 4 (2006): 464–86.
 
 [^6]: Donald Posner, *Antoine Watteau* (London: Weidenfeld & Nicholson, 1984), 47–58; Marianne Roland Michel, *Watteau: An Artist of the Eighteenth Century* (New York: Trefoil, 1984), 17–22; and Julie Anne Plax, *Watteau and the Cultural Politics of Eighteenth-Century France* (Cambridge, England: Cambridge University Press, 2000), 7–52.
 
@@ -68,7 +68,7 @@ Focus on the collection of apparel, a collection which Watteau began to assemble
 
 [^13]: Gouzi, *Restout*, D79 and 141–49.
 
-[^14]: {% thing 'Mannequins' %} were listed among Restout’s studio paraphernalia in 1753. See [[AN]], O^1^/1671/133–135.
+[^14]: {% thing 'Mannequins' %} were listed among Restout’s studio paraphernalia in 1753. See {% abbr 'AN' %}, O^1^/1671/133–135.
 
 [^15]: Gouzi, *Restout*, D81.
 
@@ -110,7 +110,7 @@ Focus on the collection of apparel, a collection which Watteau began to assemble
 
 [^34]: Caylus uses the word *express* rather than *depict* for Watteau’s representation of cloth. See Caylus, “Vie,” in Rosenberg, *Vies*, 72.
 
-[^35]: See Rosenberg and Prat, *Watteau: Catalogue raisonné*, [[PAGE(S)?]]
+[^35]: See Rosenberg and Prat, *Watteau: Catalogue raisonné*, **[[PAGE(S)?]]**
 
 [^36]: See Roger de Piles’s endorsement of Leonardo’s commendation of the damp wall in *L’Idée du peintre parfait* (Paris: Gallimard, 1993), 30–31.
 

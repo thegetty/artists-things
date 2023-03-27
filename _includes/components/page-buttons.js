@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// add link to Things content page, lines 23, adn 39–46
+//
 const { html } = require('~lib/common-tags')
 
 /**
@@ -16,6 +20,7 @@ module.exports = function(eleventyConfig) {
     nextButtonText,
     prevButtonText
   } = eleventyConfig.globalData.config.navigation
+  const contentsPageText = 'Things'
 
   return function(params, options={}) {
     const { pagination } = params
@@ -27,6 +32,14 @@ module.exports = function(eleventyConfig) {
         <li class="quire-nav-button prev">
           <a href="${previousPage.url}">${icon({ type: 'left-arrow', description: 'Go back a page'})}&nbsp;<span class="nav-title">${prevButtonText}</span></a>
           <span class="visually-hidden">Previous Page (left keyboard arrow or swipe)</span>
+        </li>
+      `
+    }
+
+    const contentsPageButton = () => {
+      return html`
+        <li class="quire-nav-button contents">
+          <a href="/contents/"><span class="nav-title">${contentsPageText}</span></a>
         </li>
       `
     }
@@ -45,6 +58,7 @@ module.exports = function(eleventyConfig) {
       <div class="quire-contents-buttons" data-outputs-exclude="epub,pdf">
         <ul>
           ${prevPageButton()}
+          ${contentsPageButton()}
           ${nextPageButton()}
         </ul>
       </div>

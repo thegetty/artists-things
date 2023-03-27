@@ -8,13 +8,16 @@ The [Quire Eleventy package](https://github.com/thegetty/quire/tree/main/package
 Added custom search icon
 
 **_includes/components/navigation.js**
-Altered to show current page title instead of homepage link
+Altered to show current page title instead of homepage link, as well as a link to the contents ("Things") page
 
 **_includes/components/page-header.js**
 Added a list of 'owners'
 
 **_includes/components/table-of-contents/item/list.js**
 Output the list item for 'thing' pages with an image
+
+**_includes/components/page-buttons.js**
+Added center link to Things contents page
 
 **_includes/web-components/modal/index.js**
 Altered getCurrentFigureId() to work with .q-figure__modal-link class anywhere
@@ -27,11 +30,16 @@ Copied essay.liquid, except that it adds owners to the pageHeader and a `.thing-
 Added new filter to convert string to lower case, for use in Liquid tempates
 
 **_plugins/shortcodes/index.js**
+Registered the new `abbr` and `thing` shortcodes
+
+**_plugins/shortcodes/abbr.js**
+Created a new shortcode to wrap abbreviations in the text. Currently just adds a `title` attribute.
+
 **_plugins/shortcodes/thing.js**
 Created a new shortcode to create a pop-up with full data and links for a given "thing"
 
 **_plugins/shortcodes/contributors.js**
-Refactored logic to handle oxford commas correctly
+Refactored logic to handle oxford commas correctly; and added handling to display contributor `symbol
 
 **_plugins/shortcodes/figureRef.js**
 Refactored to accept comma-separated array, and to output with .q-figure__modal-link class

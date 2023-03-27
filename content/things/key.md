@@ -15,7 +15,7 @@ contributor:
   - id: "kscott"
 ---
 
-Returning to Paris from Rome in February 1783, the history painter Pierre Peyron was handed the key to a studio on the first floor of the Cour Carré at the “old” Louvre. He must have been aglow with pleasure from the exceptional privilege. He was officially still a student, having yet to be admitted to the Académie.[^1] His neighbors at the Louvre, by contrast, were all academicians of established distinction.[^2] Only later was he made aware of the fracas his preferment provoked.
+**Returning to Paris from Rome in February 1783,** the history painter Pierre Peyron was handed the key to a studio on the first floor of the Cour Carré at the “old” Louvre. He must have been aglow with pleasure from the exceptional privilege. He was officially still a student, having yet to be admitted to the Académie.[^1] His neighbors at the Louvre, by contrast, were all academicians of established distinction.[^2] Only later was he made aware of the fracas his preferment provoked.
 
 The studio key, a thing almost invisible to history as a material object and personal possession, in this instance leaves a trace in the correspondence between the *directeur des* *bâtiments du roi*, the comte d’Angiviller, and the painters Claude-Joseph Vernet and Jean-Baptiste-Marie Pierre. Pierre was the king’s *premier peintre* (first painter) and responsible as such for the execution of d’Angiviller’s orders with regards to the artists employed by the king and resident in his palaces; Vernet was the injured party in the reallocation of studio space. In early February it was Vernet who had had the key to the studio, whose title belonged neither to him nor to Peyron but to the painter Louis-Jean-François Lagrenée, who was temporarily in Rome, discharging his duty as director of the French school. [^3] Vernet had been given use of the studio to paint six large landscapes for Carlos, prince of Asturias, pictures that had been despatched to the Escorial in Spain at the end of the previous year.[^4] But in a letter of 15 February, d’Angiviller accused Vernet of having refused to return the key though he had finished the work for which enjoyment (“jouissance”) of it had been granted.[^5] Affronted and indignant, Vernet replied via Pierre, that he had uttered no such refusal, indeed that no one had asked him for return of the key. Four days later he moved out of the Cour Carré and proposed a compromise: division of the studio between Peyron and himself, because he too had commissions of scale in the pipeline.[^6] By February 23 he had withdrawn the requested concession and resigned himself to working in the cramped quarters of his *logement* at the Galerie du Louvre beside the Seine.[^7] Pierre noted, at the very end of the month, that the key had been returned, and that Peyron had called on Vernet. The men apparently kissed and made up, following Peyron’s explanation that he had been unaware that his arrival entailed Vernet’s departure.
 
@@ -27,13 +27,13 @@ In d’Angiviller’s hands the studio became a pivotal tool of reform, one by w
 
 At the Louvre’s Cour Carré, d’Angiviller had a freer hand because, as Jules Guiffrey observed in his inaugural study of the royal studios, the convention of lifetime tenure as a form of virtual property was less entrenched there than at the gallery *logements* by the river.[^20] D’Angiviller not only assigned space in the “old” Louvre on shorter terms, he also rescinded longer arrangements. In 1784 the sculptor Jean-Baptiste d’Huez was given three months’ notice to quit his studio. In reply to d’Huez angry objections, d’Angiviller reminded him that a *brevet* was a contract, not a deed, that is an exchange, not a gift. He added, bluntly, that had he another studio to offer him by way of alternative, “justice” would compel him to assign it elsewhere, to an academician “who by assiduous work endeavors to merit the king’s grace.”[^21] The year before Caffiéri had been given a studio, not before time, to continue his work on d’Angiviller’s *grands hommes* (illustrious men) series.[^22] D’Angiviller’s *logement* policy was, you could say, one of “key” not *brevet*, insofar as he successfully allocated studios to those with talent, instead of by “succession,” that is by descent from father to son, as had often been the practice in the administrations of previous directors.[^23] Use of keys, which in the discourse of the Bâtiments department, had formerly denoted illegitimate circulation, came to represent a dynamic exercise of administrative power.
 
-We can never know how Peyron felt as he took the key from his pocket, slipped it into the lock, turned it, and opened the door into his room looking out to the river. The records of the Bâtiments du Roi, rich though they are in information about the emotions that motivated artists to ask for a studio—pride, ambition, entitlement, love, desperation etc.—tell us nothing about the experience of taking possession of one. The history painter Louis Galloche was an exception: he wrote to Philibert Orry in January 1744 of his joy on learning that the king had granted him a *logement*, and that he fully expected to blossom from “the great advantage” of occupying “one of the most beautiful vantage points in the universe” from which to view and reflect upon Nature’s “tout ensemble.”[^24] Peyron’s joy, if such it was, was short-lived. In 1785 he was moved to the Gobelins.
+We can never know how Peyron felt as he took the key from his pocket, slipped it into the lock, turned it, and opened the door into his room looking out to the river. The records of the Bâtiments du Roi, rich though they are in information about the emotions that motivated artists to ask for a studio—pride, ambition, entitlement, love, desperation etc.—tell us nothing about the experience of taking possession of one. The history painter Louis Galloche was an exception: he wrote to Philibert Orry in January 1744 of his joy on learning that the king had granted him a *logement*, and that he fully expected to blossom from “the great advantage” of occupying “one of the most beautiful vantage points in the universe” from which to view and reflect upon Nature’s “tout ensemble.”[^24] Peyron’s joy, if such it was, was short-lived. In 1785 he was moved to the Gobelins. {% contributors context=pageContributors format='symbol' %}
 
-[^1]: Peyron was agréé on 27 September 1783. See [[*PV*]], 9:168.
+[^1]: Peyron was agréé on 27 September 1783. See {% abbr '*PV*' %}, 9:168.
 
 [^2]: At the Cour Carré in 1783 were Nicolas Brenet, Gabriel-François Doyen, Joseph-Siffred Duplessis, Jean-Baptiste Le prince, and Hubert Robert.
 
-[^3]: It was Lagrenée’s idea initially that Peyron, one of his pupils, we assigned his studio, thereby safeguarding its return to Lagrenée when he returned to Paris. See [[*CDR*]], 14:96, 97, 265, 266.
+[^3]: It was Lagrenée’s idea initially that Peyron, one of his pupils, we assigned his studio, thereby safeguarding its return to Lagrenée when he returned to Paris. See {% abbr '*CDR*' %}, 14:96, 97, 265, 266.
 
 [^4]: The six paintings sent in October arrived in Madrid in January 1783. Three (*Landscape with a Sunset*, *Landscape with a Waterfall* and *The Kite*) are at the Prado, Madrid, a fourth is the Duke of Westminster’s collection, the remaining two are lost.
 
@@ -51,11 +51,11 @@ We can never know how Peyron felt as he took the key from his pocket, slipped it
 
 [^11]: Henri-Louis Duhamel de Monceau, *L’art du serrurier* (Paris: Saillant & Desaint, 1767), 109, 119–20.
 
-[^12]: [[AN]], O^1^/1674/158: Vernet to the comte d’Angiviller, 4 November 1783.
+[^12]: {% abbr 'AN' %}, O^1^/1674/158: Vernet to the comte d’Angiviller, 4 November 1783.
 
 [^13]: Guiffrey, “Correspondance,” 90: Vernet to the comte d’Angiviller, 2 December 1783.
 
-[^14]: [[AN]], O^1^/1673/504: Aubry to the comte d’Angiviller, 1 March 1777.
+[^14]: {% abbr 'AN' %}, O^1^/1673/504: Aubry to the comte d’Angiviller, 1 March 1777.
 
 [^15]: Both also said they had found it impossible to find alternative studio space in the immediate environs of the Louvre.
 
@@ -67,12 +67,12 @@ We can never know how Peyron felt as he took the key from his pocket, slipped it
 
 [^19]: D’Angiviller’s commissioned the *Death of Alcestes* (1785) for himself, and the *Death of Socrates* (1787) for the king.
 
-[^20]: Jules-Joseph Guiffrey, “Logements d’artistes au Louvre,” [[*NAAF*]]*,* 1873, 15, 18.
+[^20]: Jules-Joseph Guiffrey, “Logements d’artistes au Louvre,” {% abbr '*NAAF*' %}*,* 1873, 15, 18.
 
-[^21]: [[AN]], O^1^/1674/240, Jean-Baptiste Huez to the comte d’Angiviller, 27 November 1784; and [[AN]], O^1^/1674/240bis, d’Angiviller to Huez, 15 December 1784. D’Angiviller took much more care in choosing his words to Vernet. The repeated crossed-out words in a draft of a letter to Vernet, 21 February 1782 ([[AN]], O^1^/1674/104) indicate that he was keen to spare Vernet’s pride.
+[^21]: {% abbr 'AN' %}, O^1^/1674/240, Jean-Baptiste Huez to the comte d’Angiviller, 27 November 1784; and {% abbr 'AN' %}, O^1^/1674/240bis, d’Angiviller to Huez, 15 December 1784. D’Angiviller took much more care in choosing his words to Vernet. The repeated crossed-out words in a draft of a letter to Vernet, 21 February 1782 ({% abbr 'AN' %}, O^1^/1674/104) indicate that he was keen to spare Vernet’s pride.
 
-[^22]: [[AN]], O^1^/1674/117.
+[^22]: {% abbr 'AN' %}, O^1^/1674/117.
 
 [^23]: See Guiffrey, “Logements d’artistes au Louvre,” 14, 127–35.
 
-[^24]: [[AN]], O^1^/1672/81.
+[^24]: {% abbr 'AN' %}, O^1^/1672/81.

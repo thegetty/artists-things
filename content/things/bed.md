@@ -16,7 +16,7 @@ contributor:
   - id: "kscott"
 ---
 
-Charles-Antoine Coypel’s bed does not survive, or not as a bed. What remains is a picture ([fig. 10](#fig.-10)), oil on canvas, 190 by 135 centimeters, which originally served as the backboard for a *lit à la Polonaise*.[^1] Such beds stood sideways against the wall and were distinguished by two *chevets,* or bed ends. Rarely did they incorporate large decorative paintings. However, a preparatory drawing by Coypel ([fig. 11](#fig.-11)), a history painter and a royal academician, establishes *Painting Awakening Genius* in its original function as furniture. Information about the dimensions, materials, and exact form of the bed to supplement the evidence of the drawing, alas, is not to be had because by the time of the painter’s death, bed, and {% thing 'picture' %} had parted company; this bed is not the one inventoried with his effects.[^2]
+**Charles-Antoine Coypel’s bed does not survive,** or not as a bed. What remains is a picture ([fig. 10](#fig.-10)), oil on canvas, 190 by 135 centimeters, which originally served as the backboard for a *lit à la Polonaise*.[^1] Such beds stood sideways against the wall and were distinguished by two *chevets,* or bed ends. Rarely did they incorporate large decorative paintings. However, a preparatory drawing by Coypel ([fig. 11](#fig.-11)), a history painter and a royal academician, establishes *Painting Awakening Genius* in its original function as furniture. Information about the dimensions, materials, and exact form of the bed to supplement the evidence of the drawing, alas, is not to be had because by the time of the painter’s death, bed, and {% thing 'picture' %} had parted company; this bed is not the one inventoried with his effects.[^2]
 
 At some point before 1752, the painting had been relegated to the studio, where it was itemized unframed with a miscellany of other paintings, plaster casts, prints, drawings, and other paraphernalia. Meanwhile, Coypel’s bed had returned to the norm.[^3] It was, according to his inventory, dressed with a base valence of old, jonquil-colored damask and hung with yellow serge curtains. On the frame were three differently stuffed mattresses, piled with bolsters, cushions, and horsehair pillows. Coverlets and various fur foot warmers were scattered upon it. It was valued for probate at 300 livres and was the most expensive single item in the room, which was otherwise furnished with armchairs, a settee, assorted tables, a chest of drawers, two corner cupboards, and a desk, and was decorated with seven mirrors and over fifty pieces of Chinese and European porcelain, some of them mounted on gilded sconces.[^4] The beds had, nevertheless, dominated the scene.
 
@@ -38,15 +38,15 @@ Bed and bedroom, object and space are not as idiosyncratic as they perhaps at fi
 
 It invites us to compare *Painting Awakening Genius* not with the father’s scenes of Aeneas’s tragedy but rather with its travesty: the son’s Don Quixote series. In 1727 Charles-Antoine painted for the Gobelins the cartoon for the last scene in his set of *The Adventures of Don Quixote* ([fig. 12](#fig.-12)) in which Quixote, asleep in his bedroom, is visited in his dreams by Minerva, who by her wisdom cures him of his chivalric illusions embodied by Folly, who beguilingly flutters by the bed, her drapery merging with the bed hangings.[^26] The same model appears to have served Coypel for the blonde female figures of Folly and Painting. Insofar as Painting is also Folly’s familiar, we can consider the possibility that the parade of the bedchamber was semiseriously and semiconsciously staged by Coypel as a fantasy; that his bed was his castle in the air.
 
-Among Coypel’s high-born friends was the marquis de Calvière, an aristocrat and courtier, for whom Coypel wrote an epistle, published in the *Mercure de France* in 1724.[^27] A lyrical letter on the subject of friendship and the importance of truth in the commerce between true friends, the poem betrays Coypel’s fear of ridicule for aspiring to mix in company socially and in virtue above his own. The not-quite rightness of Coypel’s bed, its artistic misprision of noble design, manifests the difficulty of steering a social course that balances prerogatives of distinction while politely appearing not to believe oneself deserving of it. That Coypel eventually dismantled his bed and put the painting into storage in the studio suggests he came later to regret his *levée* as an overreach of the claims of his talent.
+Among Coypel’s high-born friends was the marquis de Calvière, an aristocrat and courtier, for whom Coypel wrote an epistle, published in the *Mercure de France* in 1724.[^27] A lyrical letter on the subject of friendship and the importance of truth in the commerce between true friends, the poem betrays Coypel’s fear of ridicule for aspiring to mix in company socially and in virtue above his own. The not-quite rightness of Coypel’s bed, its artistic misprision of noble design, manifests the difficulty of steering a social course that balances prerogatives of distinction while politely appearing not to believe oneself deserving of it. That Coypel eventually dismantled his bed and put the painting into storage in the studio suggests he came later to regret his *levée* as an overreach of the claims of his talent. {% contributors context=pageContributors format='symbol' %}
 
 [^1]: See Thierry Lefrançois, *Charles Coypel. Peintre du roi (1694–1752)* (Geneva: Arthena 1994), P 115. The terminology of bed types is in André Jacob Roubo, *L’art du menuisier*, 4 parts in 5 vols. (Paris: Delatour, 1769–75), 3, pt. 2:665–85.
 
-[^2]: Charles Coypel, “*Inventaire après décès*,” 25 September 1752, [[AN]], [[MC]]/ET/LXXVI/337.
+[^2]: Charles Coypel, “*Inventaire après décès*,” 25 September 1752, {% abbr 'AN' %}, {% abbr 'MC' %}/ET/LXXVI/337.
 
 [^3]: The phrasing is ambiguous because the documentary evidence does not indicate whether the picture alone was detached or whether the whole bed was replaced.
 
-[^4]: [[AN]], [[MC]]/ET/LXXVI/337, 25 September 1752: only the mirrors approximated the cost of the bed.
+[^4]: {% abbr 'AN' %}, {% abbr 'MC' %}/ET/LXXVI/337, 25 September 1752: only the mirrors approximated the cost of the bed.
 
 [^5]: Henri Havard, *Dictionnaire de l’ammeublement et de la decoration* (Paris: Quantin, 1894), 3:424. Havard mistakenly gives the date of Mignard’s marriage as 1660.
 
@@ -60,9 +60,9 @@ Among Coypel’s high-born friends was the marquis de Calvière, an aristocrat a
 
 [^10]: On the Coypel studios, see Nicole Garnier, *Antoine Coypel (1661–1722)* (Paris: Arthena, 1989), 171–72; and Lefrançois, *Charles Coypel*, 42.
 
-[^11]: Jules-Joseph Guiffrey, “Logements d’artistes au Louvre,” [[*NAAF*]], 1873, 1–221.
+[^11]: Jules-Joseph Guiffrey, “Logements d’artistes au Louvre,” {% abbr '*NAAF*' %}, 1873, 1–221.
 
-[^12]: See Coypel’s *inventaire après décès*, 25 September 1752, [[AN]], [[MC]]/ET/LXXVI/337.
+[^12]: See Coypel’s *inventaire après décès*, 25 September 1752, {% abbr 'AN' %}, {% abbr 'MC' %}/ET/LXXVI/337.
 
 [^13]: For Antoine Coypel’s inventory, see Garnier, *Antoine Coypel*, 249–55. For further comparison of the Louvre lodgings, see Scott, “Parade’s End,” 23–37.
 
@@ -78,7 +78,7 @@ Among Coypel’s high-born friends was the marquis de Calvière, an aristocrat a
 
 [^19]: For the silks available in the second half of the eighteenth century, see Lesley Miller, *Selling Silks: A Merchant’s Sample Book 1764* (New York: V&A, 2014).
 
-[^20]: [[AN]], ET/LXXVI/337, 25 September 1752: hangings “de cotton à fleurs.”
+[^20]: {% abbr 'AN' %}, ET/LXXVI/337, 25 September 1752: hangings “de cotton à fleurs.”
 
 [^21]: Thomas P. Campbell, “Collectors and Connoisseurs: The Status and Perception of Tapestry, 1600–1660,” in *Tapestry in the Baroque: Threads of Splendor*, exh. cat. (New Haven: Yale University Press; and New York: Metropolitan Museum of Art, 2007), 325–39. Tapestry was used also in nonelite housing, see Annik Pardailhé-Galabrun, *La naissance de l’intime* (Paris: Presses Universitaires de France, 1988), 368–76.
 
@@ -86,7 +86,7 @@ Among Coypel’s high-born friends was the marquis de Calvière, an aristocrat a
 
 [^23]: Havard, *Dictionnaire*, 3:421–22; and Jean Aimar Piganiol de La Force, *Description de Paris, de Versailles, de Marly, de Meudon, de S.-Cloud* (Paris: Poiron, 1745), 3:87.
 
-[^24]: [[AN]], ET/LXXVI/337, 25 September 1752, 69 different porcelain teacups, saucers and *pots pouri*, valued collectively at just 8 livres, indicating useful wares. On Coypel’s sociability, see Jean-Baptiste Massé, “Lettre de M. Massé, Peintre du roi et conseiller en son Académie Royale de Peinture et de Sculpture,” *Mercure de France,* August 1752, 147–48.
+[^24]: {% abbr 'AN' %}, ET/LXXVI/337, 25 September 1752, 69 different porcelain teacups, saucers and *pots pouri*, valued collectively at just 8 livres, indicating useful wares. On Coypel’s sociability, see Jean-Baptiste Massé, “Lettre de M. Massé, Peintre du roi et conseiller en son Académie Royale de Peinture et de Sculpture,” *Mercure de France,* August 1752, 147–48.
 
 [^25]: See Garnier, *Antoine Coypel*, 250. Antoine Coypel’s carriage, which was upholstered in red velvet and taffeta curtains, was valued 300 livres.
 

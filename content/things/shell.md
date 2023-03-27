@@ -16,7 +16,7 @@ contributor:
   - id: "kscott"
 ---
 
-The name and reputation of the painter and academician François Boucher is, for many, synonymous with the shell. The {% thing 'wig' %} he wore for his portrait by the Swedish artist Gustaf Lundberg (Paris, Musée du Louvre), painted in 1741 at the time he had started to collect, falls down his back in a cascade of curls that against the background of blue look almost like ropes of white and silver scallops. Shells were not, however, the only things that Boucher collected. Neither were they things greatest in number, nor highest in value in Boucher’s cabinet sold at his death in 1770. A handwritten note at the back of a copy of the painter’s sale catalog gives a breakdown of the sums raised by the different kinds of thing in order of sale.[^1] Rearranging the subtotals by value puts shells sixth: first among the categories of natural history, certainly, but significantly below the records fetched by painting, drawing, furniture, and porcelain. [^2] Yet “shell” was and is often promoted as the synecdoche for Boucher’s art and collection, by reason of novelty—he was one of a few artists in his taste for natural history[^3]—*and* because the shell, a signature motif of the rococo, came to signify the excess, the luxe, of that style’s reign, a style of which Boucher’s work is a defining instance.[^4] That said, recent discussions of Boucher’s shells have mostly ignored the awe and fear spelled by the temptation of his shells;[^5] they have focused less on obvious questions of consumption and critique, appetite and idiom, and have opted instead to interrogate the “science” of his conchyliology.[^6] Collection, as opposed to accumulation, puts things under cover of the charge of luxury, because it consecrates the value of collected things as real, innate, not simply determined by exchange.
+**The name and reputation of the painter and academician François Boucher** is, for many, synonymous with the shell. The {% thing 'wig' %} he wore for his portrait by the Swedish artist Gustaf Lundberg (Paris, Musée du Louvre), painted in 1741 at the time he had started to collect, falls down his back in a cascade of curls that against the background of blue look almost like ropes of white and silver scallops. Shells were not, however, the only things that Boucher collected. Neither were they things greatest in number, nor highest in value in Boucher’s cabinet sold at his death in 1770. A handwritten note at the back of a copy of the painter’s sale catalog gives a breakdown of the sums raised by the different kinds of thing in order of sale.[^1] Rearranging the subtotals by value puts shells sixth: first among the categories of natural history, certainly, but significantly below the records fetched by painting, drawing, furniture, and porcelain. [^2] Yet “shell” was and is often promoted as the synecdoche for Boucher’s art and collection, by reason of novelty—he was one of a few artists in his taste for natural history[^3]—*and* because the shell, a signature motif of the rococo, came to signify the excess, the luxe, of that style’s reign, a style of which Boucher’s work is a defining instance.[^4] That said, recent discussions of Boucher’s shells have mostly ignored the awe and fear spelled by the temptation of his shells;[^5] they have focused less on obvious questions of consumption and critique, appetite and idiom, and have opted instead to interrogate the “science” of his conchyliology.[^6] Collection, as opposed to accumulation, puts things under cover of the charge of luxury, because it consecrates the value of collected things as real, innate, not simply determined by exchange.
 
 What happens if we address Boucher’s things as goods, not ideas? First, we refuse to treat shells as found, discovered, or given, and acknowledge that they entered the collection having been traded like any other thing. Secondly, we reject naturalizing the relationship between Boucher and his collection, that is, we stop treating his taste as idiosyncratic and self-explanatory. Thirdly, while acknowledging the vestigial part still played by the discourse of curiosity in the reception of the collection, we note the ascendency of the language of taste and fashion.[^7]
 
@@ -40,23 +40,23 @@ However, the interlacing of amateur and professional natural history, of luxury 
 
 In 1757 Michel Adamson published a powerful critique of the aesthetic that informed contemporary collection and display of shells: “this very beauty,” he wrote, “which attracts the eye to shells, has become a huge obstacle to the progress of science. . . . Up until now, molluscs have only been appreciated for their dress, their exterior envelope, the shell, and not the creatures that live inside them.”[^47] The result was a profound misunderstanding of the order of this branch of nature, which Adamson proposed to rectify with the help of illustration by the academician Marie-Thérèse Reboul ([fig. 146](#fig.-146)). Drawing could enter the shell by section, could reinstate the lost animal. Bouchardon’s preference for illustrated books over specimens and his own practice of drawing animals from life ([fig. 147](#fig.-147)), bore witness to the kind of productive—and not consumerist—engagement with knowledge that was deemed proper to the artist.[^48]
 
-Boucher’s shells may or may not have informed his artistic practice. Generic and specific shelly objects certainly feature in many of his designs for fountains, urns, and other decorative objects in the 1730s and 1740s, but their forms owe at least as much to ornament as to nature. Moreover, on the evidence of Boucher’s sale, the style denoted by shells, the *rocaille*, was not conspicuously present at his Louvre interior. The keynote there was struck by minerals not shells: the gilt bronze of Caffiéri’s “antique” lights, the marble tops of classic cabinets and consoles. It was, perhaps, the disconnection between Boucher’s art and his things that led Mniszch to describe his *cabinet* as a shop, as if, that is, the objects had no reason for permanent residence. They were “arranged only to catch the eye” and offered “no further thought,” for either the visitor or the artist.[^49] The themes of superfluity, appearance, and disorder encountered in the critique of amateur conchology were ones also present in the luxury debate at the midcentury.[^50]
+Boucher’s shells may or may not have informed his artistic practice. Generic and specific shelly objects certainly feature in many of his designs for fountains, urns, and other decorative objects in the 1730s and 1740s, but their forms owe at least as much to ornament as to nature. Moreover, on the evidence of Boucher’s sale, the style denoted by shells, the *rocaille*, was not conspicuously present at his Louvre interior. The keynote there was struck by minerals not shells: the gilt bronze of Caffiéri’s “antique” lights, the marble tops of classic cabinets and consoles. It was, perhaps, the disconnection between Boucher’s art and his things that led Mniszch to describe his *cabinet* as a shop, as if, that is, the objects had no reason for permanent residence. They were “arranged only to catch the eye” and offered “no further thought,” for either the visitor or the artist.[^49] The themes of superfluity, appearance, and disorder encountered in the critique of amateur conchology were ones also present in the luxury debate at the midcentury.[^50] {% contributors context=pageContributors format='symbol' %}
 
-[^1]: Pierre Rémy, *Catalogue raisonné des tableaux, desseins, estampes, . . . minéraux, cristallisations, mandrepores, coquilles & autres curiositées, qui composent le cabinet de feu M. Boucher, premier Peintre du Roi* (Paris: Musier, 1771); annotated copy at the [[INHA]] library, Paris.
+[^1]: Pierre Rémy, *Catalogue raisonné des tableaux, desseins, estampes, . . . minéraux, cristallisations, mandrepores, coquilles & autres curiositées, qui composent le cabinet de feu M. Boucher, premier Peintre du Roi* (Paris: Musier, 1771); annotated copy at the {% abbr 'INHA' %} library, Paris.
 
 [^2]: “Tableaux: 41,965”; “Dessins: 16,047”; “Meubles: 15,003”; “Porcelaines: 14,557”; “Coquilles/polipines: 10,838”; “Minéraux/pierres: 9,856”; “Bronzes/lacques: 9,701”; “Estampes: 2,873.”
 
 [^3]: The painters René-Antoine Houasse and Jean-Baptiste Slodtz are among the very few others known to have bought shells in the 1730s. See Jessica S. Priebe, “Conchyliologie and Conchyliomanie: The Cabinet of François Boucher, 1703–1770,” PhD diss. (University of Sydney, 2011), 113.
 
-[^4]: See most recently Jamie Mulheron, “François Boucher and the Art of Conchology,” [[*BM*]] 158 (2016): 254–63.
+[^4]: See most recently Jamie Mulheron, “François Boucher and the Art of Conchology,” {% abbr '*BM*' %} 158 (2016): 254–63.
 
 [^5]: See Françoise Joulie’s fuller discussion of Charles-Antoine Jombert’s comments in Joulie, “La collection de François Boucher,” in *L’artiste collectionneur de dessins*, ed. Catherine Monbeig-Gognel and Cordelia Hattori (Milan: 5 Continents, 2006), 129–219. See also Ewa Lajer-Burcharth, *The Painter’s Touch* (Princeton: Princeton University Press, 2018), 73–80.
 
-[^6]: Bettina Dietz and Thomas Nutz, “Collections Curieuses: The Aesthetics of Curiosity and Elite Life in Eighteenth-Century Paris,” [[*ECL*]] 29, no. 3 (2005): 44–75.
+[^6]: Bettina Dietz and Thomas Nutz, “Collections Curieuses: The Aesthetics of Curiosity and Elite Life in Eighteenth-Century Paris,” {% abbr '*ECL*' %} 29, no. 3 (2005): 44–75.
 
 [^7]: The number of times Pierre Rémy used certain adjectives in the *Catalogue Boucher* to describe the corals, sponges and shells in Boucher’s collection are: *beau/belle*, 34; *joli*/*jolie*, 23; *rare*, 7; *singulier*/*singulière*, 5; *curieux*/*curieuse*, 3; and *agréable*, 3. Four times as many general aesthetic terms were developed to entice buyers as more specialist terms derived from the vocabulary of *curiosité*. Fashion was a significant point of reference in specimen description (e.g., fanlike, lacelike, cufflike, pleated, *découpé*, fringed).
 
-[^8]: Krzysztof Pomian, “Médailles/coquilles = erudition/philosophie,” Transactions of the IVth International Congress on the Enlightenment, [[*SVEC*]] 4 (1976): 1677–1703.
+[^8]: Krzysztof Pomian, “Médailles/coquilles = erudition/philosophie,” Transactions of the IVth International Congress on the Enlightenment, {% abbr '*SVEC*' %} 4 (1976): 1677–1703.
 
 [^9]: See Kristel Smentek, *Rococo Exotic: French Mounted Porcelains and the Allure of the East*, exh. cat. The Frick Collection (New York: Antique Collectors’ Club,2007); Smentek, “Objects of Encounter: Mounting Asian Porcelain in Eighteenth-Century France,” in *The Challenge of the Object*, ed. Ulrich Grossmann and Petra Krutish (Nurenberg: Germanischen Nationalmuseums, 2014).
 
@@ -74,7 +74,7 @@ Boucher’s shells may or may not have informed his artistic practice. Generic a
 
 [^16]: See Priebe, *Conchyliologie*, 123–25.
 
-[^17]: See Colin B. Bailey, “Marie-Jeanne Buzeau, Madame Boucher (1716–96),” [[*BM*]] 1047 (2005): 224–34.
+[^17]: See Colin B. Bailey, “Marie-Jeanne Buzeau, Madame Boucher (1716–96),” {% abbr '*BM*' %} 1047 (2005): 224–34.
 
 [^18]: Johann Christian von Mannlich, *Histoire de ma vie* (Trier, Spee, 1989), 2:156; Jo Hedley, *François Boucher: Seductive Visions* (London: Wallace Collection, 2004), 53–54; and Priebe, *Conchyliologie*, 131–40.
 
@@ -86,7 +86,7 @@ Boucher’s shells may or may not have informed his artistic practice. Generic a
 
 [^22]: See Georges Brunel, *Boucher* (London: Trefoil, 1986), 36; and Bailey, “Mme Boucher,” 233.
 
-[^23]: On the market value of shells, see Bettina Dietz, “Mobile Objects: The Space of Shells in Eighteenth-Century France,” [[*BJHS*]] 39, no. 3 (2006): 363–82.
+[^23]: On the market value of shells, see Bettina Dietz, “Mobile Objects: The Space of Shells in Eighteenth-Century France,” {% abbr '*BJHS*' %} 39, no. 3 (2006): 363–82.
 
 [^24]: Rémy categorizes the gastropods along a scale from “singulière par la grandueur” to “petit” via “beau volume,” “grand,” “moins grand,” and “moyenne grandeur.” By contrast, the minerals are either “grand” or “petit.”
 
@@ -116,9 +116,9 @@ Boucher’s shells may or may not have informed his artistic practice. Generic a
 
 [^37]: François Basan, *Catalogue des tableaux, desseins, estampes, livres d’histoire, sciences & arts de Bouchardon* (Paris: de Lormel, 1762), 3–8.
 
-[^38]: François Boucher, “Inventaire après décès,” [[AN]], [[MC]]/ET/LXXVI/384, 18 August 1762.
+[^38]: François Boucher, “Inventaire après décès,” {% abbr 'AN' %}, {% abbr 'MC' %}/ET/LXXVI/384, 18 August 1762.
 
-[^39]: [[AN]], [[MC]]/ET/LXXXVI/384, 18 August 1762; and Basan, *Catalogue . . . Bouchardon*, lots 163–64, 169, 171.
+[^39]: {% abbr 'AN' %}, {% abbr 'MC' %}/ET/LXXXVI/384, 18 August 1762; and Basan, *Catalogue . . . Bouchardon*, lots 163–64, 169, 171.
 
 [^40]: See Rosemarie Stratmann-Dohler, *Jean-François Oeben, 1721–1763* (Paris: Amateur, 2002), 38, 134. For specimens under glass, see Rémy, *Catalogue Boucher*, lots 1716, 1785.
 

@@ -16,7 +16,7 @@ contributor:
   - id: "kscott"
 ---
 
-Prompted to consider carriages *and* artists in the eighteenth century, we think perhaps first of specialist trades, those of the coach painter and the ornamental carver.[^1] Or, in the context of metaphors of modernity, we think of the image of the extravagantly decorated coach used by critics and satirists to figure the rise of luxury consumption and the corresponding degradation of art.[^2] We do not, generally, think of carriages as things owned and used by artists. The fine art sculptor and academician Jean-Baptiste Pigalle, who lived at the end of his life on the outskirts of Paris in the semirural district of Montmartre, compels us to think again. Parked at the stable of his house, 12 Rue de La Rochefoucault, in 1785 were a cart and a carriage and a cabriolet. In the stable were a pair of bays to drive the carriage and a black mare for the cabriolet.[^3] Pigalle’s vehicles contributed to the enormous increase in the number of carriages on the streets of the capital, which had risen from 310 in 1658 to over 15,000 by 1750.[^4] Growth in vehicular transport occurred in tandem with the gradual improvement of the country’s roads.[^5] The combination transformed travel, multiplying and speeding up connections between people and places, technological progress regarded as crucial to the modernization of the western world, according to historians.
+**Prompted to consider carriages *and* artists in the eighteenth century,** we think perhaps first of specialist trades, those of the coach painter and the ornamental carver.[^1] Or, in the context of metaphors of modernity, we think of the image of the extravagantly decorated coach used by critics and satirists to figure the rise of luxury consumption and the corresponding degradation of art.[^2] We do not, generally, think of carriages as things owned and used by artists. The fine art sculptor and academician Jean-Baptiste Pigalle, who lived at the end of his life on the outskirts of Paris in the semirural district of Montmartre, compels us to think again. Parked at the stable of his house, 12 Rue de La Rochefoucault, in 1785 were a cart and a carriage and a cabriolet. In the stable were a pair of bays to drive the carriage and a black mare for the cabriolet.[^3] Pigalle’s vehicles contributed to the enormous increase in the number of carriages on the streets of the capital, which had risen from 310 in 1658 to over 15,000 by 1750.[^4] Growth in vehicular transport occurred in tandem with the gradual improvement of the country’s roads.[^5] The combination transformed travel, multiplying and speeding up connections between people and places, technological progress regarded as crucial to the modernization of the western world, according to historians.
 
 Was this simultaneous opening up of geographical space and collapse of distance in the seventeenth century experienced professionally, socially, and culturally by artists like Pigalle? Was it reason enough to keep a carriage? Answering these questions begins with knowing more about Pigalle’s vehicles. None survive, but the words used by the notaries to denote them in his postmortem inventory are telling. Of the three types, the cart and the cabriolet mark extremes: of slowness in the case of the cart, a heavy, unsprung, and open vehicle used to transport goods, of speed and maneuverability in the case of the cabriolet, a light, two-seater with a collapsible hood, for expeditions locally. Between the two stands the carriage, specifically a Berline, a four-wheel enclosed vehicle with suspension, for both short and long-distance travel. Pigalle probably used his cart to ferry materials to and from his studio and the cabriolet for the short trip to the center of town. The only reference to Pigalle’s travel choices in a contemporary source describes the sculptor leaving the Louvre after a difficult meeting of the Académie’s membership in September 1768; according to Charles-Nicolas Cochin, the Académie’s secretary, Pigalle got into a “chaise,” a cabriolet-style vehicle, and amid heckling from students, made his escape.[^6] The larger, sturdier and less nimble Berline was, meanwhile, very possibly his choice for the journeys he made to Reims, Ferney, and Strasbourg in relation to his commissions respectively in 1765 for the monument to Louis XV, in 1770 for *Voltaire nu* and in 1776 for the mausoleum of the maréchal de Saxe, always assuming he did not opt for public transport.
 
@@ -36,7 +36,7 @@ If Pigalle did make use of his carriage for work *extra-muros*, he more likely a
 
 Pigalle’s carriage was valued at 800 livres, his cabriolet at 300 livres, the harness and horses at 72 and 1,000 livres respectively, valuations that exceeded most other things he owned, except his own sculpture.[^38] The vehicles were well kept. The carriage had metal springs, a technological novelty, and the cabriolet was elegantly decorated: blue and white Utrecht velvet upholstery on the inside and green coachwork on the outside, the color of fashion in the 1770s, according to the *vernisseur* Jean-Felix Watin.[^39] For a final flash of brilliance: silver buckles and ornaments decorated the harness.
 
-In contrast to fiction and satire, which in the eighteenth century often featured carriages, sometimes prominently as engines of narrative and foci of scorn, the carriage is largely inconspicuous in the pictorial record of the city. We grasp its ubiquity, luxury, and fashion only indirectly, from its regular appearance as a motif on luxury goods. On a so-called cabriolet fan in the Royal Collection ([fig. 27](#fig.-27)), the cabriolet appears twice: in the scene of accident on the upper fan leaf and across the carved ivory sticks at the bottom. A pair of mandarins with parasols frame the carved cabriolet and its occupants. They, and the materials from which the fan is made—ivory, tortoiseshell, and mother-of-pearl—represented and embodied luxury in motifs and stuffs arriving in Paris from outside France, from China, India, the Caribbean, and the South Seas. What is remarkable about Pigalle’s domestic luxe is, by contrast, the almost complete absence of the exotic: the Utrecht velvet of the cabriolet was produced at Amiens; Mme Pigalle’s porcelain {% thing 'teacups' %} were Sèvres, not Chinese; Pigalle did not collect {% thing 'shells' %} and minerals; and his furniture was not made of *bois des Indes* but in solid oak, walnut, and pine, moreover, it was upholstered in wool *moquette*, not silk.[^40] His luxury was local, sometimes literally as well as metaphorically so. The house on Rue de La Rochefoucault was wallpapered throughout. In 1779 the firm Arthur and Grenard had established their wallpaper factory on the corner of Boulevard des Capucines and Rue Louis-le-Grand, a stone’s throw south of Pigalle’s dwelling.
+In contrast to fiction and satire, which in the eighteenth century often featured carriages, sometimes prominently as engines of narrative and foci of scorn, the carriage is largely inconspicuous in the pictorial record of the city. We grasp its ubiquity, luxury, and fashion only indirectly, from its regular appearance as a motif on luxury goods. On a so-called cabriolet fan in the Royal Collection ([fig. 27](#fig.-27)), the cabriolet appears twice: in the scene of accident on the upper fan leaf and across the carved ivory sticks at the bottom. A pair of mandarins with parasols frame the carved cabriolet and its occupants. They, and the materials from which the fan is made—ivory, tortoiseshell, and mother-of-pearl—represented and embodied luxury in motifs and stuffs arriving in Paris from outside France, from China, India, the Caribbean, and the South Seas. What is remarkable about Pigalle’s domestic luxe is, by contrast, the almost complete absence of the exotic: the Utrecht velvet of the cabriolet was produced at Amiens; Mme Pigalle’s porcelain {% thing 'teacups' %} were Sèvres, not Chinese; Pigalle did not collect {% thing 'shells' %} and minerals; and his furniture was not made of *bois des Indes* but in solid oak, walnut, and pine, moreover, it was upholstered in wool *moquette*, not silk.[^40] His luxury was local, sometimes literally as well as metaphorically so. The house on Rue de La Rochefoucault was wallpapered throughout. In 1779 the firm Arthur and Grenard had established their wallpaper factory on the corner of Boulevard des Capucines and Rue Louis-le-Grand, a stone’s throw south of Pigalle’s dwelling. {% contributors context=pageContributors format='symbol' %}
 
 [^1]: See, for example, Carl Nordenfalk, “The Stockholm Watteaus and Their Secret,” *Nationalmuseum Bulletin Stockholm*, 3, no. 3 (1979): 105–39; and Georg J. Kugler, *The Golden Carriage of Prince Joseph Wenzel von Liechtenstein* (New York: Metropolitan Museum of Art, 1985).
 
@@ -48,7 +48,7 @@ In contrast to fiction and satire, which in the eighteenth century often feature
 
 [^5]: Guy Arbellot, “La grande mutation des routes de France au XVIII^e^ siècle,” *Annales Économies, Sociétés, Civilisations* 3 (1973): 765–91.
 
-[^6]: See “Correspondance de M. de Marigny avec Coypel, Lépicié et Cochin,” ed. Marc Furcy-Raynaud, [[*NAAF*]], 1904, 155–56.
+[^6]: See “Correspondance de M. de Marigny avec Coypel, Lépicié et Cochin,” ed. Marc Furcy-Raynaud, {% abbr '*NAAF*' %}, 1904, 155–56.
 
 [^7]: Clément, *Sculpter*, 24–25.
 
@@ -58,7 +58,7 @@ In contrast to fiction and satire, which in the eighteenth century often feature
 
 [^10]: See Paul Ratouis de Limay, *Un amateur orléanais au XVIII^e^ siècle: Aignan-Thomas Desfriches* (Paris: Champion 1907), 66–70.
 
-[^11]: On abbé Gougenot, see Hélène Guicharriaud, “Un collectionneur parisien, ami de Greuze et de Pigalle, l’abbé Gougenot, 1724–1767,” [[*GBA*]] 134 (1999): 1–74.
+[^11]: On abbé Gougenot, see Hélène Guicharriaud, “Un collectionneur parisien, ami de Greuze et de Pigalle, l’abbé Gougenot, 1724–1767,” {% abbr '*GBA*' %} 134 (1999): 1–74.
 
 [^12]: Tim Ingold, *Lines: A Brief History* (London: Routledge, 2007), 72–103.
 
@@ -84,11 +84,11 @@ In contrast to fiction and satire, which in the eighteenth century often feature
 
 [^23]: See Jules Guiffrey, “Le Tombeau du maréchal de Saxe par Jean-Baptiste 000. Correspondance relative à ce monument (1752–1783),” *Revue de l’art ancien et moderne* 7 (1891): 161–234. See also Clement, *Sculpter*, 154.
 
-[^24]: Guiffrey, “Le Tombeau,” 204. See also [[AN]], O^1^/1905/2:125, an invoice for transportation submitted by the hauler Bricard, representing twenty-two days out and eighteen days return with the loss of three horses, total cost 7,200 livres.
+[^24]: Guiffrey, “Le Tombeau,” 204. See also {% abbr 'AN' %}, O^1^/1905/2:125, an invoice for transportation submitted by the hauler Bricard, representing twenty-two days out and eighteen days return with the loss of three horses, total cost 7,200 livres.
 
 [^25]: Guiffrey, “Le Tombeau,” 203, 213, 218.
 
-[^26]: Guiffrey, “Le Tombeau,” 206–7. See also [[AN]], O^1^/1905/2:113, “Passavant en exemption des droits,” 13/04/1775; and [[AN]], O^1^/1905/2:132, Memorandum by the *Fermiers générals* in defense of their rights to levy dues, 12 November 1776.
+[^26]: Guiffrey, “Le Tombeau,” 206–7. See also {% abbr 'AN' %}, O^1^/1905/2:113, “Passavant en exemption des droits,” 13/04/1775; and {% abbr 'AN' %}, O^1^/1905/2:132, Memorandum by the *Fermiers générals* in defense of their rights to levy dues, 12 November 1776.
 
 [^27]: Guiffrey, “Le Tombeau.”
 
@@ -106,14 +106,14 @@ In contrast to fiction and satire, which in the eighteenth century often feature
 
 [^34]: See *Edit du roy pour le retranchement du luxe*, March 1700, in Nicolas De La Mare, *Traité de police*, 4 vols. (Paris: Brunet 1705–38), 1:419–23.
 
-[^35]: See Antoine Hatzenberger, “Luxe d’ostentation et luxe de mollesse: La critique rousseauiste des carosses,” in *Architecture, Cultural History, Autobiography,* ed. Jonathan Mallinson, [[SVEC]] (Oxford: Voltaire Foundation, 2008): 227–42.
+[^35]: See Antoine Hatzenberger, “Luxe d’ostentation et luxe de mollesse: La critique rousseauiste des carosses,” in *Architecture, Cultural History, Autobiography,* ed. Jonathan Mallinson, {% abbr '*SVEC*' %} (Oxford: Voltaire Foundation, 2008): 227–42.
 
 [^36]: Daniel Vaillancourt, “Faire rouler la carosse, ou comment le XVIII^e^ siècle ne marche pas,” in *Classical Unities: Place, Time, Action*, [Acts of the 32nd Annual Congress of the North American Society for Seventeenth-Century French Literature, Tulane University, 13–15 April 2000](https://www.worldcat.org/title/47728821), ed. Erec Koch, Biblio 17 (Tübingen: Narr, 2001), 45–55.
 
 [^37]: Réau, *J-B Pigalle*, 23.
 
-[^38]: [[AN]], [[MC]]/ET/LVII/574, Jean-Baptiste Pigalle, “Inventaire après décès,” 29 August 1785.
+[^38]: {% abbr 'AN' %}, {% abbr 'MC' %}/ET/LVII/574, Jean-Baptiste Pigalle, “Inventaire après décès,” 29 August 1785.
 
 [^39]: Jean-Félix Watin, *L’art du peintre, doreur, vernisseur* [1773], ed. Thierry Verdier (Montpellier: Pulm, 2005), 101–2.
 
-[^40]: Jean-Baptiste Pigalle, “Inventaire après décès,” 29 August 1785, [[AN]], [[MC]]/ET/LVII/574.
+[^40]: Jean-Baptiste Pigalle, “Inventaire après décès,” 29 August 1785, {% abbr 'AN' %}, {% abbr 'MC' %}/ET/LVII/574.

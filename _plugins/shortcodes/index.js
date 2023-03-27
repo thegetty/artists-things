@@ -1,8 +1,10 @@
 //
 // CUSTOMIZED FILE
-// added thing shortcode, lines 15 and 32
+// added abbr shortcode, lines 7 and 23
+// added thing shortcode, lines 17 and 34
 //
 const addComponentTag = require('../../_plugins/components/addComponentTag')
+const abbr = require('./abbr')
 const annoref = require('./annoref')
 const backmatter = require('./backmatter')
 const bibliography = require('./bibliography')
@@ -18,7 +20,7 @@ const tombstone = require('./tombstone')
 
 module.exports = function(eleventyConfig, collections, options) {
   const addShortcode = shortcodeFactory(eleventyConfig, collections)
-
+  addShortcode('abbr', abbr)
   addComponentTag(eleventyConfig, 'annoref', annoref)
   eleventyConfig.addPairedShortcode('backmatter', function(content, ...args) {
     return backmatter(eleventyConfig)(content, ...args)
