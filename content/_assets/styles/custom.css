@@ -463,6 +463,7 @@ q-modal {
 /* inline buttons */
 .quire-citation__button.quire-thing__button {
   border-bottom-width: 0px;
+  font-weight: 700;
 }
 .quire-citation__button.quire-thing__button:hover {
   border-bottom-width: 0px;
