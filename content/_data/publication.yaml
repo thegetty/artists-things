@@ -87,7 +87,7 @@ license:
   name: Creative Commons Attribution-NonCommerical 4.0 International License
   abbreviation: CC BY-NC
   url: https://creativecommons.org/licenses/by-nc/4.0/
-  scope: some-exceptions # full | text-only | some-exceptions
+  scope: text-only # full | text-only | some-exceptions
 
 # ------------------------------------------------------------------------------
 # Formats, Resources & Links
