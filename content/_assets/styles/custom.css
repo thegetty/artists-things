@@ -4,6 +4,8 @@
   --black: #000;
   --gray: #888;
   --gap: 1.75rem;
+
+  --atlas-background: var(--beige);
 }
 @media screen and (min-width: 40rem) {
   :root {
