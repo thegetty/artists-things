@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Handle a page redirect
+//
 /**
  * Renders a menu item
  *
@@ -9,20 +13,22 @@
  */
 module.exports = function(eleventyConfig) {
   const pageTitle = eleventyConfig.getFilter('pageTitle')
+  const urlFilter = eleventyConfig.getFilter('url')
 
   return function(params) {
     const { currentURL, page } = params
     const { data, url } = page
-    const { label, layout, title } = data
+    const { label, layout, redirect, title } = data
 
     const titleText = pageTitle({ label, title })
+    const targetURL = redirect ? redirect : url
     /**
      * Check if item is a reference to a built page or just a heading
      * @type {Boolean}
      */
     const isPage = !!layout
     return isPage
-      ? `<a href="${url}" class="${currentURL === url ? 'active' : ''}">${titleText}</a>`
+      ? `<a href="${urlFilter(targetURL)}" class="${currentURL === targetURL ? 'active' : ''}">${titleText}</a>`
       : titleText
   }
 }

@@ -7,6 +7,11 @@ The [Quire Eleventy package](https://github.com/thegetty/quire/tree/main/package
 **_includes/components/icons.js**
 Added custom search icon
 
+**_includes/components/menu/item.js**
+**_includes/components/table-of-contents/item/list.js**
+**content/_computed/eleventyComputed.js**
+Handle a page redirect, so that the Things page goes to Contents
+
 **_includes/components/navigation.js**
 Altered to show current page title instead of homepage link, as well as a link to the contents ("Things") page
 
