@@ -34,6 +34,12 @@ During the course of Duplessis and d’Angiviller’s correspondence, the bath, 
 
 There is no evidence in the *bâtiments* papers to suggest that d’Angiviller was moved by Duplessis’s anguish to change his mind. Seemingly, he did not relent from his “measured refusal.” He replied to Duplessis’s entreaty in the calm, controlled and depersonalized language of the nobleman and the royal office holder enforcing bureaucratic regulations by his rational and objective decision making. In order to bathe, Duplessis was forced to keep additional rented lodgings outside the Louvre, a cost he had hoped to save himself by fully installing himself at the Galerie. However, the painter seems not to have borne d’Angiviller any ill will for his perceived betrayal of the trust. In 1791 Duplessis publicly defended d’Angiviller and his administration against accusations of corruption leveled by revolutionaries.[^26] {% contributors context=pageContributors format='symbol' %}
 
+<div class="additional-figs" hidden>
+
+{% figuregroup '3' 'fig-181' %}
+
+</div>
+
 [^1]: See Jules Belleudy, *J. S. Duplessis, peintre du roi (1725–1802)* (Chartres: Durand, 1913), 101–7.
 
 [^2]: See Jules-Joseph Guiffrey, “Logements d’artistes au Louvre,” {% abbr '*NAAF*' %}*,* 1873, 1–221. For Coypel, see also {% thing 'bed' %}. For the Silvestres, see Dena Goodman and Emily Talbot, “Documenting Art, Writing Biography: Construction of the Silvestre Family History 1660–1868,” *Journal of Family History* 40, no. 3 (2015): 277–304. When Jacques-Augustin Silvestre wrote to Marigny in 1766 formally to request the succession of his father’s *logement*, he observed, “for more than one hundred years it has been our honor, inherited from father to son, to teach the king and the royal family to draw. For almost the same amount of time our ancestors have enjoyed possession of a *logement* at the Louvre” (“il y a plus de cent ans que de père en fils nous avons l’honneur d’enseigner à dessiner au Roy et à la famille Royale. Il y a à peu près le même temps que nos ancestres ont l’avantage de posséder un logement aux galleries du Louvre”). See {% abbr 'AN' %}, O^1^/1673/24: Silvestre to Marigny, 30 April 1766.

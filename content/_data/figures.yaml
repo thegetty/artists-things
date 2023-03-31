@@ -593,26 +593,26 @@ figure_list:
     credit: "Frankfurt am Main, Städel Museum, 16733."
 
   - id: "fig-086-a"
-    src: "figures/086-a.jpg"
+    src: "figures/086-a-FPO.jpg"
     # zoom: true
     label: "Fig. 86"
     caption: "Covers of the five surviving volumes of Johann-Georg Wille’s journal. Top row, left to right: BnF vol. 1 (1759–68), BnF vol. 2 (1768–76), Frits Lugt volume (1777–83); bottom row, left to right: BnF vol. 3 (1783–89); BnF vol. 4 (1789–93)."
     credit: "Paris, Bibliothèque Nationale de France (images courtesy of Gallica); and Paris, Frits Lugt Collection, Fondation Custodia."
   
   - id: "fig-086-b"
-    src: "figures/086-b.jpg"
+    src: "figures/086-b-FPO.jpg"
     # zoom: true
   
   - id: "fig-086-c"
-    src: "figures/086-c.jpg"
+    src: "figures/086-c-FPO.jpg"
     # zoom: true
   
   - id: "fig-086-d"
-    src: "figures/086-d.jpg"
+    src: "figures/086-d-FPO.jpg"
     # zoom: true
   
   - id: "fig-086-e"
-    src: "figures/086-e.jpg"
+    src: "figures/086-e-FPO.jpg"
     # zoom: true
 
   - id: "fig-087"
