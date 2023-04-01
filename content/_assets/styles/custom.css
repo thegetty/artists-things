@@ -228,7 +228,7 @@
 .content .q-figure.is-offset {
   float: left;
   margin-right: var(--gap);
-  margin-top: 0;
+  margin-top: .75rem;
   width: 17.5rem;
   max-width: calc((100% - var(--gap) - .35rem) / 2);
 }
@@ -244,6 +244,54 @@
     width: 24.5rem;
   }
 }
+.q-figure > a:hover img {
+  box-shadow: none;
+}
+/* Add padding to clean up trailing lines around the float */
+.content .q-figure.has-1x-padding-bottom {
+  padding-bottom: 3.5rem;
+}
+.content .q-figure.has-2x-padding-bottom {
+  padding-bottom: 7rem;
+}
+/* Figure groups with 2 side-by-side images */
+figure.q-figure.q-figure--group.q-figure--group--2 figure {
+  display: inline-block;
+  margin: 0;
+  width: calc((100% - var(--gap) - 6px ) / 2);
+}
+figure.q-figure.q-figure--group.q-figure--group--2 figure:first-child {
+  margin-right: var(--gap);
+}
+figure.q-figure.q-figure--group figure figcaption {
+  display: none;
+}
+/* Figure group with 3 verticall images */
+figure.q-figure.q-figure--group.q-figure--group--3 figure {
+  margin-bottom: 1rem;
+  margin-top: 0;
+}
+figure.q-figure.q-figure--group.q-figure--group--3 figure:last-of-type {
+  margin-bottom: 0;
+}
+/* Figure group with a row of three and a row of two (fig. 86) */
+figure.q-figure.q-figure--group.q-figure--group--5 figure {
+  display: inline-block;
+  width: calc((100% - var(--gap)) / 3);
+  margin-top: 0;
+  margin-bottom: 0;
+}
+figure.q-figure.q-figure--group.q-figure--group--5 figure:nth-child(-n+3) {
+  margin-bottom: calc(var(--gap) / 2);
+}
+figure.q-figure.q-figure--group.q-figure--group--5 figure:nth-child(1),
+figure.q-figure.q-figure--group.q-figure--group--5 figure:nth-child(2),
+figure.q-figure.q-figure--group.q-figure--group--5 figure:nth-child(4) {
+  margin-right: calc((var(--gap) / 2) - 5px);
+}
+figure.q-figure.q-figure--group.q-figure--group--5 figure:nth-child(4) {
+  margin-left: calc( ( ((100% - var(--gap)) / 3) + ((100% - var(--gap)) / 3) + (var(--gap) / 2) ) / 4 );
+}
 
 /* Figure Captions */
 .content figure .q-figure__caption {
@@ -258,6 +306,10 @@
 .q-figure__label--below .q-figure__modal-link {
   color: currentColor;
   text-transform: uppercase;
+}
+figure.q-figure.q-figure--group > figcaption strong:first-child {
+  text-transform: uppercase;
+  margin-right: .5rem;
 }
 
 /* Figure Modal */
