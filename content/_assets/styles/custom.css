@@ -167,9 +167,11 @@
 }
 .quire-page__content .container .content p {
   line-height: 1.625;
+}
+.quire-essay .quire-page__content .container .content p {
   text-indent: var(--gap);
 }
-.quire-page__content .container .content p:first-child {
+.quire-essay .quire-page__content .container .content p:first-child {
   text-indent: 0;
 }
 .content p:not(:last-child) {
@@ -179,13 +181,21 @@
   color: currentColor;
   font-weight: 600;
 }
-.quire-page__content .container .content p strong:first-child {
+.quire-essay .quire-page__content .container .content p strong:first-child {
   font-size: 1.125rem;
+}
+.quire-essay .quire-page__content .container .content p strong.large-opener {
+  font-size: 1.75rem;
+  font-style: italic;
+  font-weight: 400;
 }
 .quire-page__content .content .footnote-ref a {
   line-height: 0;
   font-size: .75rem;
   font-weight: normal;
+}
+.quire-page__content .container .content blockquote p:first-child:before {
+  content: none;
 }
 
 /* Page Contributor */

@@ -50,7 +50,7 @@ Oppenord and Saint-Aubin responded quite differently to the circle. Oppenord wor
 
 > [L]ook upon an old wall covered with dirt, or the odd appearance of some streaked stones and in them you will discover landscapes, battles, clouds, uncommon attitudes, funny faces, draperies etc. Out of this confused mass of objects, the mind will be furnished with an abundance of designs and subjects perfectly new.[^15]
 
-{% figure 'fig-017' 'is-offset' %}
+{% figure 'fig-017' 'is-offset has-1x-padding-bottom' %}
 
 Where Oppenord’s independent reading pursues and demonstrates learning, erudition, intellect, in the same humanist terms as Ripa’s *Iconologie*, Saint-Aubin’s strategies of reading and response reveal objectives quite at odds with those of Pernéty. They were at once more banal (the price of paint and canvas) and more inspired.
 
