@@ -201,10 +201,15 @@
   cursor: pointer;
 }
 
-/* Page Section Break (in Introduction */
-.quire-page__content .section-break {
-  text-align: center;
-  letter-spacing: 1.75rem;
+/* Page Section Break (in Introduction) */
+.quire-page__content .container .content hr {
+  height: 1px;
+  width: 10.5rem;
+  background-color: var(--black);
+  margin: 1.75rem auto;
+}
+.quire-page__content .container .content hr::after {
+  content: none;
 }
 
 /* Figures */
