@@ -213,7 +213,12 @@
   padding: 0;
 }
 .content .q-figure.is-indented {
-  width: calc(100% - var(--gap) - var(--gap));
+  width: calc(100% - (var(--gap) * 2));
+  margin-left: auto;
+  margin-right: auto;
+}
+.content .q-figure.is-indented-2x {
+  width: calc(100% - (var(--gap) * 4));
   margin-left: auto;
   margin-right: auto;
 }
