@@ -7,6 +7,9 @@ The [Quire Eleventy package](https://github.com/thegetty/quire/tree/main/package
 **_includes/components/icons.js**
 Added custom search icon
 
+**_includes/components/figure/caption.js**
+Don't output any HTML if there aren't caption elements
+
 **_includes/components/menu/item.js**
 **_includes/components/table-of-contents/item/list.js**
 **content/_computed/eleventyComputed.js**
@@ -33,6 +36,9 @@ Copied essay.liquid, except that it adds owners to the pageHeader and a `.thing-
 **_plugins/filters/lowerCase.js**
 **_plugins/filters/index.js**
 Added new filter to convert string to lower case, for use in Liquid tempates
+
+**_plugins/shortcodes/figureGroup.js**
+Added optional group figure caption, and optional class, and simplify output to remove rows
 
 **_plugins/shortcodes/index.js**
 Registered the new `abbr` and `thing` shortcodes
