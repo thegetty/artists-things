@@ -1259,7 +1259,8 @@ a:hover .quire-thing__main__icon svg {
   font-size: 1rem;
   padding: 0 .5rem .5rem 0;
 }
-.taxonomy-table .quire-citation__button.quire-thing__button {
+.taxonomy-table .quire-citation__button.quire-thing__button,
+#owners-list .quire-citation__button.quire-thing__button {
   font-weight: 400;
 }
 .taxonomy-table .quire-citation.quire-thing::after {
