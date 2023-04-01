@@ -225,6 +225,11 @@
 .content .q-figure.is-paired + .q-figure.is-paired {
   margin-left: var(--gap);
 }
+.content .q-figure.is-centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 .content .q-figure.is-offset {
   float: left;
   margin-right: var(--gap);

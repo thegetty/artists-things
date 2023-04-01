@@ -882,35 +882,44 @@ figure_list:
   - id: "fig-118-a"
     src: "figures/118-a.jpg"
     # zoom: true
-    label: "Fig. 118"
-    caption: "Title pages to the two main parts, “Recueil de sujets d’histoire ” (Compendium of history subjects) and “État des tableaux faits par Monsieur Lagrenée” (Inventory of paintings made by Monsieur Lagrenée), in Louis-Jean-François Lagrenée’s order book (*livre de raison*), ca. 1770–1805."
+    label: "Fig. 118a"
+    caption: "Title pages to the first main part, “Recueil de sujets d’histoire ” (Compendium of history subjects), in Louis-Jean-François Lagrenée’s order book (*livre de raison*), ca. 1770–1805."
     credit: "Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, Ms. 50."
 
   - id: "fig-118-b"
     src: "figures/118-b.jpg"
     # zoom: true
+    label: "Fig. 118b"
+    caption: "Title pages to the second main part, “État des tableaux faits par Monsieur Lagrenée” (Inventory of paintings made by Monsieur Lagrenée), in Louis-Jean-François Lagrenée’s order book (*livre de raison*), ca. 1770–1805."
+    credit: "Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, Ms. 50."
 
   - id: "fig-119-a"
     src: "figures/119-a.jpg"
     # zoom: true
-    label: "Fig. 119"
-    caption: "“État des Tableaux faits par Monsieur Lagrenée” (Inventory of paintings made by Monsieur Lagrenée), from Louis-Jean-François Lagrenée’s order book (*livre de raison*), ca. 1770–1805, 255–56."
+    label: "Fig. 119a"
+    caption: "“État des Tableaux faits par Monsieur Lagrenée” (Inventory of paintings made by Monsieur Lagrenée), from Louis-Jean-François Lagrenée’s order book (*livre de raison*), ca. 1770–1805, 255."
     credit: "Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, Ms, 50."
 
   - id: "fig-119-b"
     src: "figures/119-b.jpg"
     # zoom: true
+    label: "Fig. 119b"
+    caption: "“État des Tableaux faits par Monsieur Lagrenée” (Inventory of paintings made by Monsieur Lagrenée), from Louis-Jean-François Lagrenée’s order book (*livre de raison*), ca. 1770–1805, 256."
+    credit: "Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, Ms, 50."
 
   - id: "fig-120-a"
     src: "figures/120-a.jpg"
     # zoom: true
-    label: "Fig. 120"
-    caption: "“État des Tableaux faits par Monsieur Lagrenée” Inventory of paintings made by Monsieur Lagrenée, from Louis-Jean-François Lagrenée’s order book (*livre de raison*), ca. 1770–1805 273–74."
+    label: "Fig. 120a"
+    caption: "“État des Tableaux faits par Monsieur Lagrenée” Inventory of paintings made by Monsieur Lagrenée, from Louis-Jean-François Lagrenée’s order book (*livre de raison*), ca. 1770–1805, 273."
     credit: "Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, Ms. 50."
   
   - id: "fig-120-b"
     src: "figures/120-b.jpg"
     # zoom: true
+    label: "Fig. 120b"
+    caption: "“État des Tableaux faits par Monsieur Lagrenée” Inventory of paintings made by Monsieur Lagrenée, from Louis-Jean-François Lagrenée’s order book (*livre de raison*), ca. 1770–1805, 274."
+    credit: "Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, Ms. 50."
 
   - id: "fig-121"
     src: "figures/121.jpg"
