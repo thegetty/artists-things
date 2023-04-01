@@ -15,6 +15,9 @@ Don't output any HTML if there aren't caption elements
 **content/_computed/eleventyComputed.js**
 Handle a page redirect, so that the Things page goes to Contents
 
+**_includes/components/table-of-contents/list/index.js**
+Added three dropdown selects for the thing grid
+
 **_includes/components/navigation.js**
 Altered to show current page title instead of homepage link, as well as a link to the contents ("Things") page
 

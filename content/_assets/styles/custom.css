@@ -697,6 +697,24 @@ a:hover .quire-thing__main__icon svg {
 .quire-contents-list {
   padding: 0;
 }
+.table-of-contents-select-group {
+  display: flex;
+  justify-content: space-around;
+  position: absolute;
+  top: 256px;
+  left: calc(var(--gap) + 1rem);
+  right: calc(var(--gap) + 1rem);
+  z-index: 1;
+}
+.table-of-contents-select label {
+  color: var(--black);
+  font-weight: 600;
+}
+.table-of-contents-select select {
+  color: var(--black);
+  padding: .25rem;
+  border-width: 0;
+}
 .table-of-contents-list {
   display: flex;
   /* font-size: 1rem; */
@@ -776,7 +794,7 @@ a:hover .quire-thing__main__icon svg {
   right: var(--gap);
   top: 240px;
   margin: 0 !important;
-  padding-top: 1.75rem;
+  padding-top: 4.375rem;
   border-top: 1px solid var(--accent-color);
 }
 .table-of-contents-list li:nth-child(4) ol:before,
@@ -935,6 +953,19 @@ a:hover .quire-thing__main__icon svg {
   }
 }
 @media screen and (min-width: 40rem) and (max-width: 66.5rem) {
+  .table-of-contents-select-group {
+    display: block;
+    left: 18.5rem;
+    top: 3.5rem;
+  }
+  .table-of-contents-select-group .table-of-contents-select {
+    display: inline-block;
+    margin-left: 1.75rem;
+    margin-bottom: .5rem;
+  }
+  .table-of-contents-list li:nth-child(4) ol li:nth-child(-n+3) {
+    margin-top: 5.25rem;
+  }
   .table-of-contents-list {
     flex-direction: column;
     margin-top: 3.5rem;
@@ -1035,6 +1066,23 @@ a:hover .quire-thing__main__icon svg {
   }
 }
 @media screen and (min-width: 40rem) and (max-width: 56rem) {
+  .table-of-contents-select-group .table-of-contents-select {
+    display: block;
+  }
+  .table-of-contents-select label {
+    display: inline-block;
+    width: 4.375rem;
+  }
+  .table-of-contents-select select {
+    width: 17.5rem;
+    max-width: calc(100% - 5rem);
+  }
+  .table-of-contents-list li:nth-child(4) ol li:nth-child(-n+3) {
+    margin-top: 0;
+  }
+  .table-of-contents-list li:nth-child(4) ol li:nth-child(-n+2) {
+    margin-top: 7.875rem;
+  }
   .table-of-contents-list li:nth-child(4) ol {
     grid-template-columns: 50% 50%;
   }
@@ -1074,6 +1122,23 @@ a:hover .quire-thing__main__icon svg {
   }
 }
 @media screen and (max-width: 40rem) {
+  .table-of-contents-select-group {
+    display: block;
+    left: calc(var(--gap) + 1rem);
+    right: calc(var(--gap) + 1rem);
+    top: 356px;
+  }
+  .table-of-contents-select label {
+    display: inline-block;
+    width: 4.375rem;
+  }
+  .table-of-contents-select select {
+    width: 17.5rem;
+    max-width: calc(100% - 5rem);
+  }
+  .table-of-contents-list li:nth-child(4) ol li:nth-child(-n+3) {
+    margin-top: 1.75rem;
+  }
   .table-of-contents-list {
     display: block;
     column-count: 2;
