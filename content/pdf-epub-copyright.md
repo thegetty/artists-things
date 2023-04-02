@@ -1,7 +1,7 @@
 ---
 layout: base.11ty.js
 order: 4
-class: backmatter
+class: backmatter about-copyright-page
 outputs:
   - epub
   - pdf

@@ -56,7 +56,6 @@ project_team:
   - Marci Boudreau, *Design*
   - Molly McGeehan, *Production*
   - Karen Ehrman, *Rights*
-  - Erin Cecele Dunigan and Chloe Millhauser, *Digital Assistants*
 
 # ------------------------------------------------------------------------------
 # Contributors
@@ -139,7 +138,16 @@ subject:
   - type: keywords
     name: eighteenth century, France, found items, recovered, lost, missing, ownership, ordinary, illustrated, reference, anecdotes, curiosity, Jean Antoine Watteau, Francois Boucher, Jean Baptiste Greuze, Elizabeth Vigee-Lebrun, Jen Honore Fragonard, Jacques Louis David, Jean Simeon Chardin, Louvre, Francois Lemoyne, sword, innovative, engaging, almanac, marriage contract, armchair, book, pastels, camera obscura, quill, crayon, dog, shell, sketchbook, snuffbox, sugar spoon, gaming set, glasses, table, handkerchief, teacup, harpsichord, umbrella, balloon, votive, intaglio, watch, journal, water fountain, wig, key, lantern, will, letters, wine, mannequin
 
-library_of_congress_cip:
+library_of_congress_cip: |
+  Library of Congress Cataloging-in-Publication Data
+  - Names:
+  - Title:
+  - Description:
+  - Identifiers:
+  - Subjects:
+  - Classification:
+  - LC record available at
+  - LC ebook record available at
 
 # ------------------------------------------------------------------------------
 # Revision History

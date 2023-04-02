@@ -1,6 +1,7 @@
 ---
 title: About
 layout: page
+class: backmatter about-copyright-page
 order: 303
 outputs: [html]
 ---
@@ -23,7 +24,7 @@ outputs: [html]
 
 ### Permanent URL
 
-{{ publication.identifier.url }}
+{{ publication.url }}
 
 </div>
 <div class="revision-history">
@@ -85,8 +86,7 @@ outputs: [html]
 </div>
 <div class="cover-image-credits">
 
-Front cover:
-Back cover:
+Front cover: Double-hinged wig spectacles, ca. 1795. White metal frame and glass lenses, 38 mm (eye). London, British Optical Association Museum, College of Optometrists, inv. 1998.235.
 
 </div>
 

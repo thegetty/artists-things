@@ -1436,3 +1436,50 @@ a:hover .quire-thing__main__icon svg {
     margin-bottom: 0;
   }
 }
+
+/* About & Copyright Pages */
+.about-copyright-page .citation-info,
+.about-copyright-page .revision-history,
+.about-copyright-page .other-formats,
+.about-copyright-page .copyright {
+  margin-top: 3.5rem;
+}
+.about-copyright-page .quire-page__content .container .content ul {
+  margin-left: 0;
+}
+.about-copyright-page .quire-page__content .container .content ul li::before {
+  content: none;
+}
+.about-copyright-page .copyright p {
+  margin-bottom: 1rem;
+}
+.about-copyright-page .quire-copyright {
+  padding: 0;
+  margin-bottom: 1rem;
+}
+.about-copyright-page .quire-copyright .copyright__publisher-logo {
+  display: none;
+}
+.about-copyright-page .quire-copyright a.quire-copyright__icon__link {
+  border-bottom-width: 0 !important;
+}
+.about-copyright-page .publisher p {
+  margin-bottom: 0;
+}
+.about-copyright-page .project-team ul {
+  margin-bottom: 1rem;
+  margin-left: 0;
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+.about-copyright-page .project-team ul li {
+  margin: 0 !important;
+}
+.about-copyright-page .quire-page__content .container .content .cip-data {
+  margin-bottom: 1rem;
+}
+.about-copyright-page .quire-page__content .container .content .cip-data p,
+.about-copyright-page .quire-page__content .container .content .cip-data ul,
+.about-copyright-page .quire-page__content .container .content .cip-data li {
+  margin: 0
+}
