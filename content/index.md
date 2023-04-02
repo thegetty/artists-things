@@ -5,6 +5,8 @@ order: 1
 menu: false
 toc: false
 image: 
+  - figures/cover-image.jpg
+  - figures/cover-text.svg
 ---
 
-TK
+{{ publication.description.full }}

@@ -1,4 +1,8 @@
 ---
+## CUSTOMIZED FILE
+## Accepts an array of images stacked on top of one another
+## add adds .visually-hidden to main title texts
+##
 class: quire-cover
 description: Quire publication cover page
 layout: base.11ty.js
@@ -8,11 +12,13 @@ layout: base.11ty.js
 {% assign imagePath = config.figures.imageDir | concat: coverImage | join: '/' %}
 
 <section class="quire-cover__hero hero is-fullheight">
+{% for i in image %}
   <div
     class="quire-cover__overlay"
-    style="background-image: url('{{ imagePath }}');"
+    style="background-image: url('{{ config.figures.imageDir }}/{{ i }}');"
   />
-  <div class="quire-cover__hero-body hero-body">
+{% endfor %}
+  <div class="quire-cover__hero-body hero-body visually-hidden">
     <div class="container is-fluid">
       <h1 class="title" id="page-header-{{ page.filePathStem }}">
         {{ publication.title | markdownify }}

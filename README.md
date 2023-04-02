@@ -30,6 +30,9 @@ Output the list item for 'thing' pages with an image
 **_includes/web-components/modal/index.js**
 Altered getCurrentFigureId() to work with .q-figure__modal-link class anywhere
 
+**_layouts/cover.liquid**
+Accepts an array of images stacked on top of one another, and add adds visually-hidden class to the main title texts
+
 **_layouts/thing.liquid**
 Copied essay.liquid, except that it adds owners to the pageHeader and a `.thing-info` grid to display type, theme, and material.
 
