@@ -11,8 +11,8 @@ toc: false
 <section class="title-block">
 
 {%- if publication.title -%}
-  <h1 class="title">{{ publication.title | markdownify }}{% if publication.subtitle %}: {{ publication.subtitle | markdownify }}{% endif %}
-  {% if publication.reading_line %}<br /><br />{{ publication.reading_line | markdownify }}{% endif %}</h1>
+  <h1 class="title">{{ publication.title | markdownify }}{% if publication.subtitle %}<span class="subtitle-divider">: </span><span class="subtitle">{{ publication.subtitle | markdownify }}</span>{% endif %}
+  {% if publication.reading_line %}<br /><br /><span class="reading-line">{{ publication.reading_line | markdownify }}</span>{% endif %}</h1>
 {%- endif -%}
 
 {%- if publication.contributor_as_it_appears -%}
