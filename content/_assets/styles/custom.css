@@ -21,6 +21,9 @@
   right: 1rem;
   width: auto;
 }
+.quire-cover .quire-page__content .container.is-fluid .content p {
+  line-height: 1.625;
+}
 
 /* Page Width */
 @media screen {
@@ -57,6 +60,10 @@
 /*  Nav Bar */
 .quire-navbar {
   font-size: .9375rem;
+  z-index: 10;
+}
+q-modal {
+  z-index: 11;
 }
 .quire-navbar *,
 .quire-navbar a { 
@@ -152,10 +159,12 @@
 .quire-contents-buttons li.quire-nav-button.next {
   background-color: transparent;
 }
-.quire-contents-buttons li.quire-nav-button.next a {
+.quire-contents-buttons li.quire-nav-button.next a,
+.quire-cover .quire-contents-buttons li.quire-nav-button.next a {
   color: var(--black);
 }
-.quire-contents-buttons li.quire-nav-button.next svg {
+.quire-contents-buttons li.quire-nav-button.next svg,
+.quire-cover .quire-contents-buttons li.quire-nav-button.next svg {
   fill: var(--black);
 }
 .quire-contents-buttons li.quire-nav-button:hover,
@@ -166,7 +175,8 @@
   color: var(--accent-color);
 }
 .quire-contents-buttons li.quire-nav-button a:hover svg,
-.quire-contents-buttons li.quire-nav-button.next svg:hover {
+.quire-contents-buttons li.quire-nav-button.next svg:hover,
+.quire-cover .quire-contents-buttons li.quire-nav-button.next a:hover svg {
   fill: var(--accent-color);
 }
 
@@ -734,6 +744,7 @@ a:hover .quire-thing__main__icon svg {
   font-weight: 600;
 }
 .table-of-contents-select select {
+  background-color: transparent;
   color: var(--black);
   padding: .25rem;
   border-width: 0;
