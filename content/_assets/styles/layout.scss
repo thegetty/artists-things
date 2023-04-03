@@ -40,9 +40,6 @@
   h5,
   h6 {
     font-family: $quire-headings-font;
-    @if $quire-headings-font == $ibm-sans {
-      letter-spacing: -0.025em;
-    }
   }
 
   // Styles used whether JS is enabled or not

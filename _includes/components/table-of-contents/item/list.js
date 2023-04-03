@@ -1,6 +1,6 @@
 //
 // CUSTOMIZED FILE
-// Output "thing" pages with an image
+// Output "thing" pages with an image, and Handle a page redirect
 //
 const path = require ('path')
 const { html, oneLine } = require('~lib/common-tags')
@@ -40,6 +40,7 @@ module.exports = function (eleventyConfig) {
       image,
       label,
       layout,
+      redirect,
       short_title,
       subtitle,
       summary,
@@ -74,10 +75,12 @@ module.exports = function (eleventyConfig) {
         ? `<div class="abstract-text">${ removeHTML(markdownify(abstract)) }</div>`
         : ''
 
+    const targetURL = redirect ? redirect : page.url
+
     let mainElement = `${markdownify(pageTitleElement)}`
 
     if (isPage) {
-      mainElement = `<a href="${urlFilter(page.url)}">${mainElement}${imageElement}</a>`
+      mainElement = `<a href="${urlFilter(targetURL)}">${mainElement}${imageElement}</a>`
     } else {
       classes.push('no-landing')
     }

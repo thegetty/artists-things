@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Handle a page redirect
+//
 const chalkFactory = require('~lib/chalk')
 const path = require('path')
 
@@ -27,6 +31,7 @@ module.exports = {
         object: data.object,
         order: data.order,
         classes: data.pageClasses,
+        redirect: data.redirect,
         short_title: data.short_title,
         subtitle: data.subtitle,
         summary: data.summary,

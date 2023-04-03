@@ -593,27 +593,39 @@ figure_list:
     credit: "Frankfurt am Main, Städel Museum, 16733."
 
   - id: "fig-086-a"
-    src: "figures/086-a.jpg"
+    src: "figures/086-a-FPO.jpg"
     # zoom: true
-    label: "Fig. 86"
-    caption: "Covers of the five surviving volumes of Johann-Georg Wille’s journal. Top row, left to right: BnF vol. 1 (1759–68), BnF vol. 2 (1768–76), Frits Lugt volume (1777–83); bottom row, left to right: BnF vol. 3 (1783–89); BnF vol. 4 (1789–93)."
-    credit: "Paris, Bibliothèque Nationale de France (images courtesy of Gallica); and Paris, Frits Lugt Collection, Fondation Custodia."
+    label: "Fig. 86a"
+    caption: "Cover of one of the five surviving volumes of Johann-Georg Wille’s journal. BnF vol. 1 (1759–68)."
+    credit: "Paris, Bibliothèque Nationale de France (image courtesy of Gallica)."
   
   - id: "fig-086-b"
-    src: "figures/086-b.jpg"
+    src: "figures/086-b-FPO.jpg"
     # zoom: true
+    label: "Fig. 86b"
+    caption: "Cover of one of the five surviving volumes of Johann-Georg Wille’s journal. BnF vol. 2 (1768–76)."
+    credit: "Paris, Bibliothèque Nationale de France (image courtesy of Gallica)."
   
   - id: "fig-086-c"
-    src: "figures/086-c.jpg"
+    src: "figures/086-c-FPO.jpg"
     # zoom: true
+    label: "Fig. 86c"
+    caption: "Cover of one of the five surviving volumes of Johann-Georg Wille’s journal. Frits Lugt volume (1777–83)."
+    credit: "Paris, Frits Lugt Collection, Fondation Custodia."
   
   - id: "fig-086-d"
-    src: "figures/086-d.jpg"
+    src: "figures/086-d-FPO.jpg"
     # zoom: true
+    label: "Fig. 86d"
+    caption: "Cover of one of the five surviving volumes of Johann-Georg Wille’s journal. BnF vol. 3 (1783–89)."
+    credit: "Paris, Bibliothèque Nationale de France (image courtesy of Gallica)."
   
   - id: "fig-086-e"
-    src: "figures/086-e.jpg"
+    src: "figures/086-e-FPO.jpg"
     # zoom: true
+    label: "Fig. 86e"
+    caption: "Cover of one of the five surviving volumes of Johann-Georg Wille’s journal. BnF vol. 4 (1789–93)."
+    credit: "Paris, Bibliothèque Nationale de France (image courtesy of Gallica)."
 
   - id: "fig-087"
     src: "figures/087.jpg"
@@ -621,35 +633,55 @@ figure_list:
     label: "Fig. 87"
     caption: "Loose papers tucked inside front cover of Frits Lugt volume of Johann-Georg Wille’s journal (1777–83)."
     credit: "Paris, Frits Lugt Collection, Fondation Custodia."
-
-  - id: "fig-088"
-    src: "figures/088.jpg"
+  
+  - id: "fig-088-a"
+    src: "figures/088-a.jpg"
     # zoom: true
-    label: "Fig. 88"
-    caption: "Sellers’ labels inside the covers of Johann-Georg Wille’s journal notebooks. Top: BnF vol. 1 (1759–68); middle: BnF vol. 3 (1783–89); bottom: BnF vol. 4 (1789–93)."
+    label: "Fig. 88a"
+    caption: "Seller’s label inside the cover of Johann-Georg Wille’s journal notebook. BnF vol. 1 (1759–68)."
+    credit: "Paris, Bibliothèque Nationale de France."
+  
+  - id: "fig-088-b"
+    src: "figures/088-b.jpg"
+    # zoom: true
+    label: "Fig. 88b"
+    caption: "Seller’s label inside the cover of Johann-Georg Wille’s journal notebooks. BnF vol. 3 (1783–89)."
+    credit: "Paris, Bibliothèque Nationale de France."
+  
+  - id: "fig-088-c"
+    src: "figures/088-c.jpg"
+    # zoom: true
+    label: "Fig. 88c"
+    caption: "Seller’s label inside the cover of Johann-Georg Wille’s journal notebooks. BnF vol. 4 (1789–93)."
     credit: "Paris, Bibliothèque Nationale de France."
 
   - id: "fig-089-a"
     src: "figures/089-a.jpg"
     # zoom: true
-    label: "Fig. 89"
-    caption: "Examples of pages from Johann-Georg Wille’s journals. Left: July 1760 (page 24), BnF vol. 1; (1759–68). right: August 1792 (page 86), BnF vol. 4 (1789–93)."
+    label: "Fig. 89a"
+    caption: "Example page from Johann-Georg Wille’s journals. July 1760 (page 24), BnF vol. 1; (1759–68)."
     credit: "Paris, Bibliothèque Nationale de France. Images courtesy of Gallica."
   
   - id: "fig-089-b"
     src: "figures/089-b.jpg"
     # zoom: true
+    label: "Fig. 89b"
+    caption: "Example page from Johann-Georg Wille’s journals. August 1792 (page 86), BnF vol. 4 (1789–93)."
+    credit: "Paris, Bibliothèque Nationale de France. Images courtesy of Gallica."
 
   - id: "fig-090-a"
     src: "figures/090-a.jpg"
     # zoom: true
-    label: "Fig. 90"
-    caption: "Brevêt de logement for Jacques Caffieri, 1783. Printed form with pen and ink."
+    label: "Fig. 90a"
+    caption: "Brevêt de logement for Jacques Caffieri, 1783. Printed form with pen and ink. Page 1."
     credit: "Paris, Archives Nationales."
   
   - id: "fig-090-b"
     src: "figures/090-b.jpg"
     # zoom: true
+    label: "Fig. 90b"
+    caption: "Brevêt de logement for Jacques Caffieri, 1783. Printed form with pen and ink. Page 2."
+    credit: "Paris, Archives Nationales."
 
   - id: "fig-091"
     src: "figures/091.jpg" 
@@ -710,13 +742,16 @@ figure_list:
   - id: "fig-099-a"
     src: "figures/099-a.jpg"
     # zoom: true
-    label: "Fig. 99"
-    caption: "Mannequin once owned by Louis-François Roubiliac (French, worked in England, 1702–62), undressed (left) and dressed in men’s attire (right), ca. 1750–62. Bronze, iron, hair, cork, wool, wood, leather, and silk, height 68 cm."
+    label: "Fig. 99a"
+    caption: "Mannequin once owned by Louis-François Roubiliac (French, worked in England, 1702–62), undressed, ca. 1750–62. Bronze, iron, hair, cork, wool, wood, leather, and silk, height 68 cm."
     credit: "Museum of London, London."
   
   - id: "fig-099-b"
     src: "figures/099-b.jpg"
     # zoom: true
+    label: "Fig. 99b"
+    caption: "Mannequin once owned by Louis-François Roubiliac (French, worked in England, 1702–62), dressed in men’s attire, ca. 1750–62. Bronze, iron, hair, cork, wool, wood, leather, and silk, height 68 cm."
+    credit: "Museum of London, London."
 
   - id: "fig-100"
     src: "figures/100.jpg"
@@ -847,35 +882,44 @@ figure_list:
   - id: "fig-118-a"
     src: "figures/118-a.jpg"
     # zoom: true
-    label: "Fig. 118"
-    caption: "Title pages to the two main parts, “Recueil de sujets d’histoire ” (Compendium of history subjects) and “État des tableaux faits par Monsieur Lagrenée” (Inventory of paintings made by Monsieur Lagrenée), in Louis-Jean-François Lagrenée’s order book (*livre de raison*), ca. 1770–1805."
+    label: "Fig. 118a"
+    caption: "Title pages to the first main part, “Recueil de sujets d’histoire ” (Compendium of history subjects), in Louis-Jean-François Lagrenée’s order book (*livre de raison*), ca. 1770–1805."
     credit: "Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, Ms. 50."
 
   - id: "fig-118-b"
     src: "figures/118-b.jpg"
     # zoom: true
+    label: "Fig. 118b"
+    caption: "Title pages to the second main part, “État des tableaux faits par Monsieur Lagrenée” (Inventory of paintings made by Monsieur Lagrenée), in Louis-Jean-François Lagrenée’s order book (*livre de raison*), ca. 1770–1805."
+    credit: "Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, Ms. 50."
 
   - id: "fig-119-a"
     src: "figures/119-a.jpg"
     # zoom: true
-    label: "Fig. 119"
-    caption: "“État des Tableaux faits par Monsieur Lagrenée” (Inventory of paintings made by Monsieur Lagrenée), from Louis-Jean-François Lagrenée’s order book (*livre de raison*), ca. 1770–1805, 255–56."
+    label: "Fig. 119a"
+    caption: "“État des Tableaux faits par Monsieur Lagrenée” (Inventory of paintings made by Monsieur Lagrenée), from Louis-Jean-François Lagrenée’s order book (*livre de raison*), ca. 1770–1805, 255."
     credit: "Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, Ms, 50."
 
   - id: "fig-119-b"
     src: "figures/119-b.jpg"
     # zoom: true
+    label: "Fig. 119b"
+    caption: "“État des Tableaux faits par Monsieur Lagrenée” (Inventory of paintings made by Monsieur Lagrenée), from Louis-Jean-François Lagrenée’s order book (*livre de raison*), ca. 1770–1805, 256."
+    credit: "Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, Ms, 50."
 
   - id: "fig-120-a"
     src: "figures/120-a.jpg"
     # zoom: true
-    label: "Fig. 120"
-    caption: "“État des Tableaux faits par Monsieur Lagrenée” Inventory of paintings made by Monsieur Lagrenée, from Louis-Jean-François Lagrenée’s order book (*livre de raison*), ca. 1770–1805 273–74."
+    label: "Fig. 120a"
+    caption: "“État des Tableaux faits par Monsieur Lagrenée” Inventory of paintings made by Monsieur Lagrenée, from Louis-Jean-François Lagrenée’s order book (*livre de raison*), ca. 1770–1805, 273."
     credit: "Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, Ms. 50."
   
   - id: "fig-120-b"
     src: "figures/120-b.jpg"
     # zoom: true
+    label: "Fig. 120b"
+    caption: "“État des Tableaux faits par Monsieur Lagrenée” Inventory of paintings made by Monsieur Lagrenée, from Louis-Jean-François Lagrenée’s order book (*livre de raison*), ca. 1770–1805, 274."
+    credit: "Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, Ms. 50."
 
   - id: "fig-121"
     src: "figures/121.jpg"

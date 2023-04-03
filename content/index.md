@@ -4,7 +4,10 @@ layout: cover
 order: 1
 menu: false
 toc: false
+outputs: [html]
 image: 
+  - figures/cover-image.jpg
+  - figures/cover-text.svg
 ---
 
-TK
+{{ publication.description.full }}
