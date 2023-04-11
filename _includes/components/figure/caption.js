@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Don't output any HTML if there aren't caption elements, lines 25–27
+//
 const { oneLine } = require('~lib/common-tags')
 
 /**
@@ -17,6 +21,10 @@ module.exports = function(eleventyConfig) {
     const mediaSourceLink = sourceUrl
       ? `<span class="q-figure__caption-embed-link"><a href="${sourceUrl}"><em>${sourceUrl}</em></a></span>`
       : ''
+
+    if (!content && !caption && !credit && !mediaSourceLink) {
+      return ''
+    }
     return oneLine`
       <figcaption class="q-figure__caption">
         ${mediaSourceLink}

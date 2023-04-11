@@ -1,3 +1,8 @@
+//
+// CUSTOMIZED FILE
+// refactored logic to handle oxford commas correctly, lines 130–138
+// added handling to display contributor `symbol`, lines 42 and 78–90 
+//
 const chalkFactory = require('~lib/chalk')
 const { html } = require('~lib/common-tags')
 
@@ -34,7 +39,7 @@ module.exports = function (eleventyConfig) {
       type='all'
     } = params
 
-    const formats = ['bio', 'initials', 'name', 'name-title', 'name-title-block', 'string']
+    const formats = ['bio', 'initials', 'name', 'name-title', 'name-title-block', 'string', 'symbol']
 
     if (!formats.includes(format)) {
       logger.error(
@@ -70,6 +75,19 @@ module.exports = function (eleventyConfig) {
           </ul>
         `
         break
+      case 'symbol': {
+        const listItems = contributorList.map((contributor) => {
+          return `
+          <span class="quire-contributor" title="${fullname(contributor)}">${ contributor.symbol }</span>
+          `
+        })
+        contributorsElement = `
+          <span class="quire-contributors-list ${format}">
+            ${listItems.join('')}
+          </span>
+        `
+        break
+      }  
       case 'initials': {
         const contributorInitials = contributorList.map(initials)
         const last = contributorInitials.pop()
@@ -111,10 +129,14 @@ module.exports = function (eleventyConfig) {
       }
       case 'string': {
         const last = contributorNames.pop()
-        const namesString =
-          contributorNames.length >= 1
-            ? contributorNames.join(', ') + ', and ' + last
-            : last
+        let namesString = ''
+        if (contributorNames.length > 1) {
+          namesString = contributorNames.join(', ') + ', and ' + last
+        } else if (contributorNames.length == 1 ){
+          namesString = contributorNames + ' and ' + last
+        } else {
+          namesString = last
+        }
         contributorsElement = `<span class='quire-contributor'>${namesString}</span>`
         break
       }

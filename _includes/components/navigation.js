@@ -1,6 +1,8 @@
 //
 // CUSTOMIZED FILE
-// show current page title instead of homepage link, lines 82–91
+// show current page title instead of homepage link, lines 76–85
+// and use icons.js filter in place of hard-coded SVG icons
+// add center contents page link to Thing pages
 //
 const truncate = require('~lib/truncate')
 const { html } = require('~lib/common-tags')
@@ -19,6 +21,7 @@ const { html } = require('~lib/common-tags')
  */
 module.exports = function(eleventyConfig) {
   const eleventyNavigation = eleventyConfig.getFilter('eleventyNavigation')
+  const icon = eleventyConfig.getFilter('icon')
   const pageTitle = eleventyConfig.getFilter('pageTitle')
   const { imageDir } = eleventyConfig.globalData.config.figures
 
@@ -49,11 +52,7 @@ module.exports = function(eleventyConfig) {
           <a href="${secondPageLink}" rel="next">
             <span class="visually-hidden">Next Page: </span>
             <span class="quire-navbar-button play-button">
-              <svg data-outputs-exclude="epub,pdf">
-                <switch>
-                  <use xlink:href="#start-icon"></use>
-                </switch>
-              </svg>
+              ${icon({ type: 'start', description: 'Next page'})}
             </span>
           </a>
         </li>
@@ -68,11 +67,7 @@ module.exports = function(eleventyConfig) {
         <li class="quire-navbar-page-controls__item quire-previous-page">
           <a href="${url}" rel="previous">
             <span class="visually-hidden">Previous Page: </span>
-            <svg class="left-icon" data-outputs-exclude="epub,pdf">
-              <switch>
-                <use xlink:href="#left-arrow-icon"></use>
-              </switch>
-            </svg>
+            ${icon({ type: 'left-arrow', description: 'Previous page'})}
             ${navBarLabel({ label, short_title, title })}
           </a>
         </li>
@@ -82,10 +77,13 @@ module.exports = function(eleventyConfig) {
     const navBarHomeButton = () => {
       if (!previousPage) return ''
       const { data } = currentPage
-      const { label, short_title, title } = data
+      const { label, short_title, title, tags } = data
+      const thingsLink = (tags == 'thing') 
+        ? `<a href="/contents/" class="things-grid-link">Things:</a>`
+        : ''
       return html`
         <li class="quire-navbar-page-controls__item quire-home-page">
-          ${navBarLabel({ label, short_title, title })}
+          ${thingsLink} <span class="things-page-title">${navBarLabel({ label, short_title, title })}</span>
         </li>
       `
     }
@@ -99,11 +97,7 @@ module.exports = function(eleventyConfig) {
           <a href="${url}" rel='next'>
             <span class="visually-hidden">Next Page: </span>
             ${navBarLabel({ label, short_title, title })}
-            <svg data-outputs-exclude="epub,pdf">
-              <switch>
-                <use xlink:href="#right-arrow-icon"></use>
-              </switch>
-            </svg>
+            ${icon({ type: 'right-arrow', description: 'Next page'})}
           </a>
         </li>
       `
@@ -121,11 +115,7 @@ module.exports = function(eleventyConfig) {
               aria-controls="quire-search"
               onclick="toggleSearch()"
             >
-              <svg data-outputs-exclude="epub,pdf">
-                <switch>
-                  <use xlink:href="#search-icon"></use>
-                </switch>
-              </svg>
+              ${icon({ type: 'search', description: 'Previous page'})}
               <span class="visually-hidden">Search</span>
             </button>
           </div>
@@ -146,11 +136,7 @@ module.exports = function(eleventyConfig) {
               aria-controls="quire-menu"
               tabindex="2"
             >
-              <svg data-outputs-exclude="epub,pdf">
-                <switch>
-                  <use xlink:href="#nav-icon"></use>
-                </switch>
-              </svg>
+              ${icon({ type: 'nav', description: 'Navigation menu'})}
               <span class="visually-hidden">Table of Contents</span>
             </button>
           </div>

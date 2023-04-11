@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// added lowerCase filter, lines 19 and 46
+///
 // Quire data filters
 const fullname = require('./fullname')
 const getAnnotation = require('./getAnnotation')
@@ -12,6 +16,7 @@ const sortReferences = require('./sortReferences')
 // string filters
 const capitalize = require('./capitalize')
 const json = require('./json')
+const lowerCase = require('./lowerCase')
 const removeHTML = require('./removeHTML')
 const slugifyIds = require('./slugifyIds')
 const titleCase = require('./titleCase')
@@ -38,6 +43,7 @@ module.exports = function(eleventyConfig, options) {
    */
   eleventyConfig.addFilter('capitalize', (string) => capitalize(string))
   eleventyConfig.addFilter('json', (string) => json(string))
+  eleventyConfig.addFilter('lowerCase', (string) => lowerCase(string))
   eleventyConfig.addFilter('removeHTML', (string) => removeHTML(string))
   eleventyConfig.addFilter('slugifyIds', (string) => slugifyIds(string, eleventyConfig))
   eleventyConfig.addFilter('titleCase', (string) => titleCase(string))

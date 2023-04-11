@@ -1,3 +1,8 @@
+//
+// CUSTOMIZED FILE
+// changed element for appendChild(sectionElement), Line 44
+// see also _plugins/transforms/outputs/pdf/layout.html
+//
 const chalkFactory = require('~lib/chalk')
 const fs = require('fs-extra')
 const jsdom = require('jsdom')
@@ -36,7 +41,7 @@ module.exports = (eleventyConfig) => {
 
     collection.forEach(({ outputPath, sectionElement }) => {
       try {
-        document.body.appendChild(sectionElement)
+        document.getElementById('quire-primary').appendChild(sectionElement)
       } catch (error) {
         logger.error(`Eleventy transform for PDF error appending content for ${outputPath} to combined output. ${error}`)
       }

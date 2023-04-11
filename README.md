@@ -4,21 +4,60 @@ The [Quire Eleventy package](https://github.com/thegetty/quire/tree/main/package
 
 ### New and Customized Template Files
 
+**_includes/components/icons.js**
+Added custom search icon
+
+**_includes/components/figure/caption.js**
+Don't output any HTML if there aren't caption elements
+
+**_includes/components/menu/item.js**
+**_includes/components/table-of-contents/item/list.js**
+**content/_computed/eleventyComputed.js**
+Handle a page redirect, so that the Things page goes to Contents
+
+**_includes/components/table-of-contents/list/index.js**
+Added three dropdown selects for the thing grid
+
 **_includes/components/navigation.js**
-show current page title instead of homepage link
+Altered to show current page title instead of homepage link, as well as a link to the contents ("Things") page
 
 **_includes/components/page-header.js**
-adds a list of 'owners'
+Added a list of 'owners'
+
+**_includes/components/table-of-contents/item/list.js**
+Output the list item for 'thing' pages with an image
 
 **_includes/web-components/modal/index.js**
-altered getCurrentFigureId() to work with .q-figure__modal-link class anywhere
+Altered getCurrentFigureId() to work with .q-figure__modal-link class anywhere
+
+**_layouts/cover.liquid**
+Accepts an array of images stacked on top of one another, and add adds visually-hidden class to the main title texts
 
 **_layouts/thing.liquid**
-A copy of essay.liquid, except that it adds owners to the pageHeader and a `.thing-info` grid to display type, theme, and material.
+Copied essay.liquid, except that it adds owners to the pageHeader and a `.thing-info` grid to display type, theme, and material.
+
+**_plugins/filters/lowerCase.js**
+**_plugins/filters/index.js**
+Added new filter to convert string to lower case, for use in Liquid tempates
+
+**_plugins/shortcodes/figureGroup.js**
+Added optional group figure caption, and optional class, and simplify output to remove rows
 
 **_plugins/shortcodes/index.js**
+Registered the new `abbr` and `thing` shortcodes
+
+**_plugins/shortcodes/abbr.js**
+Created a new shortcode to wrap abbreviations in the text. Currently just adds a `title` attribute.
+
 **_plugins/shortcodes/thing.js**
-a new shortcode to create a pop-up with full data and links for a given "thing"
+Created a new shortcode to create a pop-up with full data and links for a given "thing"
+
+**_plugins/shortcodes/contributors.js**
+Refactored logic to handle oxford commas correctly; and added handling to display contributor `symbol
 
 **_plugins/shortcodes/figureRef.js**
-to accept comma-separated array, and to output with .q-figure__modal-link class
+Refactored to accept comma-separated array, and to output with .q-figure__modal-link class
+
+**_plugins/transforms/outputs/pdf/layout.html**
+**_plugins/transforms/outputs/pdf/write.js**
+Added wrapping elements with classes necessary for styling

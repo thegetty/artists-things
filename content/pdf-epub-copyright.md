@@ -1,7 +1,7 @@
 ---
 layout: base.11ty.js
 order: 4
-class: backmatter
+class: backmatter about-copyright-page
 outputs:
   - epub
   - pdf
@@ -47,7 +47,6 @@ Distributed outside the United States and Canada by Yale University Press, Londo
 </div>
 <div class="cover-image-credits">
 
-Front cover:
-Back cover:
+Front cover: Double-hinged wig spectacles, ca. 1795. White metal frame and glass lenses, 38 mm (eye). London, British Optical Association Museum, College of Optometrists, inv. 1998.235.
 
 </div>
