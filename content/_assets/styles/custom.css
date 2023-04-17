@@ -1,3 +1,29 @@
+/* TEMPORARY "Uncorrected Proof" Banner */
+@media screen {
+  .quire-page::before,
+  .quire-page::after {
+    color: black;
+    font-weight: 700;
+    position: fixed;
+    width: 230px;
+    height: 230px;
+    z-index: 4000;
+    transform: rotate(-45deg);
+    text-align: center;
+    padding-top: 1rem;
+  }
+  .quire-page::before {
+    content: "UNCORRECTED";
+    background-color: yellow;
+    bottom: -115px;
+    right: -115px;
+  }
+  .quire-page::after {
+    content: "PROOF";
+    bottom: -130px;
+    right: -130px;
+  }
+}
 :root {
   --accent-color: #e0582a;  /* Matches $accent-color in variables.scss */
   --beige: #f7f1e3;
