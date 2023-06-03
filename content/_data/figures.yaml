@@ -195,27 +195,27 @@ figure_list:
     # zoom: true
     label: "Fig. 28"
     caption: "Color box, eighteenth century. Wood, metal, glass, and various pigments, 10 × 46 × 37 cm."
-    credit: "Grasse, Villa-Musée Fragonard."
+    credit: "Grasse, Villa-Musée Fragonard. (Courtesy of Villa-Musée Fragonard, Grasse.)"
 
   - id: "fig-029"
     src: "figures/029.jpg"
     # zoom: true
     label: "Fig. 29"
-    caption: "“Peinture” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécanique* (1765), plate I, detail."
-    credit: "Image courtesy of the ARTFL Encyclopédie Project."
+    caption: "Painting from *Recueil de planches sur les sciences, les arts libéraux et les arts mécaniques* (1765), plate I."
+    credit: "(Image courtesy of the ARTFL Encyclopédie Project, University of Chicago.)"
 
   - id: "fig-030"
     src: "figures/030.jpg"
     # zoom: true
     label: "Fig. 30"
-    caption: "Pierre Landry, *Trade Card of Louis Picard, Marchand Épicier, Au Mortier d’Or*, ca. 1695. Etching and engraving, 24 × 20 cm."
-    credit: "Waddesdon Manor."
+    caption: "Pierre Landry (French, 1630–1701), *Trade Card of Louis Picard, Marchand Épicier, Au Mortier d’Or*, ca. 1695. Etching and engraving, 24 × 20 cm."
+    credit: "Waddesdon Manor. (Waddesdon Image Library.)"
 
   - id: "fig-031"
     src: "figures/031.jpg"
     # zoom: true
     label: "Fig. 31"
-    caption: "Jean-Honoré Fragonard (French, 1732–1806), *Head of an Old Man*, detail, ca. 1765. Oil on canvas, 54 × 45 cm. Amiens, Musée de Picardie."
+    caption: "Jean-Honoré Fragonard (French, 1732–1806), *Head of an Old Man*, detail, ca. 1765. Oil on canvas, 54 × 45 cm. Amiens, Musée de Picardie, inv. M.P.Lav.1894-144. (Photo Marc Jeanneteau /Musée de Picardie.)"
 
   - id: "fig-032"
     src: "figures/032.jpg"
