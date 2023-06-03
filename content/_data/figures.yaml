@@ -26,21 +26,21 @@ figure_list:
     # zoom: true
     label: "Fig. 4"
     caption: "Unknown maker, *Fauteuil*, last quarter of the eighteenth century. Wood, cane, and leather, 89 × 59 cm."
-    credit: "Paris, Musée du Louvre (OA 7879), on loan to Grasse, Villa-Musée Fragonard."
+    credit: "Paris, Musée du Louvre, OA 7879, on loan to Grasse, Villa-Musée Fragonard. (© 2022 Musée du Louvre / Objets d'art du Moyen Age, de la Renaissance et des temps modernes.)"
 
   - id: "fig-005"
     src: "figures/005.jpg"
     # zoom: true
     label: "Fig. 5"
-    caption: "Charles-François Normand, Voltaire’s *fauteuil*, ca. 1775. Gilded beech, velvet, lacquer, iron, 91 × 66 × 55 cm."
+    caption: "Charles-François Normand, Voltaire’s *fauteuil*, ca. 1775. Gilded beech, velvet, lacquer, and iron, 91 × 66 × 55 cm."
     credit: "Paris, Musée Carnavalet."
 
   - id: "fig-006"
     src: "figures/006.jpg"
     # zoom: true
     label: "Fig. 6"
-    caption: "André-Jacob Roubo (French, 1739–91), Design of a *fauteuil de cabinet*, 1772, from André-Jacob Roubo, *L’art du menuisier en meuble* (Paris, 1772), no. 233."
-    credit: "Paris, Bibiliothèque Nationale de France. Image source: Gallica."
+    caption: "André-Jacob Roubo (French, 1739–91), Design of a *fauteuil de cabinet*, 1772, from André-Jacob Roubo, *L’art du menuisier en meubles* (Paris, 1772), no. 233."
+    credit: "Paris, Bibiliothèque Nationale de France. (Image source: Gallica.)"
 
   - id: "fig-007"
     src: "figures/007-FPO.jpg"
