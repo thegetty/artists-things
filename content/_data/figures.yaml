@@ -88,35 +88,35 @@ figure_list:
     src: "figures/013.jpg"
     # zoom: true
     label: "Fig. 13"
-    caption: "Antoine-Joseph Pernety, *Dictionnaire portatif de peinture, sculpture et gravure* (1757) annotated by Gabriel de Saint-Aubin, ca. 1757–67. Graphite."
-    credit: "Paris, Petit Palais."
+    caption: "Antoine-Joseph Pernéty, *Dictionnaire portatif de peinture, sculpture et gravure* (1757), annotated by Gabriel de Saint-Aubin (French, 1724–80), ca. 1757–67. Graphite."
+    credit: "Paris, Petit Palais. (CCØ Paris Musées / Petit Palais, Musée des Beaux-Arts de la Ville de Paris.)"
 
   - id: "fig-014"
     src: "figures/014.jpg"
     # zoom: true
     label: "Fig. 14"
-    caption: "Gilles-Marie Oppenord (French, 1672–1742), Alternative frontispiece for Cesare Ripa and Jean Baudouin, *Iconologie; ou, Explication nouvelle de plusieurs emblemes* (Paris, 1636). Pen and ink."
+    caption: "Gilles-Marie Oppenord (French, 1672–1742), Alternative title page or frontispiece for Cesare Ripa and Jean Baudouin, *Iconologie; ou, Explication nouvelle de plusieurs emblemes* (Paris, 1636). Pen and brown ink, brush in brown and gray ink over a pencil sketch, 32.5 × 21.5 cm."
     credit: "Montreal, Canadian Centre for Architecture."
 
   - id: "fig-015"
     src: "figures/015.jpg"
     # zoom: true
     label: "Fig. 15"
-    caption: "Gilles-Marie Oppenord (French, 1672–1742), Alternative tailpiece for Cesare Ripa and Jean Baudouin, *Iconologie; ou, Explication nouvelle de plusieurs emblemes* (Paris, 1636). Pen and brown ink."
+    caption: "Gilles-Marie Oppenord (French, 1672–1742), Design for a funeral monument for the 1636 French edition of Cesare Ripa and Jean Baudouin, *Iconologie; ou, Explication nouvelle de plusieurs emblemes* (Paris, 1636). Pen and brown ink with brown and gray wash, 32.6 × 21.3 cm."
     credit: "Montreal, Canadian Centre for Architecture."
 
   - id: "fig-016"
     src: "figures/016.jpg"
     # zoom: true
     label: "Fig. 16"
-    caption: "Antoine-Joseph Pernety, *Dictionnaire portatif de peinture, sculpture et gravure* (1757), annotated by Gabriel de Saint-Aubin (French, 1724–80), ca. 1757–67. Pen and black ink on endpaper."
-    credit: "Paris, Petit Palais."
+    caption: "Antoine-Joseph Pernéty, *Dictionnaire portatif de peinture, sculpture et gravure* (1757), annotated by Gabriel de Saint-Aubin (French, 1724–80), ca. 1757–67. Pen and black ink on endpaper."
+    credit: "Paris, Petit Palais. (CCØ Paris Musées / Petit Palais, Musée des Beaux-Arts de la Ville de Paris.)"
 
   - id: "fig-017"
     src: "figures/017.jpg"
     # zoom: true
     label: "Fig. 17"
-    caption: "Gilles-Marie Oppenord (French, 1672–1742), “Doute,” “Discretion,” “Divinité,” “Douleur,” “Economie,” and “Égalité” in Cesare Ripa and Jean Baudouin, *Iconologie, ou Explication nouvelle de plusieurs emblemes* (Paris, 1636). Pen and ink over engraving."
+    caption: "Gilles-Marie Oppenord (French, 1672–1742), Design for a portan with ornamentation drawn on a printed folio, with medalions of Doute, Discretion, Divinité, Douleur, Economie, and Égalité, for Cesare Ripa and Jean Baudouin, *Iconologie, ou Explication nouvelle de plusieurs emblemes* (Paris, 1636). Pen and brown ink over engraving, 32.8 × 22.3 cm."
     credit: "Montreal, Canadian Centre for Architecture."
 
   - id: "fig-018"
