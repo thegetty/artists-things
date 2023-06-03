@@ -296,14 +296,14 @@ figure_list:
     # zoom: true
     label: "Fig. 42"
     caption: "Joseph-Siffred Duplessis (French, 1725–1802), *Madame Fréret d’Héricourt and Her Dog*, 1769. Oil on canvas, 81.3 × 64.8 cm."
-    credit: "The Nelson-Atkins Museum of Art, Kansas City, Purchase of William Rockhill Nelson Trust."
+    credit: "Kansas City, The Nelson-Atkins Museum of Art, Purchase of William Rockhill Nelson Trust, 53-80. (Photo: Michael Lamy.)"
 
   - id: "fig-043"
     src: "figures/043.jpg"
     # zoom: true
     label: "Fig. 43"
     caption: "Nicolas de Largillière (French, 1656–1746), *Portrait of the Artist and His Family*, ca. 1704. Oil on canvas, 128 × 167 cm."
-    credit: "Kunsthalle Bremen."
+    credit: "Kunsthalle Bremen. (© Kunsthalle Bremen–Lars Lohrisch–ARTOTHEK.)"
 
   - id: "fig-044"
     src: "figures/044.jpg"
