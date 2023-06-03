@@ -46,8 +46,8 @@ figure_list:
     src: "figures/007-FPO.jpg"
     # zoom: true
     label: "Fig. 7"
-    caption: "Baptism Certificate of Hubert Robert (baptism 1733, certificate issued 1760)."
-    credit: "Paris, Archives Nationales, MC ET LXXXIII 490."
+    caption: "Baptism certificate of Hubert Robert (baptism 1733, certificate issued 1760)."
+    credit: "Paris, Archives Nationales, MC/ET/LXXXIII/490."
 
   - id: "fig-008"
     src: "figures/008.jpg"
@@ -60,8 +60,8 @@ figure_list:
     src: "figures/009-FPO.jpg"
     # zoom: true
     label: "Fig. 9"
-    caption: "Nicolas Robert’s contract for a *Tontine créée par Édit de mois de Décembre 1759*, signed 10 March 1761."
-    credit: "Paris, Archives Nationales, MC ET LXXXIII 490."
+    caption: "Nicolas Robert’s contract for a “Tontine créée par Édit du mois de Décembre 1759,” signed 10 March 1761."
+    credit: "Paris, Archives Nationales, MC/ET/LXXXIII/490."
 
   - id: "fig-010"
     src: "figures/010.jpg"
