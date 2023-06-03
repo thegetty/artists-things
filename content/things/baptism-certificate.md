@@ -43,7 +43,7 @@ Through the baptism certificate’s passage from parish register to investment c
 
 [^5]: {% abbr 'AN' %}, {% abbr 'MC' %}/ET/LXXXIII/490.
 
-[^6]: John Dunkley, “Bourbons on the Rocks: Tontines and Early Public Lotteries in France,” *ECS* 30, no. 3 (2007): 311. See also David R. Weir, “Tontines, Public Finance, and Revolution in France and England, 1688–1789,” *Journal of Economic History* 49, no. 1 (1989): 95–124.
+[^6]: John Dunkley, “Bourbons on the Rocks: Tontines and Early Public Lotteries in France,” {% abbr '*ECS*' %} 30, no. 3 (2007): 311. See also David R. Weir, “Tontines, Public Finance, and Revolution in France and England, 1688–1789,” *Journal of Economic History* 49, no. 1 (1989): 95–124.
 
 [^7]: Robert was in Rome from 1754 to 1765.
 

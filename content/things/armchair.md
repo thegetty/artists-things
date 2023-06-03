@@ -48,7 +48,7 @@ When considered from the perspective of his armchair, there was certainly as muc
 
 [^4]: “Chaise,” *Encyclopédie*, <https://encyclopedie.uchicago.edu/>, 3:13.
 
-[^5]: Mimi Hellman, “Furniture, Sociability, and the Work of Leisure in Eighteenth-Century France,” *ECS* 32, no. 4 (1999): 415–45.
+[^5]: Mimi Hellman, “Furniture, Sociability, and the Work of Leisure in Eighteenth-Century France,” {% abbr '*ECS*' %} 32, no. 4 (1999): 415–45.
 
 [^6]: Anne Forray-Carlier, *Le mobilier du Musée Carnavalet* (Dijon: Faton, 2000), 300.
 

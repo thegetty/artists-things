@@ -64,9 +64,9 @@ To facilitate the reader’s wanderings, the book is equipped with a range of wa
 
 [^5]: On the inventory as a “representation” of wealth, and on the “art” of appraising, see Donald Spaeth, “‘Orderly Made’: Re-Appraising Household Inventories in Seventeenth-Century England,” *Social History* 41, no. 4 (2016): 417–35.
 
-[^6]: For a classic critical analysis of eighteenth-century attitudes to wealth and the artist, see Mary Sheriff, “Love or Money? Rethinking Fragonard,” *ECS* 19, no. 3 (1986): 333–54.
+[^6]: For a classic critical analysis of eighteenth-century attitudes to wealth and the artist, see Mary Sheriff, “Love or Money? Rethinking Fragonard,” {% abbr '*ECS*' %} 19, no. 3 (1986): 333–54.
 
-[^7]: According to La Tour’s will of 9–20 February 1784, he owned two telescopes by the London instrument maker Peter Dollond. See Neil Jeffares, “Chronological Table of Documents Relating to de La Tour,” *Pastels and Pastellists*, 67, <http://www.pastellists.com/Misc/LaTour_chronology.pdf>. According to Jean-Baptiste Marie Pierre’s *inventaire après décès*, AN, MC/ET/XXXI/253, 25 May 1789, a hen hutch with fourteen hens and a cock were to be found in the courtyard of his house at the Louvre, rue Fromenteau. In Clodion’s study, after his death, were inventoried a tin clyster and five water jars, along with a “bad” razor, razor blades, and the conventional furniture for such a room. See Jules-Joseph Guiffrey, “Inventaire après décès de Clodion (30 avril 1814),” *AAF* 6 (1912): 223.
+[^7]: According to La Tour’s will of 9–20 February 1784, he owned two telescopes by the London instrument maker Peter Dollond. See Neil Jeffares, “Chronological Table of Documents Relating to de La Tour,” *Pastels and Pastellists*, 67, <http://www.pastellists.com/Misc/LaTour_chronology.pdf>. According to Jean-Baptiste Marie Pierre’s *inventaire après décès*, {% abbr 'AN' %}, {% abbr 'MC' %}/ET/XXXI/253, 25 May 1789, a hen hutch with fourteen hens and a cock were to be found in the courtyard of his house at the Louvre, rue Fromenteau. In Clodion’s study, after his death, were inventoried a tin clyster and five water jars, along with a “bad” razor, razor blades, and the conventional furniture for such a room. See Jules-Joseph Guiffrey, “Inventaire après décès de Clodion (30 avril 1814),” {% abbr '*AAF*' %} 6 (1912): 223.
 
 [^8]: Michael Yonan, in his review of the relations between art history and material culture studies, notes that the two come closest to one another in the field of collecting. See Yonan, “Toward a Fusion of Art History and Material Culture Studies,” *West 86th: A Journal of Decorative Art* 18, no. 2 (2011): 236.
 
@@ -122,7 +122,7 @@ To facilitate the reader’s wanderings, the book is equipped with a range of wa
 
 [^34]: See Julian Thomas, “Phenomenology and Material Culture,” in *Handbook of Material Culture*, ed. Chris Tilley et al. (Los Angeles: Sage, 2006), 43–59.
 
-[^35]: For a review of this reorientation see Daniel Brewer, “Lights in Space,” *ECS* 37, no. 2 (2004): 171–86; as an example, see Charles W. J. Withers, *Placing the Enlightenment: Thinking Geographically about the Age of Reason* (Chicago: University of Chicago Press, 2007).
+[^35]: For a review of this reorientation see Daniel Brewer, “Lights in Space,” {% abbr '*ECS*' %} 37, no. 2 (2004): 171–86; as an example, see Charles W. J. Withers, *Placing the Enlightenment: Thinking Geographically about the Age of Reason* (Chicago: University of Chicago Press, 2007).
 
 [^36]: Michel Foucault, *Madness and Civilization: A History of Insanity in the Age of Reason* (\[1961\] New York: Vintage, 1988); *The Birth of the Clinic: An Archaeology of Medical Perception* (\[1963\] New York: Pantheon, 1973); and *Discipline and Punish: The Birth of the Prison* (\[1975\] New York: Pantheon, 1977).
 
@@ -132,7 +132,7 @@ To facilitate the reader’s wanderings, the book is equipped with a range of wa
 
 [^39]: On the shifting geography of artistic communities, see Hannah Williams, “Artists and the City: Mapping the Art Worlds of Eighteenth-Century Paris,” *Urban History* 46, no. 1 (2019): 106–31.
 
-[^40]: On the history of the *logements* see Jules Guiffrey, “Logements d’artistes au Louvre,” *NAAF* (Paris: J. Baur, 1873).
+[^40]: On the history of the *logements* see Jules Guiffrey, “Logements d’artistes au Louvre,” {% abbr '*NAAF*' %} (Paris: J. Baur, 1873).
 
 [^41]: Giorgio Vasari, *Lives of the Artists* (1550), 2 vols. (London: Penguin, 1987). Historiographically this tradition continued through eighteenth-century works like: Antoine-Joseph Dézallier d’Argenville, *Abrégé de la vie des plus fameux peintres*, 4 vols. (Paris: De Bure, 1745); François Bernard Lépicié, *Vies des premiers peintres du Roi, depuis M. Le Brun jusqu’à présent* (Paris: Durand & Pissot, 1752); \[Pierre-Jean Mariette\], *Abecedario de P.-J. Mariette*, ed. Philippe de Chennevières and Anatole de Montaiglon, 6 vols. (Paris: Dumoulin, 1851–60). On experience as a subject and object of social and historical analysis see, for example, Victor W. Turner and Edward M. Bruner, eds., *The Anthropology of Experience* (Champaign: University of Illinois Press, 1986); and David Carr, *Experience and History: Phenomenological Perspectives on the Historical World* (Oxford: Oxford University Press, 2014).
 
