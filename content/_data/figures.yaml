@@ -271,22 +271,25 @@ figure_list:
     src: "figures/039.jpg"
     # zoom: true
     label: "Fig. 39"
-    caption: "The Académie’s document box (closed), ca. 1655."
-    credit: "Paris, École Nationale Supérieure des Beaux-Arts, MU 12579."
+    caption: "The Académie’s document box, ca. 1655."
+    credit: "Paris, École Nationale Supérieure des Beaux-Arts, MU 12579. Gilding, brass, Morocco leather. 19.8 × 54.3 × 43 cm. (© Beaux-Arts de Paris, Dist. RMN=Grand Palais / Art Resource, NY.)
+"
 
   - id: "fig-040"
     src: "figures/040.jpg"
     # zoom: true
     label: "Fig. 40"
     caption: "The Académie’s document box (open), ca. 1655."
-    credit: "Paris, École Nationale Supérieure des Beaux-Arts, MU 12579."
+    credit: "Paris, École Nationale Supérieure des Beaux-Arts, MU 12579. Gilding, brass, Morocco leather. 19.8 × 54.3 × 43 cm. (© Beaux-Arts de Paris, Dist. RMN=Grand Palais / Art Resource, NY.)
+"
 
   - id: "fig-041"
     src: "figures/041.jpg"
     # zoom: true
     label: "Fig. 41"
-    caption: "Jean Tiger, *Henri Testelin*, 1675."
-    credit: "Châteaux de Versailles et de Trianon."
+    caption: "Jean Tiger, *Henri Testelin*, 1675. Oil on canvas. 116 × 89 cm."
+    credit: "Châteaux de Versailles et de Trianon, MV3585. (© RMN-Grand Palais / photo: Gérard Blot / Art Resource, NY.)
+."
 
   - id: "fig-042"
     src: "figures/042.jpg"
