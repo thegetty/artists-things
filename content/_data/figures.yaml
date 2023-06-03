@@ -229,21 +229,21 @@ figure_list:
     # zoom: true
     label: "Fig. 33"
     caption: "André Nadaux, Frontispiece, 1780. Crayon-manner etching."
-    credit: "Paris, Archives Nationales."
+    credit: "Paris, Archives Nationales. (Waddesdon Image Library, University of Central England Digital Services.)"
 
   - id: "fig-034"
     src: "figures/034.jpg"
     # zoom: true
     label: "Fig. 34"
-    caption: "Jean-Germain Drouais (French, 1763–88), *Academy Study*, 1779. Black chalk on paper, 54.6 × 44.5 cm."
-    credit: "Paris, École Nationale Supérieure des Beaux-Arts."
+    caption: "Jean-Germain Drouais (French, 1763–88), *Academy Study*, 1778–79. Black chalk on paper, 54.6 × 44.5 cm."
+    credit: "Paris, École Nationale Supérieure des Beaux-Arts, EBA2883. (Art Resource / NY.)"
 
   - id: "fig-035"
     src: "figures/035.jpg"
     # zoom: true
     label: "Fig. 35"
-    caption: "Charles Natoire (French, 1700–1777), *Life Drawing Class*, 1746. Pen, black and brown ink, gray wash and watercolor, 45.3 × 32.2 cm."
-    credit: "London, Courtauld Institute of Art."
+    caption: "Charles Natoire (French, 1700–1777), *Life Drawing Class*, 1746. Pen, black and brown ink, gray wash, and watercolor, 45.3 × 32.2 cm."
+    credit: "London, Courtauld Institute of Art. (The Courtauld, London [Samuel Courtauld Trust], photo © The Courtauld.)"
 
   - id: "fig-036"
     src: "figures/036.jpg"
