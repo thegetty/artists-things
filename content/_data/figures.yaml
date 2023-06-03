@@ -158,14 +158,14 @@ figure_list:
     src: "figures/023.jpg"
     # zoom: true
     label: "Fig. 23"
-    caption: "Charles Parrocel (French, 1688–1752), *Cavalry Engagement*, ca. 1745. Pen and brown ink with brown and gray wash, 18.2 × 35.7 cm."
-    credit: "Stockholm, Nationalmuseum. NMH 2892/1863."
+    caption: "Charles Parrocel (French, 1688–1752), *Cavalry Engagement*, ca. 1745. Pen and brown ink with brown and gray wash, 35.7 × 18.2 cm."
+    credit: "Stockholm, Nationalmuseum, NMH 2892/1863. (Photo: Nationalmuseum.)"
 
   - id: "fig-024"
     src: "figures/024.jpg"
     # zoom: true
     label: "Fig. 24"
-    caption: "Louis Joblot, *Dessin d’une porte loupe*, 1718."
+    caption: "Louis Joblot (French, 1645–1723), *Dessin d’une porte loupe*, 1718."
     credit: "Paris, Bibliothèque Nationale de France."
 
   - id: "fig-025"
@@ -179,14 +179,16 @@ figure_list:
     src: "figures/026.jpg"
     # zoom: true
     label: "Fig. 26"
-    caption: "Milestone with fleur de lys, eighteenth century."
+    caption: "French milestone with fleur-de-lis, eighteenth century."
+    credit: "(Photo: Jpcuvelier, CC BY-SA 4.0.)"
+
 
   - id: "fig-027"
     src: "figures/027.jpg"
     # zoom: true
     label: "Fig. 27"
     caption: "Cabriolet fan, ca. 1755. Paper leaves, carved ivory guards, backed with mother-of-pearl, 28.5 cm (guardstick)."
-    credit: "London, Royal Collection, RCIN 25380."
+    credit: "London, Royal Collection, RCIN 25380. (Royal Collection Trust / © Her Majesty Queen Elizabeth II 2021.)"
 
   - id: "fig-028"
     src: "figures/028.jpg"
