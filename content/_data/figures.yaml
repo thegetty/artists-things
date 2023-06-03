@@ -249,8 +249,8 @@ figure_list:
     src: "figures/036.jpg"
     # zoom: true
     label: "Fig. 36"
-    caption: "Joseph-Siffrèd Duplessis (French, 1725–1802), *Joseph-Marie Vien*, 1785. Oil on canvas, 133 × 100 cm."
-    credit: "Paris, Musée du Louvre."
+    caption: "Joseph-Siffred Duplessis (French, 1725–1802), *Joseph-Marie Vien*, 1785. Oil on canvas, 133 × 100 cm."
+    credit: "Paris, Musée du Louvre, INV4306. (© RMN-Grand Palais / photo: Michel Urtado. / Art Resource, NY.)."
 
   - id: "fig-037"
     src: "figures/037.jpg"
@@ -264,7 +264,8 @@ figure_list:
     # zoom: true
     label: "Fig. 38"
     caption: "Gabrielle Capet (French, 1761–1818), *Adélaïde Labille-Guiard Painting the Portrait of Joseph-Marie Vien*, 1808. Oil on canvas, 69 × 83.5 cm."
-    credit: "Munich, Neue Pinakothek."
+    credit: "Munich, Neue Pinakothek, Inv. FV 9. (bpk Bildagentur / Neue Pinakothek/Bayerische Staatsgemaeldesammlungen/Munich / Art Resource, NY.)
+"
 
   - id: "fig-039"
     src: "figures/039.jpg"
