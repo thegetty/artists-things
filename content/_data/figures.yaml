@@ -144,14 +144,14 @@ figure_list:
     src: "figures/021.jpg"
     # zoom: true
     label: "Fig. 21"
-    caption: "“Dessein” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécanique* (1765), plate V."
-    credit: "Paris, Bibliothèque Nationale de France."
+    caption: "Camera obscura, “Dessein” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécaniques* (1765), plate V."
+    credit: "(Paris, Bibliothèque Nationale de France.)"
 
   - id: "fig-022"
     src: "figures/022.jpg"
     # zoom: true
     label: "Fig. 22"
-    caption: "Charles Parrocel, *Reception of the Turkish Ambassadors at the Tuileries*, ca. 1727. Red and black chalk."
+    caption: "Charles Parrocel (French, 1688–1752), *Reception of the Turkish Ambassadors at the Tuileries*, ca. 1727. Red and black chalk."
     credit: "Paris, Bibliothèque Nationale de France."
 
   - id: "fig-023"
