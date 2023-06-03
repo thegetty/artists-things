@@ -4,22 +4,22 @@ figure_list:
     src: "figures/001.jpg"
     # zoom: true
     label: "Fig. 1"
-    caption: "*Almanach Royal*, 1763, title page."
-    credit: "Paris, Bibliothèque Nationale de France. Image source: Gallica, BNF."
+    caption: "*Almanach royal*, 1763, title page."
+    credit: "Paris, Bibliothèque Nationale de France. (Image source: Gallica, BnF.)"
 
   - id: "fig-002"
     src: "figures/002.jpg"
     # zoom: true
     label: "Fig. 2"
-    caption: "Claude-Joseph Vernet (French, 1714–89), *Night*, 1762. Oil on canvas, 83.5 × 135 cm."
-    credit: "Châteaux de Versailles et de Trianon. MV5927."
+    caption: "Claude-Joseph Vernet (French, 1714–89), *Night*, from the series *Four Times of the Day*, 1762. Oil on canvas, 83.5 × 135 cm."
+    credit: "Châteaux de Versailles et de Trianon, MV5927. (© RMN-Grand Palais / photo: Christophe Fouin / Art Resource, NY.)"
 
   - id: "fig-003"
     src: "figures/003.jpg"
     # zoom: true
     label: "Fig. 3"
     caption: "Claude-Joseph Vernet (French, 1714–89), *Port of Dieppe*, 1765. Oil on canvas, 165.5 × 264 cm."
-    credit: "Paris, Musée de la Marine, 5OA13."
+    credit: "Paris, Musée de la Marine, 5OA13. (© RMN-Grand Palais / Art Resource, NY.)"
 
   - id: "fig-004"
     src: "figures/004.jpg"
