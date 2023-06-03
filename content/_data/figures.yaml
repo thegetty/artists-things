@@ -67,21 +67,21 @@ figure_list:
     src: "figures/010.jpg"
     # zoom: true
     label: "Fig. 10"
-    caption: "Charles-Antoine Coypel (French, 1694–1752), *Painting Awakening Genius*, 1732. Oil on canvas, 190 × 135 cm."
-    credit: "Private collection. Image source: Christie’s/Bridgeman Images."
+    caption: "Charles-Antoine Coypel (French, 1694–1752), *Painting Awakening Genius*, ca. 1723. Oil on canvas, 190 × 135 cm."
+    credit: "Private collection. Image source: Christie’s/Bridgeman Images. (Photo © Christie's Images/Bridgeman Images.)"
 
   - id: "fig-011"
     src: "figures/011.jpg"
     # zoom: true
     label: "Fig. 11"
-    caption: "Charles-Antoine Coypel (French, 1694–1752), Preparatory drawing for *Painting Awakening Genius*, 1732. Black chalk."
-    credit: "Location unknown. Image source: Christie’s catalogue."
+    caption: "Charles-Antoine Coypel (French, 1694–1752), Preparatory drawing for *Painting Awakening Genius*, ca. 1723. Black chalk."
+    credit: "Location unknown. (Image source: Christie’s catalogue.)"
 
   - id: "fig-012"
     src: "figures/012.jpg"
     # zoom: true
     label: "Fig. 12"
-    caption: "After Charles-Antoine Coypel (French, 1694–1752), *Don Quixote Dreams*, ca. 1727. Gobelins high-warp tapestry, 360.3 × 385 cm."
+    caption: "After Charles-Antoine Coypel (French, 1694–1752), *Don Quixote Dreams*, from the series *HIstory of Don Quixote*, ca. 1727. Gobelins high-warp tapestry, silk and wool, 370.8 × 386.1 cm."
     credit: "Los Angeles, The J. Paul Getty Museum."
 
   - id: "fig-013"
