@@ -124,20 +124,20 @@ figure_list:
     # zoom: true
     label: "Fig. 18"
     caption: "Charles-Nicolas Cochin (French, 1715–90), *De la manière de graver à l’eau-forte et au burin*, 1745. Etching and engraving."
-    credit: "Paris, Bibliothèque Nationale de France. Image source: Gallica BNF."
+    credit: "Paris, Bibliothèque Nationale de France. (Image source: Gallica, BnF.)"
 
   - id: "fig-019"
     src: "figures/019.jpg"
     # zoom: true
     label: "Fig. 19"
-    caption: "Renée Elisabeth Marlié (French, 1714–73), *Sight* from Five Senses, ca. 1741. Engraving."
-    credit: "London, British Museum."
+    caption: "Renée-Elisabeth Marlié (French, 1714–73), after Jan Saenredam (Dutch, 1565–1607), after Henrick Goltzius (Dutch, 1558–1617), *Sight* from *The Five Senses*, ca. 1741. Engraving, 22 × 15.2 cm."
+    credit: "London, British Museum. (© The Trustees of the British Museum / Art Resource, NY.)"
 
   - id: "fig-020"
     src: "figures/020.jpg"
     # zoom: true
     label: "Fig. 20"
-    caption: "Renée-Elisabeth Marlié (French, 1714–73), *The Marriage Contract*, 1756. Engraving."
+    caption: "Renée-Elisabeth Marlié (French, 1714–73), after Carle Van Loo (French, 1705–65), *The Marriage Contract*, 1756. Engraving."
     credit: "Paris, Bibliothèque National de France."
 
   - id: "fig-021"
