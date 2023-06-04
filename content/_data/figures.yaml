@@ -808,14 +808,14 @@ figure_list:
     # zoom: true
     label: "Fig. 106"
     caption: "Edme Bouchardon (French, 1698–1762), Four Seasons Fountain, 1739–45. Marble."
-    credit: "Paris, Rue de Grenelle."
+    credit: "Paris, Rue de Grenelle. (© Kim Young Tae/Bridgeman Images.)"
 
   - id: "fig-107"
     src: "figures/107.jpg"
     # zoom: true
     label: "Fig. 107"
-    caption: "Edme Bouchardon (French, 1698–1762), Maquette for the figure of the River Marne for the Four Seasons Fountain, ca. 1739. Terracotta, 29 × 46.8 cm."
-    credit: "Paris, Musée du Louvre."
+    caption: "Edme Bouchardon (French, 1698–1762), Maquette for the figure of the River Marne for the Four Seasons Fountain, ca. 1739. Terracotta, 50 × 48 × 24 cm."
+    credit: "Paris, Musée du Louvre, RF2313. (© RMN-Grand Palais / photo: Adrien Didierjean / Art Resource, NY.)"
 
   - id: "fig-108"
     src: "figures/108.jpg"
@@ -835,8 +835,8 @@ figure_list:
     src: "figures/110.jpg"
     # zoom: true
     label: "Fig. 110"
-    caption: "“Sculpture: Travail du marbre,” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécanique* (1765), plate I."
-    credit: "Image courtesy of the ARTFL Encyclopédie Project."
+    caption: "Sculpture, work in marble, from *Recueil de planches sur les sciences, les arts libéraux et les arts mécaniques* (1765), plate I."
+    credit: "(Image courtesy of the ARTFL Encyclopédie Project, University of Chicago.)"
 
   - id: "fig-111"
     src: "figures/111.jpg"
