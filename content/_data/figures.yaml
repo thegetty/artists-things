@@ -605,14 +605,14 @@ figure_list:
     # zoom: true
     label: "Fig. 86a"
     caption: "Cover of one of the five surviving volumes of Johann-Georg Wille’s journal. BnF vol. 1 (1759–68)."
-    credit: "Paris, Bibliothèque Nationale de France (image courtesy of Gallica)."
+    credit: "Paris, Bibliothèque Nationale de France, image courtesy of Gallica."
   
   - id: "fig-086-b"
     src: "figures/086-b-FPO.jpg"
     # zoom: true
     label: "Fig. 86b"
     caption: "Cover of one of the five surviving volumes of Johann-Georg Wille’s journal. BnF vol. 2 (1768–76)."
-    credit: "Paris, Bibliothèque Nationale de France (image courtesy of Gallica)."
+    credit: "Paris, Bibliothèque Nationale de France, image courtesy of Gallica."
   
   - id: "fig-086-c"
     src: "figures/086-c-FPO.jpg"
@@ -626,14 +626,14 @@ figure_list:
     # zoom: true
     label: "Fig. 86d"
     caption: "Cover of one of the five surviving volumes of Johann-Georg Wille’s journal. BnF vol. 3 (1783–89)."
-    credit: "Paris, Bibliothèque Nationale de France (image courtesy of Gallica)."
+    credit: "Paris, Bibliothèque Nationale de France, image courtesy of Gallica."
   
   - id: "fig-086-e"
     src: "figures/086-e-FPO.jpg"
     # zoom: true
     label: "Fig. 86e"
     caption: "Cover of one of the five surviving volumes of Johann-Georg Wille’s journal. BnF vol. 4 (1789–93)."
-    credit: "Paris, Bibliothèque Nationale de France (image courtesy of Gallica)."
+    credit: "Paris, Bibliothèque Nationale de France, image courtesy of Gallica."
 
   - id: "fig-087"
     src: "figures/087.jpg"
