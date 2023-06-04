@@ -310,21 +310,23 @@ figure_list:
     # zoom: true
     label: "Fig. 44"
     caption: "François Gérard (French, 1770–1837), *Jean-Baptiste Isabey and His Daughter, Alexandrine*, 1795. Oil on canvas, 195 × 130 cm."
-    credit: "Paris, Musée du Louvre."
+    credit: "Paris, Musée du Louvre, INV4764. (© Musée du Louvre, Dist. RMN-Grand Palais / Angele Dequier / Art Resource, NY. 
+"
 
   - id: "fig-045"
     src: "figures/045.jpg"
     # zoom: true
     label: "Fig. 45"
     caption: "Jean-Antoine Watteau (French, 1684–1721), *Les charmes de la vie*, ca. 1718–19. Oil on canvas, 67.3 × 92.5 cm."
-    credit: "London, Wallace Collection."
+    credit: "London, Wallace Collection. (By kind permission of the Trustees of the Wallace Collection, London / Art Resource, NY.)
+"
 
   - id: "fig-046"
     src: "figures/046.jpg"
     # zoom: true
     label: "Fig. 46"
     caption: "Jean Restout (French, 1692–1768), *Dedication of the Temple of Solomon*, 1743. Black and white chalk on paper, 35.8 × 67.5 cm."
-    credit: "Rouen, Musée des Beaux-Arts."
+    credit: "Rouen, Musée des Beaux-Arts, inv. AG 1909.34.63. (© Agence Albatros /Réunion des Musées Métropolitains Rouen Normandie, Rouen, Musée des Beaux-Arts.)."
 
   - id: "fig-047"
     src: "figures/047.jpg"
@@ -338,7 +340,7 @@ figure_list:
     # zoom: true
     label: "Fig. 48"
     caption: "Jean-Antoine Watteau (French, 1684–1721), *Study of Nicolas Vleughels*, ca. 1718–19. Red and black chalk on paper, 29.4 × 18.4 cm."
-    credit: "Frankfurt am Main, Städel Museum, Graphische Sammlung, 1040."
+    credit: "Frankfurt am Main, Städel Museum, Graphische Sammlung, 1040. (bpk Bildagentur / Graphische Sammlung im Städelschen Kunstinstitut, Frankfurt / Art Resource, NY.)"
 
   - id: "fig-049"
     src: "figures/049.jpg"
@@ -352,7 +354,7 @@ figure_list:
     # zoom: true
     label: "Fig. 50"
     caption: "Jean-Antoine Watteau (French, 1684–1721), *Man in a Cape*, ca. 1718–19. Red and black chalk with white heightening on paper, 27.2 × 18.9 cm."
-    credit: "Rotterdam, Museum Boijmans van Beuningen."
+    credit: "Rotterdam, Museum Boijmans van Beuningen. (HIP / Art Resource, NY.)"
 
   - id: "fig-051"
     src: "figures/051.jpg"
