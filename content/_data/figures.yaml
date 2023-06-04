@@ -521,21 +521,21 @@ figure_list:
     # zoom: true
     label: "Fig. 74"
     caption: "Jean-Marc Nattier (French, 1685–1766), *Self-Portrait with His Family*, 1730–62. Oil on canvas, 149 × 165 cm."
-    credit: "Châteaux de Versailles et de Trianon."
+    credit: "Châteaux de Versailles et de Trianon, MV4419. (© RMN-Grand Palais / photo: Gerard Blot / Art Resource, NY.)"
 
   - id: "fig-075"
     src: "figures/075.jpg"
     # zoom: true
     label: "Fig. 75"
-    caption: "Nicolas Dumont, modified by Pascal-Joseph Taskin in 1789. Two-manual harpsichord, 1697. Length 226 cm."
-    credit: "Philharmonie de Paris, Cité de la Musique."
+    caption: "Nicolas Dumont, modified by Pascal-Joseph Taskin in 1789, Two-manual harpsichord, 1697. Length 226 cm."
+    credit: "Paris, Philharmonie de Paris, Cité de la Musique, Collections Musée de la musique. (Photo : Jean-Marc Anglès.)"
 
   - id: "fig-076"
     src: "figures/076.jpg"
     # zoom: true
     label: "Fig. 76"
     caption: "Jean-Marc Nattier (French, 1685–1766), *Madame Henriette Playing a Bass Viol*, 1754. Oil on canvas, 249 × 184 cm."
-    credit: "Châteaux de Versailles et de Trianon."
+    credit: "Châteaux de Versailles et de Trianon. MV3800. (© RMN-Grand Palais / Art Resource, NY.)"
 
   - id: "fig-077"
     src: "figures/077.jpg"
