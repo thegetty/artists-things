@@ -416,42 +416,42 @@ figure_list:
     # zoom: true
     label: "Fig. 59"
     caption: "Funeral notice for Angélique Gaudet, 1718. Woodcut."
-    credit: "Paris, École Nationale Supérieure des Beaux-Arts."
+    credit: "Paris, École Nationale Supérieure des Beaux-Arts. (© Beaux-Arts de Paris, Dist. RMN-Grand Palais / Art Resource, NY.)"
 
   - id: "fig-060"
     src: "figures/060.jpg"
     # zoom: true
     label: "Fig. 60"
-    caption: "Chinese lacquer gaming set, ca. 1770–80. Main box: 6.5 × 29 × 27 cm. Wood, black lacquer, gilding, mother-of-pearl, silk."
-    credit: "Geneva, Musée d’Art et d’Histoire."
+    caption: "Jean-Étienne Liotard’s Chinese lacquer gaming set, ca. 1770–80. Main box: 6.5 × 29 × 27 cm. Wood, black lacquer, gilding, mother-of-pearl, and silk."
+    credit: "Geneva, Musée d’Art et d’Histoire, Don de Marie-Margereta Liotard-Hülsche r, 1975. (Photo © Musées d'art et d'histoire, Ville de Genève, photo: Flora Bevilacqua.)"
 
   - id: "fig-061"
     src: "figures/061.jpg"
     # zoom: true
     label: "Fig. 61"
-    caption: "Three counters, from Chinese lacquer gaming set, ca. 1770–80. Mother-of-pearl."
-    credit: "Geneva, Musée d’Art et d’Histoire."
+    caption: "Three counters from Liotard’s Chinese lacquer gaming set, ca. 1770–80. Mother-of-pearl."
+    credit: "Geneva, Musée d’Art et d’Histoire, Don de Marie-Margereta Liotard-Hülsche r, 1975. (Photo © Musée d'art et d'histoire, Ville de Genève, photo: Flora Bevilacqua.)"
 
   - id: "fig-062"
     src: "figures/062.jpg"
     # zoom: true
     label: "Fig. 62"
     caption: "Scoring card for *Boston russe* in Liotard’s gaming set. Printed paper on card."
-    credit: "Geneva, Musée d’Art et d’Histoire."
+    credit: "Geneva, Musée d’Art et d’Histoire, Don de Marie-Margereta Liotard-Hülsche r, 1975. (Photo: © Musée d'art et d'histoire, Ville de Genève, photo: Flora Bevilacqua.)"
 
   - id: "fig-063"
     src: "figures/063.jpg"
     # zoom: true
     label: "Fig. 63"
-    caption: "Kaiserliche Porzellanmanufaktur, Coffee service for two people (Tête-à-Tête) given to Liotard by Empress Maria-Theresa, 1775–78. Porcelain, gold, leather, wood."
-    credit: "Amsterdam, Rijksmuseum, BK-1960-35."
+    caption: "Kaiserliche Porzellanmanufaktur, Coffee service for two people (Tête-à-Tête) given to Liotard by Empress Maria Theresa, ca. 1775–78. Porcelain, gold, leather, wood."
+    credit: "Amsterdam, Rijksmuseum, Gift of L. Haase Scheltema, BK-1960-35."
 
   - id: "fig-064"
     src: "figures/064.jpg"
     # zoom: true
     label: "Fig. 64"
-    caption: "Unknown artist, *Interior of a Lacquerware shop, Canton, Old or New China Street*, 1840. Watercolor on paper, 11.5 × 17.2 cm)."
-    credit: "Private collection."
+    caption: "Unknown artist, *Interior of a Lacquerware Shop, Canton, Old or New China Street*, 1840. Watercolor on paper, 11.5 × 17.2 cm. Collection of Edward G. Tiedemann, Jr., Ph.D."
+    credit: "(Photograph by Kathy Tarantola.)"
 
   - id: "fig-065"
     src: "figures/065.jpg"
