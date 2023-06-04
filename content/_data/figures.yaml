@@ -843,14 +843,14 @@ figure_list:
     # zoom: true
     label: "Fig. 111"
     caption: "Jean-Antoine Houdon’s *selle* (modeling stand), second half of the eighteenth century. Wood."
-    credit: "Paris, Musée Carnavalet."
+    credit: "Paris, Musée Carnavalet. (Photo: Hannah Williams.)"
 
   - id: "fig-112"
     src: "figures/112.jpg"
     # zoom: true
     label: "Fig. 112"
-    caption: "‘Sculpture’ from *Recueil de planches sur les sciences, les arts libéraux et les arts mécanique* (1765), plate I."
-    credit: "Paris, Bibliothèque Nationale de France."
+    caption: "Sculpture, in clay and plaster, from *Recueil de planches sur les sciences, les arts libéraux et les arts mécaniques* (1765), plate I."
+    credit: "Paris, Bibliothèque Nationale de France. (HIP / Art Resource, NY.)"
 
   - id: "fig-113"
     src: "figures/113.jpg"
