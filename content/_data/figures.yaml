@@ -982,22 +982,22 @@ figure_list:
     src: "figures/128.jpg"
     # zoom: true
     label: "Fig. 128"
-    caption: "Alexander Roslin (Swedish, 1718–93), *Self-Portrait with the Artist’s Wife, Suzanne Giroust, Paintinga Portrait of Henrik Wilhelm Peill*, 1767. Oil on canvas, 131 × 98.5 cm."
-    credit: "Stockholm, Nationalmuseum. NM 7141."
+    caption: "Alexander Roslin (Swedish, 1718–93), *Self-Portrait with the Artist’s Wife, Suzanne Giroust, Painting a Portrait of Henrik Wilhelm Peill*, 1767. Oil on canvas, 131 × 98.5 cm."
+    credit: "Stockholm, Nationalmuseum, NM 7141. (incamerastock / Alamy Stock Photo.)"
 
   - id: "fig-129"
     src: "figures/129.jpg"
     # zoom: true
     label: "Fig. 129"
     caption: "Wooden box of pastels supplied by Jean-Nicolas Vernezobre in 1772. 6 × 34 × 18.5 cm."
-    credit: "Private collection. Photo by Peter Schälchli, Zurich."
+    credit: "Private collection. (© Masson & Ritter, Restaurierungsatelier für Kunst auf Papier, Zürich. Photo: Peter Schälchli, Zurich.)"
 
   - id: "fig-130"
     src: "figures/130.jpg"
     # zoom: true
     label: "Fig. 130"
     caption: "Marie-Suzanne Giroust (French, 1734–72), *Portrait of Jean-Baptiste Pigalle*, 1770. Pastel on paper, 90 × 73 cm."
-    credit: "Paris, Musée du Louvre, Département des Arts Graphiques."
+    credit: "Paris, Musée du Louvre, Département des Arts Graphiques, INV30860-recto. (© RMN-Grand Palais / photo: Michel Urtado / Art Resource, NY.)"
 
   - id: "fig-131"
     src: "figures/131.jpg"
