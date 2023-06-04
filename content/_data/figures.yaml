@@ -717,7 +717,7 @@ figure_list:
     # zoom: true
     label: "Fig. 94"
     caption: "Hubert Robert, *View of a Corridor in the Louvre*, ca. 1780. Black chalk and gray wash, 10.2 × 13.4 cm."
-    credit: "Paris, Musée du Louvre."
+    credit: "Paris, Musée du Louvre, RF28940-recto. (© RMN-Grand Palais / photo: Thierry Le Mage / Art Resource, NY.)"
 
   - id: "fig-095"
     src: "figures/095-FPO.jpg"
