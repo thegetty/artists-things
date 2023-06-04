@@ -744,29 +744,29 @@ figure_list:
     src: "figures/098.jpg"
     # zoom: true
     label: "Fig. 98"
-    caption: "The constituent parts of a mannequin, “Dessein” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécanique* (1765), plate VII."
-    credit: "Image courtesy of the ARTFL Encyclopédie Project."
+    caption: "The constituent parts of a mannequin, “Dessein” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécaniques* (1765), plate VII."
+    credit: "(Image courtesy of the ARTFL Encyclopédie Project, University of Chicago.)"
 
   - id: "fig-099-a"
     src: "figures/099-a.jpg"
     # zoom: true
     label: "Fig. 99a"
     caption: "Mannequin once owned by Louis-François Roubiliac (French, worked in England, 1702–62), undressed, ca. 1750–62. Bronze, iron, hair, cork, wool, wood, leather, and silk, height 68 cm."
-    credit: "Museum of London, London."
+    credit: "Museum of London. (Photos: © Museum of London.)"
   
   - id: "fig-099-b"
     src: "figures/099-b.jpg"
     # zoom: true
     label: "Fig. 99b"
     caption: "Mannequin once owned by Louis-François Roubiliac (French, worked in England, 1702–62), dressed in men’s attire, ca. 1750–62. Bronze, iron, hair, cork, wool, wood, leather, and silk, height 68 cm."
-    credit: "Museum of London, London."
+    credit: "Museum of London. (Photos: © Museum of London.)"
 
   - id: "fig-100"
     src: "figures/100.jpg"
     # zoom: true
     label: "Fig. 100"
-    caption: "A mannequin posed and draped, “Dessein,” *Recueil de planches sur les sciences, les arts libéraux et les arts mécanique* (1765), plate XXVII."
-    credit: "Image courtesy of the ARTFL Encyclopédie Project."
+    caption: "A mannequin posed and draped, “Dessein” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécanique* (1765), plate XXVII."
+    credit: "(Image courtesy of the ARTFL Encyclopédie Project, University of Chicago.)"
 
   - id: "fig-101"
     src: "figures/101.jpg"
@@ -786,21 +786,21 @@ figure_list:
     src: "figures/103.jpg"
     # zoom: true
     label: "Fig. 103"
-    caption: "Jean-Baptiste Greuze, *The Village Bride*, ca. 1761."
-    credit: "Paris, Musée du Louvre, MNR722."
+    caption: "Jean-Baptiste Greuze (French, 1725–1805), *The Village Bride*, ca. 1761. Oil on canvas, 120 × 117 cm."
+    credit: "Paris, Musée du Louvre, INV5037. (© RMN-Grand Palais / photo: Franck Raux / Art Resource, NY.)"
 
   - id: "fig-104"
     src: "figures/104.jpg"
     # zoom: true
     label: "Fig. 104"
     caption: "Detail of signatures in the marriage contract of Jean-Baptiste Greuze and Anne-Gabrielle Babuty, 31 January 1759."
-    credit: "Paris, Archives Nationales, MC/ET/XXXI/165."
+    credit: "Paris, Archives Nationales, MC/ET/XXXI/165. (Photo: Hannah Williams.)"
 
   - id: "fig-105"
     src: "figures/105.jpg"
     # zoom: true
     label: "Fig. 105"
-    caption: "Detail of signatures in the *Inventaire après divorce* (post-divorce inventory) of Jean-Baptiste Greuze and Anne-Gabrielle Babuty, 30 August 1793."
+    caption: "Detail of signatures in the *inventaire après divorce* (post-divorce inventory) of Jean-Baptiste Greuze and Anne-Gabrielle Babuty, 30 August 1793."
     credit: "Paris, Archives Nationales, MC/ET/XLVIII/375."
 
   - id: "fig-106"
