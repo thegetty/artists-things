@@ -361,27 +361,27 @@ figure_list:
     # zoom: true
     label: "Fig. 51"
     caption: "Jean-Antoine Houdon (French, 1741–1828), Écorché, 1767. Plaster, 181 cm."
-    credit: "Rome, Villa Medici."
+    credit: "Rome, Villa Medici, 2015.0.136. (Collections of the Académie de France in Rome–Villa Medici. Photo: © Daniele Molajoli.)"
 
   - id: "fig-052"
     src: "figures/052.jpg"
     # zoom: true
     label: "Fig. 52"
-    caption: "François Tortebat, from *Abrégé d’anatomie accommodé aux arts de peinture et de sculpture* (Paris: Jean Mariette, 1733), fig. 1."
+    caption: "François Tortebat, from *Abrégé d’anatomie accommodé aux arts de peinture et de sculpture* (Paris: Jean Mariette, 1733), fig. 1. Paris, Bibliothèque Nationale de France."
 
   - id: "fig-053"
     src: "figures/053.jpg"
     # zoom: true
     label: "Fig. 53"
-    caption: "After Edme Bouchardon (French, 1698–1762), Écorché, nineteenth-century cast of 1741 original. Plaster and metal."
-    credit: "Paris, École Nationale Supérieure des Beaux-Arts."
+    caption: "After Edme Bouchardon (French, 1698–1762), Écorché, nineteenth-century cast of 1741 original. Plaster and metal, 208 × 70 × 60 cm."
+    credit: "Paris, École Nationale Supérieure des Beaux-Arts, MU12201. (Art Resource, NY.)."
 
   - id: "fig-054"
     src: "figures/054.jpg"
     # zoom: true
     label: "Fig. 54"
-    caption: "Jean-Antoine Houdon (French, 1741–1828), Écorché, 1790. Bronze."
-    credit: "Paris, École Nationale Supérieure des Beaux-Arts."
+    caption: "Jean-Antoine Houdon (French, 1741–1828), Écorché, 1790. Bronze, 194 × 70 cm."
+    credit: "Paris, École Nationale Supérieure des Beaux-Arts, MU11974. (© Beaux-Arts de Paris, Dist. RMN-Grand Palais / Art Resource, NY.)."
 
   - id: "fig-055"
     src: "figures/055-FPO.jpg"
