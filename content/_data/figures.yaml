@@ -576,29 +576,29 @@ figure_list:
     src: "figures/082.jpg"
     # zoom: true
     label: "Fig. 82"
-    caption: "Gabriel de Saint-Aubin’s pencil annotations in *Catalogue des tableaux et dessins originaux des plus grands maîtres qui composoient le cabinet de feu Charles Natoire* (1778)."
+    caption: "Gabriel de Saint-Aubin’s pencil annotations in *Catalogue des tableaux et dessins originaux des plus grands maîtres . . . qui composoient le cabinet de feu Charles Natoire* (1778)."
     credit: "Paris, Bibliothèque Nationale de France."
 
   - id: "fig-083"
     src: "figures/083.jpg"
     # zoom: true
     label: "Fig. 83"
-    caption: "Roman engraved gem with a group of soldiers, second–third century AD. Gold ring and onyx intaglio, 1.6 cm."
-    credit: "New York, Metropolitan Museum of Art."
+    caption: "Roman engraved gem with a group of soldiers, late second–early third century CE. Gold ring and onyx intaglio, 1.6 cm."
+    credit: "New York, Metropolitan Museum of Art, Bequest of Rupert L. Joseph, 1959, 60.55.80."
 
   - id: "fig-084"
     src: "figures/084.jpg"
     # zoom: true
     label: "Fig. 84"
-    caption: "Giovanni Pichler, *Antinous*, ca. 1750–1850. Engraved gem, chalcedony."
-    credit: "Los Angeles, The J. Paul Getty Museum. 83.AL.257.17."
+    caption: "Giovanni Pichler (Italian, 1734–91) or Luigi Pichler (Italian, 1773–1854), *Antinous*, ca. 1750–1850. Engraved gem, chalcedony."
+    credit: "Los Angeles, The J. Paul Getty Museum, 83.AL.257.17."
 
   - id: "fig-085"
     src: "figures/085.jpg"
     # zoom: true
     label: "Fig. 85"
-    caption: "Charles Natoire (French, 1700–1777), *Villa Natoire*, ca. 1760–62. Pencil, pen, ink and gray wash with white gouache and watercolor, 29.7 × 45.2 cm."
-    credit: "Frankfurt am Main, Städel Museum, 16733."
+    caption: "Charles Natoire (French, 1700–1777), *Villa Natoire*, ca. 1760–62. Pencil, pen, ink, and gray wash with white gouache and watercolor, 29.7 × 45.2 cm."
+    credit: "Frankfurt am Main, Städel Museum, 16733. (bpk Bildagentur / Städel Museum/ Ursula Edelmann / Art Resource, NY.)"
 
   - id: "fig-086-a"
     src: "figures/086-a-FPO.jpg"
