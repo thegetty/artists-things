@@ -500,21 +500,21 @@ figure_list:
     # zoom: true
     label: "Fig. 71"
     caption: "Jacques-Louis David (French, 1748–1825), *Jacobus Blauw*, 1795. Oil on canvas, 92 × 73 cm."
-    credit: "London, National Gallery."
+    credit: "London, National Gallery, NG6495. (© National Gallery, London / Art Resource, NY.)"
 
   - id: "fig-072"
     src: "figures/072.jpg"
     # zoom: true
     label: "Fig. 72"
     caption: "Pierre Rabon (French, 1619–84), *Antoine de Ratabon*, 1660. Oil on canvas, 152 × 126 cm."
-    credit: "Châteaux de Versailles et de Trianon."
+    credit: "Châteaux de Versailles et de Trianon, MV4346. (© RMN-Grand Palais / photo: Gerard Blot / Art Resource, NY.)"
 
   - id: "fig-073"
     src: "figures/073.jpg"
     # zoom: true
     label: "Fig. 73"
     caption: "Nicolas Vleughels (French, 1668–1737), *Apelles and Campaspe*, 1717. Oil on canvas, 125 × 97 cm."
-    credit: "Paris, Musée du Louvre."
+    credit: "Paris, Musée du Louvre, Inv8482. (© RMN-Grand Palais / photo: Stéphane Maréchalle / Art Resource, NY.)"
 
   - id: "fig-074"
     src: "figures/074.jpg"
