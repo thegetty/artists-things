@@ -9,7 +9,7 @@ owner:
     last_name: Vigée-Lebrun
     years: 1755–1842
 type: [Symbolic Thing, Tool]
-theme: [Education, Memory, Identity, Making, Studio]
+theme: [Education, Identity, Making, Memory, Studio]
 material: [Plant Matter | Wood, Synthetic Materials | Paint/Pigment]
 mentions: [carriage, artmchair, color box, red lake, modeling stand, burin, sketchbook, decoration, relic, bed, table]
 contributor:
@@ -38,13 +38,13 @@ It is in this performative guise that we come face to face with the palette of V
 
 {% figure 'fig-125' 'is-indented' %}
 
-Vigée-Lebrun’s self-reflexive engagement with her palette in her self-portrait underscores its complex role in the painter’s working life. As an intermediary surface in the stages of painterly creation—the space where color was workshopped before being applied to its next and final surface—the palette was different from most tools in the artist’s studio. Some tools, like easels or {% thing 'modeling stands' %}, were valuable mechanical aids, but not exactly indispensable; things intentionally designed to make easier, speed up, or simplify the practices of the studio. Others, like brushes or {% thing 'burins' %}, were more imperative to the actions and gestures of art making; things that served as extensions of the artist’s hand, enhancing its dexterity, precision, or facility. The palette, meanwhile, was both and more: a useful mechanical aid; an extension of the hand; but also, an extension of the mind—an experimental space where ideas could be rehearsed and refined into material form. In this respect it was perhaps closer to the {% thing 'sketchbook' %}, though instead of investigating form and subject matter for future use, the palette concocted color in the moment, to be wiped clean afterward, ready for the next the experiment.
+Vigée-Lebrun’s self-reflexive engagement with her palette in her self-portrait underscores its complex role in the painter’s working life. As an intermediary surface in the stages of painterly creation—the space where color was workshopped before being applied to its next and final surface—the palette was different from most tools in the artist’s studio. Some tools, like easels or {% thing 'modeling stands' %}, were valuable mechanical aids, but not exactly indispensable; things intentionally designed to make easier, speed up, or simplify the practices of the studio. Others, like brushes or {% thing 'burins' %}, were more imperative to the actions and gestures of art making; things that served as extensions of the artist’s hand, enhancing its dexterity, precision, or facility. The palette, meanwhile, was both and more: a useful mechanical aid, an extension of the hand, and also an extension of the mind—an experimental space where ideas could be rehearsed and refined into material form. In this respect it was perhaps closer to the {% thing 'sketchbook' %}, though instead of investigating form and subject matter for future use, the palette concocted color in the moment, to be wiped clean afterward, ready for the next the experiment.
 
 {% figure 'fig-126' 'is-paired' %}
 
 {% figure 'fig-127' 'is-paired' %}
 
-As a color laboratory, site of self-definition, and embodied extension of the creative agent, Vigée-Lebrun’s palette was, like that of every painter, perhaps the most representative possession in her working life. No surprise, then, that in death the palette became her commemorative marker. Her gravestone in the cemetery of Louveciennes is adorned with a tombstone maker’s crude line carving showing a palette resting atop a plinth: a memorial to the painter engraved into this memorial to the painter ({% ref 'fig-126' %}). This monumentalizing of the painter’s palette in death reaches its zenith in a very different commemorative object for one of Vigée-Lebrun’s contemporaries, Jacques-Louis David. Few eighteenth-century palettes have survived still attached in provenance to their owners, but, at the Musée de la Légion d’Honneur in Paris, David’s is now preserved in a quasi reliquary ({% ref 'fig-127' %}). Framed and encased under a glass dome, his palette is the centerpiece of an arrangement of items: a double *godet* clipped to its edge; a bunch of brushes and utensils suspended over the cutaway; and David’s {% thing 'decoration' %} as *commandeur* of the Légion d’Honneur (awarded by Napoleon in 1815) hanging through the thumbhole. An inscription affixed on a leather shield serves as tombstone, in both senses, a museum label with elegiac shades: “Palette, brushes, and palette knife of Jacques-Louis David, restorer of the French School.”[^13] Assembled sometime after his death in 1825, this object is a testament to David’s renown, but also to the cults of artistic celebrity that began emerging in the nineteenth century. Like Vigée-Lebrun’s grave, this was an honorific act of memorialization by an anonymous maker, but rather than remaining in the symbolic realm, this one transformed the palette itself into a {% thing 'relic' %}—a precious physical remnant of the great painter. {% contributors context=pageContributors format='symbol' %}
+As a color laboratory, site of self-definition, and embodied extension of the creative agent, Vigée-Lebrun’s palette was, like that of every painter, perhaps the most representative possession in her working life. No surprise, then, that in death the palette became her commemorative marker. Her gravestone in the cemetery of Louveciennes is adorned with a tombstone maker’s crude line carving showing a palette resting atop a plinth: a memorial to the painter engraved into this memorial to the painter ({% ref 'fig-126' %}). This monumentalizing of the painter’s palette in death reaches its zenith in a very different commemorative object for one of Vigée-Lebrun’s contemporaries, Jacques-Louis David. Few eighteenth-century palettes have survived still attached in provenance to their owners, but, at the Musée de la Légion d’Honneur in Paris, David’s is now preserved in a quasi reliquary ({% ref 'fig-127' %}). Framed and encased under a glass dome, his palette is the centerpiece of an arrangement of items: a double *godet* clipped to its edge; a bunch of brushes and utensils suspended over the cutaway; and David’s {% thing 'decoration' %} as *commandeur* of the Légion d’Honneur (awarded by Napoleon in 1815) hanging through the thumbhole. An inscription affixed on a leather shield serves as tombstone, in both senses, a museum label with elegiac shades: “Palette, brushes, and palette knife of Jacques-Louis David, restorer of the French School.”[^13] Assembled sometime after his death in 1825, this object is a testament to David’s renown, and also to the cults of artistic celebrity that began emerging in the nineteenth century. Like Vigée-Lebrun’s grave, this was an honorific act of memorialization by an anonymous maker, but rather than remaining in the symbolic realm, this one transformed the palette itself into a {% thing 'relic' %}—a precious physical remnant of the great painter. {% contributors context=pageContributors format='symbol' %}
 
 <div class="additional-figs" hidden>
 
@@ -56,7 +56,7 @@ As a color laboratory, site of self-definition, and embodied extension of the cr
 
 [^2]: Vigée-Lebrun, *Memoirs*, 18.
 
-[^3]: Charles-Antoine Coypel and Jacques Louis David are examples of artists who had multiple working and living spaces, as discussed in {% thing 'bed' %} and {% thing 'table' %}.
+[^3]: Charles-Antoine Coypel and Jacques-Louis David are examples of artists who had multiple working and living spaces, as discussed in {% thing 'bed' %} and {% thing 'table' %}.
 
 [^4]: *Encyclopédie*, <https://encyclopedie.uchicago.edu/>, s.v. “Palette,” 11:781.
 
@@ -64,7 +64,7 @@ As a color laboratory, site of self-definition, and embodied extension of the cr
 
 [^6]: Jean-Felix Watin, *L’art du peintre, doreur, vernisseur* (Paris: Grangé, 1773), 54; and Roger de Piles, *Les premiers éléments de la peinture pratique* (Paris: Nicolas Langlois, 1684), 61.
 
-[^7]: Bertin holds a rectangular palette in his portrait by Jacques-François Delyen (1725, Château de Versailles), while Van Loo holds one in his *Self-Portrait with His Sister* (see {% ref 'fig-138' %}).
+[^7]: Bertin holds a rectangular palette in his portrait by Jacques-François Delyen (1725, Château de Versailles), while Van Loo holds one in his *Self-Portrait with His Sister* (see {% ref 'fig-141' %}).
 
 [^8]: Mignard’s “left-handed” palette designed for his right hand is depicted in his portrait by Paul Mignard (1672, Musée des Beaux-Arts, Lyon).
 
