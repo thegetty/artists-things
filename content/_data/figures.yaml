@@ -549,20 +549,20 @@ figure_list:
     # zoom: true
     label: "Fig. 78"
     caption: "Nicolas-Marie Gatteaux (French, 1751–1832), Medal commemorating the ascent of Joseph and Etienne Montgolfier, balloonists at the Champ de Mars, 1784. Silver, diam. 4.1 cm."
-    credit: "London, Science Museum."
+    credit: "London, Science Museum. (SSPL/Science Museum / Art Resource, NY.)"
 
   - id: "fig-079"
     src: "figures/079.jpg"
     # zoom: true
     label: "Fig. 79"
-    caption: "Jean-François Janinet (French, 1752–1842), Entry ticket to Janinet and Miollan’s balloon flight, 1784. Etching."
+    caption: "Jean-François Janinet (French, 1752–1814), Entry ticket to Janinet and Miollan’s balloon flight, 1784. Etching."
     credit: "Paris, Bibliothèque Nationale de France."
 
   - id: "fig-080"
     src: "figures/080-FPO.jpg"
     # zoom: true
     label: "Fig. 80"
-    caption: "Jean-François Janinet (French, 1752–1842), after François Boucher (French, 1703–70), *Toilette of Venus*, 1784. Color aquatint and crayon-manner etching, 37.5 × 29.5 cm."
+    caption: "Jean-François Janinet (French, 1752–1814), after François Boucher (French, 1703–70), *Toilette of Venus*, 1784. Color aquatint and crayon-manner etching, 37.5 × 29.5 cm."
     credit: "Paris, Bibliothèque Nationale de France."
 
   - id: "fig-081"
