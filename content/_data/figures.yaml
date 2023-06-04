@@ -723,22 +723,22 @@ figure_list:
     src: "figures/095-FPO.jpg"
     # zoom: true
     label: "Fig. 95"
-    caption: "Front page of the copy of Hyacinthe Rigaud’s *lettres de reception* (1700) transcribed by Henri van Hulst (1685–1754)."
-    credit: "Paris, École Nationale Supérieure des Beaux-Arts. Ms 117."
+    caption: "Front page of the copy of Hyacinthe Rigaud’s *lettres de réception* (1700), transcribed by Henri van Hulst (1685–1754)."
+    credit: "Paris, École Nationale Supérieure des Beaux-Arts, Ms 117. (Courtesy of École Nationale Supérieure des Beaux-Arts, Paris. Photo: Hannah Williams.)."
 
   - id: "fig-096"
     src: "figures/096.jpg"
     # zoom: true
     label: "Fig. 96"
-    caption: "Hyacinthe Rigaud (French, 1659–1743), *Martins Desjardins*, 1700. Oil on canvas, 141 × 106 cm."
-    credit: "Paris, Musée du Louvre."
+    caption: "Hyacinthe Rigaud (French, 1659–1743), *Martin Desjardins*, 1700. Oil on canvas, 141 × 106 cm."
+    credit: "Paris, Musée du Louvre, Inv. 7511. (© RMN-Grand Palais / photo: Franck Raux / Art Resource, NY.)"
 
   - id: "fig-097"
     src: "figures/097.jpg"
     # zoom: true
     label: "Fig. 97"
     caption: "Hyacinthe Rigaud (French, 1659–1743), *Saint Andrew*, 1742. Oil on canvas, 153 × 106 cm."
-    credit: "Paris, École Nationale Supérieure des Beaux-Arts. MRA 103."
+    credit: "Paris, École Nationale Supérieure des Beaux-Arts, MRA 103. (© Beaux-Arts de Paris, Dist. RMN-Grand Palais / Art Resource, NY.) "
 
   - id: "fig-098"
     src: "figures/098.jpg"
