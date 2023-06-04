@@ -863,22 +863,22 @@ figure_list:
     src: "figures/114.jpg"
     # zoom: true
     label: "Fig. 114"
-    caption: "Jean-Siméon Chardin, (French, 1699–1779), *La serinette*, 1750–51. Oil on canvas, 50 × 43 cm."
-    credit: "Paris, Musée du Louvre."
+    caption: "Jean-Siméon Chardin (French, 1699–1779), *La serinette*, 1750–51. Oil on canvas, 50 × 43 cm."
+    credit: "Paris, Musée du Louvre. Inv. RF1985-10. (© RMN-Grand Palais / Photo: René-Gabriel Ojéda / Art Resource, NY.)"
 
   - id: "fig-115"
     src: "figures/115.jpg"
     # zoom: true
     label: "Fig. 115"
-    caption: "Michel-Guillaume Aubert (French, ca. 1704–57), *Nightingale*, from Arnoult de Nobleville, *Aëdologie, ou Traité du rossignol* (1751). Etching."
-    credit: "Bibliothèque Nationale de France, Paris."
+    caption: "Michel-Guillaume Aubert (French, ca. 1704–57), *Nightingale*, from Arnoult de Nobleville, *Aëdologie, ou Traité du rossignol franc ou chanteur* (Paris: Debure, 1751). Etching."
+    credit: "Bibliothèque Nationale de France. (Image courtesy of Librairie Jean-Baptiste de Proyart.)"
 
   - id: "fig-116"
     src: "figures/116.jpg"
     # zoom: true
     label: "Fig. 116"
     caption: "Marie-Anne Collot (French, 1748–1821), *Henri IV*, 1770. Marble, 55 cm."
-    credit: "State Hermitage Museum, Saint Petersburg."
+    credit: "Saint Petersburg, State Hermitage Museum."
 
   - id: "fig-117"
     src: "figures/117.jpg"
