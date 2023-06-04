@@ -696,14 +696,14 @@ figure_list:
     # zoom: true
     label: "Fig. 91"
     caption: "Attributed to Grettepin (sculptor) and Jacques Desjardins (bronze caster), Key for the chapel at the Château de Versailles, ca. 1710. Gilt bronze and steel, 31 × 8.5 cm, 510g."
-    credit: "Châteaux de Versailles et de Trianon, Versailles."
+    credit: "Châteaux de Versailles et de Trianon, V6295. (© RMN-Grand Palais / photo: Gérard Blot / Art Resource, NY.)"
 
   - id: "fig-092"
     src: "figures/092.jpg"
     # zoom: true
     label: "Fig. 92"
     caption: "Pierre Peyron, *Funeral of Miltiades*, 1782. Oil on canvas, 98 × 136 cm."
-    credit: "Paris, Musée du Louvre."
+    credit: "Paris, Musée du Louvre, 7179. (© RMN-Grand Palais / photo: Michel Urtado / Art Resource, NY.)"
 
   - id: "fig-093"
     src: "figures/093.jpg"
