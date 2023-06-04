@@ -639,8 +639,8 @@ figure_list:
     src: "figures/087.jpg"
     # zoom: true
     label: "Fig. 87"
-    caption: "Loose papers tucked inside front cover of Frits Lugt volume of Johann-Georg Wille’s journal (1777–83)."
-    credit: "Paris, Frits Lugt Collection, Fondation Custodia."
+    caption: "Loose papers tucked inside the front cover of the Frits Lugt volume of Johann-Georg Wille’s journal (1777–83)."
+    credit: "Paris, Frits Lugt Collection, Fondation Custodia. (Photo: Hannah Williams.)"
   
   - id: "fig-088-a"
     src: "figures/088-a.jpg"
