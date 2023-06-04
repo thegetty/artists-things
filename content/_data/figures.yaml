@@ -1004,42 +1004,42 @@ figure_list:
     # zoom: true
     label: "Fig. 131"
     caption: "Nicolas de Largillière (French, 1656–1746), *Trompe l’Oeil with a Curtain, a Parrot, and a Cat*, ca. 1715. Oil on canvas, 261 × 251 cm."
-    credit: "Paris, Musée du Louvre."
+    credit: "Paris, Musée du Louvre, RF1979-59. (© RMN-Grand Palais / photo: Franck Raux / Art Resource, NY.)"
 
   - id: "fig-132"
     src: "figures/132.jpg"
     # zoom: true
     label: "Fig. 132"
     caption: "Nicolas de Largillière (French, 1656–1746), *Still Life with a Violin*, ca. 1715. Oil on canvas, 79 × 87.3 cm."
-    credit: "Quimper, Musée des Beaux-Arts."
+    credit: "Quimper, Musée des Beaux-Arts, Inv873-1-169. (© RMN-Grand Palais / photo: Mathieu Rabeau / Art Resource, NY.)"
 
   - id: "fig-133"
     src: "figures/133.jpg"
     # zoom: true
     label: "Fig. 133"
     caption: "François Roettiers (Flemish, 1685–1742), after Nicolas de Largillière (French, 1656–1746), *Crucifixion*, ca. 1719. Black chalk."
-    credit: "Nouveau Musée National de Monaco."
+    credit: "Nouveau Musée National de Monaco, n° 1984.13. (Photo : NMNM / Marcel Loli.)"
 
   - id: "fig-134"
     src: "figures/134.jpg"
     # zoom: true
     label: "Fig. 134"
     caption: "Michael Butterfield, *Porte-crayon* and other drawing instruments with their case, ca. 1700. Brass instruments and leather case."
-    credit: "Washington, National Museum of American History."
+    credit: "Washington, Division of Medicine and Science, National Museum of American History, Smithsonian Institution."
 
   - id: "fig-135"
     src: "figures/135.jpg"
     # zoom: true
     label: "Fig. 135"
-    caption: "Jean-Baptiste Perronneau, *Olivier Journu*, 1756. Pastel on paper laid on canvas, 58.1 × 47 cm."
-    credit: "New York, Metropolitan Museum of Art."
+    caption: "Jean-Baptiste Perronneau (French, ca. 1715–83), *Olivier Journu*, 1756. Pastel on blue-gray laid paper laid on canvas, 58.1 × 47 cm."
+    credit: "New York, Metropolitan Museum of Art, Wrightsman Fund, 2003 (2003.26). (Image copyright © The Metropolitan Museum of Art. Image source: Art Resource, NY.)"
 
   - id: "fig-136"
     src: "figures/136.jpg"
     # zoom: true
     label: "Fig. 136"
-    caption: "Jean-Baptiste Perronneau, *Louis Metayer Phzn*, ca. 1767–68. Trois crayons and graphite on paper, 23.2 × 19 cm."
-    credit: "Amsterdam. Rijksmuseum."
+    caption: "Jean-Baptiste Perronneau (French, ca. 1715–83), *Louis Metayer Phzn*, ca. 1767–68. Trois crayons and graphite on paper, 23.2 × 19 cm."
+    credit: "Amsterdam, Rijksmuseum. On loan from the Koninklijk Oudheidkundig Genootschap."
 
   - id: "fig-137"
     src: "figures/137.jpg"
