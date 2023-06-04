@@ -387,29 +387,29 @@ figure_list:
     src: "figures/055-FPO.jpg"
     # zoom: true
     label: "Fig. 55"
-    caption: "Title page, book of the funeral and burial notices of the members of the Académie royale, ca. 1703–13. Engraving and pen and ink, 50 × 30 cm."
-    credit: "Paris, École Nationale Supérieure des Beaux-Arts."
+    caption: "Title page, “Billets d'Enterrement & de Service de Messrs d l’Académie Royale de Peinture et de Sculpture,” ca. 1703–13. Ink on parchment, 50 × 36 × 9 cm."
+    credit: "Paris, École Nationale Supérieure des Beaux-Arts, Archives 137-01. (© Beaux-Arts de Paris, Dist. RMN-Grand Palais / Art Resource, NY.)"
 
   - id: "fig-056"
     src: "figures/056.jpg"
     # zoom: true
     label: "Fig. 56"
-    caption: "Page from book of the funeral and burial notices of the members of the Académie royale, ca. 1703–13. Woodcut decorated letter and marbled paper."
-    credit: "Paris, École Nationale Supérieure des Beaux-Arts."
+    caption: "Page from “Billets d'Enterrement & de Service de Messrs d l’Académie Royale de Peinture et de Sculpture,” ca. 1703–13. Woodcut decorated letter and marbled paper."
+    credit: "Paris, École Nationale Supérieure des Beaux-Arts (© Beaux-Arts de Paris, Dist. RMN-Grand Palais / Art Resource, NY.) "
 
   - id: "fig-057"
     src: "figures/057.jpg"
     # zoom: true
     label: "Fig. 57"
-    caption: "Jean-Baptiste Tuby, Funerary Monument to Charles Le Brun’s Mother, 1669–84. Marble."
-    credit: "Paris, Church of Saint-Nicolas-du-Chardonnet."
+    caption: "Jean-Baptiste Tuby, Funerary monument to Charles Le Brun’s mother, 1669–84. Marble."
+    credit: "Paris, Church of Saint-Nicolas-du-Chardonnet. (SiefkinDR / Wikipedia.)"
 
   - id: "fig-058"
     src: "figures/058-FPO.jpg"
     # zoom: true
     label: "Fig. 58"
     caption: "Page from the register of lists of members of the Académie royale, 1675–1735. Letterpress annotated in pen and ink, 45 × 30 cm."
-    credit: "Paris, École Nationale Supérieure des Beaux-Arts."
+    credit: "Paris, École Nationale Supérieure des Beaux-Arts, Ms 22. (© Beaux-Arts de Paris, Dist. RMN-Grand Palais / Art Resource, NY.)"
 
   - id: "fig-059"
     src: "figures/059.jpg"
