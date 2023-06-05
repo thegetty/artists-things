@@ -58,7 +58,7 @@ Grimou’s self-portraits certainly emphasize the sensory qualities of wine, but
 
 [^11]: This included eight *pièces* (approximately 183 liters) and one *demi-pièce* (approximately 91 liters) at Lagny-sur-Marne, and nine *demi-pièces* and a *feuillette* (approximately 137 liters each) at the Louvre. Hédou, *Jean Le Prince*, 209, 260.
 
-[^12]: “Information faite par le commissaire Daminois au sujet de la mort violente du sieur Lemoyne,” {% abbr '*NAAF*' %}*,* 1877, 195.
+[^12]: “Information faite par le commissaire Daminois au sujet de la mort violente du sieur Lemoyne,” {% abbr '*NAAF*' %}, 1877, 195.
 
 [^13]: Savary des Bruslons, *Dictionnaire universel*, 1954–55. Étienne Jeaurat’s brother, François, was a *marchand de vin* living on the same street as the painter in the 1740s (possibly in the same dwelling), {% abbr 'AN' %}, {% abbr 'MC' %}/ET/CXV/548.
 

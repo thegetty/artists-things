@@ -114,4 +114,4 @@ By contrast, such was the dirt and chaos of Saint-Aubin’s lodgings, Rue de Bea
 
 [^25]: Mireille Rambaud, *Documents du Minutier Central concernant l’histoire de l’art (1700–1750)*, 2 vols (Paris: Imprimerie Nationale, 1964–71), 2:146.
 
-[^26]: See Jules Guiffrey, “Scellés et inventaires d’artistes, 1771–1790,” {% abbr '*NAAF*' %}*,* 1885, 3:105–7.
+[^26]: See Jules Guiffrey, “Scellés et inventaires d’artistes, 1771–1790,” {% abbr '*NAAF*' %}, 1885, 3:105–7.

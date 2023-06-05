@@ -46,13 +46,13 @@ Dying by the sword was, like wearing it, evocative of noble ideals. The classica
 
 [^3]: “Procès-verbal d’apposition de scellés après le décès de François Lemoyne, premier peintre du roi,” in Jules Guiffrey, *Scellés et inventaires d’artistes français du XVII^e^ et XVIII^e^ siècle* (Paris: Charavay, 1884), 1:341–42.
 
-[^4]: “Rapport du chirurgien du Châtelet sur l’état du cadaver du sieur Lemoyne,” {% abbr '*NAAF*' %}*,* 1877, 196–97.
+[^4]: “Rapport du chirurgien du Châtelet sur l’état du cadaver du sieur Lemoyne,” {% abbr '*NAAF*' %}, 1877, 196–97.
 
 [^5]: “Rapport du chirurgien,” 196–97.
 
 [^6]: Ellery Schalk, *From Valor to Pedigree: Ideas of Nobility in the Sixteenth and Seventeenth Centuries* (Princeton: Princeton University Press, 1986), 148–49.
 
-[^7]: See, for instance, Charles-Nicolas Cochin’s letter to the marquis de Marigny, 5 September 1768, in Marc Furcy-Raynaud, *Correspondance de M. de Marigny*, {% abbr '*NAAF*' %}*,* 1904, 155–56.
+[^7]: See, for instance, Charles-Nicolas Cochin’s letter to the marquis de Marigny, 5 September 1768, in Marc Furcy-Raynaud, *Correspondance de M. de Marigny*, {% abbr '*NAAF*' %}, 1904, 155–56.
 
 [^8]: {% abbr '*PV*' %}, 4:69–70, 76.
 

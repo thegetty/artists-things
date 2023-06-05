@@ -70,7 +70,7 @@ What of the religious pictures that weighed so heavily with Mariette and Dézall
 
 [^12]: *Edit du Roy pour retrenchement du luxe des meubles, habits, vaisselle, équipages et bâtiments*, March 1700; see Nicolas de La Mare, *Traité de police* (Paris: Brunet, 1705–38), 1:419–22.
 
-[^13]: {% abbr 'AN' %}, Y3583 (17 April 1700), in Emile Compardon in {% abbr '*NAAF*' %}*,* 1874–75, 223–24. See also *Largilliere*, 42. Among other artists to face similar charges were Jacques Van Schuppen (Largillière’s pupil) and Jacques Oudry (father of another). See “Catalogue des noms et demeures de ceux qui ont faits leurs déclarations en execution de l’Édit de Sa Majesté du mois de mars 1700,” {% abbr 'BnF' %}, Ms. f.f. 21627.
+[^13]: {% abbr 'AN' %}, Y3583 (17 April 1700), in Emile Compardon in {% abbr '*NAAF*' %}, 1874–75, 223–24. See also *Largilliere*, 42. Among other artists to face similar charges were Jacques Van Schuppen (Largillière’s pupil) and Jacques Oudry (father of another). See “Catalogue des noms et demeures de ceux qui ont faits leurs déclarations en execution de l’Édit de Sa Majesté du mois de mars 1700,” {% abbr 'BnF' %}, Ms. f.f. 21627.
 
 [^14]: They are identifiable from his estate inventory. See de Lastic, “Largillière,” 15–18.
 
