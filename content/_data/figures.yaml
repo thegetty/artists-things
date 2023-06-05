@@ -455,7 +455,7 @@ figure_list:
 
   - id: "fig-065"
     src: "figures/065.jpg"
-    zoom: true
+    # zoom: true
     label: "Fig. 65"
     caption: "Adélaïde Labille-Guiard (French, 1749–1803), *Portrait of François-André Vincent*, 1795. Oil on canvas, 73 × 59 cm."
     credit: "Paris, Musée du Louvre. (© RMN-Grand Palais / Photo: Hervé Lewandowski / Art Resource, NY.)"
