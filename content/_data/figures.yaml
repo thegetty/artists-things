@@ -1045,15 +1045,15 @@ figure_list:
     src: "figures/137.jpg"
     # zoom: true
     label: "Fig. 137"
-    caption: "Louis-Michel Van Loo, *Denis Diderot*, 1767. Oil on canvas, 81 × 65 cm."
-    credit: "Paris, Musée du Louvre."
+    caption: "Louis-Michel Van Loo (French, 1707–71), *Denis Diderot*, 1767. Oil on canvas, 81 × 65 cm."
+    credit: "Paris, Musée du Louvre, Inv. RF1958. (© RMN-Grand Palais / Art Resource, NY. Photo: Stéphane Maréchalle.)"
 
   - id: "fig-138"
     src: "figures/138.jpg"
     # zoom: true
     label: "Fig. 138"
     caption: "Joseph-Siffred Duplessis (French, 1725–1802), *Self-Portrait*, 1780. Oil on canvas, 60 × 50 cm."
-    credit: "Carpentras, Bibliothèque Inguimbertine."
+    credit: "Carpentras, Bibliothèque Inguimbertine. (HIP / Art Resource, NY.)"
 
   - id: "fig-139"
     src: "figures/139.jpg"
@@ -1066,15 +1066,15 @@ figure_list:
     src: "figures/140.jpg"
     # zoom: true
     label: "Fig. 140"
-    caption: "Louis-Michel Van Loo, *Self-Portrait Painting the Portrait of His Father, Jean-Baptiste Van Loo*, 1762. Oil on canvas, 129.5 × 98 cm."
-    credit: "Châteaux de Versailles et de Trianon."
+    caption: "Louis-Michel Van Loo (French, 1707–71), *Self-Portrait Painting the Portrait of His Father, Jean-Baptiste Van Loo*, 1762. Oil on canvas, 129.5 × 98 cm."
+    credit: "Châteaux de Versailles et de Trianon, MV5827. (© RMN-Grand Palais / photo: Christophe Fouin / Art Resource, NY.)"
 
   - id: "fig-141"
     src: "figures/141.jpg"
     # zoom: true
     label: "Fig. 141"
-    caption: "Louis-Michel Van Loo, *Self-Portrait with His Sister*, 1763. Oil on canvas, 230.5 × 162 cm."
-    credit: "Châteaux de Versailles et de Trianon."
+    caption: "Louis-Michel Van Loo (French, 1707–71), *Self-Portrait with His Sister*, 1763. Oil on canvas, 230.5 × 162 cm."
+    credit: "Châteaux de Versailles et de Trianon, MV6774. (© RMN-Grand Palais / photo: Christophe Fouin / Art Resource, NY.)"
 
   - id: "fig-142"
     src: "figures/142.jpg"
