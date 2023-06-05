@@ -1123,21 +1123,21 @@ figure_list:
     # zoom: true
     label: "Fig. 148"
     caption: "Cover and binding of Jean-Michel Moreau the Younger’s sketchbook, ca. 1770s. Brown leather with gilding, 18.2 × 11.1 cm."
-    credit: "Paris, Musée du Louvre, Département des Arts Graphiques, Album Moreau Jean-Michel RF1656."
+    credit: "Paris, Musée du Louvre, Département des Arts Graphiques, Album Moreau Jean-Michel, RF1656. (© Musée du Louvre, dist. RMN-Grand Palais.)"
 
   - id: "fig-149"
     src: "figures/149.jpg"
     # zoom: true
     label: "Fig. 149"
-    caption: "Jean-Michel Moreau the Younger (French, 1741–1814), *Woman Sewing,* Album Moreau Jean-Michel, folio 23. Pencil on paper."
-    credit: "Paris, Musée du Louvre, Département des Arts Graphiques, RF1656."
+    caption: "Jean-Michel Moreau the Younger (French, 1741–1814), *Woman Sewing,* Album Moreau Jean-Michel, folio 23. Pencil on paper, 18.2 × 11.1 cm."
+    credit: "Paris, Musée du Louvre, Département des Arts Graphiques, RF1640, 24. (© Musée du Louvre, Dist. RMN-Grand Palais / Marc Jeanneteau./ Art Resource, NY.)"
 
   - id: "fig-150"
     src: "figures/150.jpg"
     # zoom: true
     label: "Fig. 150"
-    caption: "Jean-Michel Moreau the Younger (French, 1741–1814), *Etienne Jeaurat Sleeping,* Album Moreau Jean-Michel, folio 14. Pencil with stumping on paper."
-    credit: "Paris, Musée du Louvre, Département des Arts Graphiques, RF1656."
+    caption: "Jean-Michel Moreau the Younger (French, 1741–1814), *Étienne Jeaurat Sleeping,* Album Moreau Jean-Michel, folio 14. Pencil with stumping on paper, 18.2 × 11.1 cm."
+    credit: "Paris, Musée du Louvre, Département des Arts Graphiques, RF1631, 15. (© Musée du Louvre, Dist. RMN-Grand Palais / Marc Jeanneteau./ Art Resource, NY.)"
 
   - id: "fig-151"
     src: "figures/151.jpg"
