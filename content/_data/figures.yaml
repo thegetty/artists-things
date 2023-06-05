@@ -1081,34 +1081,34 @@ figure_list:
     # zoom: true
     label: "Fig. 142"
     caption: "Reconstructed Cro-Magnon shell bead necklace, 28,000 BCE. Shells."
-    credit: "Washington, Smithsonian National Museum of Natural History."
+    credit: "Washington, Smithsonian National Museum of Natural History, A8129, Department of Anthropology, Smithsonian Institution. (Photo by Chip Clark.)"
 
   - id: "fig-143"
     src: "figures/143.jpg"
     # zoom: true
     label: "Fig. 143"
     caption: "Selection of cowries."
-    credit: "Washington, Smithsonian National Museum of Natural History."
+    credit: "Washington, Smithsonian National Museum of Natural History. (Photo: Chris Meyer.)"
 
   - id: "fig-144"
     src: "figures/144.jpg"
     # zoom: true
     label: "Fig. 144"
-    caption: "“Dessein” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécanique* (1765), plate II."
-    credit: "Image courtesy of the ARTFL Encyclopédie Project."
+    caption: "Instruments, “Dessein,” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécaniques* (1765), plate II."
+    credit: "(Image courtesy of the ARTFL Encyclopédie Project, University of Chicago.)"
 
   - id: "fig-145"
     src: "figures/145.jpg"
     # zoom: true
     label: "Fig. 145"
-    caption: "Edmé Gersaint, *Catalogue raisonné de coquilles et autres curiosités naturelles* (1736), frontispiece."
+    caption: "Edmé Gersaint (French, 1694–1750), *Catalogue raisonné de coquilles et autres curiosités naturelles* (1736), frontispiece."
     credit: "Paris, Bibliothèque Nationale de France."
 
   - id: "fig-146"
     src: "figures/146.jpg"
     # zoom: true
     label: "Fig. 146"
-    caption: "Marie-Thérèse Reboul-Vien (French, 1738–1805), Illustrations of shells from Michel Adamson, *Histoire naturelle du Sénégal: Coquillage* (1757), plate 8."
+    caption: "Marie-Thérèse Reboul-Vien (French, 1738–1805), Illustrations of shells from Michel Adanson, *Histoire naturelle du Sénégal: Coquillage* (1757), plate 1."
     credit: "Paris, Bibliothèque Nationale de France."
 
   - id: "fig-147"
@@ -1116,7 +1116,7 @@ figure_list:
     # zoom: true
     label: "Fig. 147"
     caption: "Edme Bouchardon (French, 1698–1762), *Frog*, ca. 1745. Red chalk on paper, 15 × 20 cm."
-    credit: "Paris, Musée du Louvre, Département des Arts Graphiques."
+    credit: "Paris, Musée du Louvre, Département des Arts Graphiques, INV24311-Bis-recto. (© RMN-Grand Palais / photo:Suzanne Nagy / Art Resource, NY.)"
 
   - id: "fig-148"
     src: "figures/148-FPO.jpg"
