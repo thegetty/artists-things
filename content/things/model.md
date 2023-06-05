@@ -11,7 +11,7 @@ owner:
 type: [Instrument, Tool]
 theme: [Making, Studio]
 material: [Animal | Wax, Mineral | Clay, Synthetic Materials | Plaster]
-mentions: [modeling stand, '*portes-crayon*']
+mentions: [modeling stand, '*porte-crayon*']
 contributor:
   - id: "kscott"
 ---

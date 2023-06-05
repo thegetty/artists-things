@@ -66,7 +66,7 @@ Among Coypel’s high-born friends was the marquis de Calvière, an aristocrat a
 
 [^10]: On the Coypel studios, see Nicole Garnier, *Antoine Coypel (1661–1722)* (Paris: Arthena, 1989), 171–72; and Lefrançois, *Charles Coypel*, 42.
 
-[^11]: Jules-Joseph Guiffrey, “Logements d’artistes au Louvre,” {% abbr 'NAAF' %}, 1873, 1–221.
+[^11]: Jules-Joseph Guiffrey, “Logements d’artistes au Louvre,” {% abbr '*NAAF*' %}, 1873, 1–221.
 
 [^12]: See Coypel’s “Inventaire après décès.”
 

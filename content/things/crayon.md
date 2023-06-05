@@ -11,7 +11,7 @@ owner:
 type: [Tool]
 theme: [Education, Invention, Making, Studio]
 material: [Mineral | Chalk, Synthetic Materials | Paper]
-mentions: ['*portes-crayon*']
+mentions: ['*porte-crayon*']
 contributor:
   - id: "kscott"
 ---
