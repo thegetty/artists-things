@@ -1,6 +1,6 @@
 ---
 title: "Color Box"
-aliases: [color boxes]
+aliases: [color-boxes]
 layout: thing
 order: 110
 tags: thing
