@@ -80,7 +80,7 @@ This focus on the collection of apparel, a collection that Watteau began to asse
 
 [^13]: Gouzi, *Restout*, D79 and 141–49.
 
-[^14]: {% thing 'Mannequins' %} were listed among Restout’s studio paraphernalia in 1753. See {% abbr 'AN' %}, O</sup>1</sup>/1671/133–35.
+[^14]: {% thing 'Mannequins' %} were listed among Restout’s studio paraphernalia in 1753. See {% abbr 'AN' %}, O<sup>1</sup>/1671/133–35.
 
 [^15]: Gouzi, *Restout*, D81.
 

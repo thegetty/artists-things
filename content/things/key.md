@@ -73,7 +73,7 @@ We can never know how Peyron felt as he took the key from his pocket, slipped it
 
 [^19]: D’Angiviller’s commissioned the *Death of Alcestes* (1785) for himself, and the *Death of Socrates* (1787) for the king.
 
-[^20]: Jules-Joseph Guiffrey, “Logements d’artistes au Louvre,” {% abbr '*NAAF*' %}*,* 1873, 15, 18.
+[^20]: Jules-Joseph Guiffrey, “Logements d’artistes au Louvre,” {% abbr '*NAAF*' %}, 1873, 15, 18.
 
 [^21]: {% abbr 'AN' %}, O<sup>1</sup>/1674/240, Jean-Baptiste Huez to the comte d’Angiviller, 27 November 1784; and {% abbr 'AN' %}, O<sup>1</sup>/1674/240bis, d’Angiviller to Huez, 15 December 1784. D’Angiviller took much more care in choosing his words to Vernet. The repeated crossed-out words in a draft of a letter to Vernet, 21 February 1782 ({% abbr 'AN' %}, O<sup>1</sup>/1674/104) indicate that he was keen to spare Vernet’s pride.
 

@@ -36,7 +36,7 @@ After these legal proceedings, Greuze and Babuty’s marriage contract would mak
 
 {% figure 'fig-105' 'is-indented' %}
 
-As detached as notarial documents may seem as sources, the marriage contract and the post-divorce inventory remain the material vestiges of two civic rituals that marked the beginning and end of a relationship. A such, these things also bear a trace of the human experience. This emerges perhaps most strikingly in the couple’s signatures and the poignant contrast between their confident ebullience at the marriage of 1759 ({% ref 'fig-104' %}) (Babuty’s elegant and calligraphic; Greuze’s complete with flourishing underwhirl) and their austere pragmatism at the divorce of 1793 ({% ref 'fig-105' %}) (Babuty’s reduced version written in a tremulous hand; and Greuze’s perfunctory in its lack of ornament). Indeed, in the latter, the names are not even signed in the same ink, suggesting either they refused to share a {% thing 'quill' %}, or more likely, they signed on separate occasions. In one document, a bride and groom, standing together surrounded by friends and family; in the other, an acrimoniously divorced couple, unwilling to share the same space. {% contributors context=pageContributors format='symbol' %}
+As detached as notarial documents may seem as sources, the marriage contract and the post-divorce inventory remain the material vestiges of two civic rituals that marked the beginning and end of a relationship. As such, these things also bear a trace of the human experience. This emerges perhaps most strikingly in the couple’s signatures and the poignant contrast between their confident ebullience at the marriage of 1759 (see {% ref 'fig-104' %}) (Babuty’s elegant and calligraphic; Greuze’s complete with flourishing underwhirl) and their austere pragmatism at the divorce of 1793 ({% ref 'fig-105' %}) (Babuty’s reduced version written in a tremulous hand; and Greuze’s perfunctory in its lack of ornament). Indeed, in the latter, the names are not even signed in the same ink, suggesting either they refused to share a {% thing 'quill' %} or, more likely, they signed on separate occasions. In one document, a bride and groom are standing together surrounded by friends and family; in the other, an acrimoniously divorced couple is unwilling to share the same space. {% contributors context=pageContributors format='symbol' %}
 
 [^1]: Marriage contract, Jean-Baptiste Greuze and Anne-Gabrielle Babuty, 31 January 1759. {% abbr 'AN' %}, {% abbr 'MC' %}/ET/XXXI/165.
 
@@ -48,18 +48,18 @@ As detached as notarial documents may seem as sources, the marriage contract and
 
 [^5]: On these debates, see especially Bernadette Fort, “Framing the Wife: Jean-Baptiste Greuze’s Sexual Contract,” in *Framing Women: Changing Frames of Representation from the Enlightenment to Postmodernism*, ed. Sandra Carroll, Birgit Pretzsch, and Peter Wagner (Tübingen: Max Niemeyer, 2003), 93–99; and Emma Barker, *Greuze and the Painting of Sentiment* (Cambridge: Cambridge University Press, 2005), 46–64.
 
-[^6]: For an autobiographical interpretation, see Edgar Munhall, *Diderot et l’art de Boucher à David*, exh. cat. (Hôtel de la Monnaie, Paris, 1984), 225. Without going so far, Fort also points to compelling resonances between life and art, not least the physiognomic similarities between Babuty and the bride, and between Babuty’s father and the father-of-the-bride: Fort, “Framing the Wife,” 97–98.
+[^6]: For an autobiographical interpretation, see Edgar Munhall, *Diderot et l’art de Boucher à David*, exh. cat. (Paris: Hôtel de la Monnaie, 1984), 225. Without going so far, Fort also points to compelling resonances between life and art, not least the physiognomic similarities between Babuty and the bride, and between Babuty’s father and the father of the bride: Fort, “Framing the Wife,” 97–98.
 
-[^7]: For Greuze’s account of the marriage, see Edmond and Jules de Goncourt, *L’art du XVIII^e^ siècle* (Paris: Charpentier, 1881–82), 32–49; and more recently, Fort, “Framing the Wife,” especially 92–93.
+[^7]: For Greuze’s account of the marriage, see Edmond and Jules de Goncourt, *L’art du XVIII<sup>e</sup> siècle* (Paris: Charpentier, 1881–82), 32–49; and, more recently, Fort, “Framing the Wife,” especially 92–93.
 
 [^8]: “Mémoire de Greuze contre sa femme,” 163.
 
 [^9]: “Plainte de Greuze au sujet de l’inconduite de sa femme” (1785), in {% abbr '*BSHAF*' %} (1877): 164–66.
 
-[^10]: Roderick G. Phillips, “Le divorce en France à la fin du XVIII^e^ siècle,” *Annales. Economies, sociétés, civilisations* 34, no. 2 (1979): 385.
+[^10]: Roderick G. Phillips, “Le divorce en France à la fin du XVIII<sup>e</sup> siècle,” *Annales: Economies, sociétés, civilisations* 34, no. 2 (1979): 385.
 
 [^11]: “Mémoire de Greuze contre sa femme,” 153–64.
 
-[^12]: Jean-Baptiste Greuze et Anne-Gabrielle Babuty, “Inventaire après divorce,”30 August 1793, {% abbr 'AN' %}, {% abbr 'MC' %}/ET/XLVIII/375.
+[^12]: Jean-Baptiste Greuze et Anne-Gabrielle Babuty, “Inventaire après divorce,” 30 August 1793, {% abbr 'AN' %}, {% abbr 'MC' %}/ET/XLVIII/375.
 
 [^13]: One copy of Greuze and Babuty’s marriage contract was kept in their home, the other (the one that survives today) was kept by the notary.

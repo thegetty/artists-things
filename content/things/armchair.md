@@ -62,7 +62,7 @@ When considered from the perspective of his armchair, there was certainly as muc
 
 [^11]: McClellan, *Inventing the Louvre*, 91–123; and Rosenberg, “Fragonard,” 581–82.
 
-[^12]: Fragonard seems to have been living in the Louvre before he left for Grasse, as his name is included in a description from 1790: “État des logemens,” transcribed in Jules Guiffrey, {% abbr '*NAAF*' %}*,* 1873, 147. He then remained in the Louvre until the general eviction of all artists in 1805.
+[^12]: Fragonard seems to have been living in the Louvre before he left for Grasse, as his name is included in a description from 1790: “État des logemens,” transcribed in Jules Guiffrey, {% abbr '*NAAF*' %}, 1873, 147. He then remained in the Louvre until the general eviction of all artists in 1805.
 
 [^13]: The request of a ceiling painting for the Apollo Gallery was made following Fragonard’s *agrément* in 1766 ({% abbr '*PV*' %}, 7:330–31). Ten years later, Fragonard wrote to the Académie seeking to be relieved of the obligation, and it was agreed that he could submit an ordinary easel painting instead ({% abbr '*PV*' %}, 8:242), but Fragonard never did that either.
 
