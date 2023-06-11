@@ -1227,14 +1227,14 @@ figure_list:
     # zoom: true
     label: "Fig. 163"
     caption: "Jacques-Louis David (French, 1748–1825), *The Lictors Returning to Brutus the Bodies of His Sons*, 1789. Oil on canvas, 323 × 422 cm."
-    credit: "Paris, Musée du Louvre."
+    credit: "Paris, Musée du Louvre, INV3693. (© RMN-Grand Palais / photo: Thierry Ollivier / Art Resource, NY.)"
 
   - id: "fig-164"
     src: "figures/164-FPO.jpg"
     # zoom: true
     label: "Fig. 164"
     caption: "Georges Jacob (French, 1739–1814) and Jacques-Louis David (French, 1748–1825), Table, ca. 1787–89. Gilt-bronze mounted mahogany."
-    credit: "Private collection."
+    credit: "Private collection. (© Sotheby’s Picture Library.)"
 
   - id: "fig-165"
     src: "figures/165.jpg"
