@@ -1150,15 +1150,15 @@ figure_list:
     src: "figures/152.jpg"
     # zoom: true
     label: "Fig. 152"
-    caption: "Jean-Baptiste Perronneau, *Jean-Baptiste Oudry*, 1753. Oil on canvas, 105 × 131 cm."
-    credit: "Paris, Musée du Louvre."
+    caption: "Jean-Baptiste Perronneau (French, 1686–1755), *Jean-Baptiste Oudry*, 1753. Oil on canvas, 131 × 105 cm."
+    credit: "Paris, Musée du Louvre, INV7158. (© RMN-Grand Palais /Photo: Franck Raux / Art Resource, NY.)"
 
   - id: "fig-153"
     src: "figures/153.jpg"
     # zoom: true
     label: "Fig. 153"
-    caption: "Jean-Baptiste Oudry (French, 1686–1755), *America* from *The* *Four Continents*, 1724. Oil on canvas."
-    credit: "Current location unknown. Image from Bridgeman Images."
+    caption: "Jean-Baptiste Oudry (French, 1686–1755), *America*, from *The* *Four Continents*, 1724. Oil on canvas."
+    credit: "Current location unknown. (Photo © Christie's Images/Bridgeman Images.)"
 
   - id: "fig-154"
     src: "figures/154.jpg"
