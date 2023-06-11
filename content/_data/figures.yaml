@@ -1248,28 +1248,28 @@ figure_list:
     # zoom: true
     label: "Fig. 166"
     caption: "Jacques-Louis David (French, 1748–1825), *Table with Two Vases*, n.d. Wash and chalk, 12.3 × 11.4 cm. Album 11, folio 13r."
-    credit: "Paris, Musée du Louvre, Inv. 26156."
+    credit: "Paris, Musée du Louvre, Inv. 26156. (© RMN-Grand Palais / photo: Laurent Chastel / Art Resource, NY.)"
 
   - id: "fig-167"
     src: "figures/167-FPO.jpg"
     # zoom: true
     label: "Fig. 167"
     caption: "Maker unknown, Cup and saucer, ca. 1700. Porcelain from Arita, Japan."
-    credit: "London, Victoria & Albert Museum."
+    credit: "London, Victoria & Albert Museum, Given by Lt. Col. Kenneth Dingwall DSO. (© Victoria & Albert Museum, London.)"
 
   - id: "fig-168"
     src: "figures/168.jpg"
     # zoom: true
     label: "Fig. 168"
-    caption: "Michel-Barthélemy Ollivier (French, 1712–84), *English Tea in the Salon des Quatres Glaces at the Temple*, 1766. Oil on canvas, 54 × 69.6 cm."
-    credit: "Châteaux de Versailles et de Trianon."
+    caption: "Michel-Barthélemy Ollivier (French, 1712–84), *English Tea in the Salon des Quatres Glaces at the Temple*, 1766. Oil on canvas, 53 × 68 cm."
+    credit: "Châteaux de Versailles et de Trianon. (© RMN-Grand Palais / Art Resource, NY.)"
 
   - id: "fig-169"
     src: "figures/169.jpg"
     # zoom: true
     label: "Fig. 169"
     caption: "Jean-Marc Nattier, *The Duchesse de Chaulnes as Hebe*, 1744. Oil on canvas, 144 × 110 cm."
-    credit: "Paris, Musée du Louvre."
+    credit: "Paris, Musée du Louvre, RF1942-32. (© RMN-Grand Palais / photo: Franck Raux / Art Resource, NY.)"
 
   - id: "fig-170"
     src: "figures/170-FPO.jpg"
