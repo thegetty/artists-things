@@ -1164,43 +1164,43 @@ figure_list:
     src: "figures/154.jpg"
     # zoom: true
     label: "Fig. 154"
-    caption: "Snuffbox, ca. 1740. Papier maché."
-    credit: "Paris, Musée des Arts Décoratifs."
+    caption: "Snuffbox, ca. 1740. *Papier maché*."
+    credit: "Private collection."
 
   - id: "fig-155"
     src: "figures/155-FPO.jpg"
     # zoom: true
     label: "Fig. 155"
-    caption: "Éloi Guérin (French, ca. 1714–65), Sugar spoon, 1757–58. Silver, 21.6 cm."
-    credit: "Paris, Musée du Louvre, Inv. no. OA 9733."
+    caption: "Éloi Guérin (French, ca. 1714–65), Sugar spoon, 1757–58. Silver, Length 21.6 cm."
+    credit: "Paris, Musée du Louvre, Inv. OA9733. (© RMN-Grand Palais / Art Resource, NY.)"
 
   - id: "fig-156"
     src: "figures/156.jpg"
     # zoom: true
     label: "Fig. 156"
-    caption: "Sébastien Leclerc (French, 1676–1763), *Sucrerie* (Stages of sugar production) from Jean-Baptiste du Tertre, *Histoire Générale des Antilles habitées par les François* (Paris: Thomas Jolly, 1667), 2:plate 9."
-    credit: "Photo: BnF, Dist. RMN-Grand Palais / image BnF."
+    caption: "Sébastien Leclerc (French, 1637–1714), *Sucrerie* (Stages of sugar production), from Jean-Baptiste du Tertre, *Histoire générale des Antilles habitées par les François* (Paris: Thomas Jolly, 1667), ED=59(A)=FOL Folio 28. Vol. 2, plate 9."
+    credit: "(© RMN-Grand Palais / Art Resource, NY. Photo: BnF, Dist. RMN-Grand Palais / image BnF.)"
 
   - id: "fig-157"
     src: "figures/157.jpg"
     # zoom: true
     label: "Fig. 157"
     caption: "Unknown maker, Pair of sugar casters in the form of enslaved plantation workers, ca. 1730–40. Silver, 28.2 × 11 × 15 cm."
-    credit: "Paris, Musée du Louvre, Inv. no. OA 11750."
+    credit: "Paris, Musée du Louvre, Inv. OA 11749, 11750. (© RMN-Grand Palais / Photo: Martine Beck Coppola / Art Resource, NY.) "
 
   - id: "fig-158"
     src: "figures/158.jpg"
     # zoom: true
     label: "Fig. 158"
     caption: "François-Hubert Drouais (French, 1727–75), *Portrait of Joseph-Hyacinthe-François de Paule de Rigaud, comte de Vaudreuil*, 1758. Oil on canvas, 225 × 161.1 cm."
-    credit: "London, National Gallery."
+    credit: "London, National Gallery, Presented by Barons Emile-Beaumont d'Erlanger, Frédéric d'Erlanger and Rodolphe d'Erlanger, in memory of their parents, 1927, NG4253 (© National Gallery, London / Art Resource, NY.)"
 
   - id: "fig-159"
     src: "figures/159.jpg"
     # zoom: true
     label: "Fig. 159"
-    caption: "François-Hubert Drouais (French, 1727–75), *Portrait of Joseph-Hyacinthe-François de Paule de Rigaud, comte de Vaudreuil*, detail, with map showing the French colony of Saint-Domingue (present-day Haiti), 1758. Oil on canvas, 225 × 161.1 cm."
-    credit: "London, National Gallery."
+    caption: "François-Hubert Drouais (French, 1727–75), *Portrait of Joseph-Hyacinthe-François de Paule de Rigaud, comte de Vaudreuil*, detail, with a map showing the French colony of Saint-Domingue (present-day Haiti), 1758. Oil on canvas, 225 × 161.1 cm."
+    credit: "London, National Gallery, Presented by Barons Emile-Beaumont d'Erlanger, Frédéric d'Erlanger and Rodolphe d'Erlanger, in memory of their parents, 1927, NG4253 (© National Gallery, London / Art Resource, NY.)"
 
   - id: "fig-160"
     src: "figures/160-FPO.jpg"
