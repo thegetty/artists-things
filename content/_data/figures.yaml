@@ -1207,14 +1207,14 @@ figure_list:
     # zoom: true
     label: "Fig. 160"
     caption: "French smallsword (with scabbard) with Solingen blade, ca. 1730. Steel, gilding, 69 × 1.8 cm."
-    credit: "London, Wallace Collection, inv. A688."
+    credit: "London, Wallace Collection, inv. A688. (© Wallace Collection, London, UK/Bridgeman Images.)"
 
   - id: "fig-161"
     src: "figures/161.jpg"
     # zoom: true
     label: "Fig. 161"
-    caption: "“Fourbisseur: épée blades” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécanique* (1765), plate V."
-    credit: "Image courtesy of the ARTFL Encyclopédie Project."
+    caption: "“Fourbisseur: épée blades,” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécaniques* (1765), plate V."
+    credit: "Image courtesy of the ARTFL Encyclopédie Project, University of Chicago."
 
   - id: "fig-162"
     src: "figures/162.jpg"
