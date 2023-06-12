@@ -1359,28 +1359,28 @@ figure_list:
     # zoom: true
     label: "Fig. 182"
     caption: "Louis-Michel Van Loo (French, 1707–71), *Claude-Joseph Vernet*, 1768. Oil on canvas, 65 × 56.5 cm."
-    credit: "Avignon, Musée Calvet."
+    credit: "Avignon, Musée Calvet. (Wikipedia, Photo: Finoskov, CC BY-SA 4.0.)"
 
   - id: "fig-183"
     src: "figures/183.jpg"
     # zoom: true
     label: "Fig. 183"
     caption: "Elisabeth Vigée-Lebrun, *Claude-Joseph Vernet*, 1778. Oil on canvas, 90 × 70 cm."
-    credit: "Paris, Musée du Louvre."
+    credit: "Paris, Musée du Louvre, 3054. (© RMN-Grand Palais / photo: Jean-Gilles Berizzi // Art Resource, NY.)"
 
   - id: "fig-184"
     src: "figures/184.jpg"
     # zoom: true
     label: "Fig. 184"
-    caption: "“Perruquier” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécanique* (1765), plate VII."
-    credit: "Image courtesy of the ARTFL Encyclopédie Project."
+    caption: "“Perruquier” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécaniques* (1765), plate VII."
+    credit: "(Image courtesy of the ARTFL Encyclopédie Project, University of Chicago.)"
 
   - id: "fig-185"
     src: "figures/185.jpg"
     # zoom: true
     label: "Fig. 185"
     caption: "Alexander Roslin (Swedish, 1718–93), *Claude-Joseph Vernet*, 1767. Oil on canvas, 65 × 54 cm."
-    credit: "Nationalmuseum, Stockholm."
+    credit: "Stockholm, Nationalmuseum. (HIP / Art Resource, NY.)"
 
   - id: "fig-186"
     src: "figures/186.jpg"
