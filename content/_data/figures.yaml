@@ -1386,8 +1386,8 @@ figure_list:
     src: "figures/186.jpg"
     # zoom: true
     label: "Fig. 186"
-    caption: "Jean-Baptiste Massé (1687–1767), *Self-Portrait*, ca. 1740. Red chalk."
-    credit: "Paris, Musée du Louvre, Département des Arts Graphiques."
+    caption: "Jean-Baptiste Massé (French, 1687–1767), *Self-Portrait*, ca. 1740. Red chalk, 41.7 × 37.5 cm."
+    credit: "Paris, Musée du Louvre, Département des Arts Graphiques, 30944-r. (RMN-Grand Palais / photo: Tony Querrec / Art Resource, NY.)"
 
   - id: "fig-187"
     src: "figures/187-FPO.jpg"
@@ -1400,14 +1400,14 @@ figure_list:
     src: "figures/188.jpg"
     # zoom: true
     label: "Fig. 188"
-    caption: "Charles Natoire (French, 1700–1777), *Apotheosis of Saint Louis*, ca. 1755–56. Pen and brown ink, wash and black chalk, 49.5 × 24.2 cm."
-    credit: "Waddesdon Manor, The Rothschild Collection Trust, inv. 2018."
+    caption: "Charles Natoire (French, 1700–1777), *Apotheosis of Saint Louis*, ca. 1755–56. Pen and brown ink, wash, and black chalk, 49.5 × 24.2 cm."
+    credit: "Waddesdon Manor, The Rothschild Collection Trust, inv. 2018. (Waddesdon Image Library.)"
 
   - id: "fig-189"
     src: "figures/189.jpg"
     # zoom: true
     label: "Fig. 189"
-    caption: "Sébastien Bourdon, *Vestire nudos* from *The Seven Acts of Mercy*, ca. 1660–70. Engraving,"
+    caption: "Sébastien Bourdon (French, 1616–71), *Vestire nudos*, from *The Seven Acts of Mercy*, ca. 1660–70. Engraving."
     credit: "London, Wellcome Collection."
 
   - id: "fig-190"
