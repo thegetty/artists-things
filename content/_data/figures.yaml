@@ -1337,7 +1337,7 @@ figure_list:
     src: "figures/179.jpg"
     # zoom: true
     label: "Fig. 179"
-    caption: "“Chaudronnier” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécanique* (1765), plate I."
+    caption: "“Chaudronnier” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécaniques* (1765), plate II."
     credit: "Paris, Bibliothèque Nationale de France."
 
   - id: "fig-180"
@@ -1345,14 +1345,14 @@ figure_list:
     # zoom: true
     label: "Fig. 180"
     caption: "Jean-Siméon Chardin (French, 1699–1779), *The Copper Cistern*, ca. 1734. Oil on panel, 28.5 × 23 cm."
-    credit: "Paris, Musée du Louvre."
+    credit: "Paris, Musée du Louvre, MI1037. (© RMN-Grand Palais / photo: Stéphane Maréchalle / Art Resource, NY.)"
 
   - id: "fig-181"
     src: "figures/181.jpg"
     # zoom: true
     label: "Fig. 181"
     caption: "Jean-Baptiste-Augustin Beausire (French, 1694–1764), Fontaine Palatine, ca. 1715."
-    credit: "Paris, Rue Garancière."
+    credit: "Paris, Rue Garancière. (Wikimedia, photo: Mbzt.)"
 
   - id: "fig-182"
     src: "figures/182.jpg"
