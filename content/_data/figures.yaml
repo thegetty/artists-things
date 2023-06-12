@@ -1414,12 +1414,12 @@ figure_list:
     src: "figures/190.jpg"
     # zoom: true
     label: "Fig. 190"
-    caption: "Alexis Grimou, *Self-Portrait as a Drinker*, 1724. Oil on canvas, 100 × 85 cm."
-    credit: "Paris, Musée du Louvre, Inv. 5045."
+    caption: "Alexis Grimou (Swiss, 1678–1733), *Self-Portrait as a Drinker*, 1724. Oil on canvas, 100 × 85 cm."
+    credit: "Paris, Musée du Louvre, Inv. 5045. (© Musée du Louvre, Dist. RMN-Grand Palais / Franck Raux / Art Resource, NY.)"
 
   - id: "fig-191"
     src: "figures/191.jpg"
     # zoom: true
     label: "Fig. 191"
-    caption: "Alexis Grimou, *Self-Portrait as a Drinker*, ca. 1732. Oil on canvas, 116.5 × 89.5 cm."
-    credit: "Scottish National Gallery, Edinburgh, NG664."
+    caption: "Alexis Grimou (Swiss, 1678–1733), *Self-Portrait as a Drinker*, ca. 1732. Oil on canvas, 116.3 × 89.7 cm."
+    credit: "Edinburgh, Scottish National Gallery, NG664. Presented by William Wright 1881. (Photographer: Antonia Reeve.)"
