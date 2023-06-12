@@ -1311,27 +1311,27 @@ figure_list:
     # zoom: true
     label: "Fig. 175"
     caption: "Adolf-Ulric Wertmülller (Swedish, 1751–1811), *Jean-Jacques Caffieri,* 1784. Oil on canvas, 129 × 96 cm."
-    credit: "Museum of Fine Arts, Boston, Ernest Wadsworth Longfellow Fund."
+    credit: "Museum of Fine Arts, Boston, Ernest Wadsworth Longfellow Fund. (Photograph © 2024 Museum of Fine Arts, Boston.)"
 
   - id: "fig-176"
     src: "figures/176.jpg"
     # zoom: true
     label: "Fig. 176"
     caption: "Adolf-Ulric Wertmülller (Swedish, 1751–1811), *Jean-Jacques Caffieri,* detail of watch, 1784. Oil on canvas, 129 × 96 cm."
-    credit: "Museum of Fine Arts, Boston, Ernest Wadsworth Longfellow Fund."
+    credit: "Museum of Fine Arts, Boston, Ernest Wadsworth Longfellow Fund. (Photograph © 2024 Museum of Fine Arts, Boston.)"
 
   - id: "fig-177"
     src: "figures/177.jpg"
     # zoom: true
     label: "Fig. 177"
-    caption: "“Horlogerie” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécanique* (1765), plate X, detail."
-    credit: "Image courtesy of the ARTFL Encyclopédie Project."
+    caption: "“Horlogerie” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécaniques* (1765), plate X, detail."
+    credit: "(Image courtesy of the ARTFL Encyclopédie Project, University of Chicago.)"
 
   - id: "fig-178"
     src: "figures/178.jpg"
     # zoom: true
     label: "Fig. 178"
-    caption: "Charles-Antoine Coypel (French, 1694–1752), *Supper at Emmaus*, 1749. Oil on canvas, 590 × 315 cm. Paris, Communion Chapel, Church of Saint-Merry."
+    caption: "Charles-Antoine Coypel (French, 1694–1752), *Supper at Emmaus*, 1749. Oil on canvas, 590 × 315 cm. Paris, Communion Chapel, Church of Saint-Merry. (Photo: isogood / Alamy Stock Photo.)"
     
   - id: "fig-179"
     src: "figures/179.jpg"
