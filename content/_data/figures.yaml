@@ -172,7 +172,7 @@ figure_list:
     src: "figures/025-FPO.jpg"
     # zoom: true
     label: "Fig. 25"
-    caption: "Claude Sidone Michel and Louis-Charles Denos, “Route from Paris to Lyon,” from *L’Indicateur fidèle, ou guide des voyageurs* (Paris, 1767)."
+    caption: "Claude Sidone Michel and Louis-Charles Denos, “Route from Paris to Lyon,” from *L’indicateur fidèle, ou guide des voyageurs* (Paris, 1767)."
     credit: "Paris, Bibliothèque Nationale de France."
 
   - id: "fig-026"
