@@ -1,11 +1,12 @@
 ---
-layout: base.11ty.js
+layout: page
+class: copyright-page
 order: 4
-class: backmatter about-copyright-page
-outputs:
-  - epub
-  - pdf
 toc: false
+menu: false
+outputs:
+  - pdf
+  - epub
 ---
 
 {{ config.quire_credit_line | markdownify }}

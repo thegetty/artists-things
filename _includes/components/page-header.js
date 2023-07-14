@@ -83,6 +83,7 @@ module.exports = function(eleventyConfig) {
             ${pageLabel}
             ${pageTitle({ title, subtitle })}
           </h1>
+          <span class="pdf-footers__title">${markdownify(title)}</span>
           ${ownersElement}
           ${contributorsElement}
         </div>

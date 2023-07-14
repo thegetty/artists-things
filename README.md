@@ -2,7 +2,25 @@
 
 The [Quire Eleventy package](https://github.com/thegetty/quire/tree/main/packages/11ty) contains configuration and modules for the [Eleventy static site generator](https://11ty.dev). This package is published to npm as [`@thegetty/quire-11ty`](https://www.npmjs.com/package/@thegetty/quire-11ty) and installed by the [`@thegetty/quire-cli`](https://www.npmjs.com/package/@thegetty/quire-cli) to build [Quire](https://quire.getty.edu) projects.
 
-### New and Customized Template Files
+## Creating a PDF Version
+
+1. Run `quire build`
+
+2. If the PDF will be sent to digital printer, run the following command to ensure color profiles are correct:
+
+    ```
+    magick mogrify -profile bin/adobe-rgb-1998.icm _site/iiif/**/print-image.jpg
+    ```
+
+3. With PrinceXML 14.2 installed, run `quire pdf --lib prince`
+
+Note: We were originally planning on using Paged.js to output this project, however, it is outputting rich black text, which increases print cost and lowers print quality. Also, this important bit of CSS, which adds commas to the things in the List of Owners, wasn't working in Paged.js whereas it does in Prince. And Prince offers some other layout benefits we'll be able to take advantage of.
+
+```css
+#owners-list li .quire-citation + .quire-citation::before { content: ", "; }
+```
+
+## New and Customized Template Files
 
 **_includes/components/icons.js**
 Added custom search icon
@@ -22,7 +40,7 @@ Added three dropdown selects for the thing grid
 Altered to show current page title instead of homepage link, as well as a link to the contents ("Things") page
 
 **_includes/components/page-header.js**
-Added a list of 'owners'
+Added a list of 'owners' and an html element for the PDF footers
 
 **_includes/components/table-of-contents/item/list.js**
 Output the list item for 'thing' pages with an image
@@ -57,7 +75,3 @@ Refactored logic to handle oxford commas correctly; and added handling to displa
 
 **_plugins/shortcodes/figureRef.js**
 Refactored to accept comma-separated array, and to output with .q-figure__modal-link class
-
-**_plugins/transforms/outputs/pdf/layout.html**
-**_plugins/transforms/outputs/pdf/write.js**
-Added wrapping elements with classes necessary for styling

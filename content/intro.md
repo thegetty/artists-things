@@ -1,7 +1,7 @@
 ---
 title: Introduction
 layout: essay
-class: page-one
+class: page-one quire-essay
 order: 13
 contributor:
   - id: "kscott"
