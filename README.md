@@ -22,6 +22,9 @@ Note: We were originally planning on using Paged.js to output this project, howe
 
 ## New and Customized Template Files
 
+**_includes/components/copyright/licensing.js**
+Updated licensing language
+
 **_includes/components/icons.js**
 Added custom search icon
 
