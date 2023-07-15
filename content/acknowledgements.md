@@ -4,7 +4,7 @@ layout: page
 order: 302
 ---
 
-This project owes debts to many kinds of things.
+**This project owes debts to many kinds of things.**{.large-opener}
 
 To the pounds and pence and the dollars and cents generously put in our pockets over more than a decade by the academic institutions at which our project emerged, was nurtured, and finally completed. Thank you to the Courtauld Institute of Art, London; St John’s College, University of Oxford; the Getty Research Institute, Los Angeles; and Queen Mary University of London.
 
