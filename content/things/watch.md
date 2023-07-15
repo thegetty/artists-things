@@ -8,7 +8,7 @@ owner:
   - first_name: Charles-Antoine
     last_name: Coypel
     years: 1694–1752
-type: [Apparel, Collectible, Commodity, Gift, Heirloom, Instrument,]
+type: [Apparel, Collectible, Commodity, Gift, Instrument, Symbolic Thing]
 theme: [Community, Invention, Louvre, Luxury, Money, Religion]
 material: [Metal | Gold/Gilding, Mineral | Gem]
 mentions: [shell, snuffbox, bed, handkerchief, sword, will]

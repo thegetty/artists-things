@@ -9,7 +9,7 @@ owner:
     last_name: Nattier
     years: 1685–1766
 type: [Collectible, Commodity, Intoxicant, Tableware]
-theme: [Food and Drink, Global Commerce, Luxury, Studio]
+theme: [Food and Drink, Global Commerce, Leisure, Luxury, Studio]
 material: [Metal | Silver, Mineral | Clay]
 mentions: [intaglio]
 contributor:

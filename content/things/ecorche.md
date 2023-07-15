@@ -8,8 +8,8 @@ owner:
   - first_name: Jean-Antoine
     last_name: Houdon
     years: 1741–1828
-type: [Artwork]
-theme: [Death, Education, Health/Medicine, Louvre, Luxury, Making, Studio, Tool, Travel]
+type: [Artwork, Tool]
+theme: [Death, Education, Health/Medicine, Louvre, Luxury, Making, Studio, Travel]
 material: [Metal | Bronze, Mineral | Clay, Synthetic Materials | Plaster]
 mentions: [model, mannequin, modeling stand, armchair, table]
 contributor:

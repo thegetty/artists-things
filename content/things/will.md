@@ -10,7 +10,7 @@ owner:
     years: 1687–1767
 type: [Document]
 theme: [Administration, Death, Family, Friendship, Identity, Money, Religion]
-material: [Synthetic Materials | Ink, Synthetic Materials | Paper]
+material: [Animal | Leather/Parchment, Synthetic Materials | Ink, Synthetic Materials | Paper]
 mentions: [quill, snuffbox, votive, picture]
 contributor:
   - id: "kscott"

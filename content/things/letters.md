@@ -8,8 +8,8 @@ owner:
   - first_name: Hyacinthe
     last_name: Rigaud
     years: 1659–1743
-type: [Ritual Thing, Symbolic Thing]
-theme: [Administration, Document, Identity]
+type: [Document, Ritual Thing, Symbolic Thing]
+theme: [Administration, Identity]
 material: [Animal | Wax, Synthetic Materials | Ink, Synthetic Materials | Paper]
 menitons: [order book, journal]
 contributor:

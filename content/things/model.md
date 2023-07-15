@@ -9,7 +9,7 @@ owner:
     last_name: Bouchardon
     years: 1698–1762
 type: [Instrument, Tool]
-theme: [Making, Studio]
+theme: [Education, Making, Studio]
 material: [Animal | Wax, Mineral | Clay, Synthetic Materials | Plaster]
 mentions: [modeling stand, '*porte-crayon*']
 contributor:

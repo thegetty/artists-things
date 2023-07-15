@@ -8,7 +8,7 @@ owner:
   - first_name: Pierre
     last_name: Peyron
     years: 1744–1814
-type: [Tool]
+type: [Instrument]
 theme: [Community, Louvre]
 material: [Metal | Gold/Gilding, Metal | Steel]
 contributor:

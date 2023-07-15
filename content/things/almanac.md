@@ -9,7 +9,7 @@ owner:
     last_name: Vernet
     years: 1714–89
 type: [Instrument]
-theme: [Everyday, Travel]
+theme: [Everyday, Louvre, Travel]
 material: [Synthetic Materials | Paper]
 mentions: [watch, order book, journal, snuffbox, sword, umbrella, wig]
 contributor:

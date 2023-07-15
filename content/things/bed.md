@@ -10,7 +10,7 @@ owner:
     years: 1694–1752
 type: [Furniture, Ritual Thing]
 theme: [Family, Identity, Memory, Louvre, Luxury]
-material: [Plant Matter | Wood, Synthetic Materials | Paint/Pigment, Textile | Cotton, Textile | Linen, Textile | Silk, Textile | Wool]
+material: [Plant Matter | Wood, Synthetic Materials | Paint/Pigment, Textile | Cotton, Textile | Silk, Textile | Wool]
 mentions: [picture, journal, teacup, carriage]
 contributor:
   - id: "kscott"

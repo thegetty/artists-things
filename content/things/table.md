@@ -8,7 +8,7 @@ owner:
   - first_name: Jacques-Louis
     last_name: David
     years: 1748–1825
-type: [Furniture, Prop, Symbolic Thing]
+type: [Furniture, Heirloom, Prop, Symbolic Thing]
 theme: [Antiquity, Family, Louvre, Making, Studio]
 material: [Metal | Bronze, Metal | Gold/Gilding, Plant Matter | Wood]
 mentions: [palette, modeling stand, handkerchief, harpsichord, relic, key, mannequin, sketchbook, bed, camera obscura]

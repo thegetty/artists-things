@@ -9,7 +9,7 @@ owner:
     last_name: Duplessis
     years: 1725–1802
 type: [Tool]
-theme: [Making, Studio]
+theme: [Invention, Making, Studio]
 material: [Plant Matter, Synthetic Materials | Paint/Pigment]
 mentions: [palette]
 contributor:

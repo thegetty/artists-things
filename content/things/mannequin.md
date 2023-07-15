@@ -10,7 +10,7 @@ owner:
     years: 1734–81
 type: [Prop, Tool]
 theme: [Making, Studio, Travel]
-material: [Animal | Hair, Plant Matter | Cork, Textile | Silk]
+material: [Animal | Hair, Plant Matter | Cork, Plant Matter | Wood, Textile | Silk]
 mentions: [wig, écorché, color box, '*porte-crayon*', camera obscura, dressing-up box, sword, table]
 contributor:
   - id: "hwilliams"

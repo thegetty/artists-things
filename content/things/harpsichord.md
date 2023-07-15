@@ -11,6 +11,7 @@ owner:
   - first_name: Louis
     last_name: Tocqué
     years: 1696–1772
+type: [Heirloom, Instrument, Prop]
 theme: [Family, Gender]
 material: [Animal | Feather, Plant Matter | Wood, Synthetic Materials | Paint/Pigment]
 mentions: [marriage contract, quill, water fountain, table, glasses, modeling stand, bed, table]
