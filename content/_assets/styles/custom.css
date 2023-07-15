@@ -408,7 +408,7 @@ q-modal {
   max-height: 7rem;
   align-items: flex-start;
   overflow: scroll;
-  top: 85%;
+  top: calc(100vh - 7rem);
 }
 .q-lightbox-slides__caption, .q-figure-slides__slide-ui .annotations-ui {
   background-color: transparent;
