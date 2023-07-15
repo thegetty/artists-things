@@ -48,7 +48,7 @@ At the time Louis-Michel painted his self-portraits, he was seeking appointment 
 
 <div class="additional-figs" hidden>
 
-{% figuregroup '3' 'fig-137, fig-167' %}
+{% figuregroup '3' 'fig-137, fig-067' %}
 
 </div>
 

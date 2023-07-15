@@ -48,7 +48,7 @@ As a color laboratory, site of self-definition, and embodied extension of the cr
 
 <div class="additional-figs" hidden>
 
-{% figuregroup '3' 'fig-036, fig-183' %}
+{% figuregroup '3' 'fig-036, fig-183, fig-141' %}
 
 </div>
 

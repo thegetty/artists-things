@@ -38,7 +38,7 @@ As a material thing and a used thing, Moreau’s sketchbook sits somewhere in be
 
 <div class="additional-figs" hidden>
 
-{% figuregroup '3' 'fig-086-a' %}
+{% figuregroup '3' 'fig-086' %}
 
 </div>
 

@@ -45,7 +45,7 @@ On at least one occasion, however, the harpsichord broke free of its domestic in
 
 <div class="additional-figs" hidden>
 
-{% figuregroup '3' 'fig-180, fig-166, fig-065, fig-111, fig-160' %}
+{% figuregroup '3' 'fig-180, fig-163, fig-065, fig-113' %}
 
 </div>
 
