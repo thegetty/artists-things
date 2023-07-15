@@ -42,6 +42,12 @@ Before the 1770s, modeling was not a sign for the art of sculpture as a whole, a
 
 Houdon, however, did not use clay for rough work, or, to be more exact, he buried his beginning in the finished work, rather than leaving it standing. Moreover, his exacting commitment to the perfect imitation of his sitters—in the busts that made his reputation and dominated his output—precluded the expression of his self on the surface of his forms through traces of his touch. However, his commissions did always begin with clay. Sometimes they also ended in terracotta. At others, the clay model led to a marble, or more rarely to a bronze, and almost invariably generated multiple plaster casts. In all cases he reserved the right to the “original.”[^26] The modeling stand thus anchored that point of origin of his *oeuvre*, in the formal sense of all the work he acknowledged, and in which he formally recognized himself as author. It speaks, therefore, to the social and ideological investments that artists had in this modern notion of authorship. Purchased after his death in 1828, a brass plaque was screwed to it that reads “SELLE DE HOUDON”: the stand had become an icon. {% contributors context=pageContributors format='symbol' %}
 
+<div class="additional-figs" hidden>
+
+{% figuregroup '3' 'fig-093' %}
+
+</div>
+
 [^1]: Pierre Lemonnier, *Mundane Objects: Materiality and Non-Verbal Communication* (London: Routledge, 2012), 13.
 
 [^2]: See Joseph Connors, “Ars Tornandi: Baroque Architecture and the Lathe,” *Journal of the Warburg and Courtauld Institutes* 53 (1990): 217–36; and *Porphyre: La pierre pourpre des Ptolémées aux Bonapartes*, exh. cat. (Paris: Musée du Louvre, 2003).
