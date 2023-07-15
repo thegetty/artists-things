@@ -1472,7 +1472,7 @@ a:hover .quire-thing__main__icon svg {
   #owners-list li:first-child,
   #owners-list li:nth-child(27),
   #artists-chronology tbody tr:first-child,
-  #artists-chronology tbody tr:nth-child(32),
+  #artists-chronology tbody tr:nth-child(26),
   #index-by-thing tbody tr:first-child,
   #index-by-thing tbody tr:nth-child(12),
   #index-by-theme tbody tr:first-child,
@@ -1483,7 +1483,7 @@ a:hover .quire-thing__main__icon svg {
   #owners-list li:nth-child(26),
   #owners-list li:last-child,
   #artists-chronology tbody tr:last-child,
-  #artists-chronology tbody tr:nth-child(31),
+  #artists-chronology tbody tr:nth-child(25),
   #index-by-thing tbody tr:last-child,
   #index-by-thing tbody tr:nth-child(11),
   #index-by-theme tbody tr:last-child,
@@ -1494,7 +1494,7 @@ a:hover .quire-thing__main__icon svg {
 }
 @media screen and (max-width: 45.5rem) {
   #owners-list li:nth-child(27),
-  #artists-chronology tbody tr:nth-child(32),
+  #artists-chronology tbody tr:nth-child(26),
   #index-by-thing tbody tr:nth-child(12),
   #index-by-theme tbody tr:nth-child(18) {
     display: block;
@@ -1504,7 +1504,7 @@ a:hover .quire-thing__main__icon svg {
     display: block;
     margin-bottom: .5rem;
   }
-  #artists-chronology tbody tr:nth-child(31),
+  #artists-chronology tbody tr:nth-child(25),
   #index-by-thing tbody tr:nth-child(11),
   #index-by-theme tbody tr:nth-child(17) {
     display: block;

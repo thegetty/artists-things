@@ -8,6 +8,7 @@ owner:
   - first_name: Étienne-Maurice
     last_name: Falconet
     years: 1716–91
+    sort_years: 1716–1791
 type: [Commodity, Tool]
 theme: [Friendship, Identity]
 material: [Animal | Feather, Synthetic Materials | Ink, Synthetic Materials | Paper]

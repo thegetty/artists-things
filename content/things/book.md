@@ -11,6 +11,7 @@ owner:
   - first_name: Gabriel de
     last_name: Saint-Aubin
     years: 1724–80
+    sort_years: 1724–1780
 theme: [Education, Leisure, Studio]
 material: [Synthetic Materials | Ink, Synthetic Materials | Paper]
 mentions: [color box, red lake]

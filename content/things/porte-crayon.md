@@ -8,7 +8,7 @@ owner:
   - first_name: Jean-Baptiste
     last_name: Perronneau
     years: ca. 1715–83
-    sort_years: 1715–83
+    sort_years: 1715–1783
 type: [Companion, Tool]
 theme: [Identity, Studio]
 material: [Animal | Leather/Parchment, Metal | Silver, Mineral | Chalk]

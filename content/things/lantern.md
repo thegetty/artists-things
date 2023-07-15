@@ -11,6 +11,7 @@ owner:
   - first_name: Charles-Nicolas
     last_name: Cochin
     years: 1715–90
+    sort_years: 1715–1790
   - first_name: Claude-François
     last_name: Desportes
     years: 1695–1774
