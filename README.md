@@ -57,13 +57,6 @@ Accepts an array of images stacked on top of one another, and add adds visually-
 **_layouts/thing.liquid**
 Copied essay.liquid, except that it adds owners to the pageHeader and a `.thing-info` grid to display type, theme, and material.
 
-**_plugins/filters/lowerCase.js**
-**_plugins/filters/index.js**
-Added new filter to convert string to lower case, for use in Liquid tempates
-
-**_plugins/shortcodes/figureGroup.js**
-Added optional group figure caption, and optional class, and simplify output to remove rows
-
 **_plugins/shortcodes/index.js**
 Registered the new `abbr` and `thing` shortcodes
 
