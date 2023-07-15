@@ -84,7 +84,7 @@ Chardin’s copper fountain challenges not interpretation of his still-lives as 
 
 [^20]: On the privacy of Chardin’s studio, see Lajer-Burcharth, *The Painter’s Touch*, 90–91.
 
-[^21]: The inscription reads: “Aquam a praefecto et aedilibus acceptam hic suis impensis, civibus fluere voluit Serenissima Princeps Anna Palatina, ex Bavarii . . . Anno Domini MD.CC.XV.”
+[^21]: The inscription reads: “Aquam a praefecto et aedilibus acceptam hic suis impensis, civibus fluere voluit Serenissima Princeps Anna Palatina, ex Bavarii .&#160;.&#160;. Anno Domini MD.CC.XV.”
 
 [^22]: For a theorization of containers, see Jean-Pierre Warnier, “Inside and Outside: Surfaces and Containers,” in *Handbook of Material Culture*, ed. Chris Tilly et al. (Los Angeles: Sage, 2006), 186–95.
 

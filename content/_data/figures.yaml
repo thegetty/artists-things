@@ -576,7 +576,7 @@ figure_list:
     src: "figures/082.jpg"
     # zoom: true
     label: "Fig. 82"
-    caption: "Gabriel de Saint-Aubin’s pencil annotations in *Catalogue des tableaux et dessins originaux des plus grands maîtres . . . qui composoient le cabinet de feu Charles Natoire* (1778)."
+    caption: "Gabriel de Saint-Aubin’s pencil annotations in *Catalogue des tableaux et dessins originaux des plus grands maîtres .&#160;.&#160;. qui composoient le cabinet de feu Charles Natoire* (1778)."
     credit: "Paris, Bibliothèque Nationale de France."
 
   - id: "fig-083"

@@ -56,7 +56,7 @@ It is of course possible that the confinement of the green parasol in Le Bas’s
 
 [^8]: Le Bas, “Inventaire après décès.” Canes and especially stockings are identified by Fairchilds as “populuxe.”
 
-[^9]: See Hayot de Longpré, *Catalogue de tableaux, sculpture, desseins, estampes . . . provenant de la succession de feu M. Le Bas* (Paris: Clousier, 1783); and François-Charles Joullain, *L’oeuvre de Jacques-Philippe Le Bas, Graveur*, 5 vols. (1789), {% abbr 'BnF' %}, Département des Estampes et de la Photographie: (Ee11–Ee11d in-fol. See also Charles-Étienne Gaucher, “Nécrologie [de M. Le Bas],” *Journal de Paris,* 12 May 1783, 554–55.
+[^9]: See Hayot de Longpré, *Catalogue de tableaux, sculpture, desseins, estampes .&#160;.&#160;. provenant de la succession de feu M. Le Bas* (Paris: Clousier, 1783); and François-Charles Joullain, *L’oeuvre de Jacques-Philippe Le Bas, Graveur*, 5 vols. (1789), {% abbr 'BnF' %}, Département des Estampes et de la Photographie: (Ee11–Ee11d in-fol. See also Charles-Étienne Gaucher, “Nécrologie [de M. Le Bas],” *Journal de Paris,* 12 May 1783, 554–55.
 
 [^10]: Joullain, “L’oeuvre,” “Avertissement,” n.p. See Lionel Gossman, “Anecdote and History,” *History and Theory* 42, no. 2 (2003): 143–68.
 

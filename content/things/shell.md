@@ -48,7 +48,7 @@ However, the interlacing of amateur and professional natural history, of luxury 
 
 {% figure 'fig-146' 'is-paired' %}
 
-In 1757 Michel Adanson published a powerful critique of the aesthetic that informed contemporary collection and display of shells: “this very beauty,” he wrote, “which attracts the eye to shells, has become a huge obstacle to the progress of science. . . . Up until now, molluscs have only been appreciated for their dress, their exterior envelope, the shell, and not the creatures that live inside them.”[^45] The result was a profound misunderstanding of the order of this branch of nature, which Adanson proposed to rectify with the help of illustration by the academician Marie-Thérèse Reboul-Vien ({% ref 'fig-146' %}). Drawing could enter the shell by section, could reinstate the lost animal. Bouchardon’s preference for illustrated books over specimens, and his own practice of drawing animals from life ({% ref 'fig-147' %}), bore witness to the kind of productive—and not consumerist—engagement with knowledge that was deemed proper to the artist.[^46]
+In 1757 Michel Adanson published a powerful critique of the aesthetic that informed contemporary collection and display of shells: “this very beauty,” he wrote, “which attracts the eye to shells, has become a huge obstacle to the progress of science.&#160;.&#160;.&#160;. Up until now, molluscs have only been appreciated for their dress, their exterior envelope, the shell, and not the creatures that live inside them.”[^45] The result was a profound misunderstanding of the order of this branch of nature, which Adanson proposed to rectify with the help of illustration by the academician Marie-Thérèse Reboul-Vien ({% ref 'fig-146' %}). Drawing could enter the shell by section, could reinstate the lost animal. Bouchardon’s preference for illustrated books over specimens, and his own practice of drawing animals from life ({% ref 'fig-147' %}), bore witness to the kind of productive—and not consumerist—engagement with knowledge that was deemed proper to the artist.[^46]
 
 {% figure 'fig-147' 'is-indented' %}
 
@@ -128,7 +128,7 @@ Boucher’s shells may or may not have informed his artistic practice. Generic a
 
 [^37]: François Boucher, “Inventaire après décès,” {% abbr 'AN' %}, {% abbr 'MC' %}/ET/LXXVI/384, 18 August 1762.
 
-[^38]: {% abbr 'AN' %}, {% abbr 'MC' %}/ET/LXXXVI/384, 18 August 1762; and Basan, *Catalogue . . . Bouchardon*, lots 163–64, 169, 171.
+[^38]: {% abbr 'AN' %}, {% abbr 'MC' %}/ET/LXXXVI/384, 18 August 1762; and Basan, *Catalogue .&#160;.&#160;. Bouchardon*, lots 163–64, 169, 171.
 
 [^39]: See Rosemarie Stratmann-Dohler, *Jean-François Oeben, 1721–1763* (Paris: Amateur, 2002), 38, 134. For specimens under glass, see Rémy, *Catalogue Boucher*, lots 1716, 1785.
 

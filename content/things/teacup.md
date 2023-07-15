@@ -52,7 +52,7 @@ If we have come to know Nattier’s teacups better by this microhistory of their
 
 [^4]: See Yohan Rimaud, “Les couleurs célèstes de la terre: La collection d’objets orientaux de François Boucher,” in *Une des provinces du rococo*, 62–75.
 
-[^5]: Pierre Rémy and Jean-Baptiste Glomy, *Catalogue raisonné des tableaux, sculptures . . . desseins et estampes, porcelains anciennes . . .qui composent le cabinet de feu M. le duc de Tallard* (Paris: Didot, 1756) (copy at {% abbr 'INHA' %}, Paris), lot 1043. There was a copy of the sale catalog in Nattier’s library, see [Nattier], *Catalogue*, 22: lot 44.
+[^5]: Pierre Rémy and Jean-Baptiste Glomy, *Catalogue raisonné des tableaux, sculptures .&#160;.&#160;. desseins et estampes, porcelains anciennes .&#160;.&#160;.qui composent le cabinet de feu M. le duc de Tallard* (Paris: Didot, 1756) (copy at {% abbr 'INHA' %}, Paris), lot 1043. There was a copy of the sale catalog in Nattier’s library, see [Nattier], *Catalogue*, 22: lot 44.
 
 [^6]: Renard, *Nattier*, 58.
 

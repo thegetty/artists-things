@@ -48,7 +48,7 @@ What of the religious pictures that weighed so heavily with Mariette and Dézall
 
 [^1]: Georges de Lastic, “Nicolas de Largillière: Documents notariés inédits,” {% abbr '*GBA*' %} 98 (1981): 7, 23–27.
 
-[^2]: See *Catalogue de tableaux, estampes, desseins, bronzes, figures de marbre . . . provenant du cabinet de M. de Largillière* (Paris: Merigot, 1765).
+[^2]: See *Catalogue de tableaux, estampes, desseins, bronzes, figures de marbre .&#160;.&#160;. provenant du cabinet de M. de Largillière* (Paris: Merigot, 1765).
 
 [^3]: On the provenance of the picture, see *Largillière (1656–1746)*, exh. cat. (Paris: Musée Jacquemart-André, 2003), no. 7. On the house, built on the site of a former tennis court, see Michel and Fabrice Faré, *La vie silencieuse en France: La nature morte au XVIII<sup>e</sup> siècle* (Fribourg: Office du Livre, 1976), 58–60. From a *constitution de rente* between the Largillière and François Chaban-Delafosse we know that the Largillière family was living at the house by February 1716. See Mireille Rambaud, *Documents du Minutier central concernant l’histoire de l’art (1700–1750)* (Paris: Imprimerie Nationale, 1964–71), 1:179.
 
