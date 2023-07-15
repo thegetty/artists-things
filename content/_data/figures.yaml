@@ -184,7 +184,7 @@ figure_list:
 
 
   - id: "fig-027"
-    src: "figures/027.jpg"
+    src: "figures/027-FPO.jpg"
     # zoom: true
     label: "Fig. 27"
     caption: "Cabriolet fan, ca. 1755. Paper leaves, carved ivory guards, backed with mother-of-pearl, 28.5 cm (guardstick)."
@@ -545,7 +545,7 @@ figure_list:
     credit: "Paris, Bibliothèque Nationale de France."
 
   - id: "fig-078"
-    src: "figures/078.jpg"
+    src: "figures/078-FPO.jpg"
     # zoom: true
     label: "Fig. 78"
     caption: "Nicolas-Marie Gatteaux (French, 1751–1832), Medal commemorating the ascent of Joseph and Etienne Montgolfier, balloonists at the Champ de Mars, 1784. Silver, diam. 4.1 cm."
@@ -664,7 +664,7 @@ figure_list:
     credit: "Paris, Musée du Louvre, RF28940-recto. (© RMN-Grand Palais / photo: Thierry Le Mage / Art Resource, NY.)"
 
   - id: "fig-095"
-    src: "figures/095-FPO.jpg"
+    src: "figures/095.jpg"
     # zoom: true
     label: "Fig. 95"
     caption: "Front page of the copy of Hyacinthe Rigaud’s *lettres de réception* (1700), transcribed by Henri van Hulst (1685–1754)."
@@ -713,7 +713,7 @@ figure_list:
     credit: "Los Angeles, The J. Paul Getty Museum."
 
   - id: "fig-102"
-    src: "figures/102-FPO.jpg"
+    src: "figures/102.jpg"
     # zoom: true
     label: "Fig. 102"
     caption: "Front page of the marriage contract of Jean-Baptiste Greuze and Anne-Gabrielle Babuty, 31 January 1759."
@@ -1021,7 +1021,7 @@ figure_list:
     credit: "Paris, Bibliothèque Nationale de France."
 
   - id: "fig-146"
-    src: "figures/146.jpg"
+    src: "figures/146-FPO.jpg"
     # zoom: true
     label: "Fig. 146"
     caption: "Marie-Thérèse Reboul-Vien (French, 1738–1805), Illustrations of shells from Michel Adanson, *Histoire naturelle du Sénégal: Coquillage* (1757), plate 1."
@@ -1035,7 +1035,7 @@ figure_list:
     credit: "Paris, Musée du Louvre, Département des Arts Graphiques, INV24311-Bis-recto. (© RMN-Grand Palais / photo:Suzanne Nagy / Art Resource, NY.)"
 
   - id: "fig-148"
-    src: "figures/148-FPO.jpg"
+    src: "figures/148.jpg"
     # zoom: true
     label: "Fig. 148"
     caption: "Cover and binding of Jean-Michel Moreau the Younger’s sketchbook, ca. 1770s. Brown leather with gilding, 18.2 × 11.1 cm."
@@ -1119,7 +1119,7 @@ figure_list:
     credit: "London, National Gallery, Presented by Barons Emile-Beaumont d'Erlanger, Frédéric d'Erlanger and Rodolphe d'Erlanger, in memory of their parents, 1927, NG4253 (© National Gallery, London / Art Resource, NY.)"
 
   - id: "fig-160"
-    src: "figures/160-FPO.jpg"
+    src: "figures/160.jpg"
     # zoom: true
     label: "Fig. 160"
     caption: "French smallsword (with scabbard) with Solingen blade, ca. 1730. Steel, gilding, 69 × 1.8 cm."
@@ -1167,7 +1167,7 @@ figure_list:
     credit: "Paris, Musée du Louvre, Inv. 26156. (© RMN-Grand Palais / photo: Laurent Chastel / Art Resource, NY.)"
 
   - id: "fig-167"
-    src: "figures/167-FPO.jpg"
+    src: "figures/167.jpg"
     # zoom: true
     label: "Fig. 167"
     caption: "Maker unknown, Cup and saucer, ca. 1700. Porcelain from Arita, Japan."
@@ -1188,7 +1188,7 @@ figure_list:
     credit: "Paris, Musée du Louvre, RF1942-32. (© RMN-Grand Palais / photo: Franck Raux / Art Resource, NY.)"
 
   - id: "fig-170"
-    src: "figures/170-FPO.jpg"
+    src: "figures/170.jpg"
     # zoom: true
     label: "Fig. 170"
     caption: "Umbrella, after 1715. Green silk, oak handle, metal frame."
@@ -1306,7 +1306,7 @@ figure_list:
     credit: "Paris, Musée du Louvre, Département des Arts Graphiques, 30944-r. (RMN-Grand Palais / photo: Tony Querrec / Art Resource, NY.)"
 
   - id: "fig-187"
-    src: "figures/187-FPO.jpg"
+    src: "figures/187.jpg"
     # zoom: true
     label: "Fig. 187"
     caption: "Will of Jean-Baptiste Massé, 1766–67. Pen on paper."
