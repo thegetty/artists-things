@@ -5,8 +5,8 @@ layout: thing
 order: 136
 tags: thing
 owner:
-  - first_name: Nicolas
-    last_name: de Largillière
+  - first_name: Nicolas de
+    last_name: Largillière
     years: 1656–1746
 type: [Artwork]
 theme: [Identity, Religion]

@@ -8,8 +8,8 @@ owner:
   - first_name: Gilles-Marie
     last_name: Oppenord
     years: 1672–1742
-  - first_name: Gabriel
-    last_name: de Saint-Aubin
+  - first_name: Gabriel de
+    last_name: Saint-Aubin
     years: 1724–80
 theme: [Education, Leisure, Studio]
 material: [Synthetic Materials | Ink, Synthetic Materials | Paper]

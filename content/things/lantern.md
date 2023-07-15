@@ -64,13 +64,13 @@ The later context of the Bâtiments’ role under d’Angiviller in disciplining
 
 [^3]: It is unclear whether Mme Desportes actually lit the lanterns or simply administered their use. The Swiss guard was responsible for the public spaces of the Louvre.
 
-[^4]: Jean-Baptiste Lemoyne to the marquis de Marigny, 4 November 1769. {% abbr 'AN' %}, O^1^/1673/152.
+[^4]: Jean-Baptiste Lemoyne to the marquis de Marigny, 4 November 1769. {% abbr 'AN' %}, O<sup>1</sup>/1673/152.
 
 [^5]: Jean-Siméon Chardin, Charles-Nicolas Cochin, Pierre-André Jacquemin, Jean-Baptiste Lemoyne, Jean-Baptise Pigalle, Claude-Joseph Vernet, and Joseph-Marie Vien, “Memorandum,” {% abbr 'AN' %}, O<sup>1</sup>/1673/153.
 
 [^6]: For the letters patent of Henri IV (1608), confirmed and elaborated by Louis XIV (1673), see Jules-Joseph Guiffrey, “Logements d’artistes au Louvre,” {% abbr '*NAAF*' %}, 1873, 40, 73. On the *logements* more generally, see Yvonne Singer-Lecocq, *Un Louvre inconnu: Quand l’état logeait ses artistes, 1608–1806* (Paris: Perrin, 1986); and Elena Palacios Carral, “The Freelancer: The Individuation of the Artist’s Work in Paris, 1608–1805,” *AA Files* 77 (2020): 103–12.
 
-[^7]: Mme Desportes is identified in Claude-Joseph Vernet’s accounts as the person in charge of the lanterns. See Léon Lagrange, *Joseph Vernet et la peinture du XVIII^e^ siècle* (Paris: Didier, 1864).
+[^7]: Mme Desportes is identified in Claude-Joseph Vernet’s accounts as the person in charge of the lanterns. See Léon Lagrange, *Joseph Vernet et la peinture du XVIII<sup>e</sup> siècle* (Paris: Didier, 1864).
 
 [^8]: Claude François had moved in with his father in 1739.
 

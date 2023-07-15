@@ -5,7 +5,7 @@ layout: thing
 order: 135
 tags: thing
 owner:
-  - first_name: Suzanne
+  - first_name: Marie-Suzanne
     last_name: Giroust
     years: 1734–72
 type: [Tool]

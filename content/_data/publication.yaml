@@ -55,13 +55,13 @@ project_team:
   - Greg Albers, *Digital Publications Manager*
   - Marci Boudreau, *Design*
   - Molly McGeehan, *Production*
-  - Karen Ehrman, *Rights*
+  - Karen Ehrmann, *Rights*
 
 # ------------------------------------------------------------------------------
 # Contributors
 # ------------------------------------------------------------------------------
 
-contributor_as_it_appears:
+contributor_as_it_appears: Katie Scott & Hannah Williams
 
 contributor:
   - id: kscott
@@ -158,7 +158,7 @@ revision_history:
     summary:
       - First edition
 
-revision_statement: "Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at [github.com/thegetty/artists-things/](https://github.com/thegetty/artists-things), where a more detailed version history is available. The revisions branch of the project repository, when present, will show any changes currently under consideration but not yet published here."
+revision_statement: "Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at [github.com<wbr/>/thegetty<wbr/>/artists-things/](https://github.com/thegetty/artists-things), where a more detailed version history is available. The revisions branch of the project repository, when present, will show any changes currently under consideration but not yet published here."
 
 repository_url: https://github.com/thegetty/artists-things
 

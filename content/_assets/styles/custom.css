@@ -472,9 +472,9 @@ q-modal {
   font-size: .75rem;
   display: inline;
 }
-.quire-page__content .content a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url) {
-  line-height: 0;
-  font-size: .875em;
+.quire-page__content .content .footnotes a.footnote-backref {
+  line-height: 0 !important;
+  font-size: .875em !important;
 }
 
 /* Page Header */
