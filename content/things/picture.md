@@ -11,7 +11,7 @@ owner:
 type: [Artwork]
 theme: [Identity, Religion]
 material: [Metal | Gold/Gilding, Synthetic Materials | Paint/Pigment, Textile | Canvas]
-mentions: [model, armchair, bed, camera obscura, harpsichord]
+mentions: [model, armchair, bed, gaming set, lantern, camera obscura, harpsichord]
 contributor:
   - id: "kscott"
 ---
