@@ -1682,15 +1682,13 @@ a:hover .quire-thing__main__icon svg {
   .quire-contents-list .menu-list .section-item ol a {
     font-size: 1rem;
   }
-  .quire-contents-list .section-item a::after {
-    content: target-counter(attr(href), page);
-    margin-left: 6pt;
-    margin-right: -10%;
+  .quire-contents-list .section-item.frontmatter-page > a::after,
+  .quire-contents-list .page-item.frontmatter-page > a::after {
+    font-style: normal;
   }
-
-  .quire-page#things,
+  
   .quire-page#taxonomies {
-    page: splash-image;
+    page: splash;
     background-color: var(--beige);
   }
 
@@ -1714,6 +1712,54 @@ a:hover .quire-thing__main__icon svg {
   }
   .quire-page__content .content .footnotes ol {
     margin-left: 0;
+  }
+  /* PDF Things Grid */
+  .quire-page#things h1, .quire-page__header__title {
+    margin-bottom: 54px; /* aligns first page of grid with the subsequent pages */
+  }
+  .pdf-thing-grid {
+    font-size: 0; /* eliminates pesky inline-block whitespace */
+  }
+  .pdf-thing-grid__item {
+    width: 1.66in;
+    height: 1.66in;
+    max-width: 1.66in;
+    max-height: 1.66in;
+    display: inline-block;
+    border-bottom: 1pt solid var(--black);
+    border-right: 1pt solid var(--black);
+    padding: 1rem;
+    position: relative;
+    vertical-align: top;
+  }
+  .pdf-thing-grid__item:nth-child(3n+3) {
+    border-right-width: 0;
+  }
+  .pdf-thing-grid__item:nth-child(n+10):nth-child(-n+12),
+  .pdf-thing-grid__item:nth-child(n+25):nth-child(-n+27),
+  .pdf-thing-grid__item:nth-child(n+40):nth-child(-n+42),
+  .pdf-thing-grid__item:nth-child(55) {
+    border-bottom-width: 0;
+  }
+  .pdf-thing-grid__item__title {
+    font-family: Arbutus Slab, serif;
+    font-size: 1rem;
+    text-transform: uppercase;
+    line-height: 1.1;
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    z-index: 1;
+  }
+  .pdf-thing-grid__item__thumbnail {
+    max-height: calc(1.66in - 3.5rem);
+    width: max-content;
+    max-width: calc(1.66in - 2rem);
+    position: absolute;
+    bottom: 1rem;
+    left: 50%;
+    right: 50%;
+    transform: translate(-50%);
   }
 
 }

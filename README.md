@@ -6,6 +6,8 @@ The [Quire Eleventy package](https://github.com/thegetty/quire/tree/main/package
 
 1. Run `quire build`
 
+2. In `_site/pdf.html`, find and replace the ones instance of `<a href="#contents">` with `<a href="#things">` to ensure page numbering for "Thing" section page is correct.
+
 2. If the PDF will be sent to digital printer, run the following command to ensure color profiles are correct:
 
     ```
