@@ -1600,14 +1600,14 @@ a:hover .quire-thing__main__icon svg {
   }
   @page:left {
     @bottom-right {
-      content: 'Artist’s Things';
+      content: 'Artists’ Things';
       letter-spacing: .5pt;
       font-family: 'Source Sans Pro', sans-serif;
     }
   }
   @page:left:first {
     @bottom-right {
-      content: 'Artist’s Things';
+      content: 'Artists’ Things';
     }
   }
 
