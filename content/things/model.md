@@ -22,9 +22,13 @@ Bouchardon made models in a variety of media: wax, clay, and plaster. To model t
 
 {% figure 'fig-106' %}
 
+<div class="is-pdf-float-top">
+
 {% figure 'fig-107' 'is-paired' %}
 
 {% figure 'fig-108' 'is-paired' %}
+
+</div>
 
 The physical property of pliability was thus crucial not only in the practice of sculpture but also, at a metaphysical level, to eighteenth-century ideas of creativity as the outflow of genius.[^9] Implicit in the comte de Caylus’s comparison of drawing and modeling as creative acts inserted in his *Life of Bouchardon* (1762) is the notion of unmediated artistic expression, or matter’s absolute passivity, its utter subsumption to the thrust of the artist’s thinking hand.[^10] He envisaged the {% thing '*porte-crayon*' %} and the *ébauchoir* (modeling tool) as instruments for giving immediate form to inner states. Bouchardon shared his view, to judge by the invoice he submitted to the *directeur des bâtiments du roi* in 1743 for a project that never progressed beyond the model stage.[^11] In justification of his claim of 210,000 livres in remuneration, a vast sum, Bouchardon enumerated his costs: (1) eight days of thought in preparation to meet the king’s order; (2) thirty-five years of study in France and Italy to satisfy the king’s standards of taste; (3) three months of working on “different ideas, both in chalk and modeled in wax, ideas made and remade a number of times, and vigorously subjected to artistic critique by the author.”[^12] Making was conceptualized as a movement outward from mind to world in the conduct of which the ideal model served as a transparent interface between conception and realization.
 

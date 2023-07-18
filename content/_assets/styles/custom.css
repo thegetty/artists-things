@@ -323,12 +323,49 @@ q-modal {
 .q-figure > a:hover img {
   box-shadow: none;
 }
-/* Add padding to clean up trailing lines around the float */
-.content .q-figure.has-1x-padding-bottom {
-  padding-bottom: 3.5rem;
+/* Classes for PDF layout refinement */
+@media print {
+  /* https://www.princexml.com/howcome/2021/guides/float/index.html */
+  .content .q-figure.is-pdf-float-top,
+  .content div.is-pdf-float-top {
+    float: none;
+    -prince-float: top;
+    margin-top: 0 !important;
+  }
+  .content div.is-pdf-float-top .q-figure {
+    margin-bottom: 2rem;
+    margin-top: 0 !important;
+  }
+  .content .q-figure.is-pdf-float-bottom,
+  .content div.is-pdf-float-bottom {
+    -prince-float: bottom;
+    margin-top: 1rem !important;
+    margin-bottom: 0 !important;
+  }
+  .content .q-figure.is-pdf-side-caption {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    width: 100%;
+    max-width: 100%;
+  }
+  .content .q-figure.is-pdf-side-caption img,
+  .content .q-figure.is-pdf-side-caption .q-figure__caption {
+    width: calc((100% - var(--gap) - 0.35rem) / 2);
+    margin: 0;
+  }
+  .content .q-figure.is-pdf-side-caption.is-pdf-top-caption {
+    align-items: flex-start;
+  }
 }
-.content .q-figure.has-2x-padding-bottom {
-  padding-bottom: 7rem;
+/* Add padding to clean up trailing lines around the float */
+@media screen {
+  .content .q-figure.has-1x-padding-bottom {
+    padding-bottom: 3.5rem;
+  }
+  .content .q-figure.has-2x-padding-bottom {
+    padding-bottom: 7rem;
+  }
 }
 /* Figure groups with 2 side-by-side images */
 figure.q-figure.q-figure--group.q-figure--group--2 figure {
@@ -615,6 +652,9 @@ q-modal {
   line-height: 1.4;
 }
 @media print {
+  .quire-page__content.thing-info {
+    margin-bottom: 1.5rem;
+  }
   .quire-page__content.thing-info .thing-info-grid {
     display: flex;
     margin-bottom: 1.75rem;

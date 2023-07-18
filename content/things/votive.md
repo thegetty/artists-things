@@ -18,9 +18,13 @@ contributor:
 
 **“Pray to God for him.”** The words are easy to miss at first, nestled under a plant within the loose cross-hatched lines in the lower-right foreground of Pierre-Imbert Drevet’s engraving of *Christ’s Agony in the Garden* ({% ref 'fig-173' %}). From afar, they might be mistaken for an accident on the plate, an inconsistency in the engraver’s otherwise crisp, controlled handling delineating the varied textures, substances, and gestures of his subject. Upon closer inspection, though, the seemingly misplaced marks resolve into their intentionally lettered forms: “Gravé Par Pierre Drevet fils / Priez Dieu Pour Luy” (engraved by Pierre Drevet son / Pray to God for him) ({% ref 'fig-174' %}). Yet even once read, the words remain somewhat elusive in their legibility—never really clear, from no matter how close or what angle they are viewed. There is a persistent uncertainty about their place here. Discrete, but not hidden. Legible, but only just. Intentional, but somehow hesitant. Present, but out of place. Much like Drevet himself at the time he engraved this plate—the final artwork he would ever make—these words recall, in their meaning and their materiality, the desperate disquiet and spiritual suffering of their maker.[^1]
 
+<div class="is-pdf-float-top">
+
 {% figure 'fig-173' 'is-indented' %}
 
 {% figure 'fig-174' 'is-indented' %}
+
+</div>
 
 In 1739, the year Drevet finished engraving *Christ’s Agony*, he was experiencing his own anguishing torment in the form of a relapsing mental instability. For around ten years, Drevet had suffered intermittently from psychological episodes, difficult to diagnose retrospectively according to modern psychopathologies, but described variously by his contemporaries as: “*la démence*” (insanity); “*une faiblesse d’esprit*” (a weakness of the mind); “*le dérangement de son esprit*” (mental disturbance); and “*une maladie* [*qui l’empêche*] *de se gouverner*” (an illness that prevents him from controlling himself).[^2] Drevet was far from the only eighteenth-century artist who experienced such episodes, as attested, among others, by the tragic demises of his colleagues François Lemoyne (who committed suicide by his {% thing 'sword' %} in 1737) and later of André Rouquet (who died in an asylum in 1758).[^3] Artists’ lapses in mental stability were often attributed to “excessive work” (as some of Drevet’s relatives suggested), but Drevet believed his ill health was an act of God.[^4]
 
