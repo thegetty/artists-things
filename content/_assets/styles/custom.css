@@ -1771,9 +1771,12 @@ a:hover .quire-thing__main__icon svg {
     font-style: normal;
   }
 
+  /* Remove page numbering from "Taxonomies" landing page */
+  .quire-contents-list .section-item:nth-child(5) > a::after {
+    content: '';
+  }
   .quire-page#taxonomies {
-    page: splash;
-    background-color: var(--beige);
+    page: no-footer;
   }
 
   .quire-page__header {
