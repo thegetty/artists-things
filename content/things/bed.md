@@ -10,19 +10,19 @@ owner:
     years: 1694–1752
 type: [Furniture, Ritual Thing]
 theme: [Family, Identity, Memory, Louvre, Luxury]
-material: [Plant Matter | Wood, Synthetic Materials | Paint/Pigment, Textile | Cotton, Textile | Linen, Textile | Silk, Textile | Wool]
-mentions: [picture, journal, teacup, carriage]
+material: [Plant Matter | Wood, Synthetic Materials | Paint/Pigment, Textile | Cotton, Textile | Silk, Textile | Wool]
+mentions: [journal, teacup, carriage]
 contributor:
   - id: "kscott"
 ---
 
 **Charles-Antoine Coypel’s bed does not survive,** or not as a bed. What remains is a picture ({% ref 'fig-010' %}), oil on canvas, 190 by 135 centimeters, which originally served as the backboard for a *lit à la Polonaise*.[^1] Such beds stood sideways against the wall and were distinguished by two *chevets,* or bed ends. Rarely did they incorporate large decorative paintings. However, a preparatory drawing by Coypel ({% ref 'fig-011' %}), a history painter and a royal academician, establishes *Painting Awakening Genius* in its original function as furniture. Information about the dimensions, materials, and exact form of the bed to supplement the evidence of the drawing, alas, is not to be had because, by the time of the painter’s death, bed and picture had parted company; this bed is not the one inventoried with his effects.[^2]
 
-{% figure 'fig-010' 'is-indented' %}
+{% figure 'fig-010' 'is-indented is-pdf-float-top' %}
 
 At some point before 1752, the painting had been relegated to the studio, where it was itemized unframed with a miscellany of other paintings, plaster casts, prints, drawings, and other paraphernalia. Meanwhile, Coypel’s bed had returned to the norm.[^3] It was, according to his inventory, dressed with a base valence of old, jonquil-colored damask and hung with yellow serge curtains. On the frame were three differently stuffed mattresses piled with bolsters, cushions, and horsehair pillows. Coverlets and various fur foot warmers were scattered upon it. It was valued for probate at 300 livres and was the most expensive single item in the room, which was otherwise furnished with armchairs, a settee, assorted tables, a chest of drawers, two corner cupboards, and a desk, and was decorated with seven mirrors and over fifty pieces of Chinese and European porcelain, some of them mounted on gilded sconces.[^4] The beds had, nevertheless, dominated the scene.
 
-{% figure 'fig-011' 'is-offset' %}
+{% figure 'fig-011' 'is-offset is-pdf-side-caption is-pdf-float-top' %}
 
 Henri Havard, in *Dictionnaire de l’ammeublement et de la décoration* (1894), assembled a vast primary literature on the bed, culled from inventories, letters, {% thing 'journals' %}, plays, novels, and the first newspapers, which testify to the cultural and social significance of beds in France from the thirteenth century to the end of the ancien régime. He notes not only that beds hosted the most important moments in the lives of their owners, he establishes also that, in the seventeenth and eighteenth centuries, beds were exchanged to commemorate those events. His examples are mostly drawn from the history of the king and his court, but he cites, from the history of art, a four-poster bed with gray serge curtains that the painter Pierre Mignard brought to his marriage in 1656, and a bed with curtains and a counterpane in “yellow tabby,” or silk taffeta, that Nicolas Fouquet provided for Charles Le Brun to seal his contract for work at Vaux-le-Vicomte.[^5] This suggests that the history of Coypel’s bed was closely entangled with the story of his life and in ways, moreover, not all envisaged by Havard, because Coypel invented as well as owned and used his bed.
 
@@ -42,7 +42,7 @@ Bed and bedroom, object and space are not as idiosyncratic as they perhaps at fi
 
 It invites us to compare *Painting Awakening Genius* not with the father’s scenes of Aeneas’s tragedy but rather with its travesty: the son’s Don Quixote series. In 1727 Charles-Antoine painted for the Gobelins the cartoon for the last scene in his set of *The Adventures of Don Quixote* ({% ref 'fig-012' %}), in which Quixote, asleep in his bedroom, is visited in his dreams by Minerva, who by her wisdom cures him of his chivalric illusions embodied by Folly, who beguilingly flutters by the bed, her drapery merging with the bed hangings.[^26] The same model appears to have served Coypel for the blonde female figures of Folly and Painting. Insofar as Painting is also Folly’s familiar, we can consider the possibility that the parade of the bedchamber was semiseriously and semiconsciously staged by Coypel as a fantasy—that his bed was his castle in the air.
 
-{% figure 'fig-012' 'is-indented' %}
+{% figure 'fig-012' 'is-indented is-pdf-float-top' %}
 
 Among Coypel’s high-born friends was the marquis de Calvière, an aristocrat and courtier, for whom Coypel wrote an epistle, published in the *Mercure de France* in 1724.[^27] A lyrical letter on the subject of friendship and the importance of truth in the commerce between true friends, the poem betrays Coypel’s fear of ridicule for aspiring to mix in company socially and in virtue above his own. The not-quite-rightness of Coypel’s bed, its artistic misprision of noble design, manifests the difficulty of steering a social course that balances prerogatives of distinction while politely appearing not to believe oneself deserving of them. That Coypel eventually dismantled his bed and put the painting into storage in the studio suggests he came later to regret his *levée* as an overreach of the claims of his talent. {% contributors context=pageContributors format='symbol' %}
 

@@ -1,4 +1,7 @@
 ---
+## CUSTOMIZED FILE
+## Adds .pdf-footers__title for PDF, line 20
+##
 class: quire-splash
 layout: base
 description: splash page layout
@@ -14,6 +17,7 @@ description: splash page layout
       {% if label %}<span class="label">{{ label }}<span class="visually-hidden">{{ labelDivider }}</span></span>{% endif %}
       {%- pageTitle title=title, subtitle=subtitle -%}
     </h1>
+    <span class="pdf-footers__title">{{ title | markdownify }}</span>
     {% if pageContributors %}
       <div class="quire-page__header__contributor">
         {% contributors context=pageContributors, format=byline_format %}

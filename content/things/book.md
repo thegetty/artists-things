@@ -8,9 +8,11 @@ owner:
   - first_name: Gilles-Marie
     last_name: Oppenord
     years: 1672–1742
-  - first_name: Gabriel
-    last_name: de Saint-Aubin
+  - first_name: Gabriel de
+    last_name: Saint-Aubin
     years: 1724–80
+    sort_years: 1724–1780
+type: [Companion]
 theme: [Education, Leisure, Studio]
 material: [Synthetic Materials | Ink, Synthetic Materials | Paper]
 mentions: [color box, red lake]
@@ -44,13 +46,13 @@ Saint-Aubin read with a different kind of independence. His most consistent and 
 
 However, in the accompanying annotations, Saint-Aubin’s reading urges him beyond illustrative repetition. It prompts in him the recollection and articulation of another discourse on color—everyday, concrete, retail talk of suppliers and prices. He takes a virtual tour of Paris to the best shops for {% thing 'red lake' %}, orpiment, ultramarine, umber, and ivory black.[^14] He measures the rise and fall in prices over time. If we can assume that the paintbrush preceded the pen in this independent reading, we can infer that Saint-Aubin’s autonomy was secured above all by the materiality of the text: by the layout of the page, by the gutter and margins. It was these physical properties that led to samples, and from samples to geography and accountancy. The marbled endpapers were further grist to Saint-Aubin’s private milling of the text ({% ref 'fig-016' %}). At the front, easy to overlook, is a figure of a boatman curled into a landscape. 
 
-{% figure 'fig-016' %}
+{% figure 'fig-016' 'is-pdf-float-top' %}
 
 Oppenord and Saint-Aubin responded quite differently to the circle. Oppenord works around the circles of Ripa’s emblems ({% ref 'fig-017' %}), treating them as fixed features of the page, as monuments in a paper setting. He does not frame them, in the sense of setting them off with more of the same; he offsets them, throwing into relief their difference. Insofar as they are appropriated, it is as found objects, not designs or signs. Saint-Aubin, by contrast, invades the page; his filling figure recasts the marbled paper as background. His is the reading response advocated by Leonardo (and I paraphrase):
 
 > [L]ook upon an old wall covered with dirt, or the odd appearance of some streaked stones and in them you will discover landscapes, battles, clouds, uncommon attitudes, funny faces, draperies, etc. Out of this confused mass of objects, the mind will be furnished with an abundance of designs and subjects perfectly new.[^15]
 
-{% figure 'fig-017' 'is-offset has-1x-padding-bottom' %}
+{% figure 'fig-017' 'is-offset has-1x-padding-bottom is-pdf-side-caption is-pdf-float-top' %}
 
 Where Oppenord’s independent reading pursues and demonstrates learning, erudition, and intellect in the same humanist terms as Ripa’s *Iconologie*, Saint-Aubin’s strategies of reading and response reveal objectives quite at odds with those of Pernéty. They were at once more banal (the price of paint and canvas) and more inspired.
 

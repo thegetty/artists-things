@@ -8,7 +8,7 @@ owner:
   - first_name: Charles-Antoine
     last_name: Coypel
     years: 1694–1752
-type: [Apparel, Collectible, Commodity, Gift, Heirloom, Instrument,]
+type: [Apparel, Collectible, Commodity, Gift, Instrument, Symbolic Thing]
 theme: [Community, Invention, Louvre, Luxury, Money, Religion]
 material: [Metal | Gold/Gilding, Mineral | Gem]
 mentions: [shell, snuffbox, bed, handkerchief, sword, will]
@@ -44,7 +44,7 @@ Coypel and Artaud’s exchange was not a straightforward commercial transaction 
 
 The value of Coypel’s watch was increased (or at least disguised) in this exchange by its ambiguous position between various economies (commercial, social, and symbolic). And so it continued through the object’s life. When the notary itemized the watch in the inventory of Coypel’s possessions taken after his death in 1752, it was priced modestly at 1,000 livres, but it appears to have been worth more than that to Coypel. Another of the watches listed by the notary ended up in the sale of the artist’s possessions the following year, but this watch did not.[^16] Instead, it passed to his brother, Philippe, who inherited most of Coypel’s estate, apart from the few special bequests Coypel made in his {% thing 'will' %} to family and associates (including 1,000 livres to the *curé* of his own parish of Saint-Germain-l’Auxerrois).[^17] This luxury item stood out from many others Coypel had acquired, valued enough to be offered again rather than sold off for revenue. Passing through its varied economies, the object was imbued with new sentimental resonances: moving from the watch that Antoine Artaud gave Coypel for painting *Supper at Emmaus*, to become the watch that Coypel left his brother when he died. {% contributors context=pageContributors format='symbol' %}
 
-[^1]: “Une . . . montre à répétition faite à Paris par Julien Le Roy dans Sa boette d’or garny de Sa chaine d’or, deux cachets montés en Bague l’un d’une agatorin et l’autre de Cornaline, deux Batons de Brillants tant Sur l’eguille des heures que Sur celle des minutes dans Son Etuy de trousset Vert et garny d’or.” Charles-Antoine Coypel, “Inventaire après décès,” 25 September 1752, {% abbr 'AN' %}, {% abbr 'MC' %}/LXXVI/337, 11.
+[^1]: “Une .&#160;.&#160;. montre à répétition faite à Paris par Julien Le Roy dans Sa boette d’or garny de Sa chaine d’or, deux cachets montés en Bague l’un d’une agatorin et l’autre de Cornaline, deux Batons de Brillants tant Sur l’eguille des heures que Sur celle des minutes dans Son Etuy de trousset Vert et garny d’or.” Charles-Antoine Coypel, “Inventaire après décès,” 25 September 1752, {% abbr 'AN' %}, {% abbr 'MC' %}/LXXVI/337, 11.
 
 [^2]: It was valued in the inventory at 1,000 livres; the other watches were 700 and 200 livres.
 
@@ -74,6 +74,6 @@ The value of Coypel’s watch was increased (or at least disguised) in this exch
 
 [^15]: Coypel also donated an *Ecce Homo* for the church of the Oratoire in 1729. Lefrançois, *Charles Coypel*, 222–25.
 
-[^16]: *Catalogue des tableaux . . . de feu M. Coypel*, 100.
+[^16]: *Catalogue des tableaux .&#160;.&#160;. de feu M. Coypel*, 100.
 
 [^17]: Will, Charles-Antoine Coypel, 13 June 1752, {% abbr 'AN' %}, {% abbr 'MC' %}/ET/LXXVI/335.

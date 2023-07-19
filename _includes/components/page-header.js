@@ -68,10 +68,10 @@ module.exports = function(eleventyConfig) {
           : owner.first_name + ' ' + owner.last_name
   
         const years = owner.years 
-          ? owner.years
+          ? ` (${owner.years})`
           : ''
   
-        ownersList.push(html`<li>${name} (${years})</li>`) 
+        ownersList.push(html`<li>${name}${years}</li>`) 
       }
       ownersElement = html`<ul class="quire-page__header__owner">${ownersList}</ul>`
     }
@@ -83,6 +83,7 @@ module.exports = function(eleventyConfig) {
             ${pageLabel}
             ${pageTitle({ title, subtitle })}
           </h1>
+          <span class="pdf-footers__title">${markdownify(title)}</span>
           ${ownersElement}
           ${contributorsElement}
         </div>

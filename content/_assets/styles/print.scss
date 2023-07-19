@@ -12,20 +12,11 @@
 
 // Variables (others in the variables.scss file)
 // -----------------------------------------------------------------------------
-$print-base-text-column-width: 5in;
+$print-base-text-column-width: ($print-width - $print-inner-margin - $print-outer-margin) * .7;
 
-$print-bottom-margin: 0.875in;
-$print-top-margin: 0.75in;
-$print-outer-margin: 0.75in;
-$print-inner-margin: 1.25in;
-
-// @if $print-width <= 7 {
-//   $print-inner-margin: $print-width - $print-base-text-column-width - $print-outer-margin;
-// }
-
-// @if $print-height <= 10 {
-//   $print-top-margin: 0.5in;
-// }
+@if $print-width <= 7 {
+  $print-base-text-column-width: $print-width - $print-inner-margin - $print-outer-margin;
+}
 
 $print-footer-font: $quire-headings-font;
 $print-footer-font-size: 8pt;
@@ -174,12 +165,6 @@ $print-trim: $print-bleed * 2;
     }
   }
 
-  @page page-one:first {
-    @bottom-left {
-      content: none;
-    }
-  }
-
   @page :blank {
     @bottom-left {
       content: none;
@@ -194,37 +179,70 @@ $print-trim: $print-bleed * 2;
   }
   h2, h3, h4, h5, h6 {
     prince-bookmark-level: none;
+    page-break-after: avoid;
   }
+
+// General
+// -----------------------------------------------------------------------------
+
+// Workaround for figures splitting across pages in paged.js
+// TODO remove when https://github.com/thegetty/quire/issues/732 is fixed
+.q-figure:empty {
+	display:none;
+}
+.pagedjs_pages > .pagedjs_page > .pagedjs_sheet > .pagedjs_pagebox > .pagedjs_area > div .q-figure[data-split-from] {
+  padding-top: 1rem;
+}
 
 // Generated content for footers and page #s in TOC
 // -----------------------------------------------------------------------------
   .quire-page {
-    string-set: pagetitle attr(data-footer-page-title);
+    string-set: pagetitle attr(data-footer-page-title), sectiontitle attr(data-footer-section-title);
   }
 
-  .quire-page {
-    string-set: sectiontitle attr(data-footer-section-title);
-  }
-
+  // Adds page numbering with dotted leaders in PrinceXML
+  // uses .pagedjs_pages class to handle fallback in Paged.js
   .quire-contents-list {
+    .section-item > a {
+      max-width: 90%;
+    }
+    .section-item > a::after {
+      content: leader(dotted) ' 'target-counter(attr(href, url), page);
+      margin-left: 6pt;
+      margin-right: -10%;
+      .pagedjs_pages & {
+        content: target-counter(attr(href), page);
+        float: right;
+      }
+    }
+    .section-item.frontmatter-page > a::after {
+      content: leader(dotted) ' 'target-counter(attr(href, url), page, lower-roman);
+      font-style: italic;
+      .pagedjs_pages & {
+        content: target-counter(attr(href), page, lower-roman);
+        float: right;
+      }
+    }
     .page-item {
       max-width: 90%;
       a::after {
-        content: target-counter(attr(href), page);
+        content: leader(dotted) ' 'target-counter(attr(href, url), page);
         margin-left: 6pt;
         margin-right: -10%;
-        // This border is a hack for PrinceXML which doesn't
-        // otherwise recognize the box sizing for some reason
-        border: 1pt solid transparent;
+        .pagedjs_pages & {
+          content: target-counter(attr(href), page);
+          float: right;
+        }
       }
-      &.frontmatter-page a::after {
-        content: target-counter(attr(href), page, lower-roman);
+      &.frontmatter-page > a::after {
+        content: leader(dotted) ' 'target-counter(attr(href, url), page, lower-roman);
         font-style: italic;
         margin-left: 6pt;
         margin-right: -10%;
-        // This border is a hack for PrinceXML which doesn't
-        // otherwise recognize the box sizing for some reason
-        border: 1pt solid transparent;
+        .pagedjs_pages & {
+          content: target-counter(attr(href), page, lower-roman);
+          float: right;
+        }
       }
     }
     &.grid {
@@ -254,7 +272,8 @@ $print-trim: $print-bleed * 2;
   }
 
   .half-title-page,
-  .title-page {
+  .title-page,
+  .copyright-page {
     page: no-footer;
   }
 
@@ -277,13 +296,13 @@ $print-trim: $print-bleed * 2;
     page: frontmatter-splash;
   }
 
-  .quire-entry__image {
-    .quire-entry__image__group-container {
-      figure {
+  .quire-entry {
+    .quire-entry__image-wrap {
+      .q-figure {
         page: entry-image;
-        }
       }
     }
+  }
 
   .quire-contents {
     page: no-footer;
@@ -383,8 +402,10 @@ $print-trim: $print-bleed * 2;
       width: $menu-grid-item-width;
       height: 2.5in;
       margin-bottom: $menu-grid-gap;
-      background-color: $print-splash-color;
-      padding: 1em;
+      @if $theme == modern {
+        background-color: $print-splash-color;
+        padding: 1em;
+      }
       position: relative;
       * {
         margin: 0;
@@ -416,35 +437,52 @@ $print-trim: $print-bleed * 2;
 
 // Entry image pages
 // -----------------------------------------------------------------------------
-  $print-entry-image-width: $print-width - $print-inner-margin - $print-outer-margin;
   $print-entry-image-height: $print-height - $print-top-margin - $print-bottom-margin;
-  $print-entry-image-max-height: $print-entry-image-height - 1in;
+  $print-entry-image-width: $print-width - $print-inner-margin - $print-outer-margin;
 
-  // @todo determine why below with `&` was failing in webpack
-  // .quire-entry__image & figure {
-  .quire-entry__image-wrap figure {
+  .quire-entry__image-wrap .q-figure {
+    align-items: center;
+    border-width: 0px;
     display: flex;
     flex-direction: column;
     height: $print-entry-image-height;
-    margin-bottom: .5in;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
     @if $print-entry-image-display == first {
       display: none;
-      &:first-of-type {
-        display: block;
+      &:first-child {
+        display: flex;
       }
     }
-    break-after: page;
-    .q-figure__media-fallback {
-      .q-figure__wrapper {
-        width: auto;
-        height: auto;
-      }
+    // make the img, or the div > img for video poster images
+    // fill but not exceed the space remaining from the caption
+    > :first-child {
+      flex-grow: 1;
+      height: 0;
+      object-fit: contain;
+      width: auto;
+    }
+    // align the poster image within its parent div
+    > div {
+      align-items: center;
+      display: flex;
       img {
         max-width: $print-entry-image-width;
-        max-height: $print-entry-image-max-height;
-        margin: 0 auto;
-        object-fit: contain;
+      }
+    }
+    .q-figure__caption {
+      color: $print-entry-caption-color;
+      font-size: .75rem;
+      margin-top: .5rem;
+      max-width: $print-base-text-column-width;
+      &-embed-link a {
+        color: $print-entry-caption-color;
         display: block;
+        margin-bottom: .5rem;
+      }
+      .q-figure__modal-link {
+        color: $print-entry-caption-color;
       }
     }
   }
@@ -574,4 +612,33 @@ $print-trim: $print-bleed * 2;
     text-align: right;
   }
 
+  .copyright-page {
+    color: $print-text-color;
+    column-count: 2;
+    column-fill: auto;
+    column-gap: .1875in;
+    font-size: .75rem;
+    margin: 0;
+    max-width: 100%; 
+    .quire-page__header {
+      display: none;
+    } 
+    .quire-page__content .container .content {
+      ul {
+        margin-left: 0;
+        li {
+          margin: 0;
+          &::before {
+            content: none;
+          }
+        }
+      }
+      div {
+        margin-bottom: 1em;
+      }
+      .copyright__publisher-logo {
+        display: none;
+      }
+    }
+  }
 }

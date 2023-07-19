@@ -67,7 +67,6 @@ outputs: [html]
 <div class="publisher">
 
 {% for press in publication.publisher %}
-**Published by the {{ press.name }}, {{ press.location }}**
 {{ press.address | markdownify }}
 {% endfor %}
 

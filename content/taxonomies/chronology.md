@@ -6,19 +6,19 @@ class: taxonomy
 ---
 
 {% capture tableRows %}
-{% for page in collections.thing %}
-{% for entity in page.data.owner %}
-{% if entity.sort_years or entity.years %}
+{%- for page in collections.thing -%}
+{%- for entity in page.data.owner -%}
+{%- if entity.sort_years or entity.years -%}
   <tr data-sort-as="{% if entity.sort_years %}{{ entity.sort_years }}{% else %}{{ entity.years }}{% endif %}">
     <td>{{ entity.years }}</td>
     <td>{% if entity.full_name %}{{ entity.full_name }}{% else %}{{ entity.first_name }} {{ entity.last_name }}{% endif %}</td>
   </tr>||
-{% endif %}
-{% endfor %}
-{% endfor %}
-{% endcapture %}
+{%- endif -%}
+{%- endfor -%}
+{%- endfor -%}
+{%- endcapture -%}
 
-{% assign tableRowsArray = tableRows | split: "||" %}
+{% assign tableRowsArray = tableRows | split: "||" | uniq %}
 
 <table class="taxonomy-table" id="artists-chronology">
   <thead class="visually-hidden">

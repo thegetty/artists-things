@@ -1,11 +1,12 @@
 ---
-layout: base.11ty.js
+layout: page
+class: copyright-page
 order: 4
-class: backmatter about-copyright-page
-outputs:
-  - epub
-  - pdf
 toc: false
+menu: false
+outputs:
+  - pdf
+  - epub
 ---
 
 {{ config.quire_credit_line | markdownify }}
@@ -21,7 +22,6 @@ First edition, {{ publication.pub_date | date: "%Y" }}
 <div class="publisher">
 
 {% for press in publication.publisher %}
-**Published by the {{ press.name }}, {{ press.location }}**
 {{ press.address | markdownify }}
 {% endfor %}
 

@@ -9,7 +9,7 @@ owner:
     last_name: Chardin
     years: 1699–1779
 type: [Instrument]
-theme: [Everyday]
+theme: [Everyday, Family, Gender]
 material: [Metal | Copper]
 mentions: [table, dressing-up box, intaglio, snuffbox, sword, gaming set, umbrella, shell, teacup]
 contributor:
@@ -18,11 +18,11 @@ contributor:
 
 **1731 was an important year for the still-life painter Jean-Siméon Chardin.** He married Marguerite Saintard in January and set up his own household in five rooms sublet from his mother and carved out of the family’s home, a house on the corner of Rue du Four and Rue Princesse in the parish of Saint-Sulpice.[^1] A kitchen was installed on the third floor and furnished with a large copper water fountain (*fontaine de cuivre*) on an oak stand to supply the needs of his household, which included, in addition to his wife, their servant, Marie-Anne Cheneau, and, from November 1731, a son, the newborn Pierre-Jean.[^2] A second, “small” copper fountain, of the tabletop variety, illustrated alongside the “large” in volume 3 of the plates of Diderot and d’Alembert’s *Encyclopédie* ({% ref 'fig-179' %}), probably graced either the sideboard or the kitchen table. Both fountains were inventoried in 1737 following the untimely death of Saintard in February 1735. Such mundane things of ordinary consumption are present in countless artists’ inventories;[^3] only Chardin, however, made the water fountain the subject of his painting ({% ref 'fig-180' %}), thus providing us with a visual record of its existence.[^4] His studio was, according to Georges Wildenstein’s reconstruction of the layout of the third floor from land registry records, directly opposite the kitchen, on the other side of the central staircase and at the end of a short corridor.[^5] Art historians assume that either the fountain migrated to the studio or that the painter migrated to the kitchen for the realization of the Louvre’s small painting, executed on panel circa 1734, which was unsold in 1737 and inventoried in the studio along with two other pictures of kitchen utensils.
 
-{% figure 'fig-179' 'is-indented-2x' %}
+{% figure 'fig-179' 'is-indented-2x is-pdf-float-top' %}
 
 What of the copper fountain itself? What kind of a thing was it and in what sense was it Chardin’s? It was not a prop or studio tool consciously devised to model for a painting, like Jacques-Louis David’s {% thing 'table' %}, or the costumes in Watteau’s {% thing 'dressing-up box' %}, so it cannot, therefore, be read as a mark of the painter’s dedication to verisimilar depiction. Nor was it a thing like an {% thing 'intaglio' %}, {% thing 'snuffbox' %}, or {% thing 'sword' %}, a sign more or less consciously acquired to denote personal taste and social distinction. Nor yet was it a novelty, like a {% thing 'gaming set' %} or an {% thing 'umbrella' %}, or a curiosity like a {% thing 'shell' %}, that is, a purchase apparently prompted by desire and the caprices of taste.
 
-{% figure 'fig-180' 'is-indented' %}
+{% figure 'fig-180' 'is-indented is-pdf-float-top' %}
 
 Study of Chardin’s things has generally focused on the objects depicted in his still lifes of the 1750s and 1760s: the smoking box, the porcelain {% thing 'teacups' %}, and the glass.[^6] Scholars have argued that these things reflect Chardin’s rising standard of living after his second marriage and the consequent enlargement of his taste. Ordinary, mundane, utility wares like water fountains are, however, poorly captured by such economic and semiotic models of consumption because, as everyday necessities, neither personal choice nor symbolic value seems appropriately to describe ownership of them. They are not the kinds of goods that eighteenth-century Europe, envisaged as birthplace of the consumer society, and site of the industrious revolution, supposes. More promising are theorizations of consumption as practice. Prompted by the material turn, theories of practice focus not on the choice of the sovereign and expressive individual consumer; instead, they trace collective and customary practices of acquiring, appropriating, and using things, and analyze the effect, or doings, of those everyday things.[^7]
 
@@ -84,7 +84,7 @@ Chardin’s copper fountain challenges not interpretation of his still-lives as 
 
 [^20]: On the privacy of Chardin’s studio, see Lajer-Burcharth, *The Painter’s Touch*, 90–91.
 
-[^21]: The inscription reads: “Aquam a praefecto et aedilibus acceptam hic suis impensis, civibus fluere voluit Serenissima Princeps Anna Palatina, ex Bavarii . . . Anno Domini MD.CC.XV.”
+[^21]: The inscription reads: “Aquam a praefecto et aedilibus acceptam hic suis impensis, civibus fluere voluit Serenissima Princeps Anna Palatina, ex Bavarii .&#160;.&#160;. Anno Domini MD.CC.XV.”
 
 [^22]: For a theorization of containers, see Jean-Pierre Warnier, “Inside and Outside: Surfaces and Containers,” in *Handbook of Material Culture*, ed. Chris Tilly et al. (Los Angeles: Sage, 2006), 186–95.
 

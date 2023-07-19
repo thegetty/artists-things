@@ -8,7 +8,7 @@ owner:
   - first_name: Pierre
     last_name: Peyron
     years: 1744–1814
-type: [Tool]
+type: [Instrument]
 theme: [Community, Louvre]
 material: [Metal | Gold/Gilding, Metal | Steel]
 contributor:
@@ -21,7 +21,7 @@ The studio key, a thing almost invisible to history as a material object and per
 
 What more can we learn from this anecdote, this microhistory of a key? To progress, we need to know why, and to what effect, the key became the focus of debate, rather than the *brevet*, or certificate, which formally established a title of residency, and which was, in the ancien régime, the paradigmatic administrative instrument of royal housing for the arts. A *brevet*, legally speaking, was a royal act expedited by a secretary of state, and by which the king conferred the gift of a title, office, property, pension, or other gratuity.[^8] In the case of the Louvre *logements*, these certificates granted named artists exclusive and lifetime residency rights to a studio-cum-living space in exchange for royal service. Issued first under Henri IV, during whose reign the system of *logements* was established, and on parchment, the official medium of legal acts, by the time of d’Angiviller’s administration, the brevet-as-thing involved standardized paperwork, a partially printed form ({% ref 'fig-090' %}), to which the personal details of the individual recipient, in this example the sculptor Jean-Jacques Caffieri, were inserted by hand.[^9] To us this degraded paperwork seems dull, dreary, and even fragile next to the heavy and enduring significance we imaginatively project onto a royal, fleur-de-lis key ({% ref 'fig-091' %}), forged with a bow at one end and with a notched bit for the lock at the other, the parts united by a circular iron shank. But this would be a mistake. The key on its own afforded no security of tenure, though in the technical discourse on locksmithing, keys and locks were the instruments, *par excellence*, for enclosing and safeguarding private property.[^10] It functioned, in fact, more like a hinge or a handle, the furniture that opened the door and kept it moving and to which Henri-Louis Duhamel de Monceau categorically opposed lock and key in *L’art du serrurier* (1767).[^11]
 
-{% figuregroup '2' 'fig-090-a, fig-090-b' '**Fig. 90** *Brevêt de logement for Jean-Jacques Caffieri*, 1783. Printed form with pen and ink. Paris, Archives Nationales.' %}
+{% figure 'fig-090' %}
 
 {% figure 'fig-091' 'is-offset' %}
 

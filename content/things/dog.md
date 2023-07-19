@@ -34,7 +34,7 @@ Duplessis may have been more dependent on his dog than some people, but he was f
 
 {% figure 'fig-043' 'is-indented' %}
 
-{% figure 'fig-044' 'is-indented' %}
+{% figure 'fig-044' 'is-indented is-pdf-float-top' %}
 
 As source proved more important than suitability for Duplessis, in this instance, choice of breed reveals less about the painter’s lifestyle and more about his relationship with the *directeur général des bâtiments*. For as much as this is a story about a man and his dog, it is also a story about an artist and his patron. At the very end of his letter, Duplessis makes quite overt how entwined the two relationships were, adding a final rhetorical flourish to drive home his request: “If I got it [the dog] from you, I would love it even more, and I could say in truth that I do not possess anything—not even my dog—that was not a kindness from you.”[^12]
 

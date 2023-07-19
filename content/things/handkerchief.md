@@ -8,9 +8,10 @@ owner:
   - first_name: Charles-Nicolas
     last_name: Cochin
     years: 1715–90
-type: [Apparel, Commodity, Companion, Gift]
+    sort_years: 1715–1790
+type: [Apparel, Commodity, Companion, Gift, Tool]
 theme: [Death, Everyday, Friendship, Health/Medicine]
-material: [Textile | Cotton]
+material: [Textile | Cotton, Textile | Linen]
 mentions: [decoration, snuffbox, '*robe de chambre*', palette, red lake]
 contributor:
   - id: "kscott"
@@ -22,11 +23,11 @@ Of the importance of the commission to Cochin there can be no doubt. He was emba
 
 Cochin was not wrong in thinking that Rouen was better placed than Orléans to meet his needs. Cloth had been an important industry in that city and its hinterland since the seventeenth century. In 1737, when Louis-François-Armand Du Plessis, duc de Richelieu, was collecting samples of French stuffs for his library scrapbooks, Rouen’s weavers were producing handkerchiefs in a range of stuffs, some cotton, others mixes (notably of cotton and linen) and in a range of colors and patterns, at prices starting at 36 livres and rising to 39 livres per dozen ({% ref 'fig-070' %}). Annual output from the city’s workshops in 1737–38 was, according to the Richelieu albums, in excess of 30,000 pieces: the smallest were 18 centimeters square, the largest 860 centimeters.[^7] Fifty years later, a memorandum on Rouen’s cloth industry drawn up for the Bureau of Trade and Industry estimated that the 1,250 master weavers of Rouen and its environs were producing cotton goods to the value of 50 million livres per annum, of which handkerchiefs continued to form a significant proportion.[^8]
 
-{% figure 'fig-070' 'is-indented-2x' %}
+{% figure 'fig-070' 'is-indented-2x is-pdf-float-top' %}
 
 Cochin told Descamps he was prepared to pay top price for such “beautiful” handkerchiefs as were to be had at Rouen: 36 livres for a dozen small ones and 48 livres for large ones.[^9] He was evidently not too particular about size, but he was exigent about stuff and color. His preference, against general consumer trend, was for linen not cotton, for a robust handkerchief whose softness was countered by stoutness and absorbency. As to color, his first choice was for red ones, but he also countenanced brown. By the 1780s, so-called Turkey red, a saturated hue, had successfully been introduced at Rouen’s dyeworks and was replacing the traditional darker, duller madder.[^10] It provided precisely the strong color of handkerchief that Cochin was after and that is depicted in Jacques-Louis David’s portrait of Jacobus Blauw ({% ref 'fig-071' %}).
 
-{% figure 'fig-071' 'is-indented' %}
+{% figure 'fig-071' 'is-indented is-pdf-float-top' %}
 
 In spite of the references to price and payment, the status of Cochin’s handkerchiefs as either commodities or gifts is not certain. They stand apart from the gifts of food (sweets and cherries), the small coin of social bonding, that Descamps sent Cochin from time to time, and from the drawings, prints, and texts that Cochin, for his part, gave his friend.[^11] The services required to unite Cochin with his new handkerchiefs involved, however, investments of time, attention, and personal care that are generally associated with gifts, the more so since, in order to avoid the custom duties of the *Grande Ferme*, Descamps had had to oversee the hemming and laundering of the handkerchiefs before their dispatch to Paris.[^12] When Cochin requested a final invoice from his friend, he was sensitive to say that had this hemming and washing been done by Descamps’s daughters, he would not insult them by offering wages, gallantly promising instead to send them an equal number of pairs of bedsheets in return.[^13] Thus, Cochin’s “small commission” for *petit linge* commodities was in its execution giftwrapped by the mutual regard of the parties for each other’s feelings; it was the occasion and site of shared intimacy.
 

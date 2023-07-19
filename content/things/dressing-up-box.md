@@ -8,7 +8,7 @@ owner:
   - first_name: Jean-Antoine
     last_name: Watteau
     years: 1684–1721
-type: [Container, Tool]
+type: [Container, Prop, Tool]
 theme: [Education, Making, Studio]
 material: [Textile | Canvas, Textile | Silk]
 mentions: [mannequin, sketchbook, palette, écorché, wig]
@@ -48,9 +48,13 @@ Directly transposing figure and figure groups from sketchbook to canvas and work
 
 Meanwhile, what of the behaviors of cloth, the folding noticed by Caylus? Watteau was, his works suggest, fascinated by the myriad creases, crumples, wrinkles, rumples, tucks, pleats, and gathers “expressed” by cloth, his attention trapped by the curious, often complex shapes it folded and wrapped.[^34] An unexplained rumple in Vleughels’s cloak (see {% ref 'fig-048' %}) creates a puzzling trapezoid shape across the lower body. The cloak–rifle–man assemblage sketched on a sheet of studies of a soldier (Courtauld Institute of Art, London), configures, through the cloak’s wrapping action, a strange polygonal shape comprised of two unequal triangles, the bases of which sit and hang on the diagonal of the gun.[^35] A later study of a man in a cape ({% ref 'fig-050' %}), likewise withholds information about the body beneath the wrap and gather of silk. It tells, rather, of the folds the silk itself knots, folds that, like the damp patches on walls, invite imaginative projection: here, the features perhaps of a grotesque face.[^36]
 
+<div class="is-pdf-float-top">
+
 {% figure 'fig-049' 'is-paired' %}
 
 {% figure 'fig-050' 'is-paired' %}
+
+</div>
 
 This focus on the collection of apparel, a collection that Watteau began to assemble at the beginning of his career and very likely kept to the end, has revealed when, where, and how it oriented his artistic practice, how it anchored his knowledge of the dressed body (like the {% thing 'écorché' %} grounded knowledge of the nude), and how it stimulated his imagination. License so to reconstruct the collection’s functions is given by the sources, the works, and also recent scholarship that emphasizes the lack of conventional fit between the costumes and the social identities of the persons wearing them in the fêtes galantes. What was so transgressive about Watteau’s portrayal of the dressed figure is that, whatever the figure is wearing—haute couture, yesterday’s fashions, theatrical dress, rustic rags—they appear to be no one other than themselves, though themselves dressed up almost to the point of disguise. Identity, by this account, was constructed on the surface, through artifice, and not conferred by blood, birth, or sensibility. According to Caylus, Watteau was once bewitched by a {% thing 'wig' %}. Brought to his studio by a barber client, Watteau was enchanted by its perfect “imitation of nature.”[^37] Apparel was to him, apparently, no less natural than the body. {% contributors context=pageContributors format='symbol' %}
 

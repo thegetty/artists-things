@@ -184,7 +184,7 @@ figure_list:
 
 
   - id: "fig-027"
-    src: "figures/027.jpg"
+    src: "figures/027-FPO.jpg"
     # zoom: true
     label: "Fig. 27"
     caption: "Cabriolet fan, ca. 1755. Paper leaves, carved ivory guards, backed with mother-of-pearl, 28.5 cm (guardstick)."
@@ -272,7 +272,7 @@ figure_list:
     # zoom: true
     label: "Fig. 39"
     caption: "The Académie’s document box, ca. 1655."
-    credit: "Paris, École Nationale Supérieure des Beaux-Arts, MU 12579. Gilding, brass, Morocco leather. 19.8 × 54.3 × 43 cm. (© Beaux-Arts de Paris, Dist. RMN=Grand Palais / Art Resource, NY.)
+    credit: "Paris, École Nationale Supérieure des Beaux-Arts, MU 12579. Gilding, brass, Morocco leather. 19.8 × 54.3 × 43 cm. (© Beaux-Arts de Paris, Dist. RMN–Grand Palais / Art Resource, NY.)
 "
 
   - id: "fig-040"
@@ -280,7 +280,7 @@ figure_list:
     # zoom: true
     label: "Fig. 40"
     caption: "The Académie’s document box (open), ca. 1655."
-    credit: "Paris, École Nationale Supérieure des Beaux-Arts, MU 12579. Gilding, brass, Morocco leather. 19.8 × 54.3 × 43 cm. (© Beaux-Arts de Paris, Dist. RMN=Grand Palais / Art Resource, NY.)
+    credit: "Paris, École Nationale Supérieure des Beaux-Arts, MU 12579. Gilding, brass, Morocco leather. 19.8 × 54.3 × 43 cm. (© Beaux-Arts de Paris, Dist. RMN–Grand Palais / Art Resource, NY.)
 "
 
   - id: "fig-041"
@@ -545,7 +545,7 @@ figure_list:
     credit: "Paris, Bibliothèque Nationale de France."
 
   - id: "fig-078"
-    src: "figures/078.jpg"
+    src: "figures/078-FPO.jpg"
     # zoom: true
     label: "Fig. 78"
     caption: "Nicolas-Marie Gatteaux (French, 1751–1832), Medal commemorating the ascent of Joseph and Etienne Montgolfier, balloonists at the Champ de Mars, 1784. Silver, diam. 4.1 cm."
@@ -576,7 +576,7 @@ figure_list:
     src: "figures/082.jpg"
     # zoom: true
     label: "Fig. 82"
-    caption: "Gabriel de Saint-Aubin’s pencil annotations in *Catalogue des tableaux et dessins originaux des plus grands maîtres . . . qui composoient le cabinet de feu Charles Natoire* (1778)."
+    caption: "Gabriel de Saint-Aubin’s pencil annotations in *Catalogue des tableaux et dessins originaux des plus grands maîtres .&#160;.&#160;. qui composoient le cabinet de feu Charles Natoire* (1778)."
     credit: "Paris, Bibliothèque Nationale de France."
 
   - id: "fig-083"
@@ -600,41 +600,13 @@ figure_list:
     caption: "Charles Natoire (French, 1700–1777), *Villa Natoire*, ca. 1760–62. Pencil, pen, ink, and gray wash with white gouache and watercolor, 29.7 × 45.2 cm."
     credit: "Frankfurt am Main, Städel Museum, 16733. (bpk Bildagentur / Städel Museum/ Ursula Edelmann / Art Resource, NY.)"
 
-  - id: "fig-086-a"
-    src: "figures/086-a-FPO.jpg"
+  - id: "fig-086"
+    src: "figures/086-FPO.jpg"
     # zoom: true
-    label: "Fig. 86a"
-    caption: "Cover of one of the five surviving volumes of Johann-Georg Wille’s journal. BnF vol. 1 (1759–68)."
-    credit: "Paris, Bibliothèque Nationale de France, image courtesy of Gallica."
+    label: "Fig. 86"
+    caption: "Covers of the five surviving volumes of Johann-Georg Wille’s journal. Top row, left to right: BnF vol. 1 (1759–68), BnF vol. 2 (1768–76), Frits Lugt volume (1777–83); bottom row, left to right: BnF vol. 3 (1783–89); BnF vol. 4 (1789–93). Paris, Bibliothèque Nationale de France, images courtesy of Gallica; and Paris, Frits Lugt Collection, Fondation Custodia."
+    credit: ""
   
-  - id: "fig-086-b"
-    src: "figures/086-b-FPO.jpg"
-    # zoom: true
-    label: "Fig. 86b"
-    caption: "Cover of one of the five surviving volumes of Johann-Georg Wille’s journal. BnF vol. 2 (1768–76)."
-    credit: "Paris, Bibliothèque Nationale de France, image courtesy of Gallica."
-  
-  - id: "fig-086-c"
-    src: "figures/086-c-FPO.jpg"
-    # zoom: true
-    label: "Fig. 86c"
-    caption: "Cover of one of the five surviving volumes of Johann-Georg Wille’s journal. Frits Lugt volume (1777–83)."
-    credit: "Paris, Frits Lugt Collection, Fondation Custodia."
-  
-  - id: "fig-086-d"
-    src: "figures/086-d-FPO.jpg"
-    # zoom: true
-    label: "Fig. 86d"
-    caption: "Cover of one of the five surviving volumes of Johann-Georg Wille’s journal. BnF vol. 3 (1783–89)."
-    credit: "Paris, Bibliothèque Nationale de France, image courtesy of Gallica."
-  
-  - id: "fig-086-e"
-    src: "figures/086-e-FPO.jpg"
-    # zoom: true
-    label: "Fig. 86e"
-    caption: "Cover of one of the five surviving volumes of Johann-Georg Wille’s journal. BnF vol. 4 (1789–93)."
-    credit: "Paris, Bibliothèque Nationale de France, image courtesy of Gallica."
-
   - id: "fig-087"
     src: "figures/087.jpg"
     # zoom: true
@@ -642,54 +614,26 @@ figure_list:
     caption: "Loose papers tucked inside the front cover of the Frits Lugt volume of Johann-Georg Wille’s journal (1777–83)."
     credit: "Paris, Frits Lugt Collection, Fondation Custodia. (Photo: Hannah Williams.)"
   
-  - id: "fig-088-a"
-    src: "figures/088-a.jpg"
+  - id: "fig-088"
+    src: "figures/088.jpg"
     # zoom: true
-    label: "Fig. 88a"
-    caption: "Seller’s label inside the cover of Johann-Georg Wille’s journal notebook. BnF vol. 1 (1759–68)."
-    credit: "Paris, Bibliothèque Nationale de France."
-  
-  - id: "fig-088-b"
-    src: "figures/088-b.jpg"
-    # zoom: true
-    label: "Fig. 88b"
-    caption: "Seller’s label inside the cover of Johann-Georg Wille’s journal notebooks. BnF vol. 3 (1783–89)."
-    credit: "Paris, Bibliothèque Nationale de France."
-  
-  - id: "fig-088-c"
-    src: "figures/088-c.jpg"
-    # zoom: true
-    label: "Fig. 88c"
-    caption: "Seller’s label inside the cover of Johann-Georg Wille’s journal notebooks. BnF vol. 4 (1789–93)."
-    credit: "Paris, Bibliothèque Nationale de France."
+    label: "Fig. 88"
+    caption: "Sellers’ labels inside the covers of Johann-Georg Wille’s journal notebooks. Top: BnF vol. 1 (1759–68); middle: BnF vol. 3 (1783–89); bottom: BnF vol. 4 (1789–93). Paris, Bibliothèque Nationale de France."
+    credit: ""
 
-  - id: "fig-089-a"
-    src: "figures/089-a.jpg"
+  - id: "fig-089"
+    src: "figures/089.jpg"
     # zoom: true
-    label: "Fig. 89a"
-    caption: "Example page from Johann-Georg Wille’s journals. July 1760 (page 24), BnF vol. 1; (1759–68)."
-    credit: "Paris, Bibliothèque Nationale de France. Images courtesy of Gallica."
-  
-  - id: "fig-089-b"
-    src: "figures/089-b.jpg"
-    # zoom: true
-    label: "Fig. 89b"
-    caption: "Example page from Johann-Georg Wille’s journals. August 1792 (page 86), BnF vol. 4 (1789–93)."
-    credit: "Paris, Bibliothèque Nationale de France. Images courtesy of Gallica."
+    label: "Fig. 89"
+    caption: "Pages from Johann Georg Wille’s journals. Left: July 1760 (page 24), BnF vol. 1 (1759–68); right: August 1792 (page 86), BnF vol. 4 (1789–93). Paris, Bibliothèque Nationale de France."
+    credit: "(Images courtesy of Gallica.)"
 
-  - id: "fig-090-a"
-    src: "figures/090-a.jpg"
+  - id: "fig-090"
+    src: "figures/090.jpg"
     # zoom: true
-    label: "Fig. 90a"
-    caption: "Brevêt de logement for Jacques Caffieri, 1783. Printed form with pen and ink. Page 1."
-    credit: "Paris, Archives Nationales."
-  
-  - id: "fig-090-b"
-    src: "figures/090-b.jpg"
-    # zoom: true
-    label: "Fig. 90b"
-    caption: "Brevêt de logement for Jacques Caffieri, 1783. Printed form with pen and ink. Page 2."
-    credit: "Paris, Archives Nationales."
+    label: "Fig. 90"
+    caption: "*Brevêt de logement for Jean-Jacques Caffieri*, 1783. Printed form with pen and ink. Paris, Archives Nationales."
+    credit: ""
 
   - id: "fig-091"
     src: "figures/091.jpg" 
@@ -709,8 +653,8 @@ figure_list:
     src: "figures/093.jpg"
     # zoom: true
     label: "Fig. 93"
-    caption: "“Dessein” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécanique* (1765), plate I, detail."
-    credit: "Image courtesy of the ARTFL Encyclopédie Project."
+    caption: "Drawing school, detail from *Recueil de planches sur les sciences, les arts libéraux et les arts mécanique* (1765), plate I."
+    credit: "(Image courtesy of the ARTFL Encyclopédie Project, University of Chicago.)"
 
   - id: "fig-094"
     src: "figures/094.jpg"
@@ -720,7 +664,7 @@ figure_list:
     credit: "Paris, Musée du Louvre, RF28940-recto. (© RMN-Grand Palais / photo: Thierry Le Mage / Art Resource, NY.)"
 
   - id: "fig-095"
-    src: "figures/095-FPO.jpg"
+    src: "figures/095.jpg"
     # zoom: true
     label: "Fig. 95"
     caption: "Front page of the copy of Hyacinthe Rigaud’s *lettres de réception* (1700), transcribed by Henri van Hulst (1685–1754)."
@@ -747,19 +691,12 @@ figure_list:
     caption: "The constituent parts of a mannequin, “Dessein” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécaniques* (1765), plate VII."
     credit: "(Image courtesy of the ARTFL Encyclopédie Project, University of Chicago.)"
 
-  - id: "fig-099-a"
-    src: "figures/099-a.jpg"
+  - id: "fig-099"
+    src: "figures/099.jpg"
     # zoom: true
-    label: "Fig. 99a"
-    caption: "Mannequin once owned by Louis-François Roubiliac (French, worked in England, 1702–62), undressed, ca. 1750–62. Bronze, iron, hair, cork, wool, wood, leather, and silk, height 68 cm."
-    credit: "Museum of London. (Photos: © Museum of London.)"
-  
-  - id: "fig-099-b"
-    src: "figures/099-b.jpg"
-    # zoom: true
-    label: "Fig. 99b"
-    caption: "Mannequin once owned by Louis-François Roubiliac (French, worked in England, 1702–62), dressed in men’s attire, ca. 1750–62. Bronze, iron, hair, cork, wool, wood, leather, and silk, height 68 cm."
-    credit: "Museum of London. (Photos: © Museum of London.)"
+    label: "Fig. 99"
+    caption: "Mannequin once owned by Louis-François Roubiliac (French, worked in England, 1702–62), undressed (left) and dressed in men’s attire (right), ca. 1750–62. Bronze, iron, hair, cork, wool, wood, leather, and silk, height 68 cm. Museum of London."
+    credit: "(Photos: © Museum of London.)"
 
   - id: "fig-100"
     src: "figures/100.jpg"
@@ -776,7 +713,7 @@ figure_list:
     credit: "Los Angeles, The J. Paul Getty Museum."
 
   - id: "fig-102"
-    src: "figures/102-FPO.jpg"
+    src: "figures/102.jpg"
     # zoom: true
     label: "Fig. 102"
     caption: "Front page of the marriage contract of Jean-Baptiste Greuze and Anne-Gabrielle Babuty, 31 January 1759."
@@ -887,47 +824,26 @@ figure_list:
     caption: "Louis-Jean-François Lagrenée’s order book (*livre de raison*), ca. 1770–1805, main title page."
     credit: "Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, Ms. 50. (Photo: Bibliothèque de l'Institut National d'Histoire de l'Art.)"
 
-  - id: "fig-118-a"
-    src: "figures/118-a.jpg"
+  - id: "fig-118"
+    src: "figures/118.jpg"
     # zoom: true
-    label: "Fig. 118a"
-    caption: "Title pages to the first main part, “Recueil de sujets d’histoire ” (Compendium of history subjects), in Louis-Jean-François Lagrenée’s order book (*livre de raison*), ca. 1770–1805."
-    credit: "Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, Ms. 50. (Photos: Bibliothèque de l'Institut National d'Histoire de l'Art.)"
+    label: "Fig. 118"
+    caption: "Title pages to the two main parts, “Recueil de sujets d’histoire” (Compendium of history subjects) and “État des tableaux faits par Monsieur Lagrenée” (Register of paintings made by Monsieur Lagrenée), in Louis-Jean-François Lagrenée’s order book (*livre de raison*), ca. 1770–1805. Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, Ms. 50."
+    credit: "(Photos: Bibliothèque de l’Institut National d’Histoire de l’Art.)"
 
-  - id: "fig-118-b"
-    src: "figures/118-b.jpg"
+  - id: "fig-119"
+    src: "figures/119.jpg"
     # zoom: true
-    label: "Fig. 118b"
-    caption: "Title pages to the second main part, “État des tableaux faits par Monsieur Lagrenée” (Inventory of paintings made by Monsieur Lagrenée), in Louis-Jean-François Lagrenée’s order book (*livre de raison*), ca. 1770–1805."
-    credit: "Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, Ms. 50. (Photos: Bibliothèque de l'Institut National d'Histoire de l'Art.)"
+    label: "Fig. 119"
+    caption: "“État des tableaux faits par Monsieur Lagrenée” (Register of paintings made by Monsieur Lagrenée), from Louis-Jean-François Lagrenée’s order book (*livre de raison*), ca. 1770–1805, 255–56. Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, Ms. 50. (Photos: Bibliothèque de l’Institut National d’Histoire de l’Art.)"
+    credit: "(Photos: Bibliothèque de l’Institut National d’Histoire de l’Art.)"
 
-  - id: "fig-119-a"
-    src: "figures/119-a.jpg"
+  - id: "fig-120"
+    src: "figures/120.jpg"
     # zoom: true
-    label: "Fig. 119a"
-    caption: "“État des tableaux faits par Monsieur Lagrenée” (Inventory of paintings made by Monsieur Lagrenée), from Louis-Jean-François Lagrenée’s order book (*livre de raison*), ca. 1770–1805, 255."
-    credit: "Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, Ms, 50. (Photos: Bibliothèque de l'Institut National d'Histoire de l'Art.)"
-
-  - id: "fig-119-b"
-    src: "figures/119-b.jpg"
-    # zoom: true
-    label: "Fig. 119b"
-    caption: "“État des tableaux faits par Monsieur Lagrenée” (Inventory of paintings made by Monsieur Lagrenée), from Louis-Jean-François Lagrenée’s order book (*livre de raison*), ca. 1770–1805, 256."
-    credit: "Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, Ms, 50."
-
-  - id: "fig-120-a"
-    src: "figures/120-a.jpg"
-    # zoom: true
-    label: "Fig. 120a"
-    caption: "“État des tableaux faits par Monsieur Lagrenée” Inventory of paintings made by Monsieur Lagrenée, from Louis-Jean-François Lagrenée’s order book (*livre de raison*), ca. 1770–1805, 273."
-    credit: "Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, Ms. 50."
-  
-  - id: "fig-120-b"
-    src: "figures/120-b.jpg"
-    # zoom: true
-    label: "Fig. 120b"
-    caption: "“État des tableaux faits par Monsieur Lagrenée” Inventory of paintings made by Monsieur Lagrenée, from Louis-Jean-François Lagrenée’s order book (*livre de raison*), ca. 1770–1805, 274."
-    credit: "Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, Ms. 50."
+    label: "Fig. 120"
+    caption: "“État des tableaux faits par Monsieur Lagrenée” (Register of paintings made by Monsieur Lagrenée), from Louis-Jean-François Lagrenée’s order book (*livre de raison*), ca. 1770–1805, 273–74. Paris, Bibliothèque de l’Institut National d’Histoire de l’Art, Ms. 50."
+    credit: "(Photos: Bibliothèque de l’Institut National d’Histoire de l’Art.)"
 
   - id: "fig-121"
     src: "figures/121.jpg"
@@ -1105,7 +1021,7 @@ figure_list:
     credit: "Paris, Bibliothèque Nationale de France."
 
   - id: "fig-146"
-    src: "figures/146.jpg"
+    src: "figures/146-FPO.jpg"
     # zoom: true
     label: "Fig. 146"
     caption: "Marie-Thérèse Reboul-Vien (French, 1738–1805), Illustrations of shells from Michel Adanson, *Histoire naturelle du Sénégal: Coquillage* (1757), plate 1."
@@ -1119,7 +1035,7 @@ figure_list:
     credit: "Paris, Musée du Louvre, Département des Arts Graphiques, INV24311-Bis-recto. (© RMN-Grand Palais / photo:Suzanne Nagy / Art Resource, NY.)"
 
   - id: "fig-148"
-    src: "figures/148-FPO.jpg"
+    src: "figures/148.jpg"
     # zoom: true
     label: "Fig. 148"
     caption: "Cover and binding of Jean-Michel Moreau the Younger’s sketchbook, ca. 1770s. Brown leather with gilding, 18.2 × 11.1 cm."
@@ -1203,7 +1119,7 @@ figure_list:
     credit: "London, National Gallery, Presented by Barons Emile-Beaumont d'Erlanger, Frédéric d'Erlanger and Rodolphe d'Erlanger, in memory of their parents, 1927, NG4253 (© National Gallery, London / Art Resource, NY.)"
 
   - id: "fig-160"
-    src: "figures/160-FPO.jpg"
+    src: "figures/160.jpg"
     # zoom: true
     label: "Fig. 160"
     caption: "French smallsword (with scabbard) with Solingen blade, ca. 1730. Steel, gilding, 69 × 1.8 cm."
@@ -1251,7 +1167,7 @@ figure_list:
     credit: "Paris, Musée du Louvre, Inv. 26156. (© RMN-Grand Palais / photo: Laurent Chastel / Art Resource, NY.)"
 
   - id: "fig-167"
-    src: "figures/167-FPO.jpg"
+    src: "figures/167.jpg"
     # zoom: true
     label: "Fig. 167"
     caption: "Maker unknown, Cup and saucer, ca. 1700. Porcelain from Arita, Japan."
@@ -1272,7 +1188,7 @@ figure_list:
     credit: "Paris, Musée du Louvre, RF1942-32. (© RMN-Grand Palais / photo: Franck Raux / Art Resource, NY.)"
 
   - id: "fig-170"
-    src: "figures/170-FPO.jpg"
+    src: "figures/170.jpg"
     # zoom: true
     label: "Fig. 170"
     caption: "Umbrella, after 1715. Green silk, oak handle, metal frame."
@@ -1338,7 +1254,7 @@ figure_list:
     # zoom: true
     label: "Fig. 179"
     caption: "“Chaudronnier” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécaniques* (1765), plate II."
-    credit: "Paris, Bibliothèque Nationale de France."
+    credit: "(Image courtesy of the Smithsonian Libraries and Archives.)"
 
   - id: "fig-180"
     src: "figures/180.jpg"
@@ -1390,7 +1306,7 @@ figure_list:
     credit: "Paris, Musée du Louvre, Département des Arts Graphiques, 30944-r. (RMN-Grand Palais / photo: Tony Querrec / Art Resource, NY.)"
 
   - id: "fig-187"
-    src: "figures/187-FPO.jpg"
+    src: "figures/187.jpg"
     # zoom: true
     label: "Fig. 187"
     caption: "Will of Jean-Baptiste Massé, 1766–67. Pen on paper."

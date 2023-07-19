@@ -9,7 +9,7 @@ owner:
     last_name: Nattier
     years: 1685–1766
 type: [Collectible, Commodity, Intoxicant, Tableware]
-theme: [Food and Drink, Global Commerce, Luxury, Studio]
+theme: [Food and Drink, Global Commerce, Leisure, Luxury, Studio]
 material: [Metal | Silver, Mineral | Clay]
 mentions: [intaglio]
 contributor:
@@ -20,11 +20,11 @@ contributor:
 
 Description of the items in the catalog of Nattier’s sale in 1763 is so summary that we can only imagine what they may have looked like: possibly Kakiemon-style ({% ref 'fig-167' %}), since it was these white-bodied Japanese wares, typically decorated with vegetal ornament in bright enamel colors, that were most admired by Western consumers and were widely copied in Europe, especially by Meissen. They were sold with the rest of Nattier’s collection, which included Oriental vases, urns, jars, potpourris, and figurines, begs the question: What were the teacups for? Did a passion for porcelain lead Nattier to collect them for themselves, or did a taste for tea entail purchase of a tea set? To put it another way, was Nattier oriented toward his teacups as a functional part of his everyday life, or as an aesthetic diversion from it? How does the answer to this question inform, moreover, our understanding of Nattier’s encounter with cultures different from his own? Finally, how might the answer also explain the conspicuous lack of visual reference to porcelain in his paintings?
 
-{% figure 'fig-167' 'is-indented' %}
+{% figure 'fig-167' 'is-indented is-pdf-float-top' %}
 
 By the beginning of the eighteenth century, Chinese and Japanese porcelain was being imported to France in quantity. It was retailed in Paris by luxury-goods merchants (*marchands merciers*) and was sold at auction.[^2] Nattier’s first purchases were made in the early 1720s. Sometime before 1722, he bought a garniture of Japanese porcelain for one of the chimneypieces at his lodgings, on Rue de Hasard.[^3] He was admiring and acquiring Asian porcelain, we can thus note, long before his contemporary François Boucher, with whom it is today more famously connected.[^4] If the name “Nattier,” inscribed in 1756 against lot 1043—a pair of ewers with blue painted flowers—in a copy of the catalog of the duc de Tallard’s sale, refers to Jean-Marc, he was, moreover, still augmenting his collection more than thirty years later.[^5] Between these dates, the painter was appointed artist in residence to the Grand Prieur of the Order of Malta and in 1735 moved into a suite of rooms at the Temple, an enclave of houses, workshops, and shops clustered around the Grand Prieur’s palace in Paris.[^6] It was there that Nattier assembled his collection and also, perhaps, there that he was introduced to the rituals of tea. The prince de Conti, who acceded to the office of Grand Prieur in 1748, and his mistress, the salonnière Marie-Charlotte, comtesse de Boufflers, were renowned for their tea parties, depicted by Michel-Barthélemy Ollivier ({% ref 'fig-168' %}), though not in sufficient detail to be absolutely certain whether the teacups are Asian or European.
 
-{% figure 'fig-168' 'is-indented' %}
+{% figure 'fig-168' 'is-indented is-pdf-float-top' %}
 
 Nattier’s encounter with Japan and China via cups and tea was mediated by institutions of trade and sociability. In the literature of the sales rooms, “Japanese” denoted not an object’s place of origin but its excellence.[^7] “Japanese” teacups were of high quality, “old Japanese” teacups of the highest. When dealers like Pierre Rémy, who cataloged the Tallard sale, or François Joullain, who auctioned Nattier’s cabinet, qualified Japanese porcelain as “old,” they were unaware that porcelain was actually a modern art in Japan, introduced from China in the seventeenth century. Age for them was a synonym of rare—rare sometimes to the point of rendering an object virtually unique.[^8] “Old Japan” was thus a name, not a narrative. No scholarly discourse on porcelain equivalent to that on the history and theory of Western art and antiquities existed outside the trade. No Pierre-Jean Mariette wrote for porcelain the like of his treatise on engraved gems (see {% thing 'intaglio' %}). History in the case of the porcelain object only began when it arrived in Europe and acquired a biography in the form of provenance.[^9]
 
@@ -52,7 +52,7 @@ If we have come to know Nattier’s teacups better by this microhistory of their
 
 [^4]: See Yohan Rimaud, “Les couleurs célèstes de la terre: La collection d’objets orientaux de François Boucher,” in *Une des provinces du rococo*, 62–75.
 
-[^5]: Pierre Rémy and Jean-Baptiste Glomy, *Catalogue raisonné des tableaux, sculptures . . . desseins et estampes, porcelains anciennes . . .qui composent le cabinet de feu M. le duc de Tallard* (Paris: Didot, 1756) (copy at {% abbr 'INHA' %}, Paris), lot 1043. There was a copy of the sale catalog in Nattier’s library, see [Nattier], *Catalogue*, 22: lot 44.
+[^5]: Pierre Rémy and Jean-Baptiste Glomy, *Catalogue raisonné des tableaux, sculptures .&#160;.&#160;. desseins et estampes, porcelains anciennes .&#160;.&#160;.qui composent le cabinet de feu M. le duc de Tallard* (Paris: Didot, 1756) (copy at {% abbr 'INHA' %}, Paris), lot 1043. There was a copy of the sale catalog in Nattier’s library, see [Nattier], *Catalogue*, 22: lot 44.
 
 [^6]: Renard, *Nattier*, 58.
 
