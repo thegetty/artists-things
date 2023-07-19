@@ -9,7 +9,7 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'https://first-pages--artists-things.netlify.app'
+url: 'https://second-pages--artists-things.netlify.app'
 
 # ------------------------------------------------------------------------------
 # Title & Description
@@ -127,17 +127,9 @@ resource_link:
 # ------------------------------------------------------------------------------
 
 subject:
-  - type: bisac
-    name: ART / History / Baroque & Rococo
-    identifer: ART015090
-  - type: bisac
-    name: ART / European
-    identifer: ART015030
-  - type: bisac
-    name: ART / Reference
-    identifer: ART025000
-  - type: keywords
-    name: eighteenth century, France, found items, recovered, lost, missing, ownership, ordinary, illustrated, reference, anecdotes, curiosity, Jean Antoine Watteau, Francois Boucher, Jean Baptiste Greuze, Elizabeth Vigee-Lebrun, Jen Honore Fragonard, Jacques Louis David, Jean Simeon Chardin, Louvre, Francois Lemoyne, sword, innovative, engaging, almanac, marriage contract, armchair, book, pastels, camera obscura, quill, crayon, dog, shell, sketchbook, snuffbox, sugar spoon, gaming set, glasses, table, handkerchief, teacup, harpsichord, umbrella, balloon, votive, intaglio, watch, journal, water fountain, wig, key, lantern, will, letters, wine, mannequin
+  - type: 
+    name: 
+    identifer: 
 
 library_of_congress_cip: |
   Library of Congress Cataloging-in-Publication Data
