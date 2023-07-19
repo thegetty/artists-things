@@ -1250,11 +1250,11 @@ figure_list:
     caption: "Charles-Antoine Coypel (French, 1694–1752), *Supper at Emmaus*, 1749. Oil on canvas, 590 × 315 cm. Paris, Communion Chapel, Church of Saint-Merry. (Photo: isogood / Alamy Stock Photo.)"
     
   - id: "fig-179"
-    src: "figures/179-FPO.jpg"
+    src: "figures/179.jpg"
     # zoom: true
     label: "Fig. 179"
     caption: "“Chaudronnier” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécaniques* (1765), plate II."
-    credit: "Paris, Bibliothèque Nationale de France."
+    credit: "(Image courtesy of the Smithsonian Libraries and Archives.)"
 
   - id: "fig-180"
     src: "figures/180.jpg"
