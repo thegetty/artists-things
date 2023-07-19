@@ -1789,8 +1789,7 @@ a:hover .quire-thing__main__icon svg {
   .quire-contents-list .section-item:nth-child(5) > a::after {
     content: '';
   }
-  .quire-page#taxonomies,
-  .quire-page#things {
+  .quire-page#taxonomies {
     page: no-footer;
   }
 
