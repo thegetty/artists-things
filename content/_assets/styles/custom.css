@@ -272,6 +272,11 @@ q-modal {
 .quire-page__content .container .content hr::after {
   content: none;
 }
+@media print {
+  .quire-page__content .container .content hr {
+    height: .5pt;
+  }
+}
 
 /* Figures */
 .content .q-figure {
@@ -513,6 +518,12 @@ q-modal {
   line-height: 0 !important;
   font-size: .875em !important;
 }
+@media print {
+  .quire-page__content .content .footnotes {
+    border-top-width: .5pt;
+  }
+}
+
 
 /* Page Header */
 .quire-page__header {
@@ -663,6 +674,8 @@ q-modal {
   .quire-page__content.thing-info .thing-info-grid {
     display: flex;
     margin-bottom: 1.75rem;
+    border-top-width: .5pt;
+    border-bottom-width: .5pt;
   }
   .quire-page__content.thing-info .thing-info-grid > div {
     height: auto;
@@ -720,6 +733,12 @@ q-modal {
 }
 .quire-page__content.thing-info .thing-info-grid ul li:last-child::after {
   content: "";
+}
+@media print {
+  .quire-page__content.thing-info .thing-info-grid div.thing-type,
+  .quire-page__content.thing-info .thing-info-grid div.thing-theme {
+    border-right-width: .5pt;
+  }
 }
 
 /* THING POP-UP MENU */
@@ -1593,6 +1612,9 @@ a:hover .quire-thing__main__icon svg {
 .about-copyright-page .copyright {
   margin-top: 3.5rem;
 }
+.copyright-page .quire-page__content .container .content div {
+  margin-bottom: 1.625rem;
+}
 .about-copyright-page .quire-page__content .container .content ul {
   margin-left: 0;
 }
@@ -1683,11 +1705,14 @@ a:hover .quire-thing__main__icon svg {
   }
   .quire-page.title-page {
     page-break-before: right;
+    height: 8.125in;
+    justify-content: space-between;
   }
   .title-page .title {
     font-family: "Lora", serif;
-    font-size: 5rem;
+    font-size: 6rem;
     text-align: right;
+    margin-top: 2in;
   }
   .title-page .title .subtitle-divider {
     display: none;
@@ -1696,17 +1721,16 @@ a:hover .quire-thing__main__icon svg {
     color: var(--brown);
     display: block;
     font-family: "Source Sans Pro", serif;
-    font-size: 2rem;
+    font-size: 2.75rem;
     font-style: italic;
     font-weight: 600;
     margin-right: 0;
     margin-top: 1rem;
-    width: 4in;
   }
   .title-page .contributor {
     font-family: "Arbutus Slab", sans-serif;
-    font-size: 1.25rem;
-    letter-spacing: -.5px;
+    font-size: 1.75rem;
+    letter-spacing: -0.5px;
     margin-top: 3.5rem;
   }
   .title-page .publisher {
@@ -1786,8 +1810,8 @@ a:hover .quire-thing__main__icon svg {
     max-width: 1.66in;
     max-height: 1.66in;
     display: inline-block;
-    border-bottom: 1pt solid var(--black);
-    border-right: 1pt solid var(--black);
+    border-bottom: .5pt solid var(--black);
+    border-right: .5pt solid var(--black);
     padding: 1rem;
     position: relative;
     vertical-align: top;
@@ -1822,4 +1846,8 @@ a:hover .quire-thing__main__icon svg {
     transform: translate(-50%);
   }
 
+  
+
 }
+
+
