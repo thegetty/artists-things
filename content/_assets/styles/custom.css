@@ -632,6 +632,11 @@ q-modal {
 .quire-page__content .content tbody tr:hover {
   background-color: transparent;
 }
+.quire-page__content .container .content table td, 
+.quire-page__content .container .content table th {
+  border-bottom: 1px solid var(--black);
+}
+
 
 /* Thing Info Grid */
 .quire-page__content .container .content {
@@ -1455,6 +1460,7 @@ a:hover .quire-thing__main__icon svg {
 #owners-list li {
   margin-bottom: .5rem;
   margin-left: 1.75rem;
+  padding-right: .25rem;
 }
 #owners-list li::before {
   content: none;
@@ -1522,6 +1528,60 @@ a:hover .quire-thing__main__icon svg {
   #index-by-thing tbody tr:nth-child(8),
   #index-by-theme tbody tr:nth-child(14) {
     display: block;
+    margin-bottom: 0;
+  }
+}
+@media print {
+  #owners-list li:first-child,
+  #owners-list li:nth-child(27) { 
+    margin-top: 1.75rem;
+    display: inline-block;
+  }
+  #owners-list li:last-child  {
+    margin-bottom: 1.75rem;
+    display: inline-block;
+  }
+  #owners-list {
+    border-width: .5pt;
+    column-rule-width: .5pt;
+  }
+  .quire-page.taxonomy h1, 
+  .quire-page.taxonomy .quire-page__header__title {
+    border-width: .5pt;
+  }
+  .quire-page.taxonomy #taxonomies-material .quire-page__header__title {
+    border-bottom-width: 0;
+  }
+  .taxonomy-table tbody,
+  #index-by-material.taxonomy-table {
+    column-rule-width: .5pt;
+  }
+  .quire-page__content .container .content table.taxonomy-table {
+    border-bottom-width: .5pt;
+  }
+  #index-by-material.taxonomy-table tbody {
+    border-top-width: .5pt;
+  } 
+  #artists-chronology tbody tr:first-child,
+  #artists-chronology tbody tr:nth-child(26),
+  #index-by-thing tbody tr:first-child,
+  #index-by-thing tbody tr:nth-child(12),
+  #index-by-theme tbody tr:first-child,
+  #index-by-theme tbody tr:nth-child(11) {
+    margin-top: .875rem;
+    display: inline-block;
+  }
+  #artists-chronology tbody tr:last-child {
+    margin-bottom: 1.75rem;
+  }
+  .quire-page__content .container .content table td, 
+  .quire-page__content .container .content table th {
+    border-bottom-width: .5pt;
+  }
+  #taxonomies-chronology .quire-page__header .hero-body,
+  #taxonomies-type .quire-page__header .hero-body,
+  #taxonomies-theme .quire-page__header .hero-body,
+  #taxonomies-material .quire-page__header .hero-body {
     margin-bottom: 0;
   }
 }
@@ -1686,7 +1746,7 @@ a:hover .quire-thing__main__icon svg {
   .quire-contents-list .page-item.frontmatter-page > a::after {
     font-style: normal;
   }
-  
+
   .quire-page#taxonomies {
     page: splash;
     background-color: var(--beige);
