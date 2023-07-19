@@ -1,6 +1,6 @@
 ---
 title: "Things"
-layout: page
+layout: splash
 order: 100
 redirect: "/contents/"
 ---

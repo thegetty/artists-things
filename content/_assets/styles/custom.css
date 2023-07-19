@@ -559,6 +559,20 @@ q-modal {
   }
 }
 
+/* Section Landing Pages */
+@media screen {
+  .quire-page.quire-splash {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .quire-page.quire-splash .quire-page__header__title {
+    margin-top: 35vh;
+    text-align: center;
+    width: 100%;
+  }
+}
+
 /* Sidebar Menu */
 .quire-menu__header {
   margin-bottom: 3.5rem;
@@ -1775,7 +1789,8 @@ a:hover .quire-thing__main__icon svg {
   .quire-contents-list .section-item:nth-child(5) > a::after {
     content: '';
   }
-  .quire-page#taxonomies {
+  .quire-page#taxonomies,
+  .quire-page#things {
     page: no-footer;
   }
 
