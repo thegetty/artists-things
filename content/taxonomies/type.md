@@ -10,7 +10,7 @@ classes:
 
 {% assign thingTypes = '' %}
 {% for thing in thingPages %}
-{% assign thisThingsTypes = thing.data.type %}
+{% assign thisThingsTypes = thing.data.object[0].type %}
 {% assign thingTypes = thingTypes | concat: thisThingsTypes %}
 {% endfor %}
 
@@ -26,7 +26,7 @@ classes:
 {% unless type == '' %}
 <tr>
 <td>{{ type }}</td>
-<td>{% for page in thingPages %}{% if page.data.type contains type %}{% thing page.data.title %} {% endif %}{% endfor %}</td>
+<td>{% for page in thingPages %}{% if page.data.object[0].type contains type %}{% thing page.data.title %} {% endif %}{% endfor %}</td>
 </tr>
 {% endunless %}
 {% endfor %}

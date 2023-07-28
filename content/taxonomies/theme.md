@@ -10,7 +10,7 @@ classes:
 
 {% assign thingThemes = '' %}
 {% for thing in thingPages %}
-{% assign thisThingsThemes = thing.data.theme %}
+{% assign thisThingsThemes = thing.data.object[0].theme %}
 {% assign thingThemes = thingThemes | concat: thisThingsThemes %}
 {% endfor %}
 
@@ -26,7 +26,7 @@ classes:
 {% unless theme == '' %}
 <tr>
 <td>{{ theme }}</td>
-<td>{% for page in thingPages %}{% if page.data.theme contains theme %}{% thing page.data.title %} {% endif %}{% endfor %}</td>
+<td>{% for page in thingPages %}{% if page.data.object[0].theme contains theme %}{% thing page.data.title %} {% endif %}{% endfor %}</td>
 </tr>
 {% endunless %}
 {% endfor %}

@@ -10,7 +10,7 @@ classes:
 
 {% assign thingMaterials = '' %}
 {% for thing in thingPages %}
-{% assign thisThingsMaterials = thing.data.material %}
+{% assign thisThingsMaterials = thing.data.object[0].material %}
 {% assign thingMaterials = thingMaterials | concat: thisThingsMaterials %}
 {% endfor %}
 
@@ -36,7 +36,7 @@ classes:
 <tbody>
 <tr data-size="{{ materialCategorySize }}" data-category="{{ materialCategory }}" data-last-category="{{ lastMaterialCategory }}">
 <td class="material-category-header">{{ materialCategory }}</td>
-<td>{% for page in thingPages %}{% assign pageTitle = page.data.title %}{% for item in page.data.material %}{% if item == materialCategory %}{% thing page.data.title %}{% endif %}{% endfor %}{% endfor %}</td>
+<td>{% for page in thingPages %}{% assign pageTitle = page.data.title %}{% for item in page.data.object[0].material %}{% if item == materialCategory %}{% thing page.data.title %}{% endif %}{% endfor %}{% endfor %}</td>
 </tr>
 {% assign lastMaterialCategory = materialCategory %}
 {% endunless %}
@@ -45,7 +45,7 @@ classes:
 {% if materialCategory != materialName %}
 <tr class="material-category">
 <td>{{ materialName }}</td>
-<td>{% for page in thingPages %}{% assign pageTitle = page.data.title %}{% for item in page.data.material %}{% if item == materialFullName %}{% thing page.data.title %}{% endif %}{% endfor %}{% endfor %}</td>
+<td>{% for page in thingPages %}{% assign pageTitle = page.data.title %}{% for item in page.data.object[0].material %}{% if item == materialFullName %}{% thing page.data.title %}{% endif %}{% endfor %}{% endfor %}</td>
 </tr>
 {% endif %}
 
