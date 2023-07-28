@@ -6,6 +6,7 @@ order: 119
 tags: thing
 object:
   - name: "Glasses"
+    thumbnail: "figures/things/glasses.jpg"
     owner:
       - first_name: François-André
         last_name: Vincent

@@ -6,6 +6,7 @@ order: 149
 tags: thing
 object:
   - name: "Umbrella"
+    thumbnail: "figures/things/umbrella.jpg"
     owner:
       - first_name: Jacques-Philippe
         last_name: Le Bas

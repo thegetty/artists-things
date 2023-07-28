@@ -6,6 +6,7 @@ order: 125
 tags: thing
 object:
   - name: "Key"
+    thumbnail: "figures/things/key.jpg"
     owner:
       - first_name: Pierre
         last_name: Peyron

@@ -6,6 +6,7 @@ order: 153
 tags: thing
 object:
   - name: "Wig"
+    thumbnail: "figures/things/wig.jpg"
     owner:
       - first_name: Claude-Joseph
         last_name: Vernet

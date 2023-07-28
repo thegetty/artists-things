@@ -6,6 +6,7 @@ order: 148
 tags: thing
 object:
   - name: "Teacup"
+    thumbnail: "figures/things/teacup.jpg"
     owner:
       - first_name: Jean-Marc
         last_name: Nattier

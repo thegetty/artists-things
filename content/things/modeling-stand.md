@@ -6,6 +6,7 @@ order: 131
 tags: thing
 object:
   - name: "Modeling Stand"
+    thumbnail: "figures/things/modeling-stand.jpg"
     owner:
       - first_name: Jean-Antoine
         last_name: Houdon

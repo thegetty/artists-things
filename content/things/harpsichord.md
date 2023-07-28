@@ -6,6 +6,7 @@ order: 121
 tags: thing
 object:
   - name: "Harpsichord"
+    thumbnail: "figures/things/harpsichord.jpg"
     owner:
       - first_name: Jean-Marc
         last_name: Nattier

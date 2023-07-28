@@ -6,6 +6,7 @@ order: 110
 tags: thing
 object:
   - name: "Color Box"
+    thumbnail: "figures/things/color-box.jpg"
     owner:
       - first_name: Jean-Honoré
         last_name: Fragonard

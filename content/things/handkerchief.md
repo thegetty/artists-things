@@ -6,6 +6,7 @@ order: 120
 tags: thing
 object:
   - name: "Handkerchief"
+    thumbnail: "figures/things/handkerchief.jpg"
     owner:
       - first_name: Charles-Nicolas
         last_name: Cochin

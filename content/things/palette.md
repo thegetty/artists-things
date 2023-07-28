@@ -6,6 +6,7 @@ order: 134
 tags: thing
 object:
   - name: "Palette"
+    thumbnail: "figures/things/palette.jpg"
     owner:
       - first_name: Elisabeth
         last_name: Vigée-Lebrun

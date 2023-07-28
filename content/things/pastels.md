@@ -6,6 +6,7 @@ order: 135
 tags: thing
 object:
   - name: "Pastels"
+    thumbnail: "figures/things/pastels.jpg"
     owner:
       - first_name: Marie-Suzanne
         last_name: Giroust

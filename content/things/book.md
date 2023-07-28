@@ -6,6 +6,7 @@ order: 106
 tags: thing
 object:
   - name: "Book"
+    thumbnail: "figures/things/book.jpg"
     owner:
       - first_name: Gilles-Marie
         last_name: Oppenord

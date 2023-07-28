@@ -6,6 +6,7 @@ order: 122
 tags: thing
 object:
   - name: "Hot-Air Balloon"
+    thumbnail: "figures/things/hot-air-balloon.jpg"
     owner:
       - first_name: Jean-François
         last_name: Janinet

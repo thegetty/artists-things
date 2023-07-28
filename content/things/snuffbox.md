@@ -6,6 +6,7 @@ order: 144
 tags: thing
 object:
   - name: "Snuffbox"
+    thumbnail: "figures/things/snuffbox.jpg"
     owner:
       - first_name: Jean-Baptiste
         last_name: Oudry

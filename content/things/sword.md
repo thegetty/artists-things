@@ -6,6 +6,7 @@ order: 146
 tags: thing
 object:
   - name: "Sword"
+    thumbnail: "figures/things/sword.jpg"
     owner:
       - first_name: François
         last_name: Lemoyne

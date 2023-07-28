@@ -6,6 +6,7 @@ order: 126
 tags: thing
 object:
   - name: "Lantern"
+    thumbnail: "figures/things/lantern.jpg"
     owner:
       - first_name: Jean-Siméon
         last_name: Chardin

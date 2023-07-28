@@ -6,6 +6,7 @@ order: 151
 tags: thing
 object:
   - name: "Watch"
+    thumbnail: "figures/things/watch.jpg"
     owner:
       - first_name: Charles-Antoine
         last_name: Coypel

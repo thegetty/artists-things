@@ -6,6 +6,7 @@ order: 136
 tags: thing
 object:
   - name: "Picture"
+    thumbnail: "figures/things/picture.jpg"
     owner:
       - first_name: Nicolas de
         last_name: Largillière

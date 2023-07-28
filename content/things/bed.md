@@ -6,6 +6,7 @@ order: 105
 tags: thing
 object:
   - name: "Bed"
+    thumbnail: "figures/things/bed.jpg"
     owner:
       - first_name: Charles-Antoine
         last_name: Coypel

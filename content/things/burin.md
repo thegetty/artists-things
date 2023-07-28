@@ -6,6 +6,7 @@ order: 107
 tags: thing
 object:
   - name: "Burin"
+    thumbnail: "figures/things/burin.jpg"
     owner:
       - first_name: Renée-Elisabeth
         last_name: Marlié

@@ -6,6 +6,7 @@ order: 141
 tags: thing
 object:
   - name: "*Robe de Chambre*"
+    thumbnail: "figures/things/robe-de-chambre.jpg"
     owner:
       - first_name: Louis-Michel
         last_name: Van Loo

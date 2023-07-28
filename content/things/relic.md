@@ -6,6 +6,7 @@ order: 140
 tags: thing
 object:
   - name: "Relic"
+    thumbnail: "figures/things/relic.jpg"
     owner:
       - first_name: Hyacinthe
         last_name: Rigaud

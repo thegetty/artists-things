@@ -6,6 +6,7 @@ order: 155
 tags: thing
 object:
   - name: "Wine"
+    thumbnail: "figures/things/wine.jpg"
     owner:
       - first_name: Alexis
         last_name: Grimou

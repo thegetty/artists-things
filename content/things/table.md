@@ -6,6 +6,7 @@ order: 147
 tags: thing
 object:
   - name: "Table"
+    thumbnail: "figures/things/table.jpg"
     owner:
       - first_name: Jacques-Louis
         last_name: David

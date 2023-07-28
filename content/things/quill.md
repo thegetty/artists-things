@@ -6,6 +6,7 @@ order: 138
 tags: thing
 object:
   - name: "Quill"
+    thumbnail: "figures/things/quill.jpg"
     owner:
       - first_name: Étienne-Maurice
         last_name: Falconet

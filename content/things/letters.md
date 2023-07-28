@@ -6,6 +6,7 @@ order: 127
 tags: thing
 object:
   - name: "Letters"
+    thumbnail: "figures/things/letters.jpg"
     owner:
       - first_name: Hyacinthe
         last_name: Rigaud

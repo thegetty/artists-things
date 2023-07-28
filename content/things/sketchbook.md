@@ -6,6 +6,7 @@ order: 143
 tags: thing
 object:
   - name: "Sketchbook"
+    thumbnail: "figures/things/sketchbook.jpg"
     owner:
       - first_name: Jean-Michel
         last_name: Moreau the Younger

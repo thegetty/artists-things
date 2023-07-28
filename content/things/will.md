@@ -6,6 +6,7 @@ order: 154
 tags: thing
 object:
   - name: "Will"
+    thumbnail: "figures/things/will.jpg"
     owner:
       - first_name: Jean-Baptiste
         last_name: Massé

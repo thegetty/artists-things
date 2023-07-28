@@ -6,6 +6,7 @@ order: 103
 tags: thing
 object:
   - name: "Baptism Certificate"
+    thumbnail: "figures/things/baptism-certificate.jpg"
     owner:
       - first_name: Hubert
         last_name: Robert

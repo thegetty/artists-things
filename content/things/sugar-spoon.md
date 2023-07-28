@@ -6,6 +6,7 @@ order: 145
 tags: thing
 object:
   - name: "Sugar Spoon"
+    thumbnail: "figures/things/sugar-spoon.jpg"
     owner:
       - first_name: François-Hubert
         last_name: Drouais

@@ -6,6 +6,7 @@ order: 101
 tags: thing
 object:
   - name: "Almanac"
+    thumbnail: "figures/things/almanac.jpg"
     owner:
       - first_name: Claude-Joseph
         last_name: Vernet

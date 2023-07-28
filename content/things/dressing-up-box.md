@@ -6,6 +6,7 @@ order: 115
 tags: thing
 object:
   - name: "Dressing-Up Box"
+    thumbnail: "figures/things/dressing-up-box.jpg"
     owner:
       - first_name: Jean-Antoine
         last_name: Watteau

@@ -6,6 +6,7 @@ order: 113
 tags: thing
 object:
   - name: "Document Box"
+    thumbnail: "figures/things/document-box.jpg"
     owner:
       - full_name: Secretaries of the Académie Royale
         years: 1650–1793

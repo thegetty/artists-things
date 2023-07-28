@@ -6,6 +6,7 @@ order: 111
 tags: thing
 object:
   - name: "*Crayon*"
+    thumbnail: "figures/things/crayon.jpg"
     owner:
       - first_name: Jean-Baptiste
         last_name: Huët

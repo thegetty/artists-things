@@ -6,6 +6,7 @@ order: 109
 tags: thing
 object:
   - name: "Carriage"
+    thumbnail: "figures/things/carriage.jpg"
     owner:
       - first_name: Jean-Baptiste
         last_name: Pigalle

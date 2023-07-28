@@ -6,6 +6,7 @@ order: 112
 tags: thing
 object:
   - name: "Decoration"
+    thumbnail: "figures/things/decoration.jpg"
     owner:
       - first_name: Joseph-Marie
         last_name: Vien

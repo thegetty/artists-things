@@ -6,6 +6,7 @@ order: 133
 tags: thing
 object:
   - name: "Order Book"
+    thumbnail: "figures/things/order-book.jpg"
     owner:
       - first_name: Louis-Jean-François
         last_name: Lagrenée

@@ -6,6 +6,7 @@ order: 130
 tags: thing
 object:
   - name: "Model"
+    thumbnail: "figures/things/model.jpg"
     owner:
       - first_name: Edme
         last_name: Bouchardon

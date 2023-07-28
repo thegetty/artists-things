@@ -6,6 +6,7 @@ order: 150
 tags: thing
 object:
   - name: "Votive"
+    thumbnail: "figures/things/votive.jpg"
     owner:
       - first_name: Pierre-Imbert
         last_name: Drevet

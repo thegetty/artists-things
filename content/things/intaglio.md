@@ -6,6 +6,7 @@ order: 123
 tags: thing
 object:
   - name: "Intaglio"
+    thumbnail: "figures/things/intaglio.jpg"
     owner:
       - first_name: Charles-Joseph
         last_name: Natoire

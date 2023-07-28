@@ -6,6 +6,7 @@ order: 139
 tags: thing
 object:
   - name: "Red Lake"
+    thumbnail: "figures/things/red-lake.jpg"
     owner:
       - first_name: Joseph-Siffred
         last_name: Duplessis

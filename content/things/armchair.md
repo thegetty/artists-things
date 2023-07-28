@@ -6,6 +6,7 @@ order: 102
 tags: thing
 object:
   - name: "Armchair"
+    thumbnail: "figures/things/armchair.jpg"
     owner:
       - first_name: Jean-Honoré
         last_name: Fragonard

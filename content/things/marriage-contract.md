@@ -6,6 +6,7 @@ order: 129
 tags: thing
 object:
   - name: "Marriage Contract"
+    thumbnail: "figures/things/marriage-contract.jpg"
     owner:
       - first_name: Jean-Baptiste
         last_name: Greuze

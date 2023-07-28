@@ -6,6 +6,7 @@ order: 108
 tags: thing
 object:
   - name: "Camera Obscura"
+    thumbnail: "figures/things/camera-obscura.jpg"
     owner:
       - first_name: Charles
         last_name: Parrocel

@@ -6,6 +6,7 @@ order: 132
 tags: thing
 object:
   - name: "Nightingale"
+    thumbnail: "figures/things/nightingale.jpg"
     owner:
       - first_name: Marie-Anne
         last_name: Collot

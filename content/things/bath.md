@@ -6,6 +6,7 @@ order: 104
 tags: thing
 object:
   - name: "Bath"
+    thumbnail: "figures/things/bath.jpg"
     owner:
       - first_name: Joseph-Siffred
         last_name: Duplessis

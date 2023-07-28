@@ -6,6 +6,7 @@ order: 128
 tags: thing
 object:
   - name: "Mannequin"
+    thumbnail: "figures/things/mannequin.jpg"
     owner:
       - first_name: Jean-Baptiste
         last_name: Le Prince

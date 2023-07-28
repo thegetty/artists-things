@@ -6,6 +6,7 @@ order: 117
 tags: thing
 object:
   - name: "Funeral Book"
+    thumbnail: "figures/things/funeral-book.jpg"
     owner:
       - full_name: Concierge of the Académie Royale
     type: [Heirloom]

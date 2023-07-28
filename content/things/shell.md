@@ -6,6 +6,7 @@ order: 142
 tags: thing
 object:
   - name: "Shell"
+    thumbnail: "figures/things/shell.jpg"
     owner:
       - first_name: François
         last_name: Boucher

@@ -6,6 +6,7 @@ order: 116
 tags: thing
 object:
   - name: "Écorché"
+    thumbnail: "figures/things/ecorche.jpg"
     owner:
       - first_name: Jean-Antoine
         last_name: Houdon

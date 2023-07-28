@@ -6,6 +6,7 @@ order: 137
 tags: thing
 object:
   - name: "*Porte-Crayon*"
+    thumbnail: "figures/things/porte-crayon.jpg"
     owner:
       - first_name: Jean-Baptiste
         last_name: Perronneau

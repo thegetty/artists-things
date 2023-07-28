@@ -6,6 +6,7 @@ order: 152
 tags: thing
 object:
   - name: "Water Fountain"
+    thumbnail: "figures/things/water-fountain.jpg"
     owner:
       - first_name: Jean-Siméon
         last_name: Chardin

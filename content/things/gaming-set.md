@@ -6,6 +6,7 @@ order: 118
 tags: thing
 object:
   - name: "Gaming Set"
+    thumbnail: "figures/things/gaming-set.jpg"
     owner:
       - first_name: Jean-Étienne
         last_name: Liotard

@@ -6,6 +6,7 @@ order: 124
 tags: thing
 object:
   - name: "Journal"
+    thumbnail: "figures/things/journal.jpg"
     owner:
       - first_name: Johann Georg
         last_name: Wille

@@ -6,6 +6,7 @@ order: 114
 tags: thing
 object:
   - name: "Dog"
+    thumbnail: "figures/things/dog.jpg"
     owner:
       - first_name: Joseph-Siffred
         last_name: Duplessis
