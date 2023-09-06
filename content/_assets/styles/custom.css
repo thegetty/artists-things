@@ -1662,11 +1662,17 @@ a:hover .quire-thing__main__icon svg {
 }
 .about-copyright-page .quire-page__content .container .content .cip-data {
   margin-bottom: 1rem;
+  break-inside: avoid;
+  page-break-inside: avoid;
 }
 .about-copyright-page .quire-page__content .container .content .cip-data p,
 .about-copyright-page .quire-page__content .container .content .cip-data ul,
 .about-copyright-page .quire-page__content .container .content .cip-data li {
   margin: 0
+}
+.about-copyright-page .quire-page__content .container .content .cip-data ul li {
+  padding-left: 1.5em;
+  text-indent: -1.5em;
 }
 
 /* Print */
