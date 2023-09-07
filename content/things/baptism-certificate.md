@@ -15,7 +15,7 @@ contributor:
   - id: "hwilliams"
 ---
 
-**A small piece of paper, around the size of a postcard,** contains enough information in its printed and handwritten lines to paint a rich picture of Hubert Robert’s earliest days ({% ref 'fig-007' %}). A baptism certificate is, indeed, a fairly meta-thing about which to write an object biography, given that such documents are a conventional source of biographical facts, at least in the Catholic culture of eighteenth-century France, where an *acte de baptême* was a near universal marker of the beginning of a life. But as a thing with its own life, this piece of paper reveals far more than the factual information it contains about Robert’s origins, providing insights into religious customs and legal procedures, as well as a father-son relationship and some savvy financial dealings.
+**A small piece of paper, around the size of a postcard,** contains enough information in its printed and handwritten lines to paint a rich picture of Hubert Robert’s earliest days ({% ref 'fig-007' %}). A baptism certificate is, indeed, a fairly meta thing about which to write an object biography, given that such documents are a conventional source of biographical facts, at least in the Catholic culture of eighteenth-century France, where an *acte de baptême* was a near universal marker of the beginning of a life. But as a thing with its own life, this piece of paper reveals far more than the factual information it contains about Robert’s origins, providing insights into religious customs and legal procedures, as well as a father-son relationship and some savvy financial dealings.
 
 {% figure 'fig-007' %}
 

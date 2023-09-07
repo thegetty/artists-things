@@ -13,7 +13,7 @@ theme: [Administration, Louvre, Studio]
 material: [Animal | Leather/Parchment, Plant Matter | Cane, Plant Matter | Wood]
 mentions: [palette, journal]
 contributor:
-  - id: "kscott"
+  - id: "hwilliams"
 ---
 
 **In the 1790s, Jean-Honoré Fragonard stopped painting.** By this point in his life, he had enjoyed a long and successful career as an artist spanning three decades, scores of clients, and hundreds of artworks (paintings and drawings), and he had established a name with his distinctively bravura take on the rococo mode. Indeed, the only thing he had not achieved was admission to the Académie.[^1] But at the age of sixty, he made a career change and became a bureaucrat.[^2]

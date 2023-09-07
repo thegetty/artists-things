@@ -88,7 +88,7 @@ Cochin’s anecdotes on Bouchardon’s life were written after the sculptor’s 
 
 [^18]: On the gesture of making, see Vilém Flusser, *Gestures* (Minneapolis: University of Minnesota Press, 2014), 32–71.
 
-[^19]: Mariette uses “colossal” to describe and commend the fountain’s forms. See Mariette “Lettre de M. M\*\*\*,” in Caylus, *Vie*, 90.
+[^19]: Mariette uses “colossal” to describe and commend the fountain’s forms. See Mariette, “Lettre de M. M\*\*\*,” in Caylus, *Vie*, 90.
 
 [^20]: Charles-Nicolas Cochin, {% abbr '*Mémoires inédits*' %} *de Charles-Nicolas Cochin*, ed. Charles Henry (Paris: Baur, 1880), 86. Cochin thought Bouchardon’s models failed to reach perfection in this regard.
 

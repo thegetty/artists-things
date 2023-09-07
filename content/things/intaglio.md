@@ -86,7 +86,7 @@ For Natoire, antiquity was a matter first of his own origins at Nîmes, a place 
 
 [^19]: Pierre Remy, *Catalogue d’une collection des très beaux tableaux, desseins, et estampes .&#160;.&#160;. de la succession de feu M. J.B de Troy* (Paris: Didot, 1764), lots 330, 336. As an executor of De Troy’s will, Natoire was familiar with his gems and arranged their dispatch to Paris after De Troy’s death in 1752.
 
-[^20]: On the excavations, see Caroline Millot, “Les jardins de la Fontaine dà Nîmes et l’oeuvre de Jacques-Philippe Mareschal (1689–1778): Un patrimoine aux multiples facettes,” *Patrimoines du Sud* 8 (2018), <http://journals.openedition.org/pds/372>.
+[^20]: On the excavations, see Caroline Millot, “Les jardins de la Fontaine à Nîmes et l’oeuvre de Jacques-Philippe Mareschal (1689–1778): Un patrimoine aux multiples facettes,” *Patrimoines du Sud* 8 (2018), <http://journals.openedition.org/pds/372>.
 
 [^21]: Natoire to Duchesne, 9 November 1751, in “Charles Natoire: Correspondance,” 264.
 

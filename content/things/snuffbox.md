@@ -76,9 +76,9 @@ The snuffbox’s lack of semiotic fixity, its standing as a metasymbol for luxur
 
 [^15]: See Thibaut Wolvesperges, *Le meuble français en lacque* (Paris: Édition de l’Amateur, 2000).
 
-[^16]: *Les Secrets de la laque française*, Paris, Musée des Arts Décoratifs (2014), 161, cat. 104. On the making of papier-maché boxes, “Tabatière de carton,” see also *Encyclopédie*, [http://encyclopedie.uchicago.edu/](https://encyclopedie.uchicago.edu/), 15:793–94.
+[^16]: *Les Secrets de la laque française*, Paris, Musée des Arts Décoratifs (2014), 161, cat. 104. On the making of papier-maché boxes, see also “Tabatière de carton,” *Encyclopédie*, [http://encyclopedie.uchicago.edu/](https://encyclopedie.uchicago.edu/), 15:793–94.
 
-[^17]: Inventoried among Oudry’s drawings were volumes of unattributed ornament (nos. 30, 37), containing designs by Gilles-Marie Oppenord (no. 25), Claude Gillot (no. 77), the prints after Juste-Aurèle Meissonnier (no. 94), and a volume of his own ornamental work (no. 34), not to mention many items of chinoiserie. There can be little doubt of his interest in design.
+[^17]: Inventoried among Oudry’s drawings were volumes of unattributed ornament (nos. 30, 37), containing designs by Gilles-Marie Oppenord (no. 25), Claude Gillot (no. 77), prints after Juste-Aurèle Meissonnier (no. 94), and a volume of his own ornamental work (no. 34), not to mention many items of chinoiserie. There can be little doubt of his interest in design.
 
 [^18]: Madeleine Dobie, *Trading Places: Colonization and Slavery in Eighteenth-Century French Culture* (Ithaca, NY: Cornell University Press, 2010), esp. 61–88.
 
@@ -100,6 +100,6 @@ The snuffbox’s lack of semiotic fixity, its standing as a metasymbol for luxur
 
 [^27]: Four guitars “de différentes marqueterie” were listed in Oudry’s cabinet (along with the gold boxes) and valued together at 100 livres.
 
-[^28]: See Edme Ballard, *Discours sur le tabac* (Paris: Jombert, 1693), 88–89; and [J. Brunet], *Le Bon usage du tabac en poudre* (Paris: Quinet, 1700), 46–48.
+[^28]: See Edme Ballard, *Discours sur le tabac* (Paris: Jombert, 1693), 88–89; and [J. Brunet], *Le bon usage du tabac en poudre* (Paris: Quinet, 1700), 46–48.
 
 [^29]: Marc-Antoine Girard de Saint-Amand’s sonnet “Le fumeur” (1629) is an early example; Tacita Dean’s *Portrait of David Hockney Smoking* (2016) is a recent one.

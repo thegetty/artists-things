@@ -36,7 +36,7 @@ After successful test flights of the full-scale balloon at the Observatoire in J
 
 Had Janinet perhaps felt himself interpolated by Gudin de Brenellière’s rousing imperatives in the wake of the first balloon ascent,[^19] and published in the *Journal de Paris*, to “Follow Montgolfier .&#160;.&#160;. ,” to “Leave, fly, and discover air less even, purer horizons in these, our cerulean planes”? Had he thought that his practical knowledge specifically marked him out? He certainly saw no contradiction in principle between scientific and artistic ambition: in March 1784 he put an advertisement in *Annonce, affiches et avis divers* with news scrambled in a single paragraph both of his print after François Boucher’s *Toilette of Venus* ({% ref 'fig-080' %}) and of the subscription to launch the balloon.[^20]
 
-The relic of his and Miollan’s attempted flight indicates a dense inner envelope of linen, possibly hemp, tough but not woven tightly enough to contain air. It was almost certainly covered with outer layers of paper, and varnish, materials common to the printmaker’s studio, in order to seal it properly. Moreover, Janinet had brought experimentation to his art. He had adapted the process of color printing using multiple plates, learned in the workshop of the pastel-manner etcher Jean-Claude Bonnet to the technique of acquatint, a development that had required experimental manipulation of varnishes (to protect the copperplate), acids (to bite the design), and inks, including indigo (to print the image). He could legitimately lay claim to a practical knowledge of chemistry that was there to be mobilized for the science as well as the arts of ballooning, including perhaps the making of hydrogen by the chemical reaction of acid on metal.[^21]
+The relic of his and Miollan’s attempted flight indicates a dense inner envelope of linen, possibly hemp, tough but not woven tightly enough to contain air. It was almost certainly covered with outer layers of paper and varnish, materials common to the printmaker’s studio, in order to seal it properly. Moreover, Janinet had brought experimentation to his art. He had adapted the process of color printing using multiple plates, learned in the workshop of the pastel-manner etcher Jean-Claude Bonnet to the technique of acquatint, a development that had required experimental manipulation of varnishes (to protect the copperplate), acids (to bite the design), and inks, including indigo (to print the image). He could legitimately lay claim to a practical knowledge of chemistry that was there to be mobilized for the science as well as the arts of ballooning, including perhaps the making of hydrogen by the chemical reaction of acid on metal.[^21]
 
 {% figure 'fig-081' 'is-indented is-pdf-float-top' %}
 
@@ -70,7 +70,7 @@ The thrust of the caricatures, satirical songs, and critiques that flooded the m
 
 [^14]: *Journal de Paris*, 29 March 1784.
 
-[^15]: Janinet had reproduced two of Wille *fils*’s early genre paintings, *Le Repas des moissonneurs* (1774) and *La Noce de Village* (1775). See *IFF XVIII<sup>e</sup> siècle* 12 (1973): 9–10.
+[^15]: Janinet had reproduced two of Wille *fils*’s early genre paintings, *Le Repas des moissonneurs* (1774) and *La Noce de Village* (1775). See *Inventaire du fonds français: graveurs du XVIIIe siècle* (Paris:  Bibliothèque nationale de France, 1973), 12:9-10.
 
 [^16]: Wille, *Mémoires*, 2:94–95 (11 September 1784).
 
@@ -86,4 +86,4 @@ The thrust of the caricatures, satirical songs, and critiques that flooded the m
 
 [^22]: The joke was informed by the connection that Antoine Rivarol made between the technologies of air used, respectively, in ballooning and in the abbé Mical’s “Talking Heads,” the first successful reproduction of the human voice. See Rivarol, *Lettre à M. le Président de \*\*\* sur le globe airostatique, les têtes parlantes et l’état present de l’opinion publique à Paris* (London: Cailleau, 1784), 20–22, 29–30.
 
-[^23]: According to Portalis and Béraldi, Janinet produced his best prints in the immediate aftermath of this failure. See *IFF, XVIII<sup>e</sup> siècle*, 3.
+[^23]: According to Portalis and Béraldi, Janinet produced his best prints in the immediate aftermath of this failure. See *Inventaire du fonds français: graveurs du XVIIIe siècle*, vol. 3.

@@ -88,6 +88,10 @@
   color: var(--accent-color);
 }
 
+.text-align-right {
+  text-align: right;
+}
+
 /*  Nav Bar */
 .quire-navbar {
   font-size: .9375rem;

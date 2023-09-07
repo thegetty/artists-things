@@ -116,7 +116,7 @@ figure_list:
     src: "figures/017.jpg"
     # zoom: true
     label: "Fig. 17"
-    caption: "Gilles-Marie Oppenord (French, 1672–1742), Design for a portan with ornamentation drawn on a printed folio, with medalions of Doute, Discretion, Divinité, Douleur, Economie, and Égalité, for Cesare Ripa and Jean Baudouin, *Iconologie, ou Explication nouvelle de plusieurs emblemes* (Paris, 1636). Pen and brown ink over engraving, 32.8 × 22.3 cm."
+    caption: "Gilles-Marie Oppenord (French, 1672–1742), Design for a portal with ornamentation drawn on a printed folio, with medalions of Doute, Discretion, Divinité, Douleur, Economie, and Égalité, for Cesare Ripa and Jean Baudouin, *Iconologie, ou Explication nouvelle de plusieurs emblemes* (Paris, 1636). Pen and brown ink over engraving, 32.8 × 22.3 cm."
     credit: "Montreal, Canadian Centre for Architecture."
 
   - id: "fig-018"
@@ -250,7 +250,7 @@ figure_list:
     # zoom: true
     label: "Fig. 36"
     caption: "Joseph-Siffred Duplessis (French, 1725–1802), *Joseph-Marie Vien*, 1785. Oil on canvas, 133 × 100 cm."
-    credit: "Paris, Musée du Louvre, INV4306. (© RMN-Grand Palais / photo: Michel Urtado. / Art Resource, NY.)."
+    credit: "Paris, Musée du Louvre, INV4306. (© RMN-Grand Palais / photo: Michel Urtado. / Art Resource, NY.)"
 
   - id: "fig-037"
     src: "figures/037.jpg"
@@ -264,32 +264,28 @@ figure_list:
     # zoom: true
     label: "Fig. 38"
     caption: "Gabrielle Capet (French, 1761–1818), *Adélaïde Labille-Guiard Painting the Portrait of Joseph-Marie Vien*, 1808. Oil on canvas, 69 × 83.5 cm."
-    credit: "Munich, Neue Pinakothek, Inv. FV 9. (bpk Bildagentur / Neue Pinakothek/Bayerische Staatsgemaeldesammlungen/Munich / Art Resource, NY.)
-"
+    credit: "Munich, Neue Pinakothek, Inv. FV 9. (bpk Bildagentur / Neue Pinakothek/Bayerische Staatsgemaeldesammlungen/Munich / Art Resource, NY.)"
 
   - id: "fig-039"
     src: "figures/039.jpg"
     # zoom: true
     label: "Fig. 39"
     caption: "The Académie’s document box, ca. 1655."
-    credit: "Paris, École Nationale Supérieure des Beaux-Arts, MU 12579. Gilding, brass, Morocco leather. 19.8 × 54.3 × 43 cm. (© Beaux-Arts de Paris, Dist. RMN–Grand Palais / Art Resource, NY.)
-"
+    credit: "Paris, École Nationale Supérieure des Beaux-Arts, MU 12579. Gilding, brass, Morocco leather. 19.8 × 54.3 × 43 cm. (© Beaux-Arts de Paris, Dist. RMN–Grand Palais / Art Resource, NY.)"
 
   - id: "fig-040"
     src: "figures/040.jpg"
     # zoom: true
     label: "Fig. 40"
     caption: "The Académie’s document box (open), ca. 1655."
-    credit: "Paris, École Nationale Supérieure des Beaux-Arts, MU 12579. Gilding, brass, Morocco leather. 19.8 × 54.3 × 43 cm. (© Beaux-Arts de Paris, Dist. RMN–Grand Palais / Art Resource, NY.)
-"
+    credit: "Paris, École Nationale Supérieure des Beaux-Arts, MU 12579. Gilding, brass, Morocco leather. 19.8 × 54.3 × 43 cm. (© Beaux-Arts de Paris, Dist. RMN–Grand Palais / Art Resource, NY.)"
 
   - id: "fig-041"
     src: "figures/041.jpg"
     # zoom: true
     label: "Fig. 41"
     caption: "Jean Tiger, *Henri Testelin*, 1675. Oil on canvas. 116 × 89 cm."
-    credit: "Châteaux de Versailles et de Trianon, MV3585. (© RMN-Grand Palais / photo: Gérard Blot / Art Resource, NY.)
-."
+    credit: "Châteaux de Versailles et de Trianon, MV3585. (© RMN-Grand Palais / photo: Gérard Blot / Art Resource, NY.)"
 
   - id: "fig-042"
     src: "figures/042.jpg"
@@ -310,23 +306,21 @@ figure_list:
     # zoom: true
     label: "Fig. 44"
     caption: "François Gérard (French, 1770–1837), *Jean-Baptiste Isabey and His Daughter, Alexandrine*, 1795. Oil on canvas, 195 × 130 cm."
-    credit: "Paris, Musée du Louvre, INV4764. (© Musée du Louvre, Dist. RMN-Grand Palais / Angele Dequier / Art Resource, NY. Photo: Angele Dequier.)
-"
+    credit: "Paris, Musée du Louvre, INV4764. (© Musée du Louvre, Dist. RMN-Grand Palais / Angele Dequier / Art Resource, NY. Photo: Angele Dequier.)"
 
   - id: "fig-045"
     src: "figures/045.jpg"
     # zoom: true
     label: "Fig. 45"
     caption: "Jean-Antoine Watteau (French, 1684–1721), *Les charmes de la vie*, ca. 1718–19. Oil on canvas, 67.3 × 92.5 cm."
-    credit: "London, Wallace Collection. (By kind permission of the Trustees of the Wallace Collection, London / Art Resource, NY.)
-"
+    credit: "London, Wallace Collection. (By kind permission of the Trustees of the Wallace Collection, London / Art Resource, NY.)"
 
   - id: "fig-046"
     src: "figures/046.jpg"
     # zoom: true
     label: "Fig. 46"
     caption: "Jean Restout (French, 1692–1768), *Dedication of the Temple of Solomon*, 1743. Black and white chalk on paper, 35.8 × 67.5 cm."
-    credit: "Rouen, Musée des Beaux-Arts, inv. AG 1909.34.63. (© Agence Albatros /Réunion des Musées Métropolitains Rouen Normandie, Rouen, Musée des Beaux-Arts.)."
+    credit: "Rouen, Musée des Beaux-Arts, inv. AG 1909.34.63. (© Agence Albatros /Réunion des Musées Métropolitains Rouen Normandie, Rouen, Musée des Beaux-Arts.)"
 
   - id: "fig-047"
     src: "figures/047.jpg"
@@ -374,14 +368,14 @@ figure_list:
     # zoom: true
     label: "Fig. 53"
     caption: "After Edme Bouchardon (French, 1698–1762), Écorché, nineteenth-century cast of 1741 original. Plaster and metal, 208 × 70 × 60 cm."
-    credit: "Paris, École Nationale Supérieure des Beaux-Arts, MU12201. (Art Resource, NY.)."
+    credit: "Paris, École Nationale Supérieure des Beaux-Arts, MU12201. (Art Resource, NY.)"
 
   - id: "fig-054"
     src: "figures/054.jpg"
     # zoom: true
     label: "Fig. 54"
     caption: "Jean-Antoine Houdon (French, 1741–1828), Écorché, 1790. Bronze, 194 × 70 cm."
-    credit: "Paris, École Nationale Supérieure des Beaux-Arts, MU11974. (© Beaux-Arts de Paris, Dist. RMN-Grand Palais / Art Resource, NY.)."
+    credit: "Paris, École Nationale Supérieure des Beaux-Arts, MU11974. (© Beaux-Arts de Paris, Dist. RMN-Grand Palais / Art Resource, NY.)"
 
   - id: "fig-055"
     src: "figures/055-FPO.jpg"
@@ -395,7 +389,7 @@ figure_list:
     # zoom: true
     label: "Fig. 56"
     caption: "Page from “Billets d'Enterrement & de Service de Messrs d l’Académie Royale de Peinture et de Sculpture,” ca. 1703–13. Woodcut decorated letter and marbled paper."
-    credit: "Paris, École Nationale Supérieure des Beaux-Arts (© Beaux-Arts de Paris, Dist. RMN-Grand Palais / Art Resource, NY.) "
+    credit: "Paris, École Nationale Supérieure des Beaux-Arts. (© Beaux-Arts de Paris, Dist. RMN-Grand Palais / Art Resource, NY.)"
 
   - id: "fig-057"
     src: "figures/057.jpg"
@@ -528,7 +522,7 @@ figure_list:
     # zoom: true
     label: "Fig. 75"
     caption: "Nicolas Dumont, modified by Pascal-Joseph Taskin in 1789, Two-manual harpsichord, 1697. Length 226 cm."
-    credit: "Paris, Philharmonie de Paris, Cité de la Musique, Collections Musée de la musique. (Photo : Jean-Marc Anglès.)"
+    credit: "Paris, Philharmonie de Paris, Cité de la Musique, Collections Musée de la musique. (Photo: Jean-Marc Anglès.)"
 
   - id: "fig-076"
     src: "figures/076.jpg"
@@ -604,21 +598,21 @@ figure_list:
     src: "figures/086-FPO.jpg"
     # zoom: true
     label: "Fig. 86"
-    caption: "Covers of the five surviving volumes of Johann-Georg Wille’s journal. Top row, left to right: BnF vol. 1 (1759–68), BnF vol. 2 (1768–76), Frits Lugt volume (1777–83); bottom row, left to right: BnF vol. 3 (1783–89); BnF vol. 4 (1789–93). Paris, Bibliothèque Nationale de France, images courtesy of Gallica; and Paris, Frits Lugt Collection, Fondation Custodia."
+    caption: "Covers of the five surviving volumes of Johann Georg Wille’s journal. Top row, left to right: BnF vol. 1 (1759–68), BnF vol. 2 (1768–76), Frits Lugt volume (1777–83); bottom row, left to right: BnF vol. 3 (1783–89); BnF vol. 4 (1789–93). Paris, Bibliothèque Nationale de France, images courtesy of Gallica; and Paris, Frits Lugt Collection, Fondation Custodia."
     credit: ""
   
   - id: "fig-087"
     src: "figures/087.jpg"
     # zoom: true
     label: "Fig. 87"
-    caption: "Loose papers tucked inside the front cover of the Frits Lugt volume of Johann-Georg Wille’s journal (1777–83)."
+    caption: "Loose papers tucked inside the front cover of the Frits Lugt volume of Johann Georg Wille’s journal (1777–83)."
     credit: "Paris, Frits Lugt Collection, Fondation Custodia. (Photo: Hannah Williams.)"
   
   - id: "fig-088"
     src: "figures/088.jpg"
     # zoom: true
     label: "Fig. 88"
-    caption: "Sellers’ labels inside the covers of Johann-Georg Wille’s journal notebooks. Top: BnF vol. 1 (1759–68); middle: BnF vol. 3 (1783–89); bottom: BnF vol. 4 (1789–93). Paris, Bibliothèque Nationale de France."
+    caption: "Sellers’ labels inside the covers of Johann Georg Wille’s journal notebooks. Top: BnF vol. 1 (1759–68); middle: BnF vol. 3 (1783–89); bottom: BnF vol. 4 (1789–93). Paris, Bibliothèque Nationale de France."
     credit: ""
 
   - id: "fig-089"
@@ -668,7 +662,7 @@ figure_list:
     # zoom: true
     label: "Fig. 95"
     caption: "Front page of the copy of Hyacinthe Rigaud’s *lettres de réception* (1700), transcribed by Henri van Hulst (1685–1754)."
-    credit: "Paris, École Nationale Supérieure des Beaux-Arts, Ms 117. (Courtesy of École Nationale Supérieure des Beaux-Arts, Paris. Photo: Hannah Williams.)."
+    credit: "Paris, École Nationale Supérieure des Beaux-Arts, Ms 117. (Courtesy of École Nationale Supérieure des Beaux-Arts, Paris. Photo: Hannah Williams.)"
 
   - id: "fig-096"
     src: "figures/096.jpg"
@@ -786,7 +780,7 @@ figure_list:
     src: "figures/112.jpg"
     # zoom: true
     label: "Fig. 112"
-    caption: "Sculpture, in clay and plaster, from *Recueil de planches sur les sciences, les arts libéraux et les arts mécaniques* (1765), plate I."
+    caption: "Sculpture in clay and plaster, from *Recueil de planches sur les sciences, les arts libéraux et les arts mécaniques* (1765), plate I."
     credit: "Paris, Bibliothèque Nationale de France. (HIP / Art Resource, NY.)"
 
   - id: "fig-113"
@@ -808,7 +802,7 @@ figure_list:
     # zoom: true
     label: "Fig. 115"
     caption: "Michel-Guillaume Aubert (French, ca. 1704–57), *Nightingale*, from Arnoult de Nobleville, *Aëdologie, ou Traité du rossignol franc ou chanteur* (Paris: Debure, 1751). Etching."
-    credit: "Bibliothèque Nationale de France. (Image courtesy of Librairie Jean-Baptiste de Proyart.)"
+    credit: "Paris, Bibliothèque Nationale de France. (Image courtesy of Librairie Jean-Baptiste de Proyart.)"
 
   - id: "fig-116"
     src: "figures/116.jpg"
@@ -947,7 +941,7 @@ figure_list:
     src: "figures/135.jpg"
     # zoom: true
     label: "Fig. 135"
-    caption: "Jean-Baptiste Perronneau (French, ca. 1715–83), *Olivier Journu*, 1756. Pastel on blue-gray laid paper laid on canvas, 58.1 × 47 cm."
+    caption: "Jean-Baptiste Perronneau (French, ca. 1715–83), *Olivier Journu*, 1756. Pastel on blue-gray laid paper, laid down on canvas, 58.1 × 47 cm."
     credit: "New York, Metropolitan Museum of Art, Wrightsman Fund, 2003 (2003.26). (Image copyright © The Metropolitan Museum of Art. Image source: Art Resource, NY.)"
 
   - id: "fig-136"
@@ -1094,7 +1088,7 @@ figure_list:
     src: "figures/156.jpg"
     # zoom: true
     label: "Fig. 156"
-    caption: "Sébastien Leclerc (French, 1637–1714), *Sucrerie* (Stages of sugar production), from Jean-Baptiste du Tertre, *Histoire générale des Antilles habitées par les François* (Paris: Thomas Jolly, 1667), ED=59(A)=FOL Folio 28. Vol. 2, plate 9."
+    caption: "Sébastien Leclerc (French, 1637–1714), *Sucrerie* (Stages of sugar production), from Jean-Baptiste du Tertre, *Histoire générale des Antilles habitées par les François* (Paris: Thomas Jolly, 1667), ED-59(A)-FOL Folio 28. Vol. 2, plate 9."
     credit: "(© RMN-Grand Palais / Art Resource, NY. Photo: BnF, Dist. RMN-Grand Palais / image BnF.)"
 
   - id: "fig-157"
@@ -1253,7 +1247,7 @@ figure_list:
     src: "figures/179.jpg"
     # zoom: true
     label: "Fig. 179"
-    caption: "“Chaudronnier” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécaniques* (1765), plate II."
+    caption: "“Chaudronnier” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécaniques* (1763), plate II."
     credit: "(Image courtesy of the Smithsonian Libraries and Archives.)"
 
   - id: "fig-180"
@@ -1282,7 +1276,7 @@ figure_list:
     # zoom: true
     label: "Fig. 183"
     caption: "Elisabeth Vigée-Lebrun, *Claude-Joseph Vernet*, 1778. Oil on canvas, 90 × 70 cm."
-    credit: "Paris, Musée du Louvre, 3054. (© RMN-Grand Palais / photo: Jean-Gilles Berizzi // Art Resource, NY.)"
+    credit: "Paris, Musée du Louvre, 3054. (© RMN-Grand Palais / photo: Jean-Gilles Berizzi / Art Resource, NY.)"
 
   - id: "fig-184"
     src: "figures/184.jpg"

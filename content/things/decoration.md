@@ -70,7 +70,7 @@ Vien’s was undoubtedly a superlative career, but timing could have been his do
 
 [^10]: Fauconpret, *Les chevaliers*, 97–100.
 
-[^11]: D’Angiviller to Vergennes, 18 September 1775. {% abbr '*CDR*' %}, 13:131.
+[^11]: D’Angiviller to Charles de Vergennes, 18 September 1775. {% abbr '*CDR*' %}, 13:131.
 
 [^12]: Beginning with his letter to Vergennes, 18 September 1775. {% abbr '*CDR*' %}, 13:131.
 

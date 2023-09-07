@@ -50,7 +50,7 @@ Why did it not work? Reynès was not considered when a new secretary and histori
 
 [^2]: “Billets d’enterrement & de service de Messrs de l’Académie Royale de Peinture & Sculpture qui sont morts, depuis l’etablissement d’icelle en 1648 jusqu’à l’année courante,” {% abbr 'ENSBA' %}.
 
-[^3]: See Octave Fidière, *État civil des peintres et sculpteurs de l’Académie royale: Billets d’enterrement de 1648 à 1713 publiés d’après le registré conservé à l’École des Beaux-Arts* (Paris: Charavay, 1883); and Lucien Raulet, “Billets d’enterrement et pièces funéraires,” *Le vieux papier* 40 (1907): 19–35.
+[^3]: See Octave Fidière, *État civil des peintres et sculpteurs de l’Académie royale: Billets d’enterrement de 1648 à 1713 publiés d’après le registre conservé à l’École des Beaux-Arts* (Paris: Charavay, 1883); and Lucien Raulet, “Billets d’enterrement et pièces funéraires,” *Le vieux papier* 40 (1907): 19–35.
 
 [^4]: Notable exceptions are Maxime Préaud, “On ne meurt qu’une fois: Note sur l’initiale V des billets d’enterrement aux XVII<sup>e</sup> et XVIII<sup>e</sup> siècles,” *Revue de la Bibliothèque nationale de France* 10 (2002): 73–76; and Christian Michel, *The Académie Royale de Peinture et de Sculpture: The Birth of the French School 1648–1793*, trans. Chris Miller (Los Angeles: Getty Research Institute, 2018), 2–3.
 

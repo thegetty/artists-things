@@ -63,4 +63,4 @@ Whatever the relationship between the box and its eighteenth-century keepers—G
 
 [^12]: On lock types, see plate XXVII, “Serrurier” in *Encyclopédie*, [http://encyclopedie.uchicago.edu/](https://encyclopedie.uchicago.edu/), 26:4:1.
 
-[^13]: In 1781 the portrait was described as hanging “above the door to the Gallery of Apollo,” in Antoine-Joseph Dézallier d’Argenville, *Description sommaire des ouvrages de peinture, sculpture et gravure exposé dans les salles de l’Académie royale* (Paris: De Bure, 1781), 46. On the Académie’s Salle des Portraits, see Williams, *Académie Royale*, 144–51.
+[^13]: In 1781 the portrait was described as hanging “above the door to the Gallery of Apollo,” in Antoine-Nicolas Dézallier d’Argenville, *Description sommaire des ouvrages de peinture, sculpture et gravure exposé dans les salles de l’Académie royale* (Paris: De Bure, 1781), 46. On the Académie’s Salle des Portraits, see Williams, *Académie Royale*, 144–51.

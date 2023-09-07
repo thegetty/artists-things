@@ -52,7 +52,7 @@ In contrast to fiction and satire, which in the eighteenth century often feature
 
 [^4]: “Carrosse,” *Encyclopédie*, <https://encyclopedie.uchicago.edu/>, 2:705.
 
-[^5]: Guy Arbellot, “La grande mutation des routes de France au XVIII<sup>e</sup> siècle,” *Annales Économies, Sociétés, Civilisations* 3 (1973): 765–91.
+[^5]: Guy Arbellot, “La grande mutation des routes de France au XVIII<sup>e</sup> siècle,” *Annales economies, sociétés, civilisations* 3 (1973): 765–91.
 
 [^6]: See “Correspondance de M. de Marigny avec Coypel, Lépicié et Cochin,” ed. Marc Furcy-Raynaud, {% abbr '*NAAF*' %}, 1904, 155–56.
 
@@ -88,7 +88,7 @@ In contrast to fiction and satire, which in the eighteenth century often feature
 
 [^22]: See Dena Goodman, “Pigalle's *Voltaire nu*: The Republic of Letters Represents Itself to the World,” *Representations* 16 (1986): 86–109.
 
-[^23]: See Jules Guiffrey, “Le Tombeau du maréchal de Saxe par Jean-Baptiste Pigalle:. Correspondance relative à ce monument (1752–1783),” *Revue de l’art ancien et moderne* 7 (1891): 161–234. See also Clément, *Sculpter*, 154.
+[^23]: See Jules Guiffrey, “Le Tombeau du maréchal de Saxe par Jean-Baptiste Pigalle: Correspondance relative à ce monument (1752–1783),” *Revue de l’art ancien et moderne* 7 (1891): 161–234. See also Clément, *Sculpter*, 154.
 
 [^24]: Guiffrey, “Le Tombeau,” 204. See also {% abbr 'AN' %}, O<sup>1</sup>/1905/2:125, an invoice for transportation submitted by the hauler Bricard, representing twenty-two days out and eighteen days return with the loss of three horses, total cost 7,200 livres.
 

@@ -37,3 +37,5 @@ To Gail Feigenbaum for being receptive to our project in its final form, to Mich
 Things and people are united in acts of friendship: in the friendship that has been the bedrock of our own collaboration, and in our dedication of this volume to all those scholars, students, and *compagnons de route* interested in the eighteenth century.
 
 Finally, we offer our heartfelt thanks to Mia Ridge and to Stephen Deuchar: the partners who so generously accommodated this book in the material culture of their own lives for far too long.
+
+—Katie Scott & Hannah Williams {.text-align-right}

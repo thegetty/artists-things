@@ -50,7 +50,7 @@ Starting its afterlife in this near-sacred diorama perhaps explains why the tabl
 
 Inside the cupboard, a brass plaque attached toward the end of the nineteenth century records the object’s history: “This table belonged to the painter Louis David. It was left to Madame Bianchi, great-granddaughter of David, by Monsieur Jules David-Chassagnol, grandson of David.”[^23] In this account of its significance, *Brutus* rates no mention. What matters now is that this table once belonged to David, its authenticity as a relic secured in a firm provenance via heirs whose relationships to the great man are clearly marked.[^24] While most of the things in this book that survive in physical form did so in museums or archives as historical artifacts, David’s table survived as a family heirloom. But apart from its journey through hands, it is difficult to know the life the table had with David’s descendants. Was it a cherished souvenir of a beloved forebear; a prized possession that showed off distinguished bloodlines? Or was it an annoying thing looming awkwardly around their homes; too “special” to be used as a piece of furniture, but with too much sentimental value to be given away?
 
-Whatever its subsequent owners’ attachment (or lack thereof), David’s table survived because it was never just a table but, rather a material object with layers of significance from the outset. Its performances, exchanges, and interactions passed from a fictional Roman palace and an eighteenth-century Paris studio, to nineteenth-century domestic interiors and, more recently, the back room of a London auction house. Through its experiences, we witness the political drama of the Brutus clan, the family dynamics of the David line, and the working practices of an artist who designed the decorative look of two successive French regimes. Throughout its lives and afterlives, its gestural force continued to determine the dynamics of the play, whether as aesthetic object, theatrical prop, symbolic relic, sewing table, memorabilia, antique, heirloom, commodity (lot 28 in a Sotheby’s sale), or even here in this book as “research object.” One thing, one life, but countless roles. {% contributors context=pageContributors format='symbol' %}
+Whatever its subsequent owners’ attachment (or lack thereof), David’s table survived because it was never just a table but rather a material object with layers of significance from the outset. Its performances, exchanges, and interactions passed from a fictional Roman palace and an eighteenth-century Paris studio, to nineteenth-century domestic interiors and, more recently, the back room of a London auction house. Through its experiences, we witness the political drama of the Brutus clan, the family dynamics of the David line, and the working practices of an artist who designed the decorative look of two successive French regimes. Throughout its lives and afterlives, its gestural force continued to determine the dynamics of the play, whether as aesthetic object, theatrical prop, symbolic relic, sewing table, memorabilia, antique, heirloom, commodity (lot 28 in a Sotheby’s sale), or even here in this book as “research object.” One thing, one life, but countless roles. {% contributors context=pageContributors format='symbol' %}
 
 [^1]: Thomas Crow, *Painters and Public Life in Eighteenth-Century Paris* (New Haven: Yale University Press, 1985), 247–54; and Antoine Schnapper, *David, témoin de son temps* (Paris: Bibliothèque des Arts, 1980), 89–93.
 
@@ -64,7 +64,7 @@ Whatever its subsequent owners’ attachment (or lack thereof), David’s table 
 
 [^6]: On David’s working methods, see Perrin Stein, “Crafting the Neoclassical: Two New Drawings for Jacques-Louis David’s *The Lictors Bringing Brutus the Bodies of His Sons*,” *Master Drawings* 47, no. 2 (2009): 221–36; and Thomas Crow, *Emulation: David, Drouais, and Girodet in the Art of Revolutionary France*, rev. ed. (New Haven: Yale University Press, 2006), 102–11.
 
-[^7]: Most of the drawings related to *Brutus* are cataloged in Pierre Rosenberg and Louis-Antoine Prat, *Jacques-Louis David (1748–1825): Catalogue raisonné des dessins*, 2 vols. (Milan: 2002). Two works discovered later are discussed in Stein, “Crafting the Neoclassical,”221–36.
+[^7]: Most of the drawings related to *Brutus* are cataloged in Pierre Rosenberg and Louis-Antoine Prat, *Jacques-Louis David (1748–1825): Catalogue raisonné des dessins*, 2 vols. (Milan: 2002). Two works discovered later are discussed in Stein, “Crafting the Neoclassical,” 221–36.
 
 [^8]: Abbé de Saint-Non, *Voyage pittoresque de Naples et de Sicile* (Paris: 1781–86), 2:225.
 
@@ -72,9 +72,9 @@ Whatever its subsequent owners’ attachment (or lack thereof), David’s table 
 
 [^10]: Andrew Sojer, *The Stage Life of Props* (Ann Arbor: University of Michigan Press, 2003), 2.
 
-[^11]: McAuley, *Space in Performance* (Ann Arbor: University of Michigan Press, 1999), 175.
+[^11]: Gay McAuley, *Space in Performance* (Ann Arbor: University of Michigan Press, 1999), 175.
 
-[^12]: Gay McAuley, *Space in Performance*, 171.
+[^12]: McAuley, *Space in Performance*, 171.
 
 [^13]: For an alternative interpretation of the sewing basket as a historicized element of the scene, see Yvonne Korshak, “*Paris and Helen* by Jacques-Louis David: Choice and Judgment on the Eve of the French Revolution,” *Art Bulletin* 69, no. 1 (1987): 106.
 
