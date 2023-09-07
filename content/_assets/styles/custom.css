@@ -1709,7 +1709,7 @@ a:hover .quire-thing__main__icon svg {
   }
   @page:left:first {
     @bottom-right {
-      content: 'Artists’ Things';
+      content: '';
     }
   }
 
