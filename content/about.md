@@ -2,13 +2,21 @@
 title: About
 layout: page
 class: backmatter about-copyright-page
-order: 303
+order: 304
 outputs: [html]
 ---
 
 {{ publication.description.full }}
 
+
+
 {% backmatter %}
+
+## About the Authors
+
+{% for author in publication.contributor  %}
+  {{ author.bio | markdownify }}
+{% endfor %}
 
 <div class="citation-info">
 

@@ -70,12 +70,13 @@ contributor:
     first_name: Katie
     last_name: Scott
     symbol: §
+    bio: "**Katie Scott** is professor at the Courtauld Institute of Art, London. She is a specialist in French art, architecture, and art theory of the early modern period and is the author of *The Rococo Interior: Decoration and Social Spaces in Early Eighteenth-Century Paris* (Yale University Press, 1996) and *Becoming Property: Art, Theory, and Law in Early Modern France* (Yale University Press, 2019). She is currently working on a cultural and material history of eighteenth-century Paris."
   - id: hwilliams
     type: primary
     first_name: Hannah
     last_name: Williams
     symbol: ‡
-
+    bio: "**Hannah Williams** is senior lecturer in the History of Art in the School of History, Queen Mary University of London. She is a specialist in French visual and material culture from the seventeenth to the nineteenth century. Her research focuses on artistic communities, local and global histories of the Paris art world, and the social lives of objects. She is the author of *Académie Royale: A History in Portraits* (Routledge, 2015), awarded the Prix Marianne Roland Michel. She led the creation of the digital mapping project *Artists in Paris: Mapping the Eighteenth-Century Art World* (www.artistsinparis.org) and is a founding editor of *Journal18*. She is currently writing a book on art and religion in eighteenth-century Paris and researching a project on art-world ties to French colonies in the Caribbean."
 
 # ------------------------------------------------------------------------------
 # Copright & License
