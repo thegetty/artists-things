@@ -43,7 +43,7 @@ figure_list:
     credit: "Paris, Bibiliothèque Nationale de France. (Image source: Gallica.)"
 
   - id: "fig-007"
-    src: "figures/007-FPO.jpg"
+    src: "figures/007.jpg"
     # zoom: true
     label: "Fig. 7"
     caption: "Baptism certificate of Hubert Robert (baptism 1733, certificate issued 1760)."
@@ -57,7 +57,7 @@ figure_list:
     credit: "Archives de Paris, V.6E 1."
 
   - id: "fig-009"
-    src: "figures/009-FPO.jpg"
+    src: "figures/009.jpg"
     # zoom: true
     label: "Fig. 9"
     caption: "Nicolas Robert’s contract for a “Tontine créée par Édit du mois de Décembre 1759,” signed 10 March 1761."
@@ -169,7 +169,7 @@ figure_list:
     credit: "Paris, Bibliothèque Nationale de France."
 
   - id: "fig-025"
-    src: "figures/025-FPO.jpg"
+    src: "figures/025.jpg"
     # zoom: true
     label: "Fig. 25"
     caption: "Claude Sidone Michel and Louis-Charles Denos, “Route from Paris to Lyon,” from *L’indicateur fidèle, ou guide des voyageurs* (Paris, 1767)."
@@ -184,7 +184,7 @@ figure_list:
 
 
   - id: "fig-027"
-    src: "figures/027-FPO.jpg"
+    src: "figures/027.jpg"
     # zoom: true
     label: "Fig. 27"
     caption: "Cabriolet fan, ca. 1755. Paper leaves, carved ivory guards, backed with mother-of-pearl, 28.5 cm (guardstick)."
@@ -378,7 +378,7 @@ figure_list:
     credit: "Paris, École Nationale Supérieure des Beaux-Arts, MU11974. (© Beaux-Arts de Paris, Dist. RMN-Grand Palais / Art Resource, NY.)"
 
   - id: "fig-055"
-    src: "figures/055-FPO.jpg"
+    src: "figures/055.jpg"
     # zoom: true
     label: "Fig. 55"
     caption: "Title page, “Billets d'Enterrement & de Service de Messrs d l’Académie Royale de Peinture et de Sculpture,” ca. 1703–13. Ink on parchment, 50 × 36 × 9 cm."
@@ -399,7 +399,7 @@ figure_list:
     credit: "Paris, Church of Saint-Nicolas-du-Chardonnet. (SiefkinDR / Wikipedia.)"
 
   - id: "fig-058"
-    src: "figures/058-FPO.jpg"
+    src: "figures/058.jpg"
     # zoom: true
     label: "Fig. 58"
     caption: "Page from the register of lists of members of the Académie royale, 1675–1735. Letterpress annotated in pen and ink, 45 × 30 cm."
@@ -539,7 +539,7 @@ figure_list:
     credit: "Paris, Bibliothèque Nationale de France."
 
   - id: "fig-078"
-    src: "figures/078-FPO.jpg"
+    src: "figures/078.jpg"
     # zoom: true
     label: "Fig. 78"
     caption: "Nicolas-Marie Gatteaux (French, 1751–1832), Medal commemorating the ascent of Joseph and Etienne Montgolfier, balloonists at the Champ de Mars, 1784. Silver, diam. 4.1 cm."
@@ -553,7 +553,7 @@ figure_list:
     credit: "Paris, Bibliothèque Nationale de France."
 
   - id: "fig-080"
-    src: "figures/080-FPO.jpg"
+    src: "figures/080.jpg"
     # zoom: true
     label: "Fig. 80"
     caption: "Jean-François Janinet (French, 1752–1814), after François Boucher (French, 1703–70), *Toilette of Venus*, 1784. Color aquatint and crayon-manner etching, 37.5 × 29.5 cm."
@@ -595,7 +595,7 @@ figure_list:
     credit: "Frankfurt am Main, Städel Museum, 16733. (bpk Bildagentur / Städel Museum/ Ursula Edelmann / Art Resource, NY.)"
 
   - id: "fig-086"
-    src: "figures/086-FPO.jpg"
+    src: "figures/086.jpg"
     # zoom: true
     label: "Fig. 86"
     caption: "Covers of the five surviving volumes of Johann Georg Wille’s journal. Top row, left to right: BnF vol. 1 (1759–68), BnF vol. 2 (1768–76), Frits Lugt volume (1777–83); bottom row, left to right: BnF vol. 3 (1783–89); BnF vol. 4 (1789–93). Paris, Bibliothèque Nationale de France, images courtesy of Gallica; and Paris, Frits Lugt Collection, Fondation Custodia."
@@ -1015,7 +1015,7 @@ figure_list:
     credit: "Paris, Bibliothèque Nationale de France."
 
   - id: "fig-146"
-    src: "figures/146-FPO.jpg"
+    src: "figures/146.jpg"
     # zoom: true
     label: "Fig. 146"
     caption: "Marie-Thérèse Reboul-Vien (French, 1738–1805), Illustrations of shells from Michel Adanson, *Histoire naturelle du Sénégal: Coquillage* (1757), plate 1."
@@ -1078,7 +1078,7 @@ figure_list:
     credit: "Private collection."
 
   - id: "fig-155"
-    src: "figures/155-FPO.jpg"
+    src: "figures/155.jpg"
     # zoom: true
     label: "Fig. 155"
     caption: "Éloi Guérin (French, ca. 1714–65), Sugar spoon, 1757–58. Silver, Length 21.6 cm."
@@ -1140,7 +1140,7 @@ figure_list:
     credit: "Paris, Musée du Louvre, INV3693. (© RMN-Grand Palais / photo: Thierry Ollivier / Art Resource, NY.)"
 
   - id: "fig-164"
-    src: "figures/164-FPO.jpg"
+    src: "figures/164.jpg"
     # zoom: true
     label: "Fig. 164"
     caption: "Georges Jacob (French, 1739–1814) and Jacques-Louis David (French, 1748–1825), Table, ca. 1787–89. Gilt-bronze mounted mahogany."
@@ -1189,7 +1189,7 @@ figure_list:
     credit: "Paris, Palais Galliera, Musée de la Mode de la Ville de Paris."
 
   - id: "fig-171"
-    src: "figures/171-FPO.jpg"
+    src: "figures/171.jpg"
     # zoom: true
     label: "Fig. 171"
     caption: "“Boursier” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécaniques* (1765), plate I."
