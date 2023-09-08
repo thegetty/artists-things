@@ -24,6 +24,10 @@ Note: We were originally planning on using Paged.js to output this project, howe
 
 ## New and Customized Template Files
 
+**_includes/components/analytics.js**
+**_layouts/base.11ty.js**
+Added Google Analytics 4
+
 **_includes/components/copyright/licensing.js**
 Updated licensing language
 
