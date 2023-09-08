@@ -310,7 +310,8 @@ q-modal {
   margin-left: auto;
   margin-right: auto;
 }
-.content .q-figure.is-offset {
+.content .q-figure.is-offset,
+.content .q-figure.is-pdf-offset {
   float: left;
   margin-right: var(--gap);
   margin-top: .75rem;
