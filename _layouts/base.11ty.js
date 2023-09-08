@@ -12,7 +12,7 @@ const { html } = require('~lib/common-tags')
  * @return     {Function}  Template render function
  */
 module.exports = async function(data) {
-  const { pageClasses, collections, content, pageData, publication } = data
+  const { pageClasses, collections, config, content, pageData, publication } = data
   const { inputPath, outputPath, url } = pageData || {}
   const pageId = this.slugify(url) || path.parse(inputPath).name
   const { googleId } = config.analytics
