@@ -1634,6 +1634,12 @@ a:hover .quire-thing__main__icon svg {
 .copyright-page .quire-page__content .container .content div {
   margin-bottom: 1.625rem;
 }
+@media print {
+  .copyright-page .quire-page__content .container .content div,
+  .copyright-page .content p:not(:last-child) {
+    margin-bottom: 1em;
+  }
+}
 .about-copyright-page .quire-page__content .container .content ul {
   margin-left: 0;
 }
@@ -1653,7 +1659,12 @@ a:hover .quire-thing__main__icon svg {
 .about-copyright-page .quire-copyright a.quire-copyright__icon__link {
   border-bottom-width: 0 !important;
 }
-.about-copyright-page .publisher p {
+.about-copyright-page .publisher p,
+.about-copyright-page .cover-image-credits p {
+  margin-bottom: 1em;
+}
+.about-copyright-page .publisher p:last-child,
+.about-copyright-page .cover-image-credits p:last-child {
   margin-bottom: 0;
 }
 .about-copyright-page .project-team ul {
