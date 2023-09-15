@@ -92,7 +92,7 @@ By contrast, such was the dirt and chaos of Saint-Aubin’s lodgings, Rue de Bea
 
 [^13]: Pernéty, *Dictionnaire*, see “Bleu de lavis,” 31; “Cendre bleue,” 51; “Noir,” 421; “Orpiment,” 436; “Outremer,” 437; and “Verd,” 547.
 
-[^14]: Pernéty, *Dictionnaire*, see See “Bleu de Prusse,” 31; “Carmin,” 47; “Outremer,” 437; “Stile de grin,” 521; “Terre d’Italie,” 531; “Terre verte,” 532; and “Vert,” 547.
+[^14]: Pernéty, *Dictionnaire*, see “Bleu de Prusse,” 31; “Carmin,” 47; “Outremer,” 437; “Stile de grin,” 521; “Terre d’Italie,” 531; “Terre verte,” 532; and “Vert,” 547.
 
 [^15]: Leonardo as quoted in Roger de Piles, *L’Idée du peintre parfait* (1699), ed. Xavier Carrère (Paris: Gallimard, 1993), 30.
 

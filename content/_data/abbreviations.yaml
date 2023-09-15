@@ -27,20 +27,17 @@ abbreviations_list:
   - id: "*ECS*"
     full: "*Eighteenth-Century Studies*"
 
-  - id: "*GBA*"
-    full: "*Gazette des beaux-arts*"
-
   - id: "*Encyclopédie*"
     full: "*Encyclopédie, ou dictionnaire raisonné des sciences, des arts et des métiers, etc.* (1751–72)*,* ed. Denis Diderot and Jean Le Rond d’Alembert. University of Chicago: ARTFL Encyclopédie Project (Autumn 2017 edition), ed. Robert Morrissey and Glenn Roe, [http://encyclopedie.uchicago.edu/](encyclopedie.uchicago.edu/)"
 
   - id: "ENSBA"
     full: "École Nationale Supérieure des Beaux-Arts, Paris"
 
+  - id: "*GBA*"
+    full: "*Gazette des beaux-arts*"
+
   - id: "INHA"
     full: "Institut National d’Histoire de l’Art, Paris"
-
-  - id: "*PV*"
-    full: "*Procès-verbaux de l’Académie royale de peinture et de sculpture, 1648–1793*, ed. Anatole de Montaiglon, 10 vols. Paris: Charavay Frères, 1875–92"
 
   - id: "MC"
     full: "Minutier Central, Paris"
@@ -50,6 +47,9 @@ abbreviations_list:
 
   - id: "*NAAF*"
     full: "*Nouvelles archives de l’art français*. Paris: J. Baur, 1873"
+
+  - id: "*PV*"
+    full: "*Procès-verbaux de l’Académie royale de peinture et de sculpture, 1648–1793*, ed. Anatole de Montaiglon, 10 vols. Paris: Charavay Frères, 1875–92"
 
   - id: "*SVEC*"
     full: "*Studies in Voltaire and the Eighteenth Century* (Oxford University Studies in the Enlightenment)"

@@ -201,7 +201,7 @@ figure_list:
     src: "figures/029.jpg"
     # zoom: true
     label: "Fig. 29"
-    caption: "Painting from *Recueil de planches sur les sciences, les arts libéraux et les arts mécaniques* (1765), plate I."
+    caption: "“Painting” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécaniques* (1765), plate I."
     credit: "(Image courtesy of the ARTFL Encyclopédie Project, University of Chicago.)"
 
   - id: "fig-030"
@@ -850,7 +850,7 @@ figure_list:
     src: "figures/122.jpg"
     # zoom: true
     label: "Fig. 122"
-    caption: "“Peinture” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécanique* (1765), plate I, detail."
+    caption: "“Painting” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécanique* (1765), plate I, detail."
     credit: "(Image courtesy of the ARTFL Encyclopédie Project, University of Chicago.)"
 
   - id: "fig-123"
@@ -1247,7 +1247,7 @@ figure_list:
     src: "figures/179.jpg"
     # zoom: true
     label: "Fig. 179"
-    caption: "“Chaudronnier” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécaniques* (1763), plate II."
+    caption: "“Chaudronnier” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécaniques* (1763), vol. 3, plate II."
     credit: "(Image courtesy of the Smithsonian Libraries and Archives.)"
 
   - id: "fig-180"
