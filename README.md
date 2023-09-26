@@ -82,3 +82,6 @@ Refactored logic to handle oxford commas correctly; and added handling to displa
 
 **_plugins/shortcodes/figureRef.js**
 Refactored to accept comma-separated array, and to output with .q-figure__modal-link class
+
+**content/_assets/javascript/application/index.js**
+Allow only one pop-up to be open at a time

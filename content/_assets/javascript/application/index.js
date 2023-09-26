@@ -1,5 +1,7 @@
-//@ts-check
-
+// @ts-check
+// CUSTOMIZED FILE
+// Allow only one pop-up to be open at a time, lines 277–83
+//
 /**
  * @fileOverview
  * @name application.js
@@ -270,6 +272,13 @@ function toggleCite() {
     expandables[i].addEventListener('click', event => {
       // Allow these links to bubble up
       event.stopPropagation()
+      // Close any open pop-ups
+      for (let i = 0; i < expandables.length; i++) {
+        expandables[i].setAttribute('aria-expanded', 'false')
+        expandables[i].parentNode
+            .querySelector('.quire-citation__content')
+            .setAttribute('hidden', 'hidden')
+      }
       let expanded = event.target.getAttribute('aria-expanded')
       if (expanded === 'false') {
         event.target.setAttribute('aria-expanded', 'true')
