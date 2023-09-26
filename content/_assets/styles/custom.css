@@ -305,6 +305,9 @@ q-modal {
 .content .q-figure.is-paired + .q-figure.is-paired {
   margin-left: var(--gap);
 }
+.content .q-figure.has-no-top-margin {
+  margin-top: 0 !important;
+}
 .content .q-figure.is-centered {
   display: block;
   margin-left: auto;

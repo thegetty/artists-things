@@ -18,11 +18,11 @@ contributor:
 
 **It is not often that we know the exact moment an artist acquired a possession.** At the end of January 1776, three months after Joseph-Marie Vien moved to Rome to become director of the Académie de France, a courier arrived from Paris bearing a package.[^1] Inside was an item that Vien had been anticipating for months—his official regalia as a *chevalier* in the Order of Saint Michel—an honor he had been granted before he left for Italy. Proudly displayed in his portrait by Duplessis painted a decade later ({% ref 'fig-036' %}), the decoration that Vien received in that package consisted of the usual two parts: a black riband to be worn as a sash across the body and, hanging from it, a gold badge with the insignia of the order. The insignia’s design dated from the 1660s, when this late medieval chivalric order had been revived by Louis XIV, and consisted of a Maltese cross outlined in white enamel, with four gold fleurs-de-lis at the angles, and a central gold oval with a partially enameled relief of Saint Michel, or the Archangel Michael ({% ref 'fig-037' %}).[^2]
 
-<div class="is-pdf-float-bottom">
+<div class="is-wrapped-pair">
 
 {% figure 'fig-036' 'is-paired' %}
 
-{% figure 'fig-037' 'is-paired' %}
+{% figure 'fig-037' 'is-paired has-no-top-margin' %}
 
 </div>
 
