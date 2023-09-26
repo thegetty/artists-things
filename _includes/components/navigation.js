@@ -68,7 +68,7 @@ module.exports = function(eleventyConfig) {
           <a href="${url}" rel="previous">
             <span class="visually-hidden">Previous Page: </span>
             ${icon({ type: 'left-arrow', description: 'Previous page'})}
-            ${navBarLabel({ label, short_title, title })}
+            <span class="nav-label">${navBarLabel({ label, short_title, title })}</span>
           </a>
         </li>
       `
@@ -96,7 +96,7 @@ module.exports = function(eleventyConfig) {
         <li class="quire-navbar-page-controls__item quire-next-page">
           <a href="${url}" rel='next'>
             <span class="visually-hidden">Next Page: </span>
-            ${navBarLabel({ label, short_title, title })}
+            <span class="nav-label">${navBarLabel({ label, short_title, title })}</span>
             ${icon({ type: 'right-arrow', description: 'Next page'})}
           </a>
         </li>
