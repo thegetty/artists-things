@@ -72,7 +72,6 @@ figure_list:
 
   - id: "fig-011"
     src: "figures/011.jpg"
-    # zoom: true
     label: "Fig. 11"
     caption: "Charles-Antoine Coypel (French, 1694–1752), Preparatory drawing for *Painting Awakening Genius*, ca. 1723. Black chalk."
     credit: "Location unknown. (Image source: Christie’s catalogue.)"
@@ -156,14 +155,12 @@ figure_list:
 
   - id: "fig-023"
     src: "figures/023.jpg"
-    # zoom: true
     label: "Fig. 23"
     caption: "Charles Parrocel (French, 1688–1752), *Cavalry Engagement*, ca. 1745. Pen and brown ink with brown and gray wash, 35.7 × 18.2 cm."
     credit: "Stockholm, Nationalmuseum, NMH 2892/1863. (Photo: Nationalmuseum.)"
 
   - id: "fig-024"
     src: "figures/024.jpg"
-    # zoom: true
     label: "Fig. 24"
     caption: "Louis Joblot (French, 1645–1723), *Dessin d’une porte loupe*, 1718."
     credit: "Paris, Bibliothèque Nationale de France."
@@ -254,7 +251,6 @@ figure_list:
 
   - id: "fig-037"
     src: "figures/037.jpg"
-    # zoom: true
     label: "Fig. 37"
     caption: "Decoration of the Order of Saint Michel, eighteenth century. Gold and enamel."
     credit: "Paris, Musée de la Légion d’Honneur et des Ordres de Chevalerie, Gift of the marquis de Champreux, 1912, inv. 0160."
@@ -547,7 +543,6 @@ figure_list:
 
   - id: "fig-079"
     src: "figures/079.jpg"
-    # zoom: true
     label: "Fig. 79"
     caption: "Jean-François Janinet (French, 1752–1814), Entry ticket to Janinet and Miollan’s balloon flight, 1784. Etching."
     credit: "Paris, Bibliothèque Nationale de France."
@@ -575,7 +570,6 @@ figure_list:
 
   - id: "fig-083"
     src: "figures/083.jpg"
-    # zoom: true
     label: "Fig. 83"
     caption: "Roman engraved gem with a group of soldiers, late second–early third century CE. Gold ring and onyx intaglio, 1.6 cm."
     credit: "New York, Metropolitan Museum of Art, Bequest of Rupert L. Joseph, 1959, 60.55.80."
@@ -890,7 +884,6 @@ figure_list:
 
   - id: "fig-128"
     src: "figures/128.jpg"
-    # zoom: true
     label: "Fig. 128"
     caption: "Alexander Roslin (Swedish, 1718–93), *Self-Portrait with the Artist’s Wife, Suzanne Giroust, Painting a Portrait of Henrik Wilhelm Peill*, 1767. Oil on canvas, 131 × 98.5 cm."
     credit: "Stockholm, Nationalmuseum, NM 7141. (incamerastock / Alamy Stock Photo.)"
@@ -1225,7 +1218,6 @@ figure_list:
 
   - id: "fig-176"
     src: "figures/176.jpg"
-    # zoom: true
     label: "Fig. 176"
     caption: "Adolf-Ulric Wertmülller (Swedish, 1751–1811), *Jean-Jacques Caffieri,* detail of watch, 1784. Oil on canvas, 129 × 96 cm."
     credit: "Museum of Fine Arts, Boston, Ernest Wadsworth Longfellow Fund. (Photograph © 2024 Museum of Fine Arts, Boston.)"
