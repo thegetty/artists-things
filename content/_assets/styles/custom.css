@@ -1,7 +1,7 @@
 /* TEMPORARY "Uncorrected Proof" Banner */
 @media screen {
-  .quire-page::before,
-  .quire-page::after {
+  .quire::before,
+  .quire::after {
     color: black;
     font-weight: 700;
     position: fixed;
@@ -12,13 +12,13 @@
     text-align: center;
     padding-top: 1rem;
   }
-  .quire-page::before {
+  .quire::before {
     content: "UNCORRECTED";
     background-color: yellow;
     bottom: -115px;
     right: -115px;
   }
-  .quire-page::after {
+  .quire::after {
     content: "PROOF";
     bottom: -130px;
     right: -130px;
@@ -192,6 +192,13 @@ q-modal {
   span.nav-label {
     display: none !important;
   }
+}
+/* Fix width of menu for mobile, to accommotate new icon placement */
+.quire:not(.no-js) .quire__secondary.is-expanded {
+  width: calc(352px - 3em);
+}
+.quire:not(.no-js) .quire__secondary.is-expanded + .quire__primary {
+  transform: translate3d(calc(-352px + 3em), 0, 0);
 }
 
 /* Next/Prev Buttons */
