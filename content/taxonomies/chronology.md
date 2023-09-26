@@ -20,6 +20,7 @@ class: taxonomy
 
 {% assign tableRowsArray = tableRows | split: "||" | uniq %}
 
+<div class="has-rule-lines">
 <table class="taxonomy-table" id="artists-chronology">
   <thead class="visually-hidden">
     <tr><th>Years</th><th>Artist</th>
@@ -28,3 +29,4 @@ class: taxonomy
     {{ tableRowsArray | sort }}
   </tbody>
 </table>
+</div>

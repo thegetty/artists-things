@@ -1390,11 +1390,13 @@ a:hover .quire-thing__main__icon svg {
   padding-top: 1.5rem;
   width: 100%;
 }
+@media print {
+  .quire-page.taxonomy#taxonomies-material .quire-page__header__title {
+    border-bottom-width: 0;
+  }
+}
 .quire-page.taxonomy .quire-page__content .container .content {
   margin-top: 0;
-}
-.quire-page__content .container .content table.taxonomy-table {
-  border-bottom: 1px solid var(--black);
 }
 .quire-page__content .container .content table.taxonomy-table th, 
 .quire-page__content .container .content table.taxonomy-table td {
@@ -1426,6 +1428,8 @@ a:hover .quire-thing__main__icon svg {
 }
 .taxonomy-table tbody tr {
   display: block;
+  break-inside: avoid;
+  page-break-inside: avoid;
 }
 .taxonomy-table tr td:first-child {
   width: 10.5rem;
@@ -1445,6 +1449,7 @@ a:hover .quire-thing__main__icon svg {
   border-bottom-width: 0px;
 }
 #index-by-material.taxonomy-table {
+  border-bottom: 1px solid var(--black);
   columns: 2;
   column-gap: 0;
   column-rule: 1px solid var(--black);
@@ -1506,10 +1511,35 @@ a:hover .quire-thing__main__icon svg {
 #owners-list li .quire-citation + .quire-citation::before {
   content: ", ";
 }
+/* Add stub rule lines to keep center rule continuous */
+.has-rule-lines {
+  padding: 1.75rem 0;
+  border-bottom: 1px solid var(--black);
+}
+.has-rule-lines table {
+  margin: 0 !important;
+}
+.has-rule-lines::before,
+.has-rule-lines::after {
+  background-color: var(--black);
+  content: " ";
+  width: 1px;
+  height: 1.75rem;
+  position: absolute;
+  left: calc(50% - .5px);
+}
+.has-rule-lines::before {
+  top: 1px;
+}
+.has-rule-lines::after {
+  bottom: 1px;
+}
+#owners-list.has-rule-lines::before,
+#owners-list.has-rule-lines::after {
+  left: calc(50% - .875rem - .5px);
+}
+
 @media screen and (max-width: 45.5rem) {
-  body {
-    background-color: lavender !important;
-  }
   .taxonomy-table tbody,
   #index-by-material.taxonomy-table,
   #owners-list {
@@ -1523,104 +1553,9 @@ a:hover .quire-thing__main__icon svg {
   #index-by-material.taxonomy-table tbody tr:first-child {
     padding-left: 0;
   }
-}
-/* Adds top and bottom spacing to the taxonomies/tables for two-colum and one-column versions,
-   while still keeping the rule lines continuos */
-@media screen {
-  #owners-list li:first-child,
-  #owners-list li:nth-child(27),
-  #artists-chronology tbody tr:first-child,
-  #artists-chronology tbody tr:nth-child(26),
-  #index-by-thing tbody tr:first-child,
-  #index-by-thing tbody tr:nth-child(11),
-  #index-by-theme tbody tr:first-child,
-  #index-by-theme tbody tr:nth-child(15) {
-    margin-top: 1.75rem;
-    display: inline-block;
-  }
-  #owners-list li:nth-child(26),
-  #owners-list li:last-child,
-  #artists-chronology tbody tr:last-child,
-  #artists-chronology tbody tr:nth-child(25),
-  #index-by-thing tbody tr:last-child,
-  #index-by-thing tbody tr:nth-child(10),
-  #index-by-theme tbody tr:last-child,
-  #index-by-theme tbody tr:nth-child(14) {
-    margin-bottom: 1.75rem;
-    display: inline-block;
-  }
-}
-@media screen and (max-width: 45.5rem) {
-  #owners-list li:nth-child(27),
-  #artists-chronology tbody tr:nth-child(26),
-  #index-by-thing tbody tr:nth-child(11),
-  #index-by-theme tbody tr:nth-child(15) {
-    display: block;
-    margin-top: 0;
-  }
-  #owners-list li:nth-child(26) {
-    display: block;
-    margin-bottom: .5rem;
-  }
-  #artists-chronology tbody tr:nth-child(25),
-  #index-by-thing tbody tr:nth-child(10),
-  #index-by-theme tbody tr:nth-child(14) {
-    display: block;
-    margin-bottom: 0;
-  }
-}
-@media print {
-  #owners-list li:first-child,
-  #owners-list li:nth-child(27) { 
-    margin-top: 1.75rem;
-    display: inline-block;
-  }
-  #owners-list li:last-child  {
-    margin-bottom: 1.75rem;
-    display: inline-block;
-  }
-  #owners-list {
-    border-width: .5pt;
-    column-rule-width: .5pt;
-  }
-  .quire-page.taxonomy h1, 
-  .quire-page.taxonomy .quire-page__header__title {
-    border-width: .5pt;
-  }
-  .quire-page.taxonomy #taxonomies-material .quire-page__header__title {
-    border-bottom-width: 0;
-  }
-  .taxonomy-table tbody,
-  #index-by-material.taxonomy-table {
-    column-rule-width: .5pt;
-  }
-  .quire-page__content .container .content table.taxonomy-table {
-    border-bottom-width: .5pt;
-  }
-  #index-by-material.taxonomy-table tbody {
-    border-top-width: .5pt;
-  } 
-  #artists-chronology tbody tr:first-child,
-  #artists-chronology tbody tr:nth-child(26),
-  #index-by-thing tbody tr:first-child,
-  #index-by-thing tbody tr:nth-child(12),
-  #index-by-theme tbody tr:first-child,
-  #index-by-theme tbody tr:nth-child(11) {
-    margin-top: .875rem;
-    display: inline-block;
-  }
-  #artists-chronology tbody tr:last-child {
-    margin-bottom: 1.75rem;
-  }
-  .quire-page__content .container .content table td, 
-  .quire-page__content .container .content table th {
-    border-bottom-width: .5pt;
-  }
-  #taxonomies-chronology .quire-page__header .hero-body,
-  #taxonomies-type .quire-page__header .hero-body,
-  #taxonomies-theme .quire-page__header .hero-body,
-  #taxonomies-material .quire-page__header .hero-body {
-    margin-bottom: 0;
+  .has-rule-lines::before,
+  .has-rule-lines::after {
+    content: none;
   }
 }
 
@@ -1821,6 +1756,9 @@ a:hover .quire-thing__main__icon svg {
   .quire-page__header .hero-body {
     margin-bottom: 1.75rem;
     padding: 0;
+  }
+  .quire-page.taxonomy .quire-page__header .hero-body {
+    margin-bottom: 0;
   }
   .quire-page h1, .quire-page__header__title {
     margin-top: 3.5rem;

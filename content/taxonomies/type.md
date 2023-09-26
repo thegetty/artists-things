@@ -15,6 +15,7 @@ class: taxonomy
 
 {% assign uniqueThingTypes = thingTypes | uniq | sort %}
 
+<div class="has-rule-lines">
 <table class="taxonomy-table" id="index-by-thing">
   <thead class="visually-hidden">
     <tr><th>Type</th><th>Thing</th>
@@ -30,3 +31,4 @@ class: taxonomy
 {% endfor %}
 <tbody>
 </table>
+</div>

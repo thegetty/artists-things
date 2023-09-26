@@ -8,13 +8,15 @@ The [Quire Eleventy package](https://github.com/thegetty/quire/tree/main/package
 
 2. In `_site/pdf.html`, find and replace the ones instance of `<a href="#contents">` with `<a href="#things">` to ensure page numbering for "Thing" section page is correct.
 
-2. If the PDF will be sent to digital printer, run the following command to ensure color profiles are correct:
+3. If the PDF will be sent to digital printer, run the following command to ensure color profiles are correct:
 
     ```
     magick mogrify -profile bin/adobe-rgb-1998.icm _site/iiif/**/print-image.jpg
     ```
 
-3. With PrinceXML 14.2 installed, run `quire pdf --lib prince`
+4. With PrinceXML 14.2 installed, run `quire pdf --lib prince`
+
+5. On page 392 of the resulting PDF (book page 384), delete the horizontal rule line at the bottom of the page.
 
 Note: We were originally planning on using Paged.js to output this project, however, it is outputting rich black text, which increases print cost and lowers print quality. Also, this important bit of CSS, which adds commas to the things in the List of Owners, wasn't working in Paged.js whereas it does in Prince. And Prince offers some other layout benefits we'll be able to take advantage of.
 
