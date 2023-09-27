@@ -60,7 +60,7 @@ Output the list item for 'thing' pages with an image
 Altered getCurrentFigureId() to work with .q-figure__modal-link class anywhere
 
 **_layouts/cover.liquid**
-Accepts an array of images stacked on top of one another, and add adds visually-hidden class to the main title texts
+Hardcodes an array of images to make up various covers, and add adds visually-hidden class to the main title texts
 
 **_layouts/splash.liquid**
 Added an html element for the PDF footers

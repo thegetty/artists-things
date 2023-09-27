@@ -5,9 +5,7 @@ order: 1
 menu: false
 toc: false
 outputs: [html]
-image: 
-  - figures/cover-image.jpg
-  - figures/cover-text.svg
+image: figures/cover-image.jpg
 ---
 
 {{ publication.description.full }}
