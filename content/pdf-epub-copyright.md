@@ -15,7 +15,7 @@ outputs:
 
 {% copyright %}
 
-First edition, {{ publication.pub_date | date: "%Y" }}
+First edition {{ publication.pub_date | date: "%Y" }}
 
 {{ publication.revision_statement | markdownify }}
 
