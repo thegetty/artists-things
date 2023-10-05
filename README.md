@@ -8,10 +8,14 @@ The [Quire Eleventy package](https://github.com/thegetty/quire/tree/main/package
 
 2. In `_site/pdf.html`, find and replace the ones instance of `<a href="#contents">` with `<a href="#things">` to ensure page numbering for "Thing" section page is correct.
 
-3. If the PDF will be sent to digital printer, run the following command to ensure color profiles are correct:
+3. If the PDF will be sent to digital printer, run the following commands to ensure color profiles are correct:
 
     ```
     magick mogrify -profile bin/adobe-rgb-1998.icm _site/iiif/**/print-image.jpg
+    ```
+
+    ```
+    magick mogrify -colorspace Gray -profile bin/gray-gamma-2-2.icm _site/iiif/fig-052/052/print-image.jpg
     ```
 
 4. With PrinceXML 14.2 installed, run `quire pdf --lib prince`
