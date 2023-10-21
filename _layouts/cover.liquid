@@ -3,7 +3,8 @@
 ## Hardcodes an array of images to make up various covers
 ## add adds .visually-hidden to main title texts
 ##
-class: quire-cover
+classes: 
+  - quire-cover
 description: Quire publication cover page
 layout: base.11ty.js
 ---
@@ -33,7 +34,7 @@ layout: base.11ty.js
       </h1>
       <p class="reading-line">{{ publication.reading_line | markdownify }}</p>
       <div class="contributor">
-        <span class="visually-hidden">Contributors:&nbsp;</span>
+        <span class="visually-hidden">Contributors: </span>
         {% if publication.contributor_as_it_appears %}
           <em>{{ publication.contributor_as_it_appears }}</em>
         {% else %}
@@ -57,7 +58,7 @@ layout: base.11ty.js
     <div class="container is-fluid">
       <div class="content">
         {{ content }}
-        {% bibliography pageReferences %}
+        {% bibliography citations %}
       </div>
     </div>
   </section>

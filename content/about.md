@@ -1,7 +1,9 @@
 ---
 title: About
 layout: page
-class: backmatter about-copyright-page
+classes: 
+  - backmatter 
+  - about-copyright-page
 order: 304
 outputs: [html]
 ---

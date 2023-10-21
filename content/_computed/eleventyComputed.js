@@ -1,6 +1,6 @@
 //
 // CUSTOMIZED FILE
-// Handle a page redirect
+// Add redirect and tag data, lined 34 and 38
 //
 const chalkFactory = require('~lib/chalk')
 const path = require('path')
@@ -23,6 +23,7 @@ module.exports = {
     data: (data) => {
       return {
         abstract: data.abstract,
+        classes: data.classes,
         contributor: data.contributor,
         figure: data.figure,
         image: data.image,
@@ -30,7 +31,6 @@ module.exports = {
         layout: data.layout,
         object: data.object,
         order: data.order,
-        classes: data.pageClasses,
         redirect: data.redirect,
         short_title: data.short_title,
         subtitle: data.subtitle,
@@ -58,16 +58,21 @@ module.exports = {
   /**
    * Classes applied to <main> page element
    */
-  pageClasses: ({ collections, class: classes, layout, page }) => {
-    const pageClasses = []
+  classes: ({ collections, classes=[], page }) => {
+    const computedClasses = []
     // Add computed frontmatter and page-one classes
     const pageIndex = collections.allSorted.findIndex(({ outputPath }) => outputPath === page.outputPath)
-    const pageOneIndex = collections.allSorted.findIndex(({ data }) => data.class && data.class.includes('page-one'))
+    const pageOneIndex = collections.allSorted.findIndex(
+      ({ data }) => Array.isArray(data.classes) && data.classes.includes('page-one')
+    )
     if (pageIndex < pageOneIndex) {
-      pageClasses.push('frontmatter')
+      computedClasses.push('frontmatter')
     }
+    // filter null values, handles 11ty's first pass at build
+    const filteredClasses = Array.from(classes).filter((x) => x)
+
     // add custom classes from page frontmatter
-    return classes ? pageClasses.concat(classes) : pageClasses
+    return computedClasses.concat(filteredClasses)
   },
   pageContributors: ({ contributor, contributor_as_it_appears }) => {
     if (!contributor) return
@@ -83,7 +88,7 @@ module.exports = {
     return collections.all.find(({ url }) => url === page.url)
   },
   /**
-   * Figures data for figures referenced by id in page frontmatter 
+   * Figures data for figures referenced by id in page frontmatter
    */
   pageFigures: ({ figure, figures }) => {
     if (!figure || !figure.length) return
@@ -96,15 +101,15 @@ module.exports = {
     if (!object || !object.length) return
     return object
       .reduce((validObjects, item) => {
-        const objectData = objects.object_list.find(({ id }) => id === item.id)
+        const objectData = objects.object_list && objects.object_list.length
+          ? objects.object_list.find(({ id }) => id === item.id)
+          : item
         if (!objectData) {
           warn(`pageObjects: no object found with id ${item.id}`)
           return validObjects
         }
 
-        if (!objectData.figure) {
-          warn(`pageObjects: object id ${objectData.id} has no figure data`)
-        } else {
+        if (objectData.figure) {
           objectData.figures = objectData.figure.map((figure) => {
             if (figure.id) {
               return this.getFigure(figure.id)

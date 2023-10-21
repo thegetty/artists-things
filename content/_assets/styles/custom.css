@@ -1797,9 +1797,8 @@ a:hover .quire-thing__main__icon svg {
   .quire-contents-list .menu-list .section-item ol a {
     font-size: 1rem;
   }
-  .quire-contents-list .section-item.frontmatter-page > a::after,
-  .quire-contents-list .page-item.frontmatter-page > a::after {
-    font-style: normal;
+  .table-of-contents > .table-of-contents-list > .page-item:nth-child(-n+2) a::after {
+    content: leader(dotted) ' 'target-counter(attr(href, url), page, lower-roman);
   }
 
   /* Remove page numbering from "Taxonomies" landing page */

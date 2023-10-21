@@ -2,7 +2,8 @@
 title: Index by Type of Thing
 layout: page
 order: 202
-class: taxonomy
+classes: 
+  - taxonomy
 ---
 
 {% assign thingPages = collections.thing %}

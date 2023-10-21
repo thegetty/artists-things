@@ -1,5 +1,6 @@
 ---
-class: quire-essay
+classes: 
+  - quire-essay
 layout: base.11ty.js
 description: Thing layout. This layout is a copy of essay.liquid, except that it adds owners to the pageHeader and a .thing-info grid.
 ---
@@ -48,7 +49,7 @@ description: Thing layout. This layout is a copy of essay.liquid, except that it
   <div class="container">
     <div class="content">
       {{ content }}
-      {% bibliography pageReferences %}
+      {% bibliography citations %}
     </div>
     {% pageButtons pagination=pagination %}
   </div>

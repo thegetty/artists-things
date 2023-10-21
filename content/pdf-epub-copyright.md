@@ -1,6 +1,8 @@
 ---
 layout: page
-class: copyright-page about-copyright-page
+classes: 
+  - copyright-page 
+  - about-copyright-page
 order: 4
 toc: false
 menu: false

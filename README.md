@@ -6,7 +6,7 @@ The [Quire Eleventy package](https://github.com/thegetty/quire/tree/main/package
 
 1. Run `quire build`
 
-2. In `_site/pdf.html`, find and replace the ones instance of `<a href="#contents">` with `<a href="#things">` to ensure page numbering for "Thing" section page is correct.
+2. In `_site/pdf.html`, find and replace the ones instance of `<a href="#page-contents">` with `<a href="#page-things">` to ensure page numbering for "Thing" section page is correct.
 
 3. If the PDF will be sent to digital printer, run the following commands to ensure color profiles are correct:
 
@@ -84,8 +84,8 @@ Created a new shortcode to create a pop-up with full data and links for a given 
 **_plugins/shortcodes/contributors.js**
 Refactored logic to handle oxford commas correctly; and added handling to display contributor `symbol
 
-**_plugins/shortcodes/figureRef.js**
-Refactored to accept comma-separated array, and to output with .q-figure__modal-link class
+**_plugins/shortcodes/open.js**
+Custom shortcode based on the old `ref` shortocode, except refactored to accept comma-separated array, and to output with .q-figure__modal-link class
 
 **content/_assets/javascript/application/index.js**
 Allow only one pop-up to be open at a time

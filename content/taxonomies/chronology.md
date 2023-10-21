@@ -2,7 +2,8 @@
 title: Chronology by Artist
 layout: page
 order: 201
-class: taxonomy
+classes: 
+  - taxonomy
 ---
 
 {% capture tableRows %}
