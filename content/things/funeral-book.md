@@ -4,11 +4,13 @@ aliases: [funeral books]
 layout: thing
 order: 117
 tags: thing
-owner:
-  - full_name: Concierge of the Académie Royale
-type: [Heirloom]
-theme: [Administration, Community, Death, Louvre, Memory]
-material: [Animal | Leather/Parchment, Synthetic Materials | Paper]
+object:
+  - name: "Funeral Book"
+    owner:
+      - full_name: Concierge of the Académie Royale
+    type: [Heirloom]
+    theme: [Administration, Community, Death, Louvre, Memory]
+    material: [Animal | Leather/Parchment, Synthetic Materials | Paper]
 mentions: [almanac, document box]
 contributor:
   - id: "kscott"

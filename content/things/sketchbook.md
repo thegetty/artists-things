@@ -4,13 +4,15 @@ aliases: [sketchbooks]
 layout: thing
 order: 143
 tags: thing
-owner:
-  - first_name: Jean-Michel
-    last_name: Moreau the Younger
-    years: 1741–1814
-type: [Artwork, Companion, Souvenir, Tool]
-theme: [Education, Everyday, Family, Making, Studio, Travel]
-material: [Animal | Leather/Parchment, Metal | Gold/Gilding, Mineral | Chalk, Synthetic Materials | Paper]
+object:
+  - name: "Sketchbook"
+    owner:
+      - first_name: Jean-Michel
+        last_name: Moreau the Younger
+        years: 1741–1814
+    type: [Artwork, Companion, Souvenir, Tool]
+    theme: [Education, Everyday, Family, Making, Studio, Travel]
+    material: [Animal | Leather/Parchment, Metal | Gold/Gilding, Mineral | Chalk, Synthetic Materials | Paper]
 mentions: [book, journal, '*crayon*', dog, armchair, wig, burin, shell, camera obscura, picture, votive, order book]
 contributor:
   - id: "hwilliams"

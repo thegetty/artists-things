@@ -4,16 +4,18 @@ aliases: [harpsichords]
 layout: thing
 order: 121
 tags: thing
-owner:
-  - first_name: Jean-Marc
-    last_name: Nattier
-    years: 1685–1766
-  - first_name: Louis
-    last_name: Tocqué
-    years: 1696–1772
-type: [Heirloom, Instrument, Prop]
-theme: [Family, Gender]
-material: [Animal | Feather, Plant Matter | Wood, Synthetic Materials | Paint/Pigment]
+object:
+  - name: "Harpsichord"
+    owner:
+      - first_name: Jean-Marc
+        last_name: Nattier
+        years: 1685–1766
+      - first_name: Louis
+        last_name: Tocqué
+        years: 1696–1772
+    type: [Heirloom, Instrument, Prop]
+    theme: [Family, Gender]
+    material: [Animal | Feather, Plant Matter | Wood, Synthetic Materials | Paint/Pigment]
 mentions: [marriage contract, quill, water fountain, table, glasses, modeling stand, bed, table]
 contributor:
   - id: "hwilliams"

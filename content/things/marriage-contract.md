@@ -4,13 +4,15 @@ aliases: [marriage contracts]
 layout: thing
 order: 129
 tags: thing
-owner:
-  - first_name: Jean-Baptiste
-    last_name: Greuze
-    years: 1725–1805
-type: [Document]
-theme: [Family, Gender, Identity, Money, Religion]
-material: [Synthetic Materials | Ink, Synthetic Materials | Paper]
+object:
+  - name: "Marriage Contract"
+    owner:
+      - first_name: Jean-Baptiste
+        last_name: Greuze
+        years: 1725–1805
+    type: [Document]
+    theme: [Family, Gender, Identity, Money, Religion]
+    material: [Synthetic Materials | Ink, Synthetic Materials | Paper]
 mentions: [book, quill]
 contributor:
   - id: "hwilliams"

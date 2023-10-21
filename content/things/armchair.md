@@ -4,13 +4,15 @@ aliases: [armchairs]
 layout: thing
 order: 102
 tags: thing
-owner:
-  - first_name: Jean-Honoré
-    last_name: Fragonard
-    years: 1732–1806
-type: [Furniture]
-theme: [Administration, Louvre, Studio]
-material: [Animal | Leather/Parchment, Plant Matter | Cane, Plant Matter | Wood]
+object:
+  - name: "Armchair"
+    owner:
+      - first_name: Jean-Honoré
+        last_name: Fragonard
+        years: 1732–1806
+    type: [Furniture]
+    theme: [Administration, Louvre, Studio]
+    material: [Animal | Leather/Parchment, Plant Matter | Cane, Plant Matter | Wood]
 mentions: [palette, journal]
 contributor:
   - id: "hwilliams"

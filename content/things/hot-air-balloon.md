@@ -4,13 +4,15 @@ aliases: [hot-air balloons]
 layout: thing
 order: 122
 tags: thing
-owner:
-  - first_name: Jean-François
-    last_name: Janinet
-    years: 1752–1814
-type: [Vehicle]
-theme: [Invention, Leisure, Studio, Travel]
-material: [Textile | Canvas]
+object:
+  - name: "Hot-Air Balloon"
+    owner:
+      - first_name: Jean-François
+        last_name: Janinet
+        years: 1752–1814
+    type: [Vehicle]
+    theme: [Invention, Leisure, Studio, Travel]
+    material: [Textile | Canvas]
 mentions: [journal, bath, carriage, model]
 contributor:
   - id: "kscott"

@@ -4,13 +4,15 @@ aliases: [swords]
 layout: thing
 order: 146
 tags: thing
-owner:
-  - first_name: François
-    last_name: Lemoyne
-    years: 1688–1737
-type: [Apparel, Commodity, Symbolic Thing, Weapon]
-theme: [Antiquity, Death, Gender, Health/Medicine, Identity, Louvre]
-material: [Metal | Gold/Gilding, Metal | Steel]
+object:
+  - name: "Sword"
+    owner:
+      - first_name: François
+        last_name: Lemoyne
+        years: 1688–1737
+    type: [Apparel, Commodity, Symbolic Thing, Weapon]
+    theme: [Antiquity, Death, Gender, Health/Medicine, Identity, Louvre]
+    material: [Metal | Gold/Gilding, Metal | Steel]
 mentions: [wig, table, watch, decoration, book]
 contributor:
   - id: "hwilliams"

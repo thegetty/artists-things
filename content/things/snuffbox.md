@@ -4,13 +4,15 @@ aliases: [snuffboxes]
 layout: thing
 order: 144
 tags: thing
-owner:
-  - first_name: Jean-Baptiste
-    last_name: Oudry
-    years: 1686–1755
-type: [Apparel, Collectible, Commodity, Container, Intoxicant]
-theme: [Global Commerce, Identity, Leisure, Luxury]
-material: [Metal | Gold/Gilding, Plant Matter, Synthetic Materials | Lacquer, Synthetic Materials | Paint/Pigment]
+object:
+  - name: "Snuffbox"
+    owner:
+      - first_name: Jean-Baptiste
+        last_name: Oudry
+        years: 1686–1755
+    type: [Apparel, Collectible, Commodity, Container, Intoxicant]
+    theme: [Global Commerce, Identity, Leisure, Luxury]
+    material: [Metal | Gold/Gilding, Plant Matter, Synthetic Materials | Lacquer, Synthetic Materials | Paint/Pigment]
 mentions: [handkerchief, watch, '*porte-crayons*', dog]
 contributor:
   - id: "kscott"

@@ -4,13 +4,15 @@ aliases: []
 layout: thing
 order: 119
 tags: thing
-owner:
-  - first_name: François-André
-    last_name: Vincent
-    years: 1746–1816
-type: [Apparel, Instrument]
-theme: [Health/Medicine, Invention, Making, Studio]
-material: [Metal | Bronze, Metal | Steel, Synthetic Materials | Glass]
+object:
+  - name: "Glasses"
+    owner:
+      - first_name: François-André
+        last_name: Vincent
+        years: 1746–1816
+    type: [Apparel, Instrument]
+    theme: [Health/Medicine, Invention, Making, Studio]
+    material: [Metal | Bronze, Metal | Steel, Synthetic Materials | Glass]
 mentions: [camera obscura]
 contributor:
   - id: "hwilliams"

@@ -4,14 +4,16 @@ aliases: ['*porte-crayons*', '*porte-crayon*']
 layout: thing
 order: 137
 tags: thing
-owner:
-  - first_name: Jean-Baptiste
-    last_name: Perronneau
-    years: ca. 1715–83
-    sort_years: 1716–1783
-type: [Companion, Tool]
-theme: [Identity, Studio]
-material: [Animal | Leather/Parchment, Metal | Silver, Mineral | Chalk]
+object:
+  - name: "*Porte-Crayon*"
+    owner:
+      - first_name: Jean-Baptiste
+        last_name: Perronneau
+        years: ca. 1715–83
+        sort_years: 1716–1783
+    type: [Companion, Tool]
+    theme: [Identity, Studio]
+    material: [Animal | Leather/Parchment, Metal | Silver, Mineral | Chalk]
 mentions: [pastel, journal, will, handkerchief, watch, snuffbox]
 contributor:
   - id: "kscott"

@@ -4,13 +4,15 @@ aliases: [models]
 layout: thing
 order: 130
 tags: thing
-owner:
-  - first_name: Edme
-    last_name: Bouchardon
-    years: 1698–1762
-type: [Instrument, Tool]
-theme: [Education, Making, Studio]
-material: [Animal | Wax, Mineral | Clay, Synthetic Materials | Plaster]
+object:
+  - name: "Model"
+    owner:
+      - first_name: Edme
+        last_name: Bouchardon
+        years: 1698–1762
+    type: [Instrument, Tool]
+    theme: [Education, Making, Studio]
+    material: [Animal | Wax, Mineral | Clay, Synthetic Materials | Plaster]
 mentions: [modeling stand, '*porte-crayon*']
 contributor:
   - id: "kscott"

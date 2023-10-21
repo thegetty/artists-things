@@ -4,13 +4,15 @@ aliases: [decorations]
 layout: thing
 order: 112
 tags: thing
-owner:
-  - first_name: Joseph-Marie
-    last_name: Vien
-    years: 1716–1809
-type: [Apparel, Ritual Thing, Symbolic Thing]
-theme: [Identity, Memory]
-material: [Metal | Gold/Gilding, Synthetic Materials | Paint/Pigment, Textile | Silk]
+object:
+  - name: "Decoration"
+    owner:
+      - first_name: Joseph-Marie
+        last_name: Vien
+        years: 1716–1809
+    type: [Apparel, Ritual Thing, Symbolic Thing]
+    theme: [Identity, Memory]
+    material: [Metal | Gold/Gilding, Synthetic Materials | Paint/Pigment, Textile | Silk]
 mentions: [sword, letters]
 contributor:
   - id: "hwilliams"

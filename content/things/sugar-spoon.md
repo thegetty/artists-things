@@ -4,13 +4,15 @@ aliases: [sugar spoons]
 layout: thing
 order: 145
 tags: thing
-owner:
-  - first_name: François-Hubert
-    last_name: Drouais
-    years: 1727–75
-type: [Commodity, Intoxicant, Tableware]
-theme: [Food and Drink, Global Commerce]
-material: [Metal | Silver]
+object:
+  - name: "Sugar Spoon"
+    owner:
+      - first_name: François-Hubert
+        last_name: Drouais
+        years: 1727–75
+    type: [Commodity, Intoxicant, Tableware]
+    theme: [Food and Drink, Global Commerce]
+    material: [Metal | Silver]
 mention: [wine, teacup, snuffbox]
 contributor:
   - id: "hwilliams"

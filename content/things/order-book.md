@@ -4,13 +4,15 @@ aliases: [order books]
 layout: thing
 order: 133
 tags: thing
-owner:
-  - first_name: Louis-Jean-François
-    last_name: Lagrenée
-    years: 1724–1805
-type: [Tool]
-theme: [Administration, Antiquity, Everyday, Identity, Louvre, Money, Studio, Travel]
-material: [Synthetic Materials | Ink, Synthetic Materials | Paper]
+object:
+  - name: "Order Book"
+    owner:
+      - first_name: Louis-Jean-François
+        last_name: Lagrenée
+        years: 1724–1805
+    type: [Tool]
+    theme: [Administration, Antiquity, Everyday, Identity, Louvre, Money, Studio, Travel]
+    material: [Synthetic Materials | Ink, Synthetic Materials | Paper]
 mentions: [journal, table]
 contributor:
   - id: "hwilliams"

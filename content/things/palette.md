@@ -4,13 +4,15 @@ aliases: [palettes]
 layout: thing
 order: 134
 tags: thing
-owner:
-  - first_name: Elisabeth
-    last_name: Vigée-Lebrun
-    years: 1755–1842
-type: [Symbolic Thing, Tool]
-theme: [Education, Identity, Making, Memory, Studio]
-material: [Plant Matter | Wood, Synthetic Materials | Paint/Pigment]
+object:
+  - name: "Palette"
+    owner:
+      - first_name: Elisabeth
+        last_name: Vigée-Lebrun
+        years: 1755–1842
+    type: [Symbolic Thing, Tool]
+    theme: [Education, Identity, Making, Memory, Studio]
+    material: [Plant Matter | Wood, Synthetic Materials | Paint/Pigment]
 mentions: [carriage, artmchair, color box, red lake, modeling stand, burin, sketchbook, decoration, relic, bed, table]
 contributor:
   - id: "hwilliams"

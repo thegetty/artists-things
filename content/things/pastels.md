@@ -4,13 +4,15 @@ aliases: [pastel]
 layout: thing
 order: 135
 tags: thing
-owner:
-  - first_name: Marie-Suzanne
-    last_name: Giroust
-    years: 1734–72
-type: [Tool]
-theme: [Making, Studio]
-material: [Mineral | Chalk, Synthetic Materials | Paint/Pigment]
+object:
+  - name: "Pastels"
+    owner:
+      - first_name: Marie-Suzanne
+        last_name: Giroust
+        years: 1734–72
+    type: [Tool]
+    theme: [Making, Studio]
+    material: [Mineral | Chalk, Synthetic Materials | Paint/Pigment]
 mentions: [color box, handkerchief, '*crayon*', '*porte-crayon*', palette, red lake, wig, shell]
 contributor:
   - id: "hwilliams"

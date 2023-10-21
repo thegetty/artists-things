@@ -4,13 +4,15 @@ aliases: [écorchés]
 layout: thing
 order: 116
 tags: thing
-owner:
-  - first_name: Jean-Antoine
-    last_name: Houdon
-    years: 1741–1828
-type: [Artwork, Tool]
-theme: [Death, Education, Health/Medicine, Louvre, Luxury, Making, Studio, Travel]
-material: [Metal | Bronze, Mineral | Clay, Synthetic Materials | Plaster]
+object:
+  - name: "Écorché"
+    owner:
+      - first_name: Jean-Antoine
+        last_name: Houdon
+        years: 1741–1828
+    type: [Artwork, Tool]
+    theme: [Death, Education, Health/Medicine, Louvre, Luxury, Making, Studio, Travel]
+    material: [Metal | Bronze, Mineral | Clay, Synthetic Materials | Plaster]
 mentions: [model, mannequin, modeling stand, armchair, table]
 contributor:
   - id: "hwilliams"

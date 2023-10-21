@@ -4,13 +4,15 @@ aliases: [votives]
 layout: thing
 order: 150
 tags: thing
-owner:
-  - first_name: Pierre-Imbert
-    last_name: Drevet
-    years: 1697–1739
-type: [Artwork, Devotional Thing, Ritual Thing, Symbolic Thing]
-theme: [Death, Family, Health/Medicine, Making, Religion, Studio]
-material: [Synthetic Materials | Ink, Synthetic Materials | Paper]
+object:
+  - name: "Votive"
+    owner:
+      - first_name: Pierre-Imbert
+        last_name: Drevet
+        years: 1697–1739
+    type: [Artwork, Devotional Thing, Ritual Thing, Symbolic Thing]
+    theme: [Death, Family, Health/Medicine, Making, Religion, Studio]
+    material: [Synthetic Materials | Ink, Synthetic Materials | Paper]
 mentions: [sword, picture, écorché, '*robe de chambre*']
 contributor:
   - id: "hwilliams"

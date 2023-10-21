@@ -4,13 +4,15 @@ aliases: [camera obscuras]
 layout: thing
 order: 108
 tags: thing
-owner:
-  - first_name: Charles
-    last_name: Parrocel
-    years: 1688–1752
-type: [Instrument]
-theme: [Making, Studio]
-material: [Plant Matter | Wood, Synthetic Materials | Glass]
+object:
+  - name: "Camera Obscura"
+    owner:
+      - first_name: Charles
+        last_name: Parrocel
+        years: 1688–1752
+    type: [Instrument]
+    theme: [Making, Studio]
+    material: [Plant Matter | Wood, Synthetic Materials | Glass]
 mentions: ['*porte-crayon*', quill, color box, palette, wine]
 contributor:
   - id: "kscott"

@@ -4,13 +4,15 @@ aliases: [carriages]
 layout: thing
 order: 109
 tags: thing
-owner:
-  - first_name: Jean-Baptiste
-    last_name: Pigalle
-    years: 1714–85
-type: [Vehicle]
-theme: [Travel]
-material: [Plant Matter | Wood, Synthetic Materials | Glass, Synthetic Materials | Paint/Pigment, Textile | Silk]
+object:
+  - name: "Carriage"
+    owner:
+      - first_name: Jean-Baptiste
+        last_name: Pigalle
+        years: 1714–85
+    type: [Vehicle]
+    theme: [Travel]
+    material: [Plant Matter | Wood, Synthetic Materials | Glass, Synthetic Materials | Paint/Pigment, Textile | Silk]
 mentions: [teacup, shell]
 contributor:
   - id: "kscott"

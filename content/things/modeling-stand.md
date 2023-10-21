@@ -4,13 +4,15 @@ aliases: [modeling stands]
 layout: thing
 order: 131
 tags: thing
-owner:
-  - first_name: Jean-Antoine
-    last_name: Houdon
-    years: 1741–1828
-type: [Tool]
-theme: [Making, Studio]
-material: [Mineral | Clay, Plant Matter | Wood]
+object:
+  - name: "Modeling Stand"
+    owner:
+      - first_name: Jean-Antoine
+        last_name: Houdon
+        years: 1741–1828
+    type: [Tool]
+    theme: [Making, Studio]
+    material: [Mineral | Clay, Plant Matter | Wood]
 mentions: [palette, color box, wine, écorché]
 contributor:
   - id: "kscott"

@@ -4,13 +4,15 @@ aliases: [teacups]
 layout: thing
 order: 148
 tags: thing
-owner:
-  - first_name: Jean-Marc
-    last_name: Nattier
-    years: 1685–1766
-type: [Collectible, Commodity, Intoxicant, Tableware]
-theme: [Food and Drink, Global Commerce, Leisure, Luxury, Studio]
-material: [Metal | Silver, Mineral | Clay]
+object:
+  - name: "Teacup"
+    owner:
+      - first_name: Jean-Marc
+        last_name: Nattier
+        years: 1685–1766
+    type: [Collectible, Commodity, Intoxicant, Tableware]
+    theme: [Food and Drink, Global Commerce, Leisure, Luxury, Studio]
+    material: [Metal | Silver, Mineral | Clay]
 mentions: [intaglio]
 contributor:
   - id: "kscott"

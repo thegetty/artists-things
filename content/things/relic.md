@@ -4,13 +4,15 @@ aliases: [relics]
 layout: thing
 order: 140
 tags: thing
-owner:
-  - first_name: Hyacinthe
-    last_name: Rigaud
-    years: 1659–1743
-type: [Apparel, Commodity, Companion, Container, Devotional Thing, Gift, Heirloom, Ritual Thing, Symbolic Thing]
-theme: [Family, Luxury, Religion]
-material: [Metal | Gold/Gilding, Plant Matter | Wood]
+object:
+  - name: "Relic"
+    owner:
+      - first_name: Hyacinthe
+        last_name: Rigaud
+        years: 1659–1743
+    type: [Apparel, Commodity, Companion, Container, Devotional Thing, Gift, Heirloom, Ritual Thing, Symbolic Thing]
+    theme: [Family, Luxury, Religion]
+    material: [Metal | Gold/Gilding, Plant Matter | Wood]
 mentions: [will, watch, handkerchief, almanac]
 contributor:
   - id: "hwilliams"

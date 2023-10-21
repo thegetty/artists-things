@@ -4,13 +4,15 @@ aliases: [umbrellas]
 layout: thing
 order: 149
 tags: thing
-owner:
-  - first_name: Jacques-Philippe
-    last_name: Le Bas
-    years: 1707–83
-type: [Commodity, Instrument]
-theme: [Community, Everyday]
-material: [Plant Matter | Wood, Textile | Canvas, Textile | Silk]
+object:
+  - name: "Umbrella"
+    owner:
+      - first_name: Jacques-Philippe
+        last_name: Le Bas
+        years: 1707–83
+    type: [Commodity, Instrument]
+    theme: [Community, Everyday]
+    material: [Plant Matter | Wood, Textile | Canvas, Textile | Silk]
 mentions: [snuffbox, teacup, watch, sketchbook, carriage, dressing-up box]
 contributor:
   - id: "kscott"

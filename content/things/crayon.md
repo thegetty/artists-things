@@ -4,13 +4,15 @@ aliases: ['*crayons*']
 layout: thing
 order: 111
 tags: thing
-owner:
-  - first_name: Jean-Baptiste
-    last_name: Huët
-    years: 1745–1811
-type: [Tool]
-theme: [Education, Invention, Making, Studio]
-material: [Mineral | Chalk, Synthetic Materials | Paper]
+object:
+  - name: "*Crayon*"
+    owner:
+      - first_name: Jean-Baptiste
+        last_name: Huët
+        years: 1745–1811
+    type: [Tool]
+    theme: [Education, Invention, Making, Studio]
+    material: [Mineral | Chalk, Synthetic Materials | Paper]
 mentions: ['*porte-crayon*']
 contributor:
   - id: "kscott"

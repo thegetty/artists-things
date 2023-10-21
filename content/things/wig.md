@@ -4,13 +4,15 @@ aliases: [wigs]
 layout: thing
 order: 153
 tags: thing
-owner:
-  - first_name: Claude-Joseph
-    last_name: Vernet
-    years: 1714–89
-type: [Apparel]
-theme: [Gender, Luxury, Studio]
-material: [Animal | Hair, Synthetic Materials | Plaster, Textile | Silk]
+object:
+  - name: "Wig"
+    owner:
+      - first_name: Claude-Joseph
+        last_name: Vernet
+        years: 1714–89
+    type: [Apparel]
+    theme: [Gender, Luxury, Studio]
+    material: [Animal | Hair, Synthetic Materials | Plaster, Textile | Silk]
 mentions: [order book, sword, '*robe de chambre*']
 contributor:
   - id: "hwilliams"

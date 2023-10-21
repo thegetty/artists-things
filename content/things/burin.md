@@ -4,13 +4,15 @@ aliases: [burins]
 layout: thing
 order: 107
 tags: thing
-owner:
-  - first_name: Renée-Elisabeth
-    last_name: Marlié
-    years: 1714–73
-type: [Tool]
-theme: [Family, Gender, Making, Studio]
-material: [Metal | Steel, Plant Matter | Wood, Synthetic Materials | Paper]
+object:
+  - name: "Burin"
+    owner:
+      - first_name: Renée-Elisabeth
+        last_name: Marlié
+        years: 1714–73
+    type: [Tool]
+    theme: [Family, Gender, Making, Studio]
+    material: [Metal | Steel, Plant Matter | Wood, Synthetic Materials | Paper]
 mentions: [quill, '*crayon*', marriage contract]
 contributor:
   - id: "kscott"

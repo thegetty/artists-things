@@ -4,13 +4,15 @@ aliases: [robes de chambre, '*robe de chambre*', '*robes de chambre*']
 layout: thing
 order: 141
 tags: thing
-owner:
-  - first_name: Louis-Michel
-    last_name: Van Loo
-    years: 1707–71
-type: [Apparel]
-theme: [Gender, Identity, Luxury, Studio]
-material: [Textile | Silk, Textile | Wool]
+object:
+  - name: "*Robe de Chambre*"
+    owner:
+      - first_name: Louis-Michel
+        last_name: Van Loo
+        years: 1707–71
+    type: [Apparel]
+    theme: [Gender, Identity, Luxury, Studio]
+    material: [Textile | Silk, Textile | Wool]
 mentions: [bed, handkerchief, palette, decoration, wig]
 contributor:
   - id: "kscott"

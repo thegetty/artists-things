@@ -4,13 +4,15 @@ aliases: [letters]
 layout: thing
 order: 127
 tags: thing
-owner:
-  - first_name: Hyacinthe
-    last_name: Rigaud
-    years: 1659–1743
-type: [Document, Ritual Thing, Symbolic Thing]
-theme: [Administration, Identity]
-material: [Animal | Wax, Synthetic Materials | Ink, Synthetic Materials | Paper]
+object:
+  - name: "Letters"
+    owner:
+      - first_name: Hyacinthe
+        last_name: Rigaud
+        years: 1659–1743
+    type: [Document, Ritual Thing, Symbolic Thing]
+    theme: [Administration, Identity]
+    material: [Animal | Wax, Synthetic Materials | Ink, Synthetic Materials | Paper]
 menitons: [order book, journal]
 contributor:
   - id: "hwilliams"

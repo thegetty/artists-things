@@ -4,14 +4,16 @@ aliases: [quills]
 layout: thing
 order: 138
 tags: thing
-owner:
-  - first_name: Étienne-Maurice
-    last_name: Falconet
-    years: 1716–91
-    sort_years: 1716–1791
-type: [Commodity, Tool]
-theme: [Friendship, Identity]
-material: [Animal | Feather, Synthetic Materials | Ink, Synthetic Materials | Paper]
+object:
+  - name: "Quill"
+    owner:
+      - first_name: Étienne-Maurice
+        last_name: Falconet
+        years: 1716–91
+        sort_years: 1716–1791
+    type: [Commodity, Tool]
+    theme: [Friendship, Identity]
+    material: [Animal | Feather, Synthetic Materials | Ink, Synthetic Materials | Paper]
 mentions: ['*porte-crayon*', book, journal, order book, marriage contract, will, handkerchief, sword, journal, harpsichor, carriage]
 contributor:
   - id: "kscott"

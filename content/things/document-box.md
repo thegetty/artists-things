@@ -4,12 +4,14 @@ aliases: [document boxes]
 layout: thing
 order: 113
 tags: thing
-owner:
-  - full_name: Secretaries of the Académie Royale
-    years: 1650–1793
-type: [Container, Document, Ritual Thing]
-theme: [Administration, Community, Louvre]
-material: [Animal | Leather/Parchment, Metal | Bronze, Metal | Gold/Gilding, Plant Matter | Wood]
+object:
+  - name: "Document Box"
+    owner:
+      - full_name: Secretaries of the Académie Royale
+        years: 1650–1793
+    type: [Container, Document, Ritual Thing]
+    theme: [Administration, Community, Louvre]
+    material: [Animal | Leather/Parchment, Metal | Bronze, Metal | Gold/Gilding, Plant Matter | Wood]
 mentions: [funeral book, écorché, key, armchair]
 contributor:
   - id: "hwilliams"

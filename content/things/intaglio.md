@@ -4,13 +4,15 @@ aliases: [intaglios]
 layout: thing
 order: 123
 tags: thing
-owner:
-  - first_name: Charles-Joseph
-    last_name: Natoire
-    years: 1700–77
-type: [Apparel, Collectible, Souvenir]
-theme: [Antiquity, Death, Friendship, Memory, Travel]
-material: [Mineral | Gem]
+object:
+  - name: "Intaglio"
+    owner:
+      - first_name: Charles-Joseph
+        last_name: Natoire
+        years: 1700–77
+    type: [Apparel, Collectible, Souvenir]
+    theme: [Antiquity, Death, Friendship, Memory, Travel]
+    material: [Mineral | Gem]
 mentions: [model, shell]
 contributor:
   - id: "kscott"

@@ -4,13 +4,15 @@ aliases: [tables]
 layout: thing
 order: 147
 tags: thing
-owner:
-  - first_name: Jacques-Louis
-    last_name: David
-    years: 1748–1825
-type: [Furniture, Heirloom, Prop, Symbolic Thing]
-theme: [Antiquity, Family, Louvre, Making, Studio]
-material: [Metal | Bronze, Metal | Gold/Gilding, Plant Matter | Wood]
+object:
+  - name: "Table"
+    owner:
+      - first_name: Jacques-Louis
+        last_name: David
+        years: 1748–1825
+    type: [Furniture, Heirloom, Prop, Symbolic Thing]
+    theme: [Antiquity, Family, Louvre, Making, Studio]
+    material: [Metal | Bronze, Metal | Gold/Gilding, Plant Matter | Wood]
 mentions: [palette, modeling stand, handkerchief, harpsichord, relic, key, mannequin, sketchbook, bed, camera obscura]
 contributor:
   - id: "hwilliams"

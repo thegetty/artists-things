@@ -4,13 +4,15 @@ aliases: []
 layout: thing
 order: 155
 tags: thing
-owner:
-  - first_name: Alexis
-    last_name: Grimou
-    years: 1678–1733
-type: [Intoxicant, Tableware]
-theme: [Community, Death, Everyday, Food and Drink, Global Commerce, Leisure]
-material: [Plant Matter, Synthetic Materials | Glass]
+object:
+  - name: "Wine"
+    owner:
+      - first_name: Alexis
+        last_name: Grimou
+        years: 1678–1733
+    type: [Intoxicant, Tableware]
+    theme: [Community, Death, Everyday, Food and Drink, Global Commerce, Leisure]
+    material: [Plant Matter, Synthetic Materials | Glass]
 mentions: [sugar spoon, journal,sword, palette]
 contributor:
   - id: "hwilliams"

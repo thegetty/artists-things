@@ -4,13 +4,15 @@ aliases: [nightingale]
 layout: thing
 order: 132
 tags: thing
-owner:
-  - first_name: Marie-Anne
-    last_name: Collot
-    years: 1748–1821
-type: [Gift]
-theme: [Animal, Gender, Identity, Money]
-material: [Animal]
+object:
+  - name: "Nightingale"
+    owner:
+      - first_name: Marie-Anne
+        last_name: Collot
+        years: 1748–1821
+    type: [Gift]
+    theme: [Animal, Gender, Identity, Money]
+    material: [Animal]
 mentions: [quill, watch, snuffbox, dog, marriage contract, burin, quill]
 contributor:
   - id: "kscott"

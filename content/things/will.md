@@ -4,13 +4,15 @@ aliases: [wills]
 layout: thing
 order: 154
 tags: thing
-owner:
-  - first_name: Jean-Baptiste
-    last_name: Massé
-    years: 1687–1767
-type: [Document]
-theme: [Administration, Death, Family, Friendship, Identity, Money, Religion]
-material: [Animal | Leather/Parchment, Synthetic Materials | Ink, Synthetic Materials | Paper]
+object:
+  - name: "Will"
+    owner:
+      - first_name: Jean-Baptiste
+        last_name: Massé
+        years: 1687–1767
+    type: [Document]
+    theme: [Administration, Death, Family, Friendship, Identity, Money, Religion]
+    material: [Animal | Leather/Parchment, Synthetic Materials | Ink, Synthetic Materials | Paper]
 mentions: [quill, snuffbox, votive, picture]
 contributor:
   - id: "kscott"

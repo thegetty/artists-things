@@ -4,13 +4,15 @@ aliases: [keys]
 layout: thing
 order: 125
 tags: thing
-owner:
-  - first_name: Pierre
-    last_name: Peyron
-    years: 1744–1814
-type: [Instrument]
-theme: [Community, Louvre]
-material: [Metal | Gold/Gilding, Metal | Steel]
+object:
+  - name: "Key"
+    owner:
+      - first_name: Pierre
+        last_name: Peyron
+        years: 1744–1814
+    type: [Instrument]
+    theme: [Community, Louvre]
+    material: [Metal | Gold/Gilding, Metal | Steel]
 contributor:
   - id: "kscott"
 ---

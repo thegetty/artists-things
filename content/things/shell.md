@@ -4,13 +4,15 @@ aliases: [shells]
 layout: thing
 order: 142
 tags: thing
-owner:
-  - first_name: François
-    last_name: Boucher
-    years: 1703–70
-type: [Collectible, Commodity, Tool]
-theme: [Global Commerce, Luxury]
-material: [Animal | Shell]
+object:
+  - name: "Shell"
+    owner:
+      - first_name: François
+        last_name: Boucher
+        years: 1703–70
+    type: [Collectible, Commodity, Tool]
+    theme: [Global Commerce, Luxury]
+    material: [Animal | Shell]
 mentions: [wig, snuffbox, teacup, watch, palette, model, quill]
 contributor:
   - id: "kscott"

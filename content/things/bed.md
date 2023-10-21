@@ -4,13 +4,15 @@ aliases: [beds]
 layout: thing
 order: 105
 tags: thing
-owner:
-  - first_name: Charles-Antoine
-    last_name: Coypel
-    years: 1694–1752
-type: [Furniture, Ritual Thing]
-theme: [Family, Identity, Memory, Louvre, Luxury]
-material: [Plant Matter | Wood, Synthetic Materials | Paint/Pigment, Textile | Cotton, Textile | Silk, Textile | Wool]
+object:
+  - name: "Bed"
+    owner:
+      - first_name: Charles-Antoine
+        last_name: Coypel
+        years: 1694–1752
+    type: [Furniture, Ritual Thing]
+    theme: [Family, Identity, Memory, Louvre, Luxury]
+    material: [Plant Matter | Wood, Synthetic Materials | Paint/Pigment, Textile | Cotton, Textile | Silk, Textile | Wool]
 mentions: [journal, teacup, carriage]
 contributor:
   - id: "kscott"

@@ -4,13 +4,15 @@ aliases: [journals]
 layout: thing
 order: 124
 tags: thing
-owner:
-  - first_name: Johann Georg
-    last_name: Wille
-    years: 1715–1808
-type: [Companion, Souvenir]
-theme: [Community, Death, Everyday, Memory, Money]
-material: [Animal | Leather/Parchment, Synthetic Materials | Ink, Synthetic Materials | Paper]
+object:
+  - name: "Journal"
+    owner:
+      - first_name: Johann Georg
+        last_name: Wille
+        years: 1715–1808
+    type: [Companion, Souvenir]
+    theme: [Community, Death, Everyday, Memory, Money]
+    material: [Animal | Leather/Parchment, Synthetic Materials | Ink, Synthetic Materials | Paper]
 mentions: [quill, hot-air balloon, order book]
 contributor:
   - id: "hwilliams"

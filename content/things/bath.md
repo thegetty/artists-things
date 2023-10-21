@@ -4,13 +4,15 @@ aliases: [baths]
 layout: thing
 order: 104
 tags: thing
-owner:
-  - first_name: Joseph-Siffred
-    last_name: Duplessis
-    years: 1725–1802
-type: [Commodity, Furniture, Instrument]
-theme: [Everyday, Health/Medicine, Invention, Louvre, Luxury]
-material: [Metal | Copper]
+object:
+  - name: "Bath"
+    owner:
+      - first_name: Joseph-Siffred
+        last_name: Duplessis
+        years: 1725–1802
+    type: [Commodity, Furniture, Instrument]
+    theme: [Everyday, Health/Medicine, Invention, Louvre, Luxury]
+    material: [Metal | Copper]
 mentions: [key, bed, glasses]
 contributor:
   - id: "kscott"

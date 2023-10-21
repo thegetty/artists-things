@@ -4,13 +4,15 @@ aliases: [baptism certificates]
 layout: thing
 order: 103
 tags: thing
-owner:
-  - first_name: Hubert
-    last_name: Robert
-    years: 1733–1808
-type: [Document]
-theme: [Family, Identity, Money, Religion]
-material: [Synthetic Materials | Ink, Synthetic Materials | Paper]
+object:
+  - name: "Baptism Certificate"
+    owner:
+      - first_name: Hubert
+        last_name: Robert
+        years: 1733–1808
+    type: [Document]
+    theme: [Family, Identity, Money, Religion]
+    material: [Synthetic Materials | Ink, Synthetic Materials | Paper]
 contributor:
   - id: "hwilliams"
 ---

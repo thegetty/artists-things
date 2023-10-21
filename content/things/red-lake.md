@@ -4,13 +4,15 @@ aliases: []
 layout: thing
 order: 139
 tags: thing
-owner:
-  - first_name: Joseph-Siffred
-    last_name: Duplessis
-    years: 1725–1802
-type: [Tool]
-theme: [Invention, Making, Studio]
-material: [Plant Matter, Synthetic Materials | Paint/Pigment]
+object:
+  - name: "Red Lake"
+    owner:
+      - first_name: Joseph-Siffred
+        last_name: Duplessis
+        years: 1725–1802
+    type: [Tool]
+    theme: [Invention, Making, Studio]
+    material: [Plant Matter, Synthetic Materials | Paint/Pigment]
 mentions: [palette]
 contributor:
   - id: "kscott"

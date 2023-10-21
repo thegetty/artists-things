@@ -4,13 +4,15 @@ aliases: [mannequins]
 layout: thing
 order: 128
 tags: thing
-owner:
-  - first_name: Jean-Baptiste
-    last_name: Le Prince
-    years: 1734–81
-type: [Prop, Tool]
-theme: [Making, Studio, Travel]
-material: [Animal | Hair, Plant Matter | Cork, Plant Matter | Wood, Textile | Silk]
+object:
+  - name: "Mannequin"
+    owner:
+      - first_name: Jean-Baptiste
+        last_name: Le Prince
+        years: 1734–81
+    type: [Prop, Tool]
+    theme: [Making, Studio, Travel]
+    material: [Animal | Hair, Plant Matter | Cork, Plant Matter | Wood, Textile | Silk]
 mentions: [wig, écorché, color box, '*porte-crayon*', camera obscura, dressing-up box, sword, table]
 contributor:
   - id: "hwilliams"

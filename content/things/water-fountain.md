@@ -4,13 +4,15 @@ aliases: [water fountains]
 layout: thing
 order: 152
 tags: thing
-owner:
-  - first_name: Jean-Siméon
-    last_name: Chardin
-    years: 1699–1779
-type: [Instrument]
-theme: [Everyday, Family, Gender]
-material: [Metal | Copper]
+object:
+  - name: "Water Fountain"
+    owner:
+      - first_name: Jean-Siméon
+        last_name: Chardin
+        years: 1699–1779
+    type: [Instrument]
+    theme: [Everyday, Family, Gender]
+    material: [Metal | Copper]
 mentions: [table, dressing-up box, intaglio, snuffbox, sword, gaming set, umbrella, shell, teacup]
 contributor:
   - id: "kscott"

@@ -4,13 +4,15 @@ aliases: [color-boxes, color-box]
 layout: thing
 order: 110
 tags: thing
-owner:
-  - first_name: Jean-Honoré
-    last_name: Fragonard
-    years: 1732–1806
-type: [Container, Tool]
-theme: [Global Commerce, Making, Studio, Travel]
-material: [Plant Matter | Cork, Plant Matter | Wood, Synthetic Materials | Glass, Synthetic Materials | Paint/Pigment]
+object:
+  - name: "Color Box"
+    owner:
+      - first_name: Jean-Honoré
+        last_name: Fragonard
+        years: 1732–1806
+    type: [Container, Tool]
+    theme: [Global Commerce, Making, Studio, Travel]
+    material: [Plant Matter | Cork, Plant Matter | Wood, Synthetic Materials | Glass, Synthetic Materials | Paint/Pigment]
 mentions: [palette, handkerchief, red lake, armchair]
 contributor:
   - id: "hwilliams"

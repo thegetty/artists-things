@@ -4,13 +4,15 @@ aliases: [pictures]
 layout: thing
 order: 136
 tags: thing
-owner:
-  - first_name: Nicolas de
-    last_name: Largillière
-    years: 1656–1746
-type: [Artwork]
-theme: [Identity, Religion]
-material: [Metal | Gold/Gilding, Synthetic Materials | Paint/Pigment, Textile | Canvas]
+object:
+  - name: "Picture"
+    owner:
+      - first_name: Nicolas de
+        last_name: Largillière
+        years: 1656–1746
+    type: [Artwork]
+    theme: [Identity, Religion]
+    material: [Metal | Gold/Gilding, Synthetic Materials | Paint/Pigment, Textile | Canvas]
 mentions: [model, armchair, bed, gaming set, lantern, camera obscura, harpsichord]
 contributor:
   - id: "kscott"

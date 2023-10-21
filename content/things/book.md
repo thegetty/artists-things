@@ -4,17 +4,19 @@ aliases: [books]
 layout: thing
 order: 106
 tags: thing
-owner:
-  - first_name: Gilles-Marie
-    last_name: Oppenord
-    years: 1672–1742
-  - first_name: Gabriel de
-    last_name: Saint-Aubin
-    years: 1724–80
-    sort_years: 1724–1780
-type: [Companion]
-theme: [Education, Leisure, Studio]
-material: [Synthetic Materials | Ink, Synthetic Materials | Paper]
+object:
+  - name: "Book"
+    owner:
+      - first_name: Gilles-Marie
+        last_name: Oppenord
+        years: 1672–1742
+      - first_name: Gabriel de
+        last_name: Saint-Aubin
+        years: 1724–80
+        sort_years: 1724–1780
+    type: [Companion]
+    theme: [Education, Leisure, Studio]
+    material: [Synthetic Materials | Ink, Synthetic Materials | Paper]
 mentions: [color box, red lake]
 contributor:
   - id: "kscott"

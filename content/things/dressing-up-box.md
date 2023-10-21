@@ -4,13 +4,15 @@ aliases: [dressing-up boxes]
 layout: thing
 order: 115
 tags: thing
-owner:
-  - first_name: Jean-Antoine
-    last_name: Watteau
-    years: 1684–1721
-type: [Container, Prop, Tool]
-theme: [Education, Making, Studio]
-material: [Textile | Canvas, Textile | Silk]
+object:
+  - name: "Dressing-Up Box"
+    owner:
+      - first_name: Jean-Antoine
+        last_name: Watteau
+        years: 1684–1721
+    type: [Container, Prop, Tool]
+    theme: [Education, Making, Studio]
+    material: [Textile | Canvas, Textile | Silk]
 mentions: [mannequin, sketchbook, palette, écorché, wig]
 contributor:
   - id: "kscott"
