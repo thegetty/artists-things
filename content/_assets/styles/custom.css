@@ -923,44 +923,36 @@ a:hover .quire-thing__main__icon svg {
   line-height: 1.625;
 }
 
-/* TABLE OF CONTENTS GRID */
+/* THINGS GRID */
+/* ================================================================================ */
 @media screen {
-  .quire-contents-list {
-    padding: 0;
+  /* CONTENTS LIST */
+  .objects-page .quire-page__content .container, 
+  .objects-page .quire-page__header .hero-body {
+    max-width: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0 var(--gap);
   }
-  .table-of-contents-select-group {
+  .objects-page .quire-page__content .container .content {
+    margin-top: 1.5rem;
+  }
+  .objects-page .table-of-contents-list {
     display: flex;
-    justify-content: space-around;
-    position: absolute;
-    top: 256px;
-    left: calc(var(--gap) + 1rem);
-    right: calc(var(--gap) + 1rem);
-    z-index: 1;
-  }
-  .table-of-contents-select label {
-    color: var(--accent-color);
-    font-weight: 600;
-  }
-  .table-of-contents-select select {
-    background-color: transparent;
-    color: var(--accent-color);
-    padding: .25rem;
-    border-width: 0;
-  }
-  .table-of-contents-list {
-    display: flex;
-    /* font-size: 1rem; */
     font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.4vw;
     font-weight: 600;
     justify-content: space-between;
+    margin-left: 0 !important;
+    height: 208px;
   }
-  .table-of-contents-list li {
+  .objects-page .table-of-contents-list li {
     display: grid;
     grid-template-columns: 1rem auto;
     grid-template-rows: 1rem auto;
     padding-left: 1.75rem;
   }
-  .table-of-contents-list li::before {
+  .objects-page .table-of-contents-list li::before {
     content: " ";
     width: 1px;
     height: 3rem;
@@ -968,40 +960,49 @@ a:hover .quire-thing__main__icon svg {
     display: block;
     margin-right: 1rem;
   }
-  .table-of-contents-list li:first-child {
+  .objects-page .table-of-contents-list li:first-child {
     padding-left: 0;
     grid-template-columns: auto;
   }
-  .table-of-contents-list li:first-child::before {
+  .objects-page .table-of-contents-list li:first-child::before {
     content: none;
   }
-  .table-of-contents-list li:nth-child(5) ol {
+  .objects-page .table-of-contents-list li:nth-child(5) ol {
     grid-column: 1 / -1;
     grid-row-start: 2;
-    margin-top: .5rem !important;
+    margin-top: .5em;
     min-width: 10.5rem;
+    list-style-type: none;
   } 
-  .table-of-contents-list li:nth-child(5) ol li {
+  .objects-page .table-of-contents-list li:nth-child(5) ol li {
     display: list-item;
     margin-bottom: 0em;
-    margin-left: .5em;
+    margin-left: 1rem;
     font-weight: 400;
     font-style: italic;
     padding-left: 0;
     white-space: nowrap;
+    line-height: 1.75;
   }
-  .table-of-contents-list li:nth-child(5) ol li:before {
+  .objects-page .table-of-contents-list li:nth-child(5) ol li:before {
     content: none;
     margin-bottom: 0;
   }
-  .quire-contents-list .menu-list .section-item ol a,
-  .quire-contents-list .menu-list .section-item ol a:hover  {
-    border-bottom-width: 0px;
+  .objects-page .quire-page__content .content .table-of-contents-list a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link) {
+    border-bottom-width: 0;
   }
-  .table-of-contents-list li .table-of-contents-list {
+  .objects-page .quire-page__content .content .table-of-contents-list a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):hover {
+    border-bottom-width: 0 !important;
+    background-color: transparent;
+    color: var(--accent-color);
+  }
+  .objects-page .table-of-contents-list a {
+    padding: 0;
+  }
+  .objects-page .table-of-contents-list li .table-of-contents-list {
     display: initial;
   }
-  .table-of-contents-list li .table-of-contents-list li:after {
+  .objects-page .table-of-contents-list li .table-of-contents-list li:after {
     display: initial;
     content: none;
   }
@@ -1015,128 +1016,151 @@ a:hover .quire-thing__main__icon svg {
     background-image: url("data:image/svg+xml,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 28.8 240'%3E%3Cpath fill='%23fff' d='M14.4001,216.1079v-0.0029c0,7.9531-6.447,14.3979-14.4,14.395h28.3813H28.8 C20.847,230.5049,14.4001,224.061,14.4001,216.1079z'/%3E%3Cpath fill='none' stroke='%23e0582a' d='M14.4,72.3259V215.605c0,7.9531-6.447,14.3979-14.4,14.395'/%3E%3Cpath fill='none' stroke='%23e0582a' d='M14.4-0.0013v215.6092c0,7.9531,6.447,14.397,14.4,14.3921'/%3E%3C/svg%3E");
     background-size: cover;
     background-position-y: bottom;
+    z-index: 1;
   }
-  .table-of-contents-list li:nth-child(4) ol {
-    grid-column: 1 / 7;
-    display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
-    position: absolute;
-    left: var(--gap);
-    right: var(--gap);
-    top: 240px;
-    margin: 0 !important;
-    padding-top: 4.375rem;
+  /* OBJECT FILTERS */
+  .objects-page .object-filters {
+    background-color: transparent;
     border-top: 1px solid var(--accent-color);
+    margin: 0 var(--gap);
+    padding: 0;
+    position: relative;
+    color: var(--accent-color);
   }
-  .table-of-contents-list li:nth-child(4) ol:before,
-  .table-of-contents-list li:nth-child(4) ol:after {
+  .objects-page .object-filters::before,
+  .objects-page .object-filters::after {
     content: " ";
     width: 1px;
     height: 1.75rem;
     background-color: var(--accent-color);
     position: absolute;
   }
-  .table-of-contents-list li:nth-child(4) ol:before {
-    left: 0;
-  }
-  .table-of-contents-list li:nth-child(4) ol:after {
+  .objects-page .object-filters::after {
     right: 0;
   }
-  .table-of-contents-list li:nth-child(4) ol li {
-    display: initial;
-    margin-bottom: 0;
-    padding-left: 0;
+  .objects-page .object-filters__list {
+    margin-right: 0;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    grid-row-gap: 0;
+    grid-column-gap: 0;
+    padding-top: .5rem;
+    padding-bottom: .25rem;
+  }
+  .objects-page .object-filters__item {
+    display: flex;
+    width: auto;
+    padding: 0;
+    margin: .75rem;
+  }
+  .objects-page .object-filters__item:not(:last-child) {
+    margin-right: 3rem;
+  }
+  .objects-page  .object-filters .collapsible__toggle {
+    display: none;
+  }
+  .objects-page .object-filters__select {
+    position: relative;
+    width: 16rem;
+  }
+  .objects-page .object-filters__select select,
+  .objects-page .object-filters__select select:focus, 
+  .objects-page .object-filters__select select:focus-visible {
+    color: var(--accent-color);
+    outline-width: 0;
+    border-bottom-width: 0;
+  }
+  .objects-page .object-filters__select::after {
+    border-top-color: var(--accent-color);
+  }
+  .objects-page .object-filters__controls {
+    display: flex;
+  }
+  .objects-page .object-filters__button {
+    margin-top: 0;
+    margin-bottom: 1.25rem;
+    font-size: .75rem;
+    padding: .25rem;
+    width: 6rem;
+    color: var(--accent-color);
+    border-color: var(--accent-color);
+    background-color: transparent;
+    padding: .2em .2em .1em;
+  }
+  .objects-page  .object-filters__button.object-filters__button--active {
+    background-color: var(--accent-color);
+  }
+  /*  OBJECT CARDS */
+  .objects-page .object-cards {
+    margin: 0 var(--gap);
+  }
+  .objects-page .object-cards-list {
+    grid-column: 1 / 7;
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-column-gap: 0;
+    grid-row-gap: 0;
+    margin: 0;
+  }
+  .objects-page .object-cards-list .object-card  {
     border-bottom: 1px solid var(--black);
     border-right: 1px solid var(--black);
   }
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(5n+5) {
+  .objects-page .object-cards-list li:nth-child(5n+5) .object-card {
     border-right-width: 0;
   }
-  .table-of-contents-list li:nth-child(4) ol li:nth-last-child(-n+5) {
+  .objects-page .object-cards-list li:nth-last-child(-n+5) .object-card {
     border-bottom-width: 0;
   }
-  .quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
-    display: flex;
-    flex-direction: column;
+  .objects-page .object-cards-list .object-card {
+    position: relative;
+  }
+  .objects-page .object-cards-list .object-card .object-card__content {
+    height: calc((100vw - var(--gap) - var(--gap) - 4px ) / 5);
+    padding: 7% 10% 10%;
+    justify-content: space-between;
+  }
+  .objects-page .object-cards-list .object-card .arrow {
+    display: none;
+  }
+  .objects-page .object-cards-list .object-card .object-card__title {
     font-family: 'Arbutus Slab', serif;
     text-transform: uppercase;
     font-weight: 400;
     line-height: 1.1;
-    margin: 0 !important;
-    height: calc((100vw - var(--gap) - var(--gap) - 4px ) / 5);
-    width: 100%;
-    background-color: white;
-    padding: 7% 10% 10%;
-    justify-content: space-between;
-    position: relative;
-    display: block;
+    color: var(--black);
   }
-  .table-of-contents-list li:nth-child(4) ol li:before {
-    content: none;
+  .objects-page .object-cards-list .object-card:hover img {
+    box-shadow: none;
   }
-  .table-of-contents-list li:nth-child(4) ol li span {
-    position: relative;
-    z-index: 1;
-  }
-  .table-of-contents-list li:nth-child(4) ol li img {
-    margin: 0 auto;
-    position: absolute;
-    max-height: 83%;
-    max-width: 80%;
-    left: 0;
-    right: 0;
-    bottom: 10%;
-  }
-  .quire-contents .quire-page__content .container {
-    height: calc(((100vw - var(--gap) - var(--gap) - 4px ) / 5) * 13 );
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-  }
-  .quire-contents-list .page-item, .quire-contents-list .section-item {
-    line-height: 1.3;
-  }
-  .quire-contents-list .menu-list .section-item ol .page-item:last-child {
-    margin-bottom: 0;
-  }
-
-  .quire-contents-list .menu-list a,
-  .quire-contents-list .menu-list .section-item ol a, 
-  .quire-contents-list .menu-list .section-item ol a:hover {
-    font-size: 1.4vw;
-  }
-  .quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
-    font-size: 1.6vw;
+  .objects-page .object-cards-list .object-card:hover .object-card__title {
+    color: var(--accent-color);
   }
 }
-@media screen and (min-width: 87rem) {
-  .table-of-contents-list li:nth-child(4) ol {
-    grid-template-columns: 14.28% 14.28% 14.28% 14.28% 14.28% 14.28% 14.28%;
-  }
-  .quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
-    height: calc((100vw - var(--gap) - var(--gap) - 1px ) / 7);
-  }
-  .quire-contents .quire-page__content .container {
-    height: calc(((100vw - var(--gap) - var(--gap) - 1px ) / 7) * 10.25 );
-  }
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(5n+5) {
-    border-right-width: 1px;
-  }
-  .table-of-contents-list li:nth-child(4) ol li:nth-last-child(-n+5) {
-    border-bottom-width: 1px;
-  }
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(7n+7) {
-    border-right-width: 0;
-  }
-  .table-of-contents-list li:nth-child(4) ol li:nth-last-child(-n+6) {
-    border-bottom-width: 0;
-  }
-  .quire-contents-list .menu-list a,
-  .quire-contents-list .menu-list .section-item ol a, 
-  .quire-contents-list .menu-list .section-item ol a:hover {
+@media screen and (min-width: 87rem) { 
+  .objects-page .table-of-contents-list {
     font-size: 1.1vw;
   }
-  .quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
+  .objects-page .object-cards-list {
+    grid-template-columns: 14.28% 14.28% 14.28% 14.28% 14.28% 14.28% 14.28%;
+  }
+  .objects-page .object-cards-list .object-card .object-card__content {
+    height: calc((100vw - var(--gap) - var(--gap) - 1px ) / 7);
+  }
+  .objects-page .object-cards-list li:nth-child(5n+5) .object-card {
+    border-right-width: 1px;
+  }
+  .objects-page .object-cards-list li:nth-last-child(-n+5) .object-card {
+    border-bottom-width: 1px;
+  }
+  .objects-page .object-cards-list li:nth-child(7n+7) .object-card {
+    border-right-width: 0;
+  }
+  .objects-page .object-cards-list li:nth-last-child(-n+6) .object-card {
+    border-bottom-width: 0;
+  }
+  .objects-page .object-cards-list .object-card .object-card__title {
     font-size: 1.4vw;
   }
 }
@@ -1429,7 +1453,6 @@ a:hover .quire-thing__main__icon svg {
     top: 385px;
   }
 }
-
 
 
 
