@@ -202,7 +202,8 @@ q-modal {
 .quire-navbar-controls__left button:hover,
 .quire-navbar-controls__right a:hover, 
 .quire-navbar-controls__right button:hover,
-.quire-navbar-controls .quire-navbar-page-controls__item a:hover, 
+.quire-navbar-controls .quire-navbar-page-controls__item a:hover,
+.quire-navbar-controls .quire-navbar-page-controls__item a:hover *, 
 .quire-navbar-controls .quire-navbar-page-controls__item button:hover {
   color: var(--accent-color) !important;
   background-color: transparent;
