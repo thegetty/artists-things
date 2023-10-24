@@ -1,5 +1,5 @@
 ---
-title: "Things"
+title: "Contents"
 layout: objects-page
 order: 100
 redirect: "/contents/"

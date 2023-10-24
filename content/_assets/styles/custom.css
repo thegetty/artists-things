@@ -924,9 +924,12 @@ a:hover .quire-thing__main__icon svg {
 }
 
 /* THINGS GRID */
-/* ================================================================================ */
+/* ========================================================================= */
 @media screen {
   /* CONTENTS LIST */
+  .objects-page .quire-page__content {
+    animation: none;
+  }
   .objects-page .quire-page__content .container, 
   .objects-page .quire-page__header .hero-body {
     max-width: 100%;
@@ -1045,17 +1048,17 @@ a:hover .quire-thing__main__icon svg {
     flex-wrap: wrap;
     grid-row-gap: 0;
     grid-column-gap: 0;
-    padding-top: .5rem;
-    padding-bottom: .25rem;
+    padding: 0;
+    padding: 1rem 1rem .5rem;
   }
   .objects-page .object-filters__item {
     display: flex;
     width: auto;
     padding: 0;
-    margin: .75rem;
+    margin-bottom: .75rem;
   }
   .objects-page .object-filters__item:not(:last-child) {
-    margin-right: 3rem;
+    margin-right: 3.5rem;
   }
   .objects-page  .object-filters .collapsible__toggle {
     display: none;
@@ -1092,371 +1095,262 @@ a:hover .quire-thing__main__icon svg {
     background-color: var(--accent-color);
   }
   /*  OBJECT CARDS */
-  .objects-page .object-cards {
+  .objects-page section.object-cards {
     margin: 0 var(--gap);
   }
-  .objects-page .object-cards-list {
-    grid-column: 1 / 7;
-    display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
+  .objects-page ol.object-cards-list {
+    grid-template-columns: repeat(5, 1fr);
     grid-column-gap: 0;
     grid-row-gap: 0;
-    margin: 0;
+    outline: 1px solid white;
+    outline-offset: -1px;
   }
-  .objects-page .object-cards-list .object-card  {
-    border-bottom: 1px solid var(--black);
+  .objects-page ol.object-cards-list .object-card {
+    height: calc((100vw - var(--gap) - var(--gap)) / 5 );
+    border-radius: 0%;
     border-right: 1px solid var(--black);
+    border-bottom: 1px solid var(--black);
   }
-  .objects-page .object-cards-list li:nth-child(5n+5) .object-card {
-    border-right-width: 0;
-  }
-  .objects-page .object-cards-list li:nth-last-child(-n+5) .object-card {
-    border-bottom-width: 0;
-  }
-  .objects-page .object-cards-list .object-card {
-    position: relative;
-  }
-  .objects-page .object-cards-list .object-card .object-card__content {
-    height: calc((100vw - var(--gap) - var(--gap) - 4px ) / 5);
-    padding: 7% 10% 10%;
+  .objects-page ol.object-cards-list .object-card__content {
+    display: flex;
+    flex-direction: column;
     justify-content: space-between;
+    height: 100%;
+    padding: 7% 10% 10%;
   }
-  .objects-page .object-cards-list .object-card .arrow {
-    display: none;
-  }
-  .objects-page .object-cards-list .object-card .object-card__title {
+  .objects-page ol.object-cards-list .object-card__title {
     font-family: 'Arbutus Slab', serif;
     text-transform: uppercase;
     font-weight: 400;
     line-height: 1.1;
     color: var(--black);
+    font-size: 1.6vw;
   }
-  .objects-page .object-cards-list .object-card:hover img {
-    box-shadow: none;
+  .objects-page ol.object-cards-list .object-card__title .arrow {
+    display: none;
   }
-  .objects-page .object-cards-list .object-card:hover .object-card__title {
+  .objects-page .object-card:hover .object-card__title {
     color: var(--accent-color);
   }
+  .objects-page .object-card:hover .object-card__image img {
+    box-shadow: none;
+  }
 }
-@media screen and (min-width: 87rem) { 
+/* As screen goes larger, go to 7-card grid */
+@media screen and (min-width: 1392px) {
+  .objects-page ol.object-cards-list {
+    grid-template-columns: repeat(7, 1fr);
+  }
+  .objects-page ol.object-cards-list .object-card {
+    height: calc((100vw - var(--gap) - var(--gap)) / 7 );
+  }
+  .objects-page ol.object-cards-list .object-card__title {
+    font-size: 1.4vw;
+  }
   .objects-page .table-of-contents-list {
     font-size: 1.1vw;
   }
-  .objects-page .object-cards-list {
-    grid-template-columns: 14.28% 14.28% 14.28% 14.28% 14.28% 14.28% 14.28%;
-  }
-  .objects-page .object-cards-list .object-card .object-card__content {
-    height: calc((100vw - var(--gap) - var(--gap) - 1px ) / 7);
-  }
-  .objects-page .object-cards-list li:nth-child(5n+5) .object-card {
-    border-right-width: 1px;
-  }
-  .objects-page .object-cards-list li:nth-last-child(-n+5) .object-card {
-    border-bottom-width: 1px;
-  }
-  .objects-page .object-cards-list li:nth-child(7n+7) .object-card {
-    border-right-width: 0;
-  }
-  .objects-page .object-cards-list li:nth-last-child(-n+6) .object-card {
-    border-bottom-width: 0;
-  }
-  .objects-page .object-cards-list .object-card .object-card__title {
-    font-size: 1.4vw;
-  }
 }
-@media screen and (min-width: 105rem) {
-  .table-of-contents-list li {
-  }
-  .quire-contents .quire-page__content .container, 
-  .quire-contents .quire-page__header .hero-body {
+/* When screen exceeds this size, freeze the grid size and center it on the page */
+@media screen and (min-width: 1680px) {
+  .objects-page .quire-page__content .container, 
+  .objects-page .quire-page__header .hero-body,
+  .objects-page objects-catalog {
+    display: block;
     max-width: 105rem;
     width: 100%;
     margin: 0 auto;
   }
-  .quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
-    height: calc(105rem / 7);
-  }
-  .quire-contents .quire-page__content .container {
-    height: calc((105rem / 7) * 9.75 );
-  }
-  .quire-contents-list .menu-list a,
-  .quire-contents-list .menu-list .section-item ol a, 
-  .quire-contents-list .menu-list .section-item ol a:hover {
+  .objects-page .table-of-contents-list {
     font-size: 1.15rem;
   }
-  .quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
+  .objects-page ol.object-cards-list .object-card {
+    height: calc(105rem / 7 );
+  }
+  .objects-page ol.object-cards-list .object-card__title {
     font-size: 1.5rem;
   }
 }
-@media screen and (min-width: 40rem) and (max-width: 66.5rem) {
-  .table-of-contents-select-group {
-    display: block;
-    left: 18.5rem;
-    top: 3.5rem;
+/* When screen is too narrow for horizontal TOC, switch to side-by-side view */
+@media screen and (max-width: 1064px) {
+  .objects-page {
+    display: grid;
+    grid-template-columns: 17.5rem 1fr;
+    grid-template-rows: 160px 1fr 160px;
   }
-  .table-of-contents-select-group .table-of-contents-select {
-    display: inline-block;
-    margin-left: 1.75rem;
-    margin-bottom: .5rem;
+  .objects-page .quire-page__header,
+  .objects-page .quire-contents-buttons {
+    grid-column: -1/1;
   }
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(-n+3) {
-    margin-top: 5.25rem;
+  .objects-page .quire-page__content .container {
+    padding-right: 1rem;
   }
-  .table-of-contents-list {
+  .objects-page .table-of-contents-list {
     flex-direction: column;
-    margin-top: 3.5rem;
+    height: auto;
+    font-size: 1rem;
   }
-  .table-of-contents-list li::before {
+  .objects-page .table-of-contents-list li::before {
     width: 5rem;
     height: 1px;
     margin-bottom: 1rem;
   }
-  .quire-contents-list {
+  .objects-page .table-of-contents-list .page-item, 
+  .objects-page .table-of-contents-list .section-item {
+    margin-bottom: 1.375rem !important;
+    display: block;
     padding-left: 0;
   }
-  .table-of-contents-list li {
-    padding-left: 0;
+  .objects-page .table-of-contents-list li:nth-child(5) ol {
     display: block;
   }
-  .table-of-contents-list li:nth-child(4):after {
-    height: 28.8px;
-    margin-left: 4rem;
-    background-image: url("data:image/svg+xml,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 240 28.8'%3E%3Cpath fill='%23fff' d='M216.1092,14.4h-0.0029c7.9531,0,14.3979,6.447,14.395,14.4V0.4186V0 C230.5062,7.953,224.0623,14.4,216.1092,14.4z'/%3E%3Cpath fill='none' stroke='%23e0582a' d='M72.3272,14.4h143.2791c7.9531,0,14.3979,6.447,14.395,14.4'/%3E%3Cpath fill='none' stroke='%23e0582a' d='M0,14.4h215.6092c7.9531,0,14.397-6.447,14.3921-14.4'/%3E%3C/svg%3E");
-    background-position-x: right;
-    margin-top: -1.4rem;
-    width: 171px;
-  }
-  .table-of-contents-list li:nth-child(4) ol {
-    grid-template-columns: 33.3333% 33.3333% 33.3333%;
-    left: 17.5rem;
-    top: 2.5rem;
-    border-top-width: 0px;
-    padding-top: 0;
-    border-left: 1px solid var(--accent-color) !important;
-    padding-left: 1.75rem;
-  }
-  .table-of-contents-list li:nth-child(4) ol:before,
-  .table-of-contents-list li:nth-child(4) ol:after {
-    content: " ";
-    width: 1.75rem;
-    height: 1px;
-    background-color: var(--accent-color);
-    position: absolute;
-  }
-  .table-of-contents-list li:nth-child(4) ol:after {
-    left: 0;
-    bottom: 0;
-  }
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(5n+5),
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(7n+7) {
-    border-right-width: 1px;
-  }
-  .table-of-contents-list li:nth-child(4) ol li:nth-last-child(-n+5),
-  .table-of-contents-list li:nth-child(4) ol li:nth-last-child(-n+6) {
-    border-bottom-width: 1px;
-  }
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(3n+3) {
-    border-right-width: 0;
-  }
-  .table-of-contents-list li:nth-child(4) ol li:last-child {
-    border-left: 1px solid var(--black);
-    border-bottom-width: 0;
-    grid-column-start: 2;
-  }
-  .quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
-    height: calc((100vw - var(--gap) - 17.5rem - 2px ) / 3);
-  }
-  .quire-contents .quire-page__content .container {
-    height: calc(((100vw - var(--gap) - 17.5rem - 2px ) / 3) * 20 );
-  }
-  .table-of-contents-list li:nth-child(5) ol {
-    margin-left: 0 !important;
-    margin-top: 0 !important;
-    display: block;
-  } 
-  .table-of-contents-list li:nth-child(5) ol li {
+  .objects-page .table-of-contents-list li:nth-child(5) ol li {
     margin-left: 0;
-  }
-  .table-of-contents-list li:nth-child(5) ol li:last-child {
     margin-bottom: 0 !important;
   }
-  .quire-contents-list .menu-list a,
-  .quire-contents-list .menu-list .section-item ol a, 
-  .quire-contents-list .menu-list .section-item ol a:hover {
-    font-size: 1rem;
+  .objects-page section.object-cards {
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    min-height: 140px;
+    position: relative;
   }
-  .quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
+  .objects-page .object-filters__item {
+    margin-right: 0 !important;
+  }
+  .objects-page ol.object-cards-list {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .objects-page ol.object-cards-list .object-card {
+    height: calc((100vw - 17.5rem - 1.5rem - var(--gap)) / 3 );
+  }
+  .objects-page ol.object-cards-list .object-card__title {
     font-size: 1.9vw;
   }
 }
-@media screen and (min-width: 40rem) and (max-width: 56rem) {
-  .table-of-contents-select-group .table-of-contents-select {
-    display: block;
+/* THis is still side-by-side, but won't carry over to smallest screens */
+@media screen and (min-width: 640px) and (max-width: 1064px) {
+  .table-of-contents-list li:nth-child(4):after {
+    height: 28.8px;
+    margin-left: 1.5rem;
+    background-image: url("data:image/svg+xml,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 240 28.8'%3E%3Cpath fill='%23fff' d='M216.1092,14.4h-0.0029c7.9531,0,14.3979,6.447,14.395,14.4V0.4186V0 C230.5062,7.953,224.0623,14.4,216.1092,14.4z'/%3E%3Cpath fill='none' stroke='%23e0582a' d='M72.3272,14.4h143.2791c7.9531,0,14.3979,6.447,14.395,14.4'/%3E%3Cpath fill='none' stroke='%23e0582a' d='M0,14.4h215.6092c7.9531,0,14.397-6.447,14.3921-14.4'/%3E%3C/svg%3E");
+    background-position-x: right;
+    margin-top: -0.2rem;
+    width: 164.5px;
   }
-  .table-of-contents-select label {
-    display: inline-block;
-    width: 4.375rem;
+  .objects-page .object-filters::before,
+  .objects-page section.object-cards::after {
+    content: " ";
+    height: 1px;
+    width: 1.75rem;
+    background-color: var(--accent-color);
+    position: absolute;
   }
-  .table-of-contents-select select {
-    width: 17.5rem;
-    max-width: calc(100% - 5rem);
+  .objects-page section.object-cards::after {
+    bottom: 0;
+    left: 0;
   }
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(-n+3) {
-    margin-top: 0;
+  .objects-page .object-filters {
+    border-top-width: 0;
   }
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(-n+2) {
-    margin-top: 7.875rem;
+  .objects-page .object-filters::after {
+    width: 0;
   }
-  .table-of-contents-list li:nth-child(4) ol {
-    grid-template-columns: 50% 50%;
+  .objects-page .object-filters,
+  .objects-page section.object-cards {
+    margin: 0;
+    padding-left: 1.5rem;
+    padding-right: var(--gap);
+    border-left: 1px solid var(--accent-color);
   }
-  .quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
-    height: calc((100vw - var(--gap) - 17.5rem - 1px ) / 2);
+  .objects-page .object-filters__list,
+  .objects-page .object-filters__controls {
+    justify-content: flex-start;
+    padding-right: 0;
+    width: 100%;
   }
-  .quire-contents .quire-page__content .container {
-    height: calc(((100vw - var(--gap) - 17.5rem - 1px ) / 2) * 29 );
+  .objects-page .object-filters__controls {
+    margin-left: .8125rem;
   }
-  .quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
-    font-size: 2.4vw;
+  .objects-page .object-filters__item {
+    margin-right: 0 !important;
+    grid-gap: 0;
+    width: 100%;
   }
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(5n+5),
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(7n+7),
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(3n+3) {
-    border-right-width: 1px;
-  }
-  .table-of-contents-list li:nth-child(4) ol li:nth-last-child(-n+5),
-  .table-of-contents-list li:nth-child(4) ol li:nth-last-child(-n+6) {
-    border-bottom-width: 1px;
-  }
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(2n+2) {
-    border-right-width: 0;
-  }
-  .table-of-contents-list li:nth-child(4) ol li:last-child {
-    border-left: 0;
-    border-bottom-width: 0;
-    grid-column-start: 1;
+  .objects-page .object-filters__item label {
+    width: 4rem;
+    text-align: left;
   }
 }
-@media screen and (max-width: 40rem) {
-  .table-of-contents-select-group {
-    display: block;
-    left: calc(var(--gap) + 1rem);
-    right: calc(var(--gap) + 1rem);
-    top: 380px;
+/* As screen gets even narrower, go to 2-card grid */
+@media screen and (min-width: 640px) and (max-width: 895px) {
+  .objects-page .object-filters__select {
+    min-width: 12.5rem;
+    max-width: 16rem;
+    width: 100%;
   }
-  .table-of-contents-select label {
-    display: inline-block;
-    width: 4.375rem;
+  .objects-page ol.object-cards-list {
+    grid-template-columns: repeat(2, 1fr);
   }
-  .table-of-contents-select select {
-    width: 17.5rem;
-    max-width: calc(100% - 5rem);
+  .objects-page ol.object-cards-list .object-card {
+    height: calc((100vw - 17.5rem - 1.5rem - var(--gap)) / 2 );
   }
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(-n+2) {
-    margin-top: 1.75rem;
+  .objects-page ol.object-cards-list .object-card__title {
+    font-size: 2.4vw;
   }
-  .table-of-contents-list {
+}
+/* At this size, revert to having the TOC above the grid, but put it in two columns */
+@media screen and (max-width: 639px) {
+  .objects-page {
+    display: initial;
+  }
+  .objects-page .quire-page__content .container {
+    padding: 0 var(--gap);
+  }
+  .objects-page .table-of-contents-list {
+    flex-direction: column;
+    font-size: 1rem;
     display: block;
     column-count: 2;
-  }
-  .table-of-contents-list .table-of-contents-list {
-    column-count: 1;
-  }
-  .table-of-contents-list li::before {
-    width: 5rem;
-    height: 1px;
-    margin-bottom: 1rem;
-  }
-  .quire-contents-list {
-    padding-left: .25rem;
-  }
-  .table-of-contents-list li {
-    padding-left: 0;
-    display: block;
-  }
-  .table-of-contents-list li:nth-child(4) ol {
-    grid-template-columns: 50% 50%;
-    top: 364px;
-  }
-  .quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
-    height: calc((100vw - var(--gap) - var(--gap) - 1px ) / 2);
-  }
-  .quire-contents .quire-page__content .container {
-    height: calc(((100vw - var(--gap) - var(--gap) - 1px ) / 2) * 30.5 );
+    padding-left: 0.25rem;
+    padding-bottom: 1.5rem;
   }
   .table-of-contents-list li:nth-child(4):after {
-    height: 158.5px;
-    margin-left: 1rem;
-    margin-top: 1rem;
-  }
-  .table-of-contents-list li:nth-child(4) ol li {
-    border-width: 0;
-    border-bottom-width: 1px;
-  }
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(-n+3) {
-    /* border-top-width: .5px; */
-  }
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(2n+1) {
-    /* border-left-width: .5px; */
-  }
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(2n+1) {
-    border-right-width: 1px;
-  }
-  .table-of-contents-list li:nth-child(4) ol li:nth-last-child(2) {
-    /* border-bottom-width: 1px; */
-  }
-  .table-of-contents-list li:nth-child(4) ol li:last-child {
-    /* border-right-width: 1px; */
-    /* border-bottom-width: 0; */
-  }
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(-n+2) {
-    /* border-top-width: 0; */
-  }
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(2n+1) {
-    /* border-left-width: 0; */
-  }
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(2n+2) {
-    /* border-right-width: 0; */
+    margin-top: 2rem;
+    margin-left: -1.5rem;
+    height: 174.5px;
   }
   .table-of-contents-list li:nth-child(5) {
     break-inside: avoid;
   }
   .table-of-contents-list li:nth-child(5)::before {
-    content: none;
+    width: 0;
+    height: 0;
   }
   .table-of-contents-list li:nth-child(5) ol {
-    margin-left: 0 !important;
-    margin-top: 0 !important;
-    display: block;
-  } 
-  .table-of-contents-list li:nth-child(5) ol li {
-    margin-left: 0;
+    column-count: 1;
+    padding: 0;
   }
-  .table-of-contents-list li:nth-child(5) ol li:last-child {
-    margin-bottom: 0 !important;
+  .objects-page ol.object-cards-list {
+    grid-template-columns: repeat(2, 1fr);
   }
-  .quire-contents-list .menu-list a,
-  .quire-contents-list .menu-list .section-item ol a, 
-  .quire-contents-list .menu-list .section-item ol a:hover {
-    font-size: 1rem;
+  .objects-page ol.object-cards-list .object-card {
+    height: calc((100vw - var(--gap) - var(--gap)) / 2 );
   }
-  .quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
+  .objects-page ol.object-cards-list .object-card__title {
     font-size: 4vw;
   }
 }
-
-@media screen and (max-width: 418px) {
-  .table-of-contents-select-group {
-    top: 400px;
-  }
-  .table-of-contents-list li:nth-child(4) ol {
-    top: 385px;
+/* Adjust width of filters for smallest screens */
+@media screen and (max-width: 410px) {
+  .objects-page .object-filters__select {
+    min-width: 12.5rem;
+    max-width: 16rem;
+    width: 100%;
   }
 }
 
-
-
 /* TAXONMIES */
+/* ========================================================================= */
 .quire-page.taxonomy .quire-page__header {
   margin-bottom: 0;
   margin-top: 1.5rem;
