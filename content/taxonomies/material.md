@@ -44,7 +44,7 @@ classes:
 
 {% if materialCategory != materialName %}
 <tr class="material-category">
-<td>{{ materialName }}</td>
+<td><a href="/things/?material={{ materialCategory | replace: " ", "%2520" }}%2520%257C%2520{{ materialName | url_encode | replace: "+", "%2520" }}">{{ materialName}}</a></td>
 <td>{% for page in thingPages %}{% assign pageTitle = page.data.title %}{% for item in page.data.object[0].material %}{% if item == materialFullName %}{% thing page.data.title %}{% endif %}{% endfor %}{% endfor %}</td>
 </tr>
 {% endif %}

@@ -22,19 +22,19 @@ description: Thing layout. This layout is a copy of essay.liquid, except that it
         <div class='thing-type'>
         {% if object[0].type %}
           <p>Type of Object</p>
-          <ul>{% for i in object[0].type %}<li>{{ i }}</li>{% endfor %}</ul>
+          <ul>{% for i in object[0].type %}<li><a href="/things/?type={{ i | url_encode | replace: "+", "%2520" }}">{{ i }}</a></li>{% endfor %}</ul>
         {% endif %}
         </div>
         <div class='thing-theme'>
         {% if object[0].theme %}
           <p>Theme</p>
-          <ul>{% for i in object[0].theme %}<li>{{ i }}</li>{% endfor %}</ul>
+          <ul>{% for i in object[0].theme %}<li><a href="/things/?theme={{ i | url_encode | replace: "+", "%2520" }}">{{ i }}</a></li>{% endfor %}</ul>
         {% endif %}
         </div>
         <div class='thing-material'>
         {% if object[0].material %}
           <p>Material</p>
-          <ul>{% for i in object[0].material %}<li>{{ i }}</li>{% endfor %}</ul>
+          <ul>{% for i in object[0].material %}<li><a href="/things/?material={{ i | url_encode | replace: "+", "%2520" }}">{{ i }}</a></li>{% endfor %}</ul>
         {% endif %}
         </div>
       </div>

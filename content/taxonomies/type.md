@@ -25,7 +25,7 @@ classes:
 {% for type in uniqueThingTypes %}
 {% unless type == '' %}
 <tr>
-<td>{{ type }}</td>
+<td><a href="/things/?type={{ type | url_encode | replace: "+", "%2520" }}">{{ type }}</a></td>
 <td>{% for page in thingPages %}{% if page.data.object[0].type contains type %}{% thing page.data.title %} {% endif %}{% endfor %}</td>
 </tr>
 {% endunless %}
