@@ -1127,8 +1127,15 @@ a:hover .quire-thing__main__icon svg {
     color: var(--black);
     font-size: 1.6vw;
   }
+  .objects-page ol.object-cards-list  .object-card__title:not(:last-child) {
+    margin-bottom: 0;
+  }
   .objects-page ol.object-cards-list .object-card__title .arrow {
     display: none;
+  }
+  .objects-page .object-card .object-card__image {
+    display: flex;
+    flex-direction: column-reverse;
   }
   .objects-page .object-card:hover .object-card__title {
     color: var(--accent-color);
@@ -1146,7 +1153,7 @@ a:hover .quire-thing__main__icon svg {
     height: calc((100vw - var(--gap) - var(--gap)) / 7 );
   }
   .objects-page ol.object-cards-list .object-card__title {
-    font-size: 1.4vw;
+    font-size: 1.35vw;
   }
   .objects-page .table-of-contents-list {
     font-size: 1.1vw;
