@@ -54,7 +54,10 @@ module.exports = function (eleventyConfig, { collections, page }) {
     let types = ''
     if (thingPage.data.object[0].type) {
       for (type of thingPage.data.object[0].type) {
-        newType = html`<span role="listitem"><a href="/contents/" class="quire-thing__link"><span>${type}</span><span>${linkIcon}</span></a></span>`
+        let urlQuery = type.replaceAll(" ", "%2520")
+          .replaceAll("|", "%257C")
+          .replaceAll("/", "%252F")
+        newType = html`<span role="listitem"><a href="/things/?type=${urlQuery}" class="quire-thing__link"><span>${type}</span><span>${linkIcon}</span></a></span>`
         types = types + newType
       }
     }
@@ -62,7 +65,10 @@ module.exports = function (eleventyConfig, { collections, page }) {
     let themes = ''
     if (thingPage.data.object[0].theme) {
     for (theme of thingPage.data.object[0].theme) {
-        newTheme = html`<span role="listitem"><a href="/contents/" class="quire-thing__link"><span>${theme}</span><span>${linkIcon}</span></a></span>`
+        let urlQuery = theme.replaceAll(" ", "%2520")
+          .replaceAll("|", "%257C")
+          .replaceAll("/", "%252F")
+        newTheme = html`<span role="listitem"><a href="/things/?theme=${urlQuery}" class="quire-thing__link"><span>${theme}</span><span>${linkIcon}</span></a></span>`
         themes = themes + newTheme
       }
     }
@@ -71,7 +77,10 @@ module.exports = function (eleventyConfig, { collections, page }) {
     if (thingPage.data.object[0].material) {
       for (material of thingPage.data.object[0].material) {
         const materialWithoutCategory = material.replace(/.*? \| /g, '')
-        newMaterial = html`<span role="listitem"><a href="/contents/" class="quire-thing__link"><span>${materialWithoutCategory}</span><span>${linkIcon}</span></a></span>`
+        let urlQuery = material.replaceAll(" ", "%2520")
+          .replaceAll("|", "%257C")
+          .replaceAll("/", "%252F")
+        newMaterial = html`<span role="listitem"><a href="/things/?material=${urlQuery}" class="quire-thing__link"><span>${materialWithoutCategory}</span><span>${linkIcon}</span></a></span>`
         materials = materials + newMaterial
       }
     }
@@ -82,7 +91,7 @@ module.exports = function (eleventyConfig, { collections, page }) {
       if (entry.data.mentions) {
         const matches = entry.data.mentions.filter(element => aliases.includes(element))
         if ( matches.length >= 1 ) {
-          newMention = html`<span role="listitem"><a href="${entry.url}" class="quire-thing__link"><span>${entry.data.title}</span><span>${linkIcon}</span></a></span>`
+          newMention = html`<span role="listitem"><a href="${entry.url}" class="quire-thing__link"><span>${markdownify(entry.data.title)}</span><span>${linkIcon}</span></a></span>`
           mentions = mentions + newMention
         }
       }
