@@ -48,6 +48,9 @@ Don't output any HTML if there aren't caption elements
 **content/_computed/eleventyComputed.js**
 Handle a page redirect, so that the Things page goes to Contents
 
+**_includes/components/object-filters/objects-catalog.webc**
+Added a change from https://github.com/thegetty/quire/pull/872, to allow objects-page at root level
+
 **_includes/components/table-of-contents/list/index.js**
 Added three dropdown selects for the thing grid
 
