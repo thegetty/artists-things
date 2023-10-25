@@ -57,7 +57,7 @@ module.exports = function (eleventyConfig, { collections, page }) {
         let urlQuery = type.replaceAll(" ", "%2520")
           .replaceAll("|", "%257C")
           .replaceAll("/", "%252F")
-        newType = html`<span role="listitem"><a href="/things/?type=${urlQuery}" class="quire-thing__link"><span>${type}</span><span>${linkIcon}</span></a></span>`
+        newType = html`<span role="listitem"><a href="/contents/?type=${urlQuery}" class="quire-thing__link"><span>${type}</span><span>${linkIcon}</span></a></span>`
         types = types + newType
       }
     }
@@ -68,7 +68,7 @@ module.exports = function (eleventyConfig, { collections, page }) {
         let urlQuery = theme.replaceAll(" ", "%2520")
           .replaceAll("|", "%257C")
           .replaceAll("/", "%252F")
-        newTheme = html`<span role="listitem"><a href="/things/?theme=${urlQuery}" class="quire-thing__link"><span>${theme}</span><span>${linkIcon}</span></a></span>`
+        newTheme = html`<span role="listitem"><a href="/contents/?theme=${urlQuery}" class="quire-thing__link"><span>${theme}</span><span>${linkIcon}</span></a></span>`
         themes = themes + newTheme
       }
     }
@@ -80,7 +80,7 @@ module.exports = function (eleventyConfig, { collections, page }) {
         let urlQuery = material.replaceAll(" ", "%2520")
           .replaceAll("|", "%257C")
           .replaceAll("/", "%252F")
-        newMaterial = html`<span role="listitem"><a href="/things/?material=${urlQuery}" class="quire-thing__link"><span>${materialWithoutCategory}</span><span>${linkIcon}</span></a></span>`
+        newMaterial = html`<span role="listitem"><a href="/contents/?material=${urlQuery}" class="quire-thing__link"><span>${materialWithoutCategory}</span><span>${linkIcon}</span></a></span>`
         materials = materials + newMaterial
       }
     }

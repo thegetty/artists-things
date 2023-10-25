@@ -25,7 +25,7 @@ classes:
 {% for theme in uniqueThingThemes %}
 {% unless theme == '' %}
 <tr>
-<td><a href="/things/?theme={{ theme | url_encode | replace: "+", "%2520" }}">{{ theme }}</a></td>
+<td><a href="/contents/?theme={{ theme | url_encode | replace: "+", "%2520" }}">{{ theme }}</a></td>
 <td>{% for page in thingPages %}{% if page.data.object[0].theme contains theme %}{% thing page.data.title %} {% endif %}{% endfor %}</td>
 </tr>
 {% endunless %}
