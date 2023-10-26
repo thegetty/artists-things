@@ -24,10 +24,13 @@ classes:
   <tbody>
 {% for type in uniqueThingTypes %}
 {% unless type == '' %}
-<tr>
-<td data-outputs-exclude="epub,pdf"><a href="/contents/?type={{ type | url_encode | replace: "+", "%2520" }}">{{ type }}</a></td>
-<td data-outputs-exclude="html">{{ type }}</td>
+<tr data-outputs-exclude="epub,pdf">
+<td><a href="/contents/?type={{ type | url_encode | replace: "+", "%2520" }}">{{ type }}</a></td>
 <td>{% for page in thingPages %}{% if page.data.object[0].type contains type %}{% thing page.data.title %} {% endif %}{% endfor %}</td>
+</tr>
+<tr data-outputs-exclude="html">
+<td>{{ type }}</td>
+<td>{% for page in thingPages %}{% if page.data.object[0].type contains type %}<a href="{{ page.url }}">{{ page.data.title | markdownify }}</a>{% endif %}{% endfor %}</td>
 </tr>
 {% endunless %}
 {% endfor %}

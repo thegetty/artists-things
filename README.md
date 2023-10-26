@@ -96,5 +96,8 @@ Refactored logic to handle oxford commas correctly; and added handling to displa
 **_plugins/shortcodes/open.js**
 Custom shortcode based on the old `ref` shortocode, except refactored to accept comma-separated array, and to output with .q-figure__modal-link class
 
+**content/_assets/styles/epub.scss**
+Replace default styles with simpler, cleaner version
+
 **content/_assets/javascript/application/index.js**
 Allow only one pop-up to be open at a time

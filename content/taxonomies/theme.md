@@ -24,10 +24,13 @@ classes:
   <tbody>
 {% for theme in uniqueThingThemes %}
 {% unless theme == '' %}
-<tr>
-<td data-outputs-exclude="epub,pdf"><a href="/contents/?theme={{ theme | url_encode | replace: "+", "%2520" }}">{{ theme }}</a></td>
-<td data-outputs-exclude="html">{{ theme }}</td>
+<tr data-outputs-exclude="epub,pdf">
+<td><a href="/contents/?theme={{ theme | url_encode | replace: "+", "%2520" }}">{{ theme }}</a></td>
 <td>{% for page in thingPages %}{% if page.data.object[0].theme contains theme %}{% thing page.data.title %} {% endif %}{% endfor %}</td>
+</tr>
+<tr data-outputs-exclude="html">
+<td>{{ theme }}</td>
+<td>{% for page in thingPages %}{% if page.data.object[0].theme contains theme %}<a href="{{ page.url }}">{{ page.data.title | markdownify }}</a>{% endif %}{% endfor %}</td>
 </tr>
 {% endunless %}
 {% endfor %}
