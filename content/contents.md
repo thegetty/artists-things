@@ -4,16 +4,9 @@ layout: objects-page
 order: 5
 search: false
 menu: false
+outputs:
+  - html
 ---
-
-{% assign thingPages = collections.thing %}
-
-<div class="pdf-thing-grid is-print-only">{%- for thing in thingPages -%}<div class="pdf-thing-grid__item">
-<a href="#things-{{ thing.fileSlug }}">
-<span class="pdf-thing-grid__item__title">{{ thing.data.title | markdownify }}</span>
-<img class="pdf-thing-grid__item__thumbnail" src="_assets/images/figures/things/{{ thing.fileSlug }}.jpg" />
-</a>
-</div>{%- endfor -%}</div>
 
 <nav class="table-of-contents menu-list" data-outputs-include="html">
   <ol class="table-of-contents-list">

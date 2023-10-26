@@ -102,7 +102,7 @@ module.exports = function (eleventyConfig, { collections, page }) {
         <span class="quire-citation__button quire-thing__button" role="button" tabindex="0" aria-expanded="false">
           ${markdownify(displayText)}
         </span>
-        <span hidden class="quire-citation__content quire-thing__content">
+        <span hidden class="quire-citation__content quire-thing__content" data-outputs-exclude="epub,pdf">
           
           <span class="quire-thing__main">
             <a href="${thingPage.url}">

@@ -1426,8 +1426,8 @@ a:hover .quire-thing__main__icon svg {
   padding-right: .5rem;
 }
 /* Indexes by Type and Theme */
-#index-by-theme tr td:first-child,
-#index-by-thing tr td:first-child {
+#themes-table tr td:first-child,
+#types-table tr td:first-child {
   font-style: italic;
 }
 /* Index by Material */
@@ -1435,14 +1435,14 @@ a:hover .quire-thing__main__icon svg {
 .quire-page.taxonomy[data-page-id="taxonomies-material"] .quire-page__header__title {
   border-bottom-width: 0px;
 }
-#index-by-material.taxonomy-table {
+#materials-table.taxonomy-table {
   border-bottom: 1px solid var(--black);
   columns: 2;
   column-gap: 0;
   column-rule: 1px solid var(--black);
   display: block;
 }
-#index-by-material.taxonomy-table tbody {
+#materials-table.taxonomy-table tbody {
   break-inside: avoid;
   columns: 1;
   display: block;
@@ -1450,31 +1450,31 @@ a:hover .quire-thing__main__icon svg {
   column-rule-width: 0px;
   margin: 0;
 }
-#index-by-material.taxonomy-table tbody:first-of-type {
+#materials-table.taxonomy-table tbody:first-of-type {
   display: none;
 }
-#index-by-material.taxonomy-table tbody tr {
+#materials-table.taxonomy-table tbody tr {
   padding-left: 1.5rem;
 }
-#index-by-material.taxonomy-table tbody tr:first-child {
+#materials-table.taxonomy-table tbody tr:first-child {
   padding-top: 1rem;
   padding-left: .5rem;
 }
-#index-by-material.taxonomy-table tbody tr:last-child {
+#materials-table.taxonomy-table tbody tr:last-child {
   padding-bottom: .75rem;
 }
-#index-by-material.taxonomy-table tr td:first-child {
+#materials-table.taxonomy-table tr td:first-child {
   width: 10.5rem;
   font-style: italic;
 }
-#index-by-material.taxonomy-table tr td.material-category-header {
+#materials-table.taxonomy-table tr td.material-category-header {
   font-weight: 600;
   font-style: normal;
   text-transform: uppercase;
   letter-spacing: .8px;
   white-space: nowrap;
 }
-#index-by-material.taxonomy-table tr td.material-category-header + td {
+#materials-table.taxonomy-table tr td.material-category-header + td {
   padding-left: 1rem;
 }
 /* Owners List in frontmatter */
@@ -1528,7 +1528,7 @@ a:hover .quire-thing__main__icon svg {
 
 @media screen and (max-width: 45.5rem) {
   .taxonomy-table tbody,
-  #index-by-material.taxonomy-table,
+  #materials-table.taxonomy-table,
   #owners-list {
     columns: 1;
     margin-left: 0;
@@ -1537,7 +1537,7 @@ a:hover .quire-thing__main__icon svg {
   .taxonomy-table tr td:first-child {
     padding-left: 0 !important;
   }
-  #index-by-material.taxonomy-table tbody tr:first-child {
+  #materials-table.taxonomy-table tbody tr:first-child {
     padding-left: 0;
   }
   .has-rule-lines::before,

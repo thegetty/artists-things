@@ -2,6 +2,12 @@
 
 The [Quire Eleventy package](https://github.com/thegetty/quire/tree/main/packages/11ty) contains configuration and modules for the [Eleventy static site generator](https://11ty.dev). This package is published to npm as [`@thegetty/quire-11ty`](https://www.npmjs.com/package/@thegetty/quire-11ty) and installed by the [`@thegetty/quire-cli`](https://www.npmjs.com/package/@thegetty/quire-cli) to build [Quire](https://quire.getty.edu) projects.
 
+## Creating an EPUB Version
+
+1. Run `quire build`
+
+2. In `_epub/page-03_pdf-epub-contents.xhtml`, find and replace the one instance of `<a href="contents/">` with `<a href="page-07_things.xhtml">`
+
 ## Creating a PDF Version
 
 1. Run `quire build`
@@ -42,6 +48,9 @@ Added custom search icon
 
 **_includes/components/figure/caption.js**
 Don't output any HTML if there aren't caption elements
+
+**_includes/components/license-icons.js**
+Exclude SVG icons from EPUB output
 
 **_includes/components/menu/item.js**
 **_includes/components/table-of-contents/item/list.js**
