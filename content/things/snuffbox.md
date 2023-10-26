@@ -45,7 +45,7 @@ The snuffbox’s lack of semiotic fixity, its standing as a metasymbol for luxur
 
 <div class="additional-figs" hidden>
 
-{% figuregroup '3' 'fig-070' %}
+{% figuregroup '3' 'fig-070, fig-071' %}
 
 </div>
 
