@@ -1,4 +1,5 @@
 ---
+title: Copyright Page
 layout: page
 classes: 
   - copyright-page 
