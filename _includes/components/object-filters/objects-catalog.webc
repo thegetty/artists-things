@@ -1,6 +1,7 @@
 <!-- 
 CUSTOMIZED FILE
 Added a change from https://github.com/thegetty/quire/pull/872, to allow objects-page at root level
+and fix CSS syntax error
 -->
 <template webc:nokeep>
   <objects-data :@objects="objects"></objects-data>
@@ -447,6 +448,8 @@ section.object-cards {
 }
 
 @media print {
-  .object-cards: margin: 0;
+  .object-cards {
+    margin: 0;
+  }
 }
 </style>

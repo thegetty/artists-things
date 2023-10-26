@@ -58,7 +58,7 @@ Exclude SVG icons from EPUB output
 Handle a page redirect, so that the Things page goes to Contents
 
 **_includes/components/object-filters/objects-catalog.webc**
-Added a change from https://github.com/thegetty/quire/pull/872, to allow objects-page at root level
+Added a change from https://github.com/thegetty/quire/pull/872, to allow objects-page at root level, and fix CSS syntax error
 
 **_includes/components/navigation.js**
 Altered to show current page title instead of homepage link, as well as a link to the contents ("Things") page
