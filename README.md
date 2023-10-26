@@ -51,9 +51,6 @@ Handle a page redirect, so that the Things page goes to Contents
 **_includes/components/object-filters/objects-catalog.webc**
 Added a change from https://github.com/thegetty/quire/pull/872, to allow objects-page at root level
 
-**_includes/components/table-of-contents/list/index.js**
-Added three dropdown selects for the thing grid
-
 **_includes/components/navigation.js**
 Altered to show current page title instead of homepage link, as well as a link to the contents ("Things") page
 
