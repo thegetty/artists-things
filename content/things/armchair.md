@@ -17,6 +17,7 @@ object:
 mentions: [palette, journal]
 contributor:
   - id: "hwilliams"
+abstract: "In the 1790s, Jean-Honoré Fragonard stopped painting. After working for three decades, with scores of clients, producing hundreds of artworks, he made a career change at the age of sixty and became a bureaucrat. Among the many things in Fragonard’s possession involved in this moment of transition was his armchair...."
 ---
 
 **In the 1790s, Jean-Honoré Fragonard stopped painting.** By this point in his life, he had enjoyed a long and successful career as an artist spanning three decades, scores of clients, and hundreds of artworks (paintings and drawings), and he had established a name with his distinctively bravura take on the rococo mode. Indeed, the only thing he had not achieved was admission to the Académie.[^1] But at the age of sixty, he made a career change and became a bureaucrat.[^2]
