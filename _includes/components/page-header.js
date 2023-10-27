@@ -25,7 +25,7 @@ module.exports = function(eleventyConfig) {
       image,
       label,
       pageContributors,
-      owner: owners,
+      object,
       subtitle,
       title
     } = params
@@ -59,21 +59,25 @@ module.exports = function(eleventyConfig) {
       : ''
 
     let ownersElement
-    if (owners) {
-      let ownersList = []
-      for (const owner of owners) {
-        
-        const name = owner.full_name 
-          ? owner.full_name 
-          : owner.first_name + ' ' + owner.last_name
-  
-        const years = owner.years 
-          ? ` (${owner.years})`
-          : ''
-  
-        ownersList.push(html`<li>${name}${years}</li>`) 
+    if (object) {
+      for (const i of object) {
+        if (i.owner) {
+          let ownersList = []
+          for (const owner of i.owner) {
+            
+            const name = owner.full_name 
+              ? owner.full_name 
+              : owner.first_name + ' ' + owner.last_name
+      
+            const years = owner.years 
+              ? ` (${owner.years})`
+              : ''
+      
+            ownersList.push(html`<li>${name}${years}</li>`) 
+          }
+          ownersElement = html`<ul class="quire-page__header__owner">${ownersList}</ul>`
+        }
       }
-      ownersElement = html`<ul class="quire-page__header__owner">${ownersList}</ul>`
     }
     
     return html`

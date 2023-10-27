@@ -832,6 +832,15 @@ q-modal {
 .quire-citation__button.quire-thing__button:hover {
   border-bottom-width: 0px;
 }
+@media print {
+  /* When they're only links in PDF and EPUB */
+  .quire-citation.quire-thing a {
+    font-weight: bold;
+  }
+  #owners-list .quire-citation.quire-thing a {
+    font-weight: normal;
+  }
+}
 /* main box */
 .quire-citation .quire-citation__content.quire-thing__content {
   padding: 0;
@@ -1402,6 +1411,14 @@ a:hover .quire-thing__main__icon svg {
 .taxonomy-table .quire-citation.quire-thing:last-child::after {
   content: "";
 }
+@media print {
+  .taxonomy-table tr td a::after {
+    content: ", ";
+  }
+  .taxonomy-table tr td a:last-child::after {
+    content: "";
+  }
+}
 .quire-page__content .content .taxonomy-table tbody tr:hover {
   background-color: transparent;
 }
@@ -1732,7 +1749,7 @@ a:hover .quire-thing__main__icon svg {
   .quire-contents-list .section-item:nth-child(5) > a::after {
     content: '';
   }
-  .quire-page#taxonomies {
+  .quire-page#page-taxonomies {
     page: no-footer;
   }
 
@@ -1761,7 +1778,7 @@ a:hover .quire-thing__main__icon svg {
     margin-left: 0;
   }
   /* PDF Things Grid */
-  .quire-page#things h1, .quire-page__header__title {
+  .quire-page#page-things h1, .quire-page__header__title {
     margin-bottom: 54px; /* aligns first page of grid with the subsequent pages */
   }
   .pdf-thing-grid {
