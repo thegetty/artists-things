@@ -3,6 +3,7 @@ title: "Things"
 layout: splash
 order: 100
 redirect: "/contents/"
+search: false
 ---
 
 {% assign thingPages = collections.thing %}

@@ -4,6 +4,7 @@ layout: page
 order: 203
 classes: 
   - taxonomy
+search: false
 ---
 
 {% assign thingPages = collections.thing %}

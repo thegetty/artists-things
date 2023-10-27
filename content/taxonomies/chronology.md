@@ -4,6 +4,7 @@ layout: page
 order: 201
 classes: 
   - taxonomy
+search: false
 ---
 
 {% capture tableRows %}
