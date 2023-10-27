@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Exclude SVG icons from EPUB output
+//
 const path = require('path')
 const { html } = require('~lib/common-tags')
 
@@ -20,7 +24,7 @@ module.exports = function(eleventyConfig) {
     })
 
     return html`
-      <a class="quire-copyright__icon__link" href="${license.url}" rel="license" target="_blank">
+      <a class="quire-copyright__icon__link" href="${license.url}" rel="license" target="_blank" data-outputs-exclude='epub'>
         ${icons.join(' ')}
       </a>
     `

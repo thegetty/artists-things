@@ -4,35 +4,38 @@ aliases: [lanterns]
 layout: thing
 order: 126
 tags: thing
-owner:
-  - first_name: Jean-Siméon
-    last_name: Chardin
-    years: 1699–1779
-  - first_name: Charles-Nicolas
-    last_name: Cochin
-    years: 1715–90
-    sort_years: 1715–1790
-  - first_name: Claude-François
-    last_name: Desportes
-    years: 1695–1774
-  - first_name: Pierre-André
-    last_name: Jacquemin
-    years: 1720–73
-  - first_name: Jean-Baptiste
-    last_name: Lemoyne
-    years: 1704–78
-  - first_name: Jean-Baptiste
-    last_name: Pigalle
-    years: 1714–85
-  - first_name: Claude-Joseph
-    last_name: Vernet
-    years: 1714–89
-  - first_name: Joseph-Marie
-    last_name: Vien
-    years: 1716–1809
-type: [Instrument]
-theme: [Community, Gender, Louvre]
-material: [Synthetic Materials | Glass]
+object:
+  - name: "Lantern"
+    thumbnail: "figures/things/lantern.jpg"
+    owner:
+      - first_name: Jean-Siméon
+        last_name: Chardin
+        years: 1699–1779
+      - first_name: Charles-Nicolas
+        last_name: Cochin
+        years: 1715–90
+        sort_years: 1715–1790
+      - first_name: Claude-François
+        last_name: Desportes
+        years: 1695–1774
+      - first_name: Pierre-André
+        last_name: Jacquemin
+        years: 1720–73
+      - first_name: Jean-Baptiste
+        last_name: Lemoyne
+        years: 1704–78
+      - first_name: Jean-Baptiste
+        last_name: Pigalle
+        years: 1714–85
+      - first_name: Claude-Joseph
+        last_name: Vernet
+        years: 1714–89
+      - first_name: Joseph-Marie
+        last_name: Vien
+        years: 1716–1809
+    type: [Instrument]
+    theme: [Community, Gender, Louvre]
+    material: [Synthetic Materials | Glass]
 contributor:
   - id: "kscott"
 ---
@@ -47,11 +50,11 @@ Though not mentioned directly in the memorandum, the circumstances of the Despor
 
 Care and supply of lanterns at the Louvre represented unofficially, one could say, an office, a poor relation of the governor of Versailles’s office to supply the *grands appartements* with beeswax candles or equivalent in the visual arts to the posts of keeper of the king’s cabinet and drawing master to the royal household; less distinguished and less remunerative certainly, but significant nevertheless to the modest artist’s income.[^10] That the community at the Louvre took action in part to support its more vulnerable members is strongly suggested by the fact that most of the signatories of the lantern petition, signed another in 1774 to second Nicolas Desportes’s begging request to Marigny to be allowed keep the family *logement* after his cousin Claude-François’s death.[^11] Nicolas Desportes had lived with and worked for, first, Alexandre-François, his uncle, and then Claude-François; the *logement* had been his only home and its free accommodation was crucial to his prospects of supporting himself independently by painting.[^12] “The good of all” highlighted in the lantern petition entailed safeguarding the little jobs, like the tending of lanterns, in order to keep modest artistic livelihoods afloat in precarious times, and the corps at the Louvre united.
 
-More obviously, of course, the lanterns lit the communal areas of the Louvre. The kind of lanterns used is not made clear in the memorandum. Not lanterns with wax candles certainly. Candles made of beeswax were prohibitively expensive.[^13] More likely, they would have been either oil lamps, that is, an enclosed ceiling version of the one depicted by Cochin at the Académie’s drawing school ({% ref 'fig-093' %}), the reservoir for oil plain to see, or lanterns supplied with tallow candles. Either could have provided, more or less unattended, a source of continuous light for between five and a half to twelve hours, or from dusk to dawn, according to the season.[^14]  
+More obviously, of course, the lanterns lit the communal areas of the Louvre. The kind of lanterns used is not made clear in the memorandum. Not lanterns with wax candles certainly. Candles made of beeswax were prohibitively expensive.[^13] More likely, they would have been either oil lamps, that is, an enclosed ceiling version of the one depicted by Cochin at the Académie’s drawing school ({% open 'fig-093' %}), the reservoir for oil plain to see, or lanterns supplied with tallow candles. Either could have provided, more or less unattended, a source of continuous light for between five and a half to twelve hours, or from dusk to dawn, according to the season.[^14]  
 
 {% figure 'fig-093' %}
 
-The light shed would not have been as intense as that afforded by wax candles, but it was sufficient to vouchsafe “decency” in what the petitioners called their “gallery,” the passage connecting the *logements* at mezzanine level. By “*décence*” they meant that “exterior” or public expression of polite bearing appropriate to spaces of prestige.[^15] By naming the mezzanine passageway the “small gallery,” they implicitly invited comparison of it to the celebrated Grande Galerie above, and invoked an interior space of habitation and belonging as well as of convenient transit.[^16] In this passage-cum-gallery, the private space of individual studios and the public space of the palace and the greater world beyond collided. Hubert Robert’s gray-washed black-chalk drawing of a corridor ({% ref 'fig-094' %}), once thought to represent the entrance to his studio, affords a vivid picture of the flows in and out of this transitional space: pictures being moved out from studios or stores, a woman poised on the threshold of the private, about to step in. In the depths, a group of loiterers take up residence. Light reaches the space from a distance, through contiguous spaces. Momentarily brightened by the opening of a door, its natural state is half shadow even in the daylight hours.
+The light shed would not have been as intense as that afforded by wax candles, but it was sufficient to vouchsafe “decency” in what the petitioners called their “gallery,” the passage connecting the *logements* at mezzanine level. By “*décence*” they meant that “exterior” or public expression of polite bearing appropriate to spaces of prestige.[^15] By naming the mezzanine passageway the “small gallery,” they implicitly invited comparison of it to the celebrated Grande Galerie above, and invoked an interior space of habitation and belonging as well as of convenient transit.[^16] In this passage-cum-gallery, the private space of individual studios and the public space of the palace and the greater world beyond collided. Hubert Robert’s gray-washed black-chalk drawing of a corridor ({% open 'fig-094' %}), once thought to represent the entrance to his studio, affords a vivid picture of the flows in and out of this transitional space: pictures being moved out from studios or stores, a woman poised on the threshold of the private, about to step in. In the depths, a group of loiterers take up residence. Light reaches the space from a distance, through contiguous spaces. Momentarily brightened by the opening of a door, its natural state is half shadow even in the daylight hours.
 
 {% figure 'fig-094' 'is-indented' %}
 

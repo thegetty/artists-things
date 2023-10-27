@@ -1,6 +1,7 @@
 //
 // CUSTOMIZED FILE
-// to accept comma-separated array, and to output with .q-figure__modal-link class
+// Based on original `ref` shortcode
+// customized to accept comma-separated array, and to output with .q-figure__modal-link class
 //
 const { oneLineCommaListsAnd } = require('~lib/common-tags')
 const chalkFactory = require('~lib/chalk')

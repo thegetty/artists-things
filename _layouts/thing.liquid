@@ -1,5 +1,6 @@
 ---
-class: quire-essay
+classes: 
+  - quire-essay
 layout: base.11ty.js
 description: Thing layout. This layout is a copy of essay.liquid, except that it adds owners to the pageHeader and a .thing-info grid.
 ---
@@ -9,7 +10,7 @@ description: Thing layout. This layout is a copy of essay.liquid, except that it
   image=image,
   label=label,
   pageContributors=pageContributors,
-  owner=owner,
+  object=object,
   subtitle=subtitle,
   title=title
 %}
@@ -19,21 +20,24 @@ description: Thing layout. This layout is a copy of essay.liquid, except that it
     <div class="content">
       <div class='thing-info-grid'>
         <div class='thing-type'>
-        {% if type %}
+        {% if object[0].type %}
           <p>Type of Object</p>
-          <ul>{% for i in type %}<li>{{ i }}</li>{% endfor %}</ul>
+          <ul data-outputs-exclude="epub,pdf">{% for i in object[0].type %}<li><a href="/contents/?type={{ i | url_encode | replace: "+", "%2520" }}">{{ i }}</a></li>{% endfor %}</ul>
+          <ul data-outputs-exclude="html">{% for i in object[0].type %}<li>{{ i }}</li>{% endfor %}</ul>
         {% endif %}
         </div>
         <div class='thing-theme'>
-        {% if theme %}
+        {% if object[0].theme %}
           <p>Theme</p>
-          <ul>{% for i in theme %}<li>{{ i }}</li>{% endfor %}</ul>
+          <ul data-outputs-exclude="epub,pdf">{% for i in object[0].theme %}<li><a href="/contents/?theme={{ i | url_encode | replace: "+", "%2520" }}">{{ i }}</a></li>{% endfor %}</ul>
+          <ul data-outputs-exclude="html">{% for i in object[0].theme %}<li>{{ i }}</li>{% endfor %}</ul>
         {% endif %}
         </div>
         <div class='thing-material'>
-        {% if material %}
+        {% if object[0].material %}
           <p>Material</p>
-          <ul>{% for i in material %}<li>{{ i }}</li>{% endfor %}</ul>
+          <ul data-outputs-exclude="epub,pdf">{% for i in object[0].material %}<li><a href="/contents/?material={{ i | url_encode | replace: "+", "%2520" }}">{{ i }}</a></li>{% endfor %}</ul>
+          <ul data-outputs-exclude="html">{% for i in object[0].material %}<li>{{ i }}</li>{% endfor %}</ul>
         {% endif %}
         </div>
       </div>
@@ -48,7 +52,7 @@ description: Thing layout. This layout is a copy of essay.liquid, except that it
   <div class="container">
     <div class="content">
       {{ content }}
-      {% bibliography pageReferences %}
+      {% bibliography citations %}
     </div>
     {% pageButtons pagination=pagination %}
   </div>

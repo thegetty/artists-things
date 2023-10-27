@@ -36,8 +36,8 @@ module.exports = function (eleventyConfig, { collections, page }) {
     const linkIcon = `${icon({ type: 'right-arrow', description: 'View' })}`
 
     let owners = []
-    if (thingPage.data.owner) {
-      for (const owner of thingPage.data.owner) {
+    if (thingPage.data.object[0].owner) {
+      for (const owner of thingPage.data.object[0].owner) {
         
         const name = owner.full_name 
           ? owner.full_name 
@@ -52,26 +52,35 @@ module.exports = function (eleventyConfig, { collections, page }) {
     }
 
     let types = ''
-    if (thingPage.data.type) {
-      for (type of thingPage.data.type) {
-        newType = html`<span role="listitem"><a href="/contents/" class="quire-thing__link"><span>${type}</span><span>${linkIcon}</span></a></span>`
+    if (thingPage.data.object[0].type) {
+      for (type of thingPage.data.object[0].type) {
+        let urlQuery = type.replaceAll(" ", "%2520")
+          .replaceAll("|", "%257C")
+          .replaceAll("/", "%252F")
+        newType = html`<span role="listitem"><a href="/contents/?type=${urlQuery}" class="quire-thing__link"><span>${type}</span><span>${linkIcon}</span></a></span>`
         types = types + newType
       }
     }
 
     let themes = ''
-    if (thingPage.data.theme) {
-    for (theme of thingPage.data.theme) {
-        newTheme = html`<span role="listitem"><a href="/contents/" class="quire-thing__link"><span>${theme}</span><span>${linkIcon}</span></a></span>`
+    if (thingPage.data.object[0].theme) {
+    for (theme of thingPage.data.object[0].theme) {
+        let urlQuery = theme.replaceAll(" ", "%2520")
+          .replaceAll("|", "%257C")
+          .replaceAll("/", "%252F")
+        newTheme = html`<span role="listitem"><a href="/contents/?theme=${urlQuery}" class="quire-thing__link"><span>${theme}</span><span>${linkIcon}</span></a></span>`
         themes = themes + newTheme
       }
     }
 
     let materials = ''
-    if (thingPage.data.material) {
-      for (material of thingPage.data.material) {
+    if (thingPage.data.object[0].material) {
+      for (material of thingPage.data.object[0].material) {
         const materialWithoutCategory = material.replace(/.*? \| /g, '')
-        newMaterial = html`<span role="listitem"><a href="/contents/" class="quire-thing__link"><span>${materialWithoutCategory}</span><span>${linkIcon}</span></a></span>`
+        let urlQuery = material.replaceAll(" ", "%2520")
+          .replaceAll("|", "%257C")
+          .replaceAll("/", "%252F")
+        newMaterial = html`<span role="listitem"><a href="/contents/?material=${urlQuery}" class="quire-thing__link"><span>${materialWithoutCategory}</span><span>${linkIcon}</span></a></span>`
         materials = materials + newMaterial
       }
     }
@@ -82,7 +91,7 @@ module.exports = function (eleventyConfig, { collections, page }) {
       if (entry.data.mentions) {
         const matches = entry.data.mentions.filter(element => aliases.includes(element))
         if ( matches.length >= 1 ) {
-          newMention = html`<span role="listitem"><a href="${entry.url}" class="quire-thing__link"><span>${entry.data.title}</span><span>${linkIcon}</span></a></span>`
+          newMention = html`<span role="listitem"><a href="${entry.url}" class="quire-thing__link"><span>${markdownify(entry.data.title)}</span><span>${linkIcon}</span></a></span>`
           mentions = mentions + newMention
         }
       }
@@ -90,10 +99,11 @@ module.exports = function (eleventyConfig, { collections, page }) {
 
     return renderOneLine`
       <span class="quire-citation quire-thing expandable">
-        <span class="quire-citation__button quire-thing__button" role="button" tabindex="0" aria-expanded="false">
+        <a href="${thingPage.url}" data-outputs-exclude="html">${markdownify(displayText)}</a>
+        <span class="quire-citation__button quire-thing__button" role="button" tabindex="0" aria-expanded="false" data-outputs-exclude="epub,pdf">
           ${markdownify(displayText)}
         </span>
-        <span hidden class="quire-citation__content quire-thing__content">
+        <span hidden class="quire-citation__content quire-thing__content" data-outputs-exclude="epub,pdf">
           
           <span class="quire-thing__main">
             <a href="${thingPage.url}">

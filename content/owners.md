@@ -8,7 +8,7 @@ order: 10
 
 {% assign thingOwners = '' %}
 {% for thing in thingPages %}
-{% for entity in thing.data.owner %}
+{% for entity in thing.data.object[0].owner %}
 {% capture thisThingsOwners %}{% if entity.full_name %}{{ entity.full_name }}{% else %}{{ entity.last_name }}, {{ entity.first_name }}{% endif %}{% endcapture %}
 {% assign thingOwners = thingOwners | concat: thisThingsOwners %}
 {% endfor %}
@@ -19,7 +19,7 @@ order: 10
 <ul id="owners-list" class="has-rule-lines">
 {% for owner in uniqueThingOwners %}
 {% unless owner == '' %}
-<li>{{ owner }} ({% for page in thingPages %}{% assign checkThingOwners = '' %}{% for entity in page.data.owner %}{% capture checkThisThingsOwners %}{% if entity.full_name %}{{ entity.full_name }}{% else %}{{ entity.last_name }}, {{ entity.first_name }}{% endif %}{% endcapture %}{% assign checkThingOwners = checkThingOwners | concat: checkThisThingsOwners %}{% endfor %}{% if checkThingOwners contains owner %}{% assign thingOwned = page.data.title | downcase %}{% thing thingOwned %}{% endif %}{% endfor %})</li>
+<li>{{ owner }} ({% for page in thingPages %}{% assign checkThingOwners = '' %}{% for entity in page.data.object[0].owner %}{% capture checkThisThingsOwners %}{% if entity.full_name %}{{ entity.full_name }}{% else %}{{ entity.last_name }}, {{ entity.first_name }}{% endif %}{% endcapture %}{% assign checkThingOwners = checkThingOwners | concat: checkThisThingsOwners %}{% endfor %}{% if checkThingOwners contains owner %}{% assign thingOwned = page.data.title | downcase %}{% thing thingOwned %}{% endif %}{% endfor %})</li>
 {% endunless %}
 {% endfor %}
 </ul>

@@ -1,3 +1,5 @@
+import { intersectionObserverFactory } from './intersection-observer-factory'
+import Accordion from './accordion'
 import poll from './poll'
 import scrollToHash from './scroll-to-hash'
 
@@ -21,14 +23,21 @@ const annotationData = (input) => {
  * @return {String} canvasId
  */
 const getServiceId = (element) => {
+  if (!element) return
+
   const canvasPanel = element.querySelector('canvas-panel')
+  const imageSequence = element.querySelector('image-sequence')
   const imageService = element.querySelector('image-service')
+
   if (canvasPanel) {
     return canvasPanel.getAttribute('canvas-id')
   } else if (imageService) {
     return imageService.getAttribute('src')
+  } else if (imageSequence) {
+    return imageSequence.getAttribute('sequence-id')
   } else {
-    console.error(`Element does not contain a canvas panel or image service component:`, element)
+    // console.info(`Hash does not reference a canvas panel or image service component:`, element)
+    return
   }
 }
 
@@ -49,11 +58,20 @@ const getTarget = (region) => {
 /**
  * Scroll to a figure, or go to figure slide in lightbox
  * Select annotations and/or region, and update the URL
- * @param  {String} figureId    The id of the figure in figures.yaml
- * @param  {Array} annotationIds  The IIIF ids of the annotations to select
- * @param  {String} region      The canvas region
+ * @param  {Array}   annotationIds The IIIF ids of the annotations to select
+ * @param  {String}  figureId The id of the figure in figures.yaml
+ * @param  {String}  historyBehavior replace||push Whether the window history should push to or replace the state
+ * @param  {String}  region The canvas region
+ * @param  {Object}  sequence Image sequence properties
+ * @property  {Integer} index  The sequence index
  */
-const goToFigureState = function ({ annotationIds=[], figureId, region }) {
+const goToFigureState = function ({
+  annotationIds = [],
+  figureId,
+  historyBehavior = 'push',
+  region,
+  sequence = {}
+}) {
   if (!figureId) {
     console.error(`goToFigureState called without an undefined figureId`)
     return
@@ -64,7 +82,8 @@ const goToFigureState = function ({ annotationIds=[], figureId, region }) {
   const figureSlide = document.querySelector(slideSelector)
   const serviceId = getServiceId(figure || figureSlide)
 
-  if (!figure && !figureSlide) return
+  // return if id does not reference a figure
+  if ((!figure && !figureSlide) || !serviceId) return
 
   const inputs = document.querySelectorAll(`#${figureId} .annotations-ui__input, [data-lightbox-slide-id="${figureId}"] .annotations-ui__input`)
   const annotations = [...inputs].map((input) => {
@@ -79,9 +98,16 @@ const goToFigureState = function ({ annotationIds=[], figureId, region }) {
   }
 
   /**
+   * Open parent accordions if figure is within an accordion
+   */
+  Accordion.elements.forEach((element) => {
+    if (element.contains(figure)) element.setAttribute('open', true)
+  })
+
+  /**
    * Update figure state
    */
-  update(serviceId, { annotations, region: region || 'reset' })
+  update(serviceId, { annotations, region: region || 'reset', sequence })
 
   /**
    * Build URL
@@ -89,14 +115,29 @@ const goToFigureState = function ({ annotationIds=[], figureId, region }) {
   const url = new URL(window.location.pathname, window.location.origin)
   url.hash = figureId
   scrollToHash(url.hash)
+
+  /** 
+   * Build params
+   */
   const params = new URLSearchParams(
-    annotationIds.map((id) => ['annotation-id', encodeURIComponent(id)]),
+    annotationIds.map((id) => ['annotation-id', encodeURIComponent(id)])
   )
   region ? params.set('region', encodeURIComponent(region)) : null
+  Number.isInteger(parseInt(sequence.index)) ? params.set('sequence-index', encodeURIComponent(sequence.index)) : null
+
   const paramsString = params.toString()
   const urlParts = [url.pathname]
   if (paramsString) urlParts.push(paramsString)
-  window.history.pushState({}, '', `${urlParts.join('?')}${url.hash}`)
+
+  /**
+   * Update window.history
+   */
+  const historyArgs = [{}, '', `${urlParts.join('?')}${url.hash}`]
+  if (historyBehavior === 'replace') {
+    window.history.replaceState(...historyArgs)
+  } else {
+    window.history.pushState(...historyArgs)
+  }
 }
 
 /**
@@ -155,7 +196,7 @@ const selectAnnotation = (canvasPanel, annotation) => {
     case 'choice':
       /**
        * `canvasPanel.makeChoice` is defined asynchronously on the web component,
-       * and while the event model emits a 'choice' event when a choice is selected, it is noisy, 
+       * and while the event model emits a 'choice' event when a choice is selected, it is noisy,
        * and since there is no 'done' event to indicate when this method is available,
        * we will use polling
        */
@@ -187,26 +228,44 @@ const selectChoice = (canvasPanel, annotation) => {
  */
 const setUpUIEventHandlers = () => {
   /**
-   * Add click handlers to annoRef shortcodes
+   * Add click handlers to ref shortcodes
    */
-  const annoRefs = document.querySelectorAll('.annoref')
-  for (const annoRef of annoRefs) {
-    let annotationIds = annoRef.getAttribute('data-annotation-ids')
+  const refs = document.querySelectorAll('.ref')
+  for (const ref of refs) {
+    let annotationIds = ref.getAttribute('data-annotation-ids')
     annotationIds = annotationIds.length ? annotationIds.split(',') : undefined
-    const figureId = annoRef.getAttribute('data-figure-id')
+    const figureId = ref.getAttribute('data-figure-id')
+    const sequence = {
+      index: parseInt(ref.getAttribute('data-sequence-index')),
+      transition: parseInt(ref.getAttribute('data-sequence-transition')),
+    }
     /**
-     * Annoref shortcode resets the region if none is provided
+     * ref shortcode resets the region if none is provided
      */
-    const region = annoRef.getAttribute('data-region')
-    annoRef.addEventListener('click', ({ target }) =>
-      goToFigureState({ annotationIds, figureId, region })
-    )
+    const region = ref.getAttribute('data-region')
+
+    const onscroll = ref.getAttribute('data-on-scroll')
+    if (onscroll === 'true') {
+      const callback = () =>
+        goToFigureState({
+          annotationIds,
+          figureId,
+          historyBehavior: 'replace',
+          region,
+          sequence
+        })
+      intersectionObserverFactory(ref, callback)
+    } else {
+      ref.addEventListener('click', ({ target }) =>
+        goToFigureState({ annotationIds, figureId, region, sequence })
+      )
+    }
   }
 
   /**
    * Add click handlers to UI inputs
    */
-  const inputs = document.querySelectorAll('.annotations-ui__input')  
+  const inputs = document.querySelectorAll('.annotations-ui__input')
   for (const input of inputs) {
     handleSelect(input)
     input.addEventListener('click', ({ target }) => handleSelect(target))
@@ -215,25 +274,31 @@ const setUpUIEventHandlers = () => {
 
 /**
  * Update canvas panel or image-service properties
- * 
+ *
  * @param  {String} id Canvas ID or path to image-service info.json
  * @param  {Object} data
  * @property {String} region comma-separated, @example "x,y,width,height"
  * @property {Array<Object>} annotations
  */
 const update = (id, data) => {
-  const webComponents = document.querySelectorAll(`canvas-panel[canvas-id="${id}"], image-service[src="${id}"]`)
+  const webComponents = document.querySelectorAll(`canvas-panel[canvas-id="${id}"], image-service[src="${id}"], image-sequence[sequence-id="${id}"]`)
   if (!webComponents.length) {
     console.error(`Failed to call update on canvas panel or image-service component with id ${id}. Element does not exist.`)
   }
   const { annotations, region } = data
+  
   webComponents.forEach((element) => {
 
-    if (region) {
-      const target =
-        region === 'reset'
-          ? getTarget(element.getAttribute('region'))
-          : getTarget(region)
+    const isImageSequence = element.tagName.toLowerCase() === 'image-sequence'
+
+    if (isImageSequence) {
+      updateSequenceIndex(element, data)
+    }
+
+    if (region && !isImageSequence) {
+      const target = region && region !== 'reset'
+        ? getTarget(region)
+        : getTarget(element.getAttribute('region'))
       element.transition(tm => {
         tm.goToRegion(target, {
           transition: {
@@ -248,6 +313,34 @@ const update = (id, data) => {
       annotations.forEach((annotation) => selectAnnotation(element, annotation))
     }
   })
+}
+
+/**
+ * Rotates the image to a the provided index by iterating over each sequence item step
+ * and updating the index property on the image sequence element
+ * 
+ * @param {HTMLElement} element Image sequence element
+ * @param {Object} data Property values to update on the image sequence element
+ */
+const updateSequenceIndex = (element, { sequence={} }) => {
+  const { index, transition } = sequence
+  const startIndex = parseInt(element.getAttribute('index'))
+  const endIndex = parseInt(index)
+  if (Number.isInteger(endIndex) && endIndex >= 0 && startIndex !== endIndex) {
+    /**
+     * Set transition speed from ref property and rotate to index
+     */
+    if (transition) {
+      element.setAttribute('transition', transition)
+      element.setAttribute('rotate-to-index', endIndex)
+      return
+    }
+    /**
+     * Cancel current animation if one is running and jump to index
+     */
+    element.setAttribute('rotate-to-index', false)
+    element.setAttribute('index', endIndex)
+  }
 }
 
 export { goToFigureState, setUpUIEventHandlers }

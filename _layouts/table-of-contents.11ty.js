@@ -9,12 +9,12 @@
 module.exports = class TableOfContents {
   data() {
     return {
-      class: 'quire-contents',
+      classes: ['quire-contents'],
       layout: 'base'
     }
   }
 
-  render(data) {
+  async render(data) {
     const {
       collections,
       content,
@@ -49,9 +49,9 @@ module.exports = class TableOfContents {
         ${contentElement}
         <div class="container ${containerClass}">
           <div class="quire-contents-list ${presentation}">
-            ${this.tableOfContents({ collections, currentPageUrl: page.url, key, presentation })}
+            ${await this.tableOfContents({ collections, currentPageUrl: page.url, key, presentation })}
             <div class="content">
-              {% bibliography pageReferences %}
+              {% bibliography citations %}
             </div>
           </div>
           ${this.pageButtons({ pagination })}

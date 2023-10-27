@@ -2,12 +2,13 @@
 title: Chronology by Artist
 layout: page
 order: 201
-class: taxonomy
+classes: 
+  - taxonomy
 ---
 
 {% capture tableRows %}
 {%- for page in collections.thing -%}
-{%- for entity in page.data.owner -%}
+{%- for entity in page.data.object[0].owner -%}
 {%- if entity.sort_years or entity.years -%}
   <tr data-sort-as="{% if entity.sort_years %}{{ entity.sort_years }}{% else %}{{ entity.years }}{% endif %}">
     <td>{{ entity.years }}</td>

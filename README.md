@@ -2,11 +2,17 @@
 
 The [Quire Eleventy package](https://github.com/thegetty/quire/tree/main/packages/11ty) contains configuration and modules for the [Eleventy static site generator](https://11ty.dev). This package is published to npm as [`@thegetty/quire-11ty`](https://www.npmjs.com/package/@thegetty/quire-11ty) and installed by the [`@thegetty/quire-cli`](https://www.npmjs.com/package/@thegetty/quire-cli) to build [Quire](https://quire.getty.edu) projects.
 
+## Creating an EPUB Version
+
+1. Run `quire build`
+
+2. In `_epub/page-03_pdf-epub-contents.xhtml`, find and replace the one instance of `<a href="contents/">` with `<a href="page-07_things.xhtml">`
+
 ## Creating a PDF Version
 
 1. Run `quire build`
 
-2. In `_site/pdf.html`, find and replace the ones instance of `<a href="#contents">` with `<a href="#things">` to ensure page numbering for "Thing" section page is correct.
+2. In `_site/pdf.html`, find and replace the ones instance of `<a href="#page-contents">` with `<a href="#page-things">` to ensure page numbering for "Thing" section page is correct.
 
 3. If the PDF will be sent to digital printer, run the following commands to ensure color profiles are correct:
 
@@ -43,13 +49,16 @@ Added custom search icon
 **_includes/components/figure/caption.js**
 Don't output any HTML if there aren't caption elements
 
+**_includes/components/license-icons.js**
+Exclude SVG icons from EPUB output
+
 **_includes/components/menu/item.js**
 **_includes/components/table-of-contents/item/list.js**
 **content/_computed/eleventyComputed.js**
 Handle a page redirect, so that the Things page goes to Contents
 
-**_includes/components/table-of-contents/list/index.js**
-Added three dropdown selects for the thing grid
+**_includes/components/object-filters/objects-catalog.webc**
+Added a change from https://github.com/thegetty/quire/pull/872, to allow objects-page at root level, and fix CSS syntax error
 
 **_includes/components/navigation.js**
 Altered to show current page title instead of homepage link, as well as a link to the contents ("Things") page
@@ -84,8 +93,11 @@ Created a new shortcode to create a pop-up with full data and links for a given 
 **_plugins/shortcodes/contributors.js**
 Refactored logic to handle oxford commas correctly; and added handling to display contributor `symbol
 
-**_plugins/shortcodes/figureRef.js**
-Refactored to accept comma-separated array, and to output with .q-figure__modal-link class
+**_plugins/shortcodes/open.js**
+Custom shortcode based on the old `ref` shortocode, except refactored to accept comma-separated array, and to output with .q-figure__modal-link class
+
+**content/_assets/styles/epub.scss**
+Replace default styles with simpler, cleaner version
 
 **content/_assets/javascript/application/index.js**
 Allow only one pop-up to be open at a time

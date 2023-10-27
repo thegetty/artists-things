@@ -1,6 +1,8 @@
 ---
+title: Title Page
 layout: base.11ty.js
-class: title-page
+classes: 
+  - title-page
 order: 3
 outputs:
   - pdf

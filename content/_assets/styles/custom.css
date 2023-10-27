@@ -13,13 +13,13 @@
     padding-top: 1rem;
   }
   .quire::before {
-    content: "UNCORRECTED";
+    content: "PRESS";
     background-color: yellow;
     bottom: -115px;
     right: -115px;
   }
   .quire::after {
-    content: "PROOF";
+    content: "PREVIEW";
     bottom: -130px;
     right: -130px;
   }
@@ -115,7 +115,9 @@
 }
 
 /* Links */
-.quire-page__content .content a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):hover {
+
+.quire-page__content .content a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link),
+.quire-page__content .content a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):hover {
   border-bottom-width: 0px !important;
 }
 .q-figure__modal-link {
@@ -202,7 +204,8 @@ q-modal {
 .quire-navbar-controls__left button:hover,
 .quire-navbar-controls__right a:hover, 
 .quire-navbar-controls__right button:hover,
-.quire-navbar-controls .quire-navbar-page-controls__item a:hover, 
+.quire-navbar-controls .quire-navbar-page-controls__item a:hover,
+.quire-navbar-controls .quire-navbar-page-controls__item a:hover *, 
 .quire-navbar-controls .quire-navbar-page-controls__item button:hover {
   color: var(--accent-color) !important;
   background-color: transparent;
@@ -829,6 +832,15 @@ q-modal {
 .quire-citation__button.quire-thing__button:hover {
   border-bottom-width: 0px;
 }
+@media print {
+  /* When they're only links in PDF and EPUB */
+  .quire-citation.quire-thing a {
+    font-weight: bold;
+  }
+  #owners-list .quire-citation.quire-thing a {
+    font-weight: normal;
+  }
+}
 /* main box */
 .quire-citation .quire-citation__content.quire-thing__content {
   padding: 0;
@@ -923,44 +935,39 @@ a:hover .quire-thing__main__icon svg {
   line-height: 1.625;
 }
 
-/* TABLE OF CONTENTS GRID */
+/* THINGS GRID */
+/* ========================================================================= */
 @media screen {
-  .quire-contents-list {
-    padding: 0;
+  /* CONTENTS LIST */
+  .objects-page .quire-page__content {
+    animation: none;
   }
-  .table-of-contents-select-group {
+  .objects-page .quire-page__content .container, 
+  .objects-page .quire-page__header .hero-body {
+    max-width: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0 var(--gap);
+  }
+  .objects-page .quire-page__content .container .content {
+    margin-top: 1.5rem;
+  }
+  .objects-page .table-of-contents-list {
     display: flex;
-    justify-content: space-around;
-    position: absolute;
-    top: 256px;
-    left: calc(var(--gap) + 1rem);
-    right: calc(var(--gap) + 1rem);
-    z-index: 1;
-  }
-  .table-of-contents-select label {
-    color: var(--accent-color);
-    font-weight: 600;
-  }
-  .table-of-contents-select select {
-    background-color: transparent;
-    color: var(--accent-color);
-    padding: .25rem;
-    border-width: 0;
-  }
-  .table-of-contents-list {
-    display: flex;
-    /* font-size: 1rem; */
     font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.4vw;
     font-weight: 600;
     justify-content: space-between;
+    margin-left: 0 !important;
+    height: 208px;
   }
-  .table-of-contents-list li {
+  .objects-page .table-of-contents-list li {
     display: grid;
     grid-template-columns: 1rem auto;
     grid-template-rows: 1rem auto;
     padding-left: 1.75rem;
   }
-  .table-of-contents-list li::before {
+  .objects-page .table-of-contents-list li::before {
     content: " ";
     width: 1px;
     height: 3rem;
@@ -968,40 +975,49 @@ a:hover .quire-thing__main__icon svg {
     display: block;
     margin-right: 1rem;
   }
-  .table-of-contents-list li:first-child {
+  .objects-page .table-of-contents-list li:first-child {
     padding-left: 0;
     grid-template-columns: auto;
   }
-  .table-of-contents-list li:first-child::before {
+  .objects-page .table-of-contents-list li:first-child::before {
     content: none;
   }
-  .table-of-contents-list li:nth-child(5) ol {
+  .objects-page .table-of-contents-list li:nth-child(5) ol {
     grid-column: 1 / -1;
     grid-row-start: 2;
-    margin-top: .5rem !important;
+    margin-top: .5em;
     min-width: 10.5rem;
+    list-style-type: none;
   } 
-  .table-of-contents-list li:nth-child(5) ol li {
+  .objects-page .table-of-contents-list li:nth-child(5) ol li {
     display: list-item;
     margin-bottom: 0em;
-    margin-left: .5em;
+    margin-left: 1rem;
     font-weight: 400;
     font-style: italic;
     padding-left: 0;
     white-space: nowrap;
+    line-height: 1.75;
   }
-  .table-of-contents-list li:nth-child(5) ol li:before {
+  .objects-page .table-of-contents-list li:nth-child(5) ol li:before {
     content: none;
     margin-bottom: 0;
   }
-  .quire-contents-list .menu-list .section-item ol a,
-  .quire-contents-list .menu-list .section-item ol a:hover  {
-    border-bottom-width: 0px;
+  .objects-page .quire-page__content .content .table-of-contents-list a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link) {
+    border-bottom-width: 0;
   }
-  .table-of-contents-list li .table-of-contents-list {
+  .objects-page .quire-page__content .content .table-of-contents-list a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):hover {
+    border-bottom-width: 0 !important;
+    background-color: transparent;
+    color: var(--accent-color);
+  }
+  .objects-page .table-of-contents-list a {
+    padding: 0;
+  }
+  .objects-page .table-of-contents-list li .table-of-contents-list {
     display: initial;
   }
-  .table-of-contents-list li .table-of-contents-list li:after {
+  .objects-page .table-of-contents-list li .table-of-contents-list li:after {
     display: initial;
     content: none;
   }
@@ -1015,425 +1031,345 @@ a:hover .quire-thing__main__icon svg {
     background-image: url("data:image/svg+xml,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 28.8 240'%3E%3Cpath fill='%23fff' d='M14.4001,216.1079v-0.0029c0,7.9531-6.447,14.3979-14.4,14.395h28.3813H28.8 C20.847,230.5049,14.4001,224.061,14.4001,216.1079z'/%3E%3Cpath fill='none' stroke='%23e0582a' d='M14.4,72.3259V215.605c0,7.9531-6.447,14.3979-14.4,14.395'/%3E%3Cpath fill='none' stroke='%23e0582a' d='M14.4-0.0013v215.6092c0,7.9531,6.447,14.397,14.4,14.3921'/%3E%3C/svg%3E");
     background-size: cover;
     background-position-y: bottom;
+    z-index: 1;
   }
-  .table-of-contents-list li:nth-child(4) ol {
-    grid-column: 1 / 7;
-    display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
-    position: absolute;
-    left: var(--gap);
-    right: var(--gap);
-    top: 240px;
-    margin: 0 !important;
-    padding-top: 4.375rem;
+  /* OBJECT FILTERS */
+  .objects-page .object-filters {
+    background-color: transparent;
     border-top: 1px solid var(--accent-color);
+    margin: 0 var(--gap);
+    padding: 0;
+    position: relative;
+    color: var(--accent-color);
   }
-  .table-of-contents-list li:nth-child(4) ol:before,
-  .table-of-contents-list li:nth-child(4) ol:after {
+  .objects-page .object-filters::before,
+  .objects-page .object-filters::after {
     content: " ";
     width: 1px;
     height: 1.75rem;
     background-color: var(--accent-color);
     position: absolute;
   }
-  .table-of-contents-list li:nth-child(4) ol:before {
-    left: 0;
-  }
-  .table-of-contents-list li:nth-child(4) ol:after {
+  .objects-page .object-filters::after {
     right: 0;
   }
-  .table-of-contents-list li:nth-child(4) ol li {
-    display: initial;
-    margin-bottom: 0;
-    padding-left: 0;
-    border-bottom: 1px solid var(--black);
-    border-right: 1px solid var(--black);
+  .objects-page .object-filters__list {
+    margin-right: 0;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    grid-row-gap: 0;
+    grid-column-gap: 0;
+    padding: 0;
+    padding: 1rem 1rem .5rem;
   }
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(5n+5) {
-    border-right-width: 0;
+  .objects-page .object-filters__item {
+    display: flex;
+    width: auto;
+    padding: 0;
+    margin-bottom: .75rem;
   }
-  .table-of-contents-list li:nth-child(4) ol li:nth-last-child(-n+5) {
+  .objects-page .object-filters__item:not(:last-child) {
+    margin-right: 3.5rem;
+  }
+  .objects-page  .object-filters .collapsible__toggle {
+    display: none;
+  }
+  .objects-page .object-filters__select {
+    position: relative;
+    width: 16rem;
+  }
+  .objects-page .object-filters__select select,
+  .objects-page .object-filters__select select:focus, 
+  .objects-page .object-filters__select select:focus-visible {
+    color: var(--accent-color);
+    outline-width: 0;
     border-bottom-width: 0;
   }
-  .quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
+  .objects-page .object-filters__select::after {
+    border-top-color: var(--accent-color);
+  }
+  .objects-page .object-filters__controls {
+    display: flex;
+  }
+  .objects-page .object-filters__button {
+    margin-top: 0;
+    margin-bottom: 1.25rem;
+    font-size: .75rem;
+    padding: .25rem;
+    width: 6rem;
+    color: var(--accent-color);
+    border-color: var(--accent-color);
+    background-color: transparent;
+    padding: .2em .2em .1em;
+  }
+  .objects-page  .object-filters__button.object-filters__button--active {
+    background-color: var(--accent-color);
+  }
+  /*  OBJECT CARDS */
+  .objects-page section.object-cards {
+    margin: 0 var(--gap);
+  }
+  .objects-page ol.object-cards-list {
+    grid-template-columns: repeat(5, 1fr);
+    grid-column-gap: 0;
+    grid-row-gap: 0;
+    outline: 1px solid white;
+    outline-offset: -1px;
+  }
+  .objects-page ol.object-cards-list .object-card {
+    height: calc((100vw - var(--gap) - var(--gap)) / 5 );
+    border-radius: 0%;
+    border-right: 1px solid var(--black);
+    border-bottom: 1px solid var(--black);
+  }
+  .objects-page ol.object-cards-list .object-card__content {
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    padding: 7% 10% 10%;
+  }
+  .objects-page ol.object-cards-list .object-card__title {
     font-family: 'Arbutus Slab', serif;
     text-transform: uppercase;
     font-weight: 400;
     line-height: 1.1;
-    margin: 0 !important;
-    height: calc((100vw - var(--gap) - var(--gap) - 4px ) / 5);
-    width: 100%;
-    background-color: white;
-    padding: 7% 10% 10%;
-    justify-content: space-between;
-    position: relative;
-    display: block;
-  }
-  .table-of-contents-list li:nth-child(4) ol li:before {
-    content: none;
-  }
-  .table-of-contents-list li:nth-child(4) ol li span {
-    position: relative;
-    z-index: 1;
-  }
-  .table-of-contents-list li:nth-child(4) ol li img {
-    margin: 0 auto;
-    position: absolute;
-    max-height: 83%;
-    max-width: 80%;
-    left: 0;
-    right: 0;
-    bottom: 10%;
-  }
-  .quire-contents .quire-page__content .container {
-    height: calc(((100vw - var(--gap) - var(--gap) - 4px ) / 5) * 13 );
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-  }
-  .quire-contents-list .page-item, .quire-contents-list .section-item {
-    line-height: 1.3;
-  }
-  .quire-contents-list .menu-list .section-item ol .page-item:last-child {
-    margin-bottom: 0;
-  }
-
-  .quire-contents-list .menu-list a,
-  .quire-contents-list .menu-list .section-item ol a, 
-  .quire-contents-list .menu-list .section-item ol a:hover {
-    font-size: 1.4vw;
-  }
-  .quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
+    color: var(--black);
     font-size: 1.6vw;
   }
+  .objects-page ol.object-cards-list  .object-card__title:not(:last-child) {
+    margin-bottom: 0;
+  }
+  .objects-page ol.object-cards-list .object-card__title .arrow {
+    display: none;
+  }
+  .objects-page .object-card .object-card__image {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .objects-page .object-card:hover .object-card__title {
+    color: var(--accent-color);
+  }
+  .objects-page .object-card:hover .object-card__image img {
+    box-shadow: none;
+  }
 }
-@media screen and (min-width: 87rem) {
-  .table-of-contents-list li:nth-child(4) ol {
-    grid-template-columns: 14.28% 14.28% 14.28% 14.28% 14.28% 14.28% 14.28%;
+/* As screen goes larger, go to 7-card grid */
+@media screen and (min-width: 1392px) {
+  .objects-page ol.object-cards-list {
+    grid-template-columns: repeat(7, 1fr);
   }
-  .quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
-    height: calc((100vw - var(--gap) - var(--gap) - 1px ) / 7);
+  .objects-page ol.object-cards-list .object-card {
+    height: calc((100vw - var(--gap) - var(--gap)) / 7 );
   }
-  .quire-contents .quire-page__content .container {
-    height: calc(((100vw - var(--gap) - var(--gap) - 1px ) / 7) * 10.25 );
+  .objects-page ol.object-cards-list .object-card__title {
+    font-size: 1.35vw;
   }
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(5n+5) {
-    border-right-width: 1px;
-  }
-  .table-of-contents-list li:nth-child(4) ol li:nth-last-child(-n+5) {
-    border-bottom-width: 1px;
-  }
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(7n+7) {
-    border-right-width: 0;
-  }
-  .table-of-contents-list li:nth-child(4) ol li:nth-last-child(-n+6) {
-    border-bottom-width: 0;
-  }
-  .quire-contents-list .menu-list a,
-  .quire-contents-list .menu-list .section-item ol a, 
-  .quire-contents-list .menu-list .section-item ol a:hover {
+  .objects-page .table-of-contents-list {
     font-size: 1.1vw;
   }
-  .quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
-    font-size: 1.4vw;
-  }
 }
-@media screen and (min-width: 105rem) {
-  .table-of-contents-list li {
-  }
-  .quire-contents .quire-page__content .container, 
-  .quire-contents .quire-page__header .hero-body {
+/* When screen exceeds this size, freeze the grid size and center it on the page */
+@media screen and (min-width: 1680px) {
+  .objects-page .quire-page__content .container, 
+  .objects-page .quire-page__header .hero-body,
+  .objects-page objects-catalog {
+    display: block;
     max-width: 105rem;
     width: 100%;
     margin: 0 auto;
   }
-  .quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
-    height: calc(105rem / 7);
-  }
-  .quire-contents .quire-page__content .container {
-    height: calc((105rem / 7) * 9.75 );
-  }
-  .quire-contents-list .menu-list a,
-  .quire-contents-list .menu-list .section-item ol a, 
-  .quire-contents-list .menu-list .section-item ol a:hover {
+  .objects-page .table-of-contents-list {
     font-size: 1.15rem;
   }
-  .quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
+  .objects-page ol.object-cards-list .object-card {
+    height: calc(105rem / 7 );
+  }
+  .objects-page ol.object-cards-list .object-card__title {
     font-size: 1.5rem;
   }
 }
-@media screen and (min-width: 40rem) and (max-width: 66.5rem) {
-  .table-of-contents-select-group {
-    display: block;
-    left: 18.5rem;
-    top: 3.5rem;
+/* When screen is too narrow for horizontal TOC, switch to side-by-side view */
+@media screen and (max-width: 1064px) {
+  .objects-page {
+    display: grid;
+    grid-template-columns: 17.5rem 1fr;
+    grid-template-rows: 160px 1fr 160px;
   }
-  .table-of-contents-select-group .table-of-contents-select {
-    display: inline-block;
-    margin-left: 1.75rem;
-    margin-bottom: .5rem;
+  .objects-page .quire-page__header,
+  .objects-page .quire-contents-buttons {
+    grid-column: -1/1;
   }
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(-n+3) {
-    margin-top: 5.25rem;
+  .objects-page .quire-page__content .container {
+    padding-right: 1rem;
   }
-  .table-of-contents-list {
+  .objects-page .table-of-contents-list {
     flex-direction: column;
-    margin-top: 3.5rem;
+    height: auto;
+    font-size: 1rem;
   }
-  .table-of-contents-list li::before {
+  .objects-page .table-of-contents-list li::before {
     width: 5rem;
     height: 1px;
     margin-bottom: 1rem;
   }
-  .quire-contents-list {
+  .objects-page .table-of-contents-list .page-item, 
+  .objects-page .table-of-contents-list .section-item {
+    margin-bottom: 1.375rem !important;
+    display: block;
     padding-left: 0;
   }
-  .table-of-contents-list li {
-    padding-left: 0;
+  .objects-page .table-of-contents-list li:nth-child(5) ol {
     display: block;
   }
-  .table-of-contents-list li:nth-child(4):after {
-    height: 28.8px;
-    margin-left: 4rem;
-    background-image: url("data:image/svg+xml,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 240 28.8'%3E%3Cpath fill='%23fff' d='M216.1092,14.4h-0.0029c7.9531,0,14.3979,6.447,14.395,14.4V0.4186V0 C230.5062,7.953,224.0623,14.4,216.1092,14.4z'/%3E%3Cpath fill='none' stroke='%23e0582a' d='M72.3272,14.4h143.2791c7.9531,0,14.3979,6.447,14.395,14.4'/%3E%3Cpath fill='none' stroke='%23e0582a' d='M0,14.4h215.6092c7.9531,0,14.397-6.447,14.3921-14.4'/%3E%3C/svg%3E");
-    background-position-x: right;
-    margin-top: -1.4rem;
-    width: 171px;
-  }
-  .table-of-contents-list li:nth-child(4) ol {
-    grid-template-columns: 33.3333% 33.3333% 33.3333%;
-    left: 17.5rem;
-    top: 2.5rem;
-    border-top-width: 0px;
-    padding-top: 0;
-    border-left: 1px solid var(--accent-color) !important;
-    padding-left: 1.75rem;
-  }
-  .table-of-contents-list li:nth-child(4) ol:before,
-  .table-of-contents-list li:nth-child(4) ol:after {
-    content: " ";
-    width: 1.75rem;
-    height: 1px;
-    background-color: var(--accent-color);
-    position: absolute;
-  }
-  .table-of-contents-list li:nth-child(4) ol:after {
-    left: 0;
-    bottom: 0;
-  }
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(5n+5),
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(7n+7) {
-    border-right-width: 1px;
-  }
-  .table-of-contents-list li:nth-child(4) ol li:nth-last-child(-n+5),
-  .table-of-contents-list li:nth-child(4) ol li:nth-last-child(-n+6) {
-    border-bottom-width: 1px;
-  }
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(3n+3) {
-    border-right-width: 0;
-  }
-  .table-of-contents-list li:nth-child(4) ol li:last-child {
-    border-left: 1px solid var(--black);
-    border-bottom-width: 0;
-    grid-column-start: 2;
-  }
-  .quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
-    height: calc((100vw - var(--gap) - 17.5rem - 2px ) / 3);
-  }
-  .quire-contents .quire-page__content .container {
-    height: calc(((100vw - var(--gap) - 17.5rem - 2px ) / 3) * 20 );
-  }
-  .table-of-contents-list li:nth-child(5) ol {
-    margin-left: 0 !important;
-    margin-top: 0 !important;
-    display: block;
-  } 
-  .table-of-contents-list li:nth-child(5) ol li {
+  .objects-page .table-of-contents-list li:nth-child(5) ol li {
     margin-left: 0;
-  }
-  .table-of-contents-list li:nth-child(5) ol li:last-child {
     margin-bottom: 0 !important;
   }
-  .quire-contents-list .menu-list a,
-  .quire-contents-list .menu-list .section-item ol a, 
-  .quire-contents-list .menu-list .section-item ol a:hover {
-    font-size: 1rem;
+  .objects-page section.object-cards {
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    min-height: 140px;
+    position: relative;
   }
-  .quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
+  .objects-page .object-filters__item {
+    margin-right: 0 !important;
+  }
+  .objects-page ol.object-cards-list {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .objects-page ol.object-cards-list .object-card {
+    height: calc((100vw - 17.5rem - 1.5rem - var(--gap)) / 3 );
+  }
+  .objects-page ol.object-cards-list .object-card__title {
     font-size: 1.9vw;
   }
 }
-@media screen and (min-width: 40rem) and (max-width: 56rem) {
-  .table-of-contents-select-group .table-of-contents-select {
-    display: block;
+/* THis is still side-by-side, but won't carry over to smallest screens */
+@media screen and (min-width: 640px) and (max-width: 1064px) {
+  .table-of-contents-list li:nth-child(4):after {
+    height: 28.8px;
+    margin-left: 1.5rem;
+    background-image: url("data:image/svg+xml,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 240 28.8'%3E%3Cpath fill='%23fff' d='M216.1092,14.4h-0.0029c7.9531,0,14.3979,6.447,14.395,14.4V0.4186V0 C230.5062,7.953,224.0623,14.4,216.1092,14.4z'/%3E%3Cpath fill='none' stroke='%23e0582a' d='M72.3272,14.4h143.2791c7.9531,0,14.3979,6.447,14.395,14.4'/%3E%3Cpath fill='none' stroke='%23e0582a' d='M0,14.4h215.6092c7.9531,0,14.397-6.447,14.3921-14.4'/%3E%3C/svg%3E");
+    background-position-x: right;
+    margin-top: -0.2rem;
+    width: 164.5px;
   }
-  .table-of-contents-select label {
-    display: inline-block;
-    width: 4.375rem;
+  .objects-page .object-filters::before,
+  .objects-page section.object-cards::after {
+    content: " ";
+    height: 1px;
+    width: 1.75rem;
+    background-color: var(--accent-color);
+    position: absolute;
   }
-  .table-of-contents-select select {
-    width: 17.5rem;
-    max-width: calc(100% - 5rem);
+  .objects-page section.object-cards::after {
+    bottom: 0;
+    left: 0;
   }
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(-n+3) {
-    margin-top: 0;
+  .objects-page .object-filters {
+    border-top-width: 0;
   }
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(-n+2) {
-    margin-top: 7.875rem;
+  .objects-page .object-filters::after {
+    width: 0;
   }
-  .table-of-contents-list li:nth-child(4) ol {
-    grid-template-columns: 50% 50%;
+  .objects-page .object-filters,
+  .objects-page section.object-cards {
+    margin: 0;
+    padding-left: 1.5rem;
+    padding-right: var(--gap);
+    border-left: 1px solid var(--accent-color);
   }
-  .quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
-    height: calc((100vw - var(--gap) - 17.5rem - 1px ) / 2);
+  .objects-page .object-filters__list,
+  .objects-page .object-filters__controls {
+    justify-content: flex-start;
+    padding-right: 0;
+    width: 100%;
   }
-  .quire-contents .quire-page__content .container {
-    height: calc(((100vw - var(--gap) - 17.5rem - 1px ) / 2) * 29 );
+  .objects-page .object-filters__controls {
+    margin-left: .8125rem;
   }
-  .quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
-    font-size: 2.4vw;
+  .objects-page .object-filters__item {
+    margin-right: 0 !important;
+    grid-gap: 0;
+    width: 100%;
   }
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(5n+5),
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(7n+7),
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(3n+3) {
-    border-right-width: 1px;
-  }
-  .table-of-contents-list li:nth-child(4) ol li:nth-last-child(-n+5),
-  .table-of-contents-list li:nth-child(4) ol li:nth-last-child(-n+6) {
-    border-bottom-width: 1px;
-  }
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(2n+2) {
-    border-right-width: 0;
-  }
-  .table-of-contents-list li:nth-child(4) ol li:last-child {
-    border-left: 0;
-    border-bottom-width: 0;
-    grid-column-start: 1;
+  .objects-page .object-filters__item label {
+    width: 4rem;
+    text-align: left;
   }
 }
-@media screen and (max-width: 40rem) {
-  .table-of-contents-select-group {
-    display: block;
-    left: calc(var(--gap) + 1rem);
-    right: calc(var(--gap) + 1rem);
-    top: 380px;
+/* As screen gets even narrower, go to 2-card grid */
+@media screen and (min-width: 640px) and (max-width: 895px) {
+  .objects-page .object-filters__select {
+    min-width: 12.5rem;
+    max-width: 16rem;
+    width: 100%;
   }
-  .table-of-contents-select label {
-    display: inline-block;
-    width: 4.375rem;
+  .objects-page ol.object-cards-list {
+    grid-template-columns: repeat(2, 1fr);
   }
-  .table-of-contents-select select {
-    width: 17.5rem;
-    max-width: calc(100% - 5rem);
+  .objects-page ol.object-cards-list .object-card {
+    height: calc((100vw - 17.5rem - 1.5rem - var(--gap)) / 2 );
   }
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(-n+2) {
-    margin-top: 1.75rem;
+  .objects-page ol.object-cards-list .object-card__title {
+    font-size: 2.4vw;
   }
-  .table-of-contents-list {
+}
+/* At this size, revert to having the TOC above the grid, but put it in two columns */
+@media screen and (max-width: 639px) {
+  .objects-page {
+    display: initial;
+  }
+  .objects-page .quire-page__content .container {
+    padding: 0 var(--gap);
+  }
+  .objects-page .table-of-contents-list {
+    flex-direction: column;
+    font-size: 1rem;
     display: block;
     column-count: 2;
-  }
-  .table-of-contents-list .table-of-contents-list {
-    column-count: 1;
-  }
-  .table-of-contents-list li::before {
-    width: 5rem;
-    height: 1px;
-    margin-bottom: 1rem;
-  }
-  .quire-contents-list {
-    padding-left: .25rem;
-  }
-  .table-of-contents-list li {
-    padding-left: 0;
-    display: block;
-  }
-  .table-of-contents-list li:nth-child(4) ol {
-    grid-template-columns: 50% 50%;
-    top: 364px;
-  }
-  .quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
-    height: calc((100vw - var(--gap) - var(--gap) - 1px ) / 2);
-  }
-  .quire-contents .quire-page__content .container {
-    height: calc(((100vw - var(--gap) - var(--gap) - 1px ) / 2) * 30.5 );
+    padding-left: 0.25rem;
+    padding-bottom: 1.5rem;
   }
   .table-of-contents-list li:nth-child(4):after {
-    height: 158.5px;
-    margin-left: 1rem;
-    margin-top: 1rem;
-  }
-  .table-of-contents-list li:nth-child(4) ol li {
-    border-width: 0;
-    border-bottom-width: 1px;
-  }
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(-n+3) {
-    /* border-top-width: .5px; */
-  }
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(2n+1) {
-    /* border-left-width: .5px; */
-  }
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(2n+1) {
-    border-right-width: 1px;
-  }
-  .table-of-contents-list li:nth-child(4) ol li:nth-last-child(2) {
-    /* border-bottom-width: 1px; */
-  }
-  .table-of-contents-list li:nth-child(4) ol li:last-child {
-    /* border-right-width: 1px; */
-    /* border-bottom-width: 0; */
-  }
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(-n+2) {
-    /* border-top-width: 0; */
-  }
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(2n+1) {
-    /* border-left-width: 0; */
-  }
-  .table-of-contents-list li:nth-child(4) ol li:nth-child(2n+2) {
-    /* border-right-width: 0; */
+    margin-top: 2rem;
+    margin-left: -1.5rem;
+    height: 174.5px;
   }
   .table-of-contents-list li:nth-child(5) {
     break-inside: avoid;
   }
   .table-of-contents-list li:nth-child(5)::before {
-    content: none;
+    width: 0;
+    height: 0;
   }
   .table-of-contents-list li:nth-child(5) ol {
-    margin-left: 0 !important;
-    margin-top: 0 !important;
-    display: block;
-  } 
-  .table-of-contents-list li:nth-child(5) ol li {
-    margin-left: 0;
+    column-count: 1;
+    padding: 0;
   }
-  .table-of-contents-list li:nth-child(5) ol li:last-child {
-    margin-bottom: 0 !important;
+  .objects-page ol.object-cards-list {
+    grid-template-columns: repeat(2, 1fr);
   }
-  .quire-contents-list .menu-list a,
-  .quire-contents-list .menu-list .section-item ol a, 
-  .quire-contents-list .menu-list .section-item ol a:hover {
-    font-size: 1rem;
+  .objects-page ol.object-cards-list .object-card {
+    height: calc((100vw - var(--gap) - var(--gap)) / 2 );
   }
-  .quire-contents-list .menu-list .table-of-contents-list li:nth-child(4) ol li a {
+  .objects-page ol.object-cards-list .object-card__title {
     font-size: 4vw;
   }
 }
-
-@media screen and (max-width: 418px) {
-  .table-of-contents-select-group {
-    top: 400px;
-  }
-  .table-of-contents-list li:nth-child(4) ol {
-    top: 385px;
+/* Adjust width of filters for smallest screens */
+@media screen and (max-width: 410px) {
+  .objects-page .object-filters__select {
+    min-width: 12.5rem;
+    max-width: 16rem;
+    width: 100%;
   }
 }
 
-
-
-
 /* TAXONMIES */
+/* ========================================================================= */
 .quire-page.taxonomy .quire-page__header {
   margin-bottom: 0;
   margin-top: 1.5rem;
@@ -1475,6 +1411,14 @@ a:hover .quire-thing__main__icon svg {
 .taxonomy-table .quire-citation.quire-thing:last-child::after {
   content: "";
 }
+@media print {
+  .taxonomy-table tr td a::after {
+    content: ", ";
+  }
+  .taxonomy-table tr td a:last-child::after {
+    content: "";
+  }
+}
 .quire-page__content .content .taxonomy-table tbody tr:hover {
   background-color: transparent;
 }
@@ -1499,8 +1443,8 @@ a:hover .quire-thing__main__icon svg {
   padding-right: .5rem;
 }
 /* Indexes by Type and Theme */
-#index-by-theme tr td:first-child,
-#index-by-thing tr td:first-child {
+#themes-table tr td:first-child,
+#types-table tr td:first-child {
   font-style: italic;
 }
 /* Index by Material */
@@ -1508,14 +1452,14 @@ a:hover .quire-thing__main__icon svg {
 .quire-page.taxonomy[data-page-id="taxonomies-material"] .quire-page__header__title {
   border-bottom-width: 0px;
 }
-#index-by-material.taxonomy-table {
+#materials-table.taxonomy-table {
   border-bottom: 1px solid var(--black);
   columns: 2;
   column-gap: 0;
   column-rule: 1px solid var(--black);
   display: block;
 }
-#index-by-material.taxonomy-table tbody {
+#materials-table.taxonomy-table tbody {
   break-inside: avoid;
   columns: 1;
   display: block;
@@ -1523,31 +1467,31 @@ a:hover .quire-thing__main__icon svg {
   column-rule-width: 0px;
   margin: 0;
 }
-#index-by-material.taxonomy-table tbody:first-of-type {
+#materials-table.taxonomy-table tbody:first-of-type {
   display: none;
 }
-#index-by-material.taxonomy-table tbody tr {
+#materials-table.taxonomy-table tbody tr {
   padding-left: 1.5rem;
 }
-#index-by-material.taxonomy-table tbody tr:first-child {
+#materials-table.taxonomy-table tbody tr:first-child {
   padding-top: 1rem;
   padding-left: .5rem;
 }
-#index-by-material.taxonomy-table tbody tr:last-child {
+#materials-table.taxonomy-table tbody tr:last-child {
   padding-bottom: .75rem;
 }
-#index-by-material.taxonomy-table tr td:first-child {
+#materials-table.taxonomy-table tr td:first-child {
   width: 10.5rem;
   font-style: italic;
 }
-#index-by-material.taxonomy-table tr td.material-category-header {
+#materials-table.taxonomy-table tr td.material-category-header {
   font-weight: 600;
   font-style: normal;
   text-transform: uppercase;
   letter-spacing: .8px;
   white-space: nowrap;
 }
-#index-by-material.taxonomy-table tr td.material-category-header + td {
+#materials-table.taxonomy-table tr td.material-category-header + td {
   padding-left: 1rem;
 }
 /* Owners List in frontmatter */
@@ -1601,7 +1545,7 @@ a:hover .quire-thing__main__icon svg {
 
 @media screen and (max-width: 45.5rem) {
   .taxonomy-table tbody,
-  #index-by-material.taxonomy-table,
+  #materials-table.taxonomy-table,
   #owners-list {
     columns: 1;
     margin-left: 0;
@@ -1610,7 +1554,7 @@ a:hover .quire-thing__main__icon svg {
   .taxonomy-table tr td:first-child {
     padding-left: 0 !important;
   }
-  #index-by-material.taxonomy-table tbody tr:first-child {
+  #materials-table.taxonomy-table tbody tr:first-child {
     padding-left: 0;
   }
   .has-rule-lines::before,
@@ -1797,16 +1741,15 @@ a:hover .quire-thing__main__icon svg {
   .quire-contents-list .menu-list .section-item ol a {
     font-size: 1rem;
   }
-  .quire-contents-list .section-item.frontmatter-page > a::after,
-  .quire-contents-list .page-item.frontmatter-page > a::after {
-    font-style: normal;
+  .table-of-contents > .table-of-contents-list > .page-item:nth-child(-n+2) a::after {
+    content: leader(dotted) ' 'target-counter(attr(href, url), page, lower-roman);
   }
 
   /* Remove page numbering from "Taxonomies" landing page */
   .quire-contents-list .section-item:nth-child(5) > a::after {
     content: '';
   }
-  .quire-page#taxonomies {
+  .quire-page#page-taxonomies {
     page: no-footer;
   }
 
@@ -1835,7 +1778,7 @@ a:hover .quire-thing__main__icon svg {
     margin-left: 0;
   }
   /* PDF Things Grid */
-  .quire-page#things h1, .quire-page__header__title {
+  .quire-page#page-things h1, .quire-page__header__title {
     margin-bottom: 54px; /* aligns first page of grid with the subsequent pages */
   }
   .pdf-thing-grid {
