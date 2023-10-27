@@ -96,20 +96,20 @@ license:
 
 resource_link:
   - type: other-format
-    name: PDF (## MB)
+    name: PDF (11 MB)
     media_type: application/pdf
     link_relation: alternate
-    url: /downloads/X.pdf
+    url: /_assets/downloads/ScottWilliams_ArtistsThings.pdf
   - type: other-format
-    name: EPUB (## MB)
+    name: EPUB (133 MB)
     media_type: application/epub+zip
     link_relation: alternate
-    url: /downloads/X.epub
+    url: /_assets/downloads/ScottWilliams_ArtistsThings.epub
   - type: other-format
     name: Paperback
     media_type: print
     link_relation: alternate
-    url: https://shop.getty.edu/products/X
+    url: https://shop.getty.edu/products/artists-things-rediscovering-lost-property-from-eighteenth-century-france-978-160606863-2
   - type: footer-link
     name: About
     link_relation: about
