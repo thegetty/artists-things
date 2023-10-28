@@ -13,15 +13,15 @@ module.exports = function(eleventyConfig) {
     const { description, identifier, promo_image, pub_date, pub_type, title, url } = publication
     const pageType = page && page.layout
 
-    let socialThumbnail
+    let socialThumbnail = url.concat('_assets/images/', promo_image)
     let socialTitle 
     let socialDescription
     if (page.layout == 'thing') {
-      socialThumbnail = url.concat('_assets/images/', page.object[0].thumbnail)
-      socialTitle = page.title.concat(' (from ', title, ')')
+      // socialThumbnail = url.concat('_assets/images/', page.object[0].thumbnail)
+      socialTitle = title.concat(' | ', page.title)
       socialDescription = page.abstract || description.full
     } else {
-      socialThumbnail = url.concat('_assets/images/', promo_image)
+      // socialThumbnail = url.concat('_assets/images/', promo_image)
       socialTitle = title
       socialDescription = description.one_line || description.full
     }
