@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Add apple icon and configure as mobile app
+//
 const path = require('path')
 /**
  * Head Tag
@@ -73,6 +77,9 @@ module.exports = function(eleventyConfig) {
 
         <script type="application/ld+json">${jsonld({ canonicalURL, page })}</script>
 
+        <meta name="apple-mobile-web-app-title" content="${publication.title}">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <link rel="apple-touch-icon" sizes="180x180" href="/_assets/images/icons/apple-touch-icon-180x180.png">
         <link rel="icon" href="/_assets/images/icons/favicon.ico" />
         <!--
           styles are already imported in _assets/javascript/application/index.js

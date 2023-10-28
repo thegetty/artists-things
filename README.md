@@ -46,6 +46,9 @@ Updated licensing language
 **_includes/components/icons.js**
 Added custom search icon
 
+**_includes/components/head.js**
+Add apple icon and configure as mobile app
+
 **_includes/components/figure/caption.js**
 Don't output any HTML if there aren't caption elements
 
