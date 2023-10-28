@@ -49,6 +49,10 @@
 .quire-cover .quire-page__content .container.is-fluid .content p {
   line-height: 1.625;
 }
+.quire-cover__hero {
+  min-height: calc(100vh - 50px - 3.5rem) !important;
+  max-height: calc(100vh - 50px - 3.5rem) !important;
+}
 .quire-cover__image {
   display: flex;
   flex-direction: column;
@@ -69,7 +73,7 @@
 }
 .quire-cover__image__tablet {
   display: block;
-} 
+}
 @media (min-aspect-ratio: 1/1) {
   .quire-cover__image__tablet,
   .quire-cover__image__mobile {
@@ -82,11 +86,13 @@
 @media (max-aspect-ratio: 20/27) {
   .quire-cover__hero {
     min-height: auto !important;
-    height: calc(100vh - 3.5rem - 110px);
+    max-height: auto !important;
+    height: calc(100vh - 3.5rem - 40px);
   }
   .quire-cover__image {
     height: 100%;
     justify-content: center;
+    padding-bottom: 25px;
   }
   .quire-cover__image__mobile {
     margin: 0 2rem;
@@ -107,6 +113,11 @@
   }
   .quire-cover .quire-page__content .container .content {
     margin-top: 60px;
+  }
+}
+@media (max-aspect-ratio: 20/29) { 
+  .quire-cover__hero {
+    height: calc(100vh - 3.5rem - 110px);
   }
 }
 @media (max-aspect-ratio: 20/35) {
@@ -1204,7 +1215,7 @@ a:hover .quire-thing__main__icon svg {
     height: calc((100vw - var(--gap) - var(--gap)) / 7 );
   }
   .objects-page ol.object-cards-list .object-card__title {
-    font-size: 1.35vw;
+    font-size: 1.3vw;
   }
   .objects-page .table-of-contents-list {
     font-size: 1.1vw;
@@ -1227,7 +1238,7 @@ a:hover .quire-thing__main__icon svg {
     height: calc(105rem / 7 );
   }
   .objects-page ol.object-cards-list .object-card__title {
-    font-size: 1.5rem;
+    font-size: 1.4rem;
   }
 }
 /* When screen is too narrow for horizontal TOC, switch to side-by-side view */
