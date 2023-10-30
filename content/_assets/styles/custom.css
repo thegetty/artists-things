@@ -104,6 +104,18 @@
       background-color: beige;
     }
   }
+  @supports (-moz-text-size-adjust:none) {
+    .quire-cover__hero {
+      height: 100vh;
+      border: 1px solid cyan;
+    }
+  }
+  @supports (-moz-user-select:none) {
+    .quire-cover__hero {
+      height: 100vh;
+      border: 1px solid goldenrod;
+    }
+  }
   .quire-cover__image {
     height: 100%;
     justify-content: center;
@@ -147,6 +159,18 @@
     }
     .quire-cover__image {
       background-color: beige;
+    }
+  }
+  @supports (-moz-text-size-adjust:none) {
+    .quire-cover__hero {
+      height: 100vh;
+      border: 1px solid cyan;
+    }
+  }
+  @supports (-moz-user-select:none) {
+    .quire-cover__hero {
+      height: 100vh;
+      border: 1px solid goldenrod;
     }
   }
 }
