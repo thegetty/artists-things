@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Update and clean-up handling for social sharing
+//
 /**
  * Renders <head> <meta> data tags for Open Graph protocol data
  *
@@ -13,18 +17,12 @@ module.exports = function(eleventyConfig) {
     const { description, identifier, promo_image, pub_date, pub_type, title, url } = publication
     const pageType = page && page.layout
 
-    let socialThumbnail = url.concat('_assets/images/', promo_image)
-    let socialTitle 
-    let socialDescription
-    if (page.layout == 'thing') {
-      // socialThumbnail = url.concat('_assets/images/', page.object[0].thumbnail)
-      socialTitle = title.concat(' | ', page.title)
-      socialDescription = page.abstract || description.full
-    } else {
-      // socialThumbnail = url.concat('_assets/images/', promo_image)
-      socialTitle = title
-      socialDescription = description.one_line || description.full
-    }
+    const socialDescription = description.one_line || description.full
+    const socialThumbnail = url.concat('_assets/images/', promo_image)
+    const socialTitle = (page.layout == 'thing')
+      ? title.concat(' | ', page.title)
+      : title
+
     const meta = [
       {
         property: 'og:title',

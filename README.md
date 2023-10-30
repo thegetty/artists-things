@@ -52,6 +52,11 @@ Add apple icon and configure as mobile app
 **_includes/components/figure/caption.js**
 Don't output any HTML if there aren't caption elements
 
+**_includes/components/head.js**
+**_includes/components/head-tags/opengraph.js**
+**_includes/components/head-tags/twitter-card.js**
+Update and clean-up handling for social sharing
+
 **_includes/components/license-icons.js**
 Exclude SVG icons from EPUB output
 

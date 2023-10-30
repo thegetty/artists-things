@@ -1,6 +1,7 @@
 //
 // CUSTOMIZED FILE
 // Add apple icon and configure as mobile app
+// Update and clean-up handling for social sharing
 //
 const path = require('path')
 /**
@@ -25,7 +26,7 @@ module.exports = function(eleventyConfig) {
   return function (page) {
     const { abstract, canonicalURL, cover, layout, title } = page
     const pageTitle = removeHTML(
-      title ? `${title} | ${publication.title}` : publication.title
+      title ? `${publication.title} | ${title}` : publication.title
     )
 
     const description = publication.description.full || publication.description.one_line
@@ -73,7 +74,7 @@ module.exports = function(eleventyConfig) {
 
         ${opengraph({ page })}
 
-        ${twitterCard({ abstract, cover, layout })}
+        ${twitterCard({ page })}
 
         <script type="application/ld+json">${jsonld({ canonicalURL, page })}</script>
 

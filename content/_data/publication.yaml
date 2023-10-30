@@ -128,9 +128,17 @@ resource_link:
 # ------------------------------------------------------------------------------
 
 subject:
-  - type: 
-    name: 
-    identifer: 
+  - type: bisac
+    name: "ART / History / Baroque & Rococo"
+    identifer: ART015090
+  - type: bisac
+    name: "ART / European"
+    identifer: ART015030
+  - type: bisac
+    name: "ART / Reference"
+    identifer: ART025000
+  - type: keyword
+    name: "eighteenth century;France;found items;recovered;lost;missing;ownership;ordinary;illustrated;reference;anecdotes;curiosity;material culture;practice;consumption;commodity;gift;travel;studio;tool;Jean Antoine Watteau;Francois Boucher;Jean Baptiste Greuze;Elizabeth Vigee-Lebrun;Jen Honore Fragonard;Jacques Louis David;Jean Simeon Chardin;Louvre;Francois Lemoyne;sword;innovative;engaging;almanac;marriage contract;armchair;book;pastels;camera obscura;quill;crayon;dog;shell;sketchbook;snuffbox;sugar spoon;gaming set;glasses;table;handkerchief;teacup;harpsichord;umbrella;balloon;votive;intaglio;watch;journal;water fountain;wig;key;lantern;will;letters;wine;mannequin"
 
 library_of_congress_cip: |
   **Library of Congress Cataloging-in-Publication Data**
