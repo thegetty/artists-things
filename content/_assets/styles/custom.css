@@ -66,10 +66,14 @@
 }
 .quire-cover__image__container img:first-child {
   position: absolute;
+  left: 50%;
+  transform: translate(-50%);
 }
 .quire-cover__image__desktop,
 .quire-cover__image__mobile {
   display: none;
+  max-width: 1586px;
+  margin: 0 auto;
 }
 .quire-cover__image__tablet {
   display: block;
