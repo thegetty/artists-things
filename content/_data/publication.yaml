@@ -9,23 +9,23 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'https://first-pages--artists-things.netlify.app'
+url: 'https://www.getty.edu/publications/artists-things'
 
 # ------------------------------------------------------------------------------
 # Title & Description
-title: Artists' Things
+title: Artists’ Things
 subtitle: Rediscovering Lost Property from Eighteenth-Century France
 reading_line:
 short_title:
 
 description:
-  one_line:
+  one_line: "This innovative book looks at objects that once belonged to artists, revealing not only the fabric of the eighteenth-century art world in France but also unfamiliar—and sometimes unexpected—insights into the individuals who populated it including Jean-Antoine Watteau, François Boucher, Jean-Baptiste Greuze, and Elisabeth Vigée-LeBrun."
   full: |
     Artists are makers of things. Yet it is a measure of the disembodied manner in which we generally think about artists that we rarely consider the everyday items they own. This innovative book looks at objects that once belonged to artists, revealing not only the fabric of the eighteenth-century art world in France but also unfamiliar—and sometimes unexpected—insights into the individuals who populated it, including Jean-Antoine Watteau, François Boucher, Jean-Baptiste Greuze, and Elisabeth Vigée-LeBrun.
 
     From the curious to the mundane, from the useful to the symbolic, these items have one thing in common: they have all been eclipsed from historical view. Some of the objects still exist, like Jean-Honoré Fragonard’s color box and Jacques-Louis David’s table. Others survive only in paintings, such as Jean-Siméon Chardin’s cistern in his *Copper Drinking Fountain*, or in documents, like François Lemoyne’s sword, the instrument of his suicide. Several were literally lost, including pastelist Jean-Baptiste Perronneau’s pencil case. In this fascinating book, the authors engage with fundamental historical debates about production, consumption, and sociability through the lens of material goods owned by artists.
   online_edition: |
-    The free online edition of this open-access publication is at [getty.edu/publications/artists-things/](https://www.getty.edu/publications/artists-things/) and includes zoomable illustrations. Free PDF and EPUB downloads of the book are also available.
+    The free online edition of this open-access publication is available at [getty.edu/publications/artists-things/](https://www.getty.edu/publications/artists-things/) and includes zoomable illustrations. Free PDF and EPUB downloads of the book are also available.
 
 # ------------------------------------------------------------------------------
 # Publication Details
@@ -44,6 +44,7 @@ publisher:
     url: https://www.getty.edu/publications/
     logo: logo-getty.png
     address: |
+      **Published by the Getty Research Institute, Los Angeles**
       Getty Publications
       1200 Getty Center Drive, Suite 500
       Los Angeles, California 90049-1682
@@ -53,15 +54,15 @@ project_team:
   - Lauren Edson, *Project Editor*
   - Mary Christian, *Manuscript Editor*
   - Greg Albers, *Digital Publications Manager*
-  - Marci Boudreau, *Design*
+  - Picnic Design, *Design*
   - Molly McGeehan, *Production*
-  - Karen Ehrman, *Rights*
+  - Karen Ehrmann and Pauline Lopez, *Image and Rights Acquisition*
 
 # ------------------------------------------------------------------------------
 # Contributors
 # ------------------------------------------------------------------------------
 
-contributor_as_it_appears:
+contributor_as_it_appears: Katie Scott & Hannah Williams
 
 contributor:
   - id: kscott
@@ -69,12 +70,13 @@ contributor:
     first_name: Katie
     last_name: Scott
     symbol: §
+    bio: "**Katie Scott** is professor at the Courtauld Institute of Art, London. She is a specialist in French art, architecture, and art theory of the early modern period and is the author of *The Rococo Interior: Decoration and Social Spaces in Early Eighteenth-Century Paris* (Yale University Press, 1996) and *Becoming Property: Art, Theory, and Law in Early Modern France* (Yale University Press, 2019). She is currently working on a cultural and material history of eighteenth-century Paris."
   - id: hwilliams
     type: primary
     first_name: Hannah
     last_name: Williams
     symbol: ‡
-
+    bio: "**Hannah Williams** is senior lecturer in the History of Art in the School of History, Queen Mary University of London. She is a specialist in French visual and material culture from the seventeenth to the nineteenth century. Her research focuses on artistic communities, local and global histories of the Paris art world, and the social lives of objects. She is the author of *Académie Royale: A History in Portraits* (Routledge, 2015), awarded the Prix Marianne Roland Michel. She led the creation of the digital mapping project *Artists in Paris: Mapping the Eighteenth-Century Art World* (www.artistsinparis.org) and is a founding editor of *Journal18*. She is currently writing a book on art and religion in eighteenth-century Paris and researching a project on art-world ties to French colonies in the Caribbean."
 
 # ------------------------------------------------------------------------------
 # Copright & License
@@ -94,20 +96,20 @@ license:
 
 resource_link:
   - type: other-format
-    name: PDF (## MB)
+    name: PDF (11 MB)
     media_type: application/pdf
     link_relation: alternate
-    url: /downloads/X.pdf
+    url: /_assets/downloads/ScottWilliams_ArtistsThings.pdf
   - type: other-format
-    name: EPUB (## MB)
+    name: EPUB (133 MB)
     media_type: application/epub+zip
     link_relation: alternate
-    url: /downloads/X.epub
+    url: /_assets/downloads/ScottWilliams_ArtistsThings.epub
   - type: other-format
     name: Paperback
     media_type: print
     link_relation: alternate
-    url: https://shop.getty.edu/products/X
+    url: https://shop.getty.edu/products/artists-things-rediscovering-lost-property-from-eighteenth-century-france-978-160606863-2
   - type: footer-link
     name: About
     link_relation: about
@@ -127,27 +129,25 @@ resource_link:
 
 subject:
   - type: bisac
-    name: ART / History / Baroque & Rococo
+    name: "ART / History / Baroque & Rococo"
     identifer: ART015090
   - type: bisac
-    name: ART / European
+    name: "ART / European"
     identifer: ART015030
   - type: bisac
-    name: ART / Reference
+    name: "ART / Reference"
     identifer: ART025000
-  - type: keywords
-    name: eighteenth century, France, found items, recovered, lost, missing, ownership, ordinary, illustrated, reference, anecdotes, curiosity, Jean Antoine Watteau, Francois Boucher, Jean Baptiste Greuze, Elizabeth Vigee-Lebrun, Jen Honore Fragonard, Jacques Louis David, Jean Simeon Chardin, Louvre, Francois Lemoyne, sword, innovative, engaging, almanac, marriage contract, armchair, book, pastels, camera obscura, quill, crayon, dog, shell, sketchbook, snuffbox, sugar spoon, gaming set, glasses, table, handkerchief, teacup, harpsichord, umbrella, balloon, votive, intaglio, watch, journal, water fountain, wig, key, lantern, will, letters, wine, mannequin
+  - type: keyword
+    name: "eighteenth century;France;found items;recovered;lost;missing;ownership;ordinary;illustrated;reference;anecdotes;curiosity;material culture;practice;consumption;commodity;gift;travel;studio;tool;Jean Antoine Watteau;Francois Boucher;Jean Baptiste Greuze;Elizabeth Vigee-Lebrun;Jen Honore Fragonard;Jacques Louis David;Jean Simeon Chardin;Louvre;Francois Lemoyne;sword;innovative;engaging;almanac;marriage contract;armchair;book;pastels;camera obscura;quill;crayon;dog;shell;sketchbook;snuffbox;sugar spoon;gaming set;glasses;table;handkerchief;teacup;harpsichord;umbrella;balloon;votive;intaglio;watch;journal;water fountain;wig;key;lantern;will;letters;wine;mannequin"
 
 library_of_congress_cip: |
-  Library of Congress Cataloging-in-Publication Data
-  - Names:
-  - Title:
-  - Description:
-  - Identifiers:
-  - Subjects:
-  - Classification:
-  - LC record available at
-  - LC ebook record available at
+  **Library of Congress Cataloging-in-Publication Data**
+  - Names: Scott, Katie, 1958– author. | Williams, Hannah, 1980– author. 
+  - Title: Artists' things : rediscovering lost property from eighteenth-century France / Katie Scott and Hannah Williams. 
+  - Description: First edition. | Los Angeles : Getty Research Institute, 2024. | Includes bibliographical references. | Summary: “This innovative book looks at objects that once belonged to artists, revealing not only the fabric of the eighteenth-century art world in France but also unfamiliar—and sometimes unexpected—insights into the individuals who populated it, including Jean-Antoine Watteau, François Boucher, Jean-Baptiste Greuze, and Elisabeth Vigée-LeBrun”— Provided by publisher.  
+  - Identifiers: LCCN 2023024679 | ISBN 9781606068632 (paperback) | ISBN 9781606068649 | ISBN 9781606068656 (adobe pdf) | ISBN 9781606068663 (epub)  
+  - Subjects: LCSH: Artists—France—History—18th century. | Personal belongings—France—History—18th century. | Material culture—France—History—18th century. | Art, French—18th century. 
+  - Classification: LCC N6846 .S36 2024 | DDC 709.44/09033--dc23/eng/20230602 LC record available at https://lccn.loc.gov/2023024679
 
 # ------------------------------------------------------------------------------
 # Revision History
@@ -158,7 +158,7 @@ revision_history:
     summary:
       - First edition
 
-revision_statement: "Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at [github.com/thegetty/artists-things/](https://github.com/thegetty/artists-things), where a more detailed version history is available. The revisions branch of the project repository, when present, will show any changes currently under consideration but not yet published here."
+revision_statement: "Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at [github.com<wbr/>/thegetty<wbr/>/artists-things/](https://github.com/thegetty/artists-things), where a more detailed version history is available. The revisions branch of the project repository, when present, will show any changes currently under consideration but not yet published here."
 
 repository_url: https://github.com/thegetty/artists-things
 
@@ -166,4 +166,4 @@ repository_url: https://github.com/thegetty/artists-things
 # Promo Image
 # ------------------------------------------------------------------------------
 
-promo_image: static-cover.jpg
+promo_image: promo-image--grid.jpg

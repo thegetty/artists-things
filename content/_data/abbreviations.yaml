@@ -7,7 +7,7 @@ abbreviations_list:
     full: "Archives Nationales de France"
 
   - id: "*BJHS*"
-    full: "*British Journal of the History of Science*"
+    full: "*British Journal for the History of Science*"
 
   - id: "*BM*"
     full: "*The Burlington Magazine*"
@@ -27,20 +27,17 @@ abbreviations_list:
   - id: "*ECS*"
     full: "*Eighteenth-Century Studies*"
 
-  - id: "*GBA*"
-    full: "*Gazette des beaux-arts*"
-
   - id: "*Encyclopédie*"
-    full: "*Encyclopédie, ou dictionnaire raisonné des sciences, des arts et des métiers, etc.* (1751–72)*,* ed. Denis Diderot and Jean le Rond d’Alembert. University of Chicago: ARTFL Encyclopédie Project (Autumn 2017 edition), Robert Morrissey and Glenn Roe, eds, [http://encyclopedie.uchicago.edu/](https://encyclopedie.uchicago.edu/)"
+    full: "*Encyclopédie, ou dictionnaire raisonné des sciences, des arts et des métiers, etc.* (1751–72)*,* ed. Denis Diderot and Jean Le Rond d’Alembert. University of Chicago: ARTFL Encyclopédie Project (Autumn 2017 edition), ed. Robert Morrissey and Glenn Roe, [https://<wbr>encyclopedie<wbr>.uchicago<wbr>.edu/](https://encyclopedie.uchicago.edu/)"
 
   - id: "ENSBA"
     full: "École Nationale Supérieure des Beaux-Arts, Paris"
 
+  - id: "*GBA*"
+    full: "*Gazette des beaux-arts*"
+
   - id: "INHA"
     full: "Institut National d’Histoire de l’Art, Paris"
-
-  - id: "*PV*"
-    full: "*Procès-verbaux de l’Académie royale de peinture et de sculpture, 1648-1793*, ed. Anatole de Montaiglon, 10 vols. Paris: Charavay frères, 1875–92"
 
   - id: "MC"
     full: "Minutier Central, Paris"
@@ -49,7 +46,10 @@ abbreviations_list:
     full: "*Mémoires inédits sur la vie et les ouvrages des membres de l’Académie royale de peinture et de sculpture*, ed. Louis Dussieux, 2 vols. Paris: J.-B. Dumoulin, 1853–54"
 
   - id: "*NAAF*"
-    full: "*Nouvelles archives de l’art français*"
+    full: "*Nouvelles archives de l’art français*. Paris: J. Baur, 1873"
+
+  - id: "*PV*"
+    full: "*Procès-verbaux de l’Académie royale de peinture et de sculpture, 1648–1793*, ed. Anatole de Montaiglon, 10 vols. Paris: Charavay Frères, 1875–92"
 
   - id: "*SVEC*"
     full: "*Studies in Voltaire and the Eighteenth Century* (Oxford University Studies in the Enlightenment)"

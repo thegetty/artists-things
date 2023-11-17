@@ -2,27 +2,77 @@
 
 The [Quire Eleventy package](https://github.com/thegetty/quire/tree/main/packages/11ty) contains configuration and modules for the [Eleventy static site generator](https://11ty.dev). This package is published to npm as [`@thegetty/quire-11ty`](https://www.npmjs.com/package/@thegetty/quire-11ty) and installed by the [`@thegetty/quire-cli`](https://www.npmjs.com/package/@thegetty/quire-cli) to build [Quire](https://quire.getty.edu) projects.
 
-### New and Customized Template Files
+## Creating an EPUB Version
+
+1. Run `quire build`
+
+2. In `_epub/page-03_pdf-epub-contents.xhtml`, find and replace the one instance of `<a href="contents/">` with `<a href="page-07_things.xhtml">`
+
+## Creating a PDF Version
+
+1. Run `quire build`
+
+2. In `_site/pdf.html`, find and replace the ones instance of `<a href="#page-contents">` with `<a href="#page-things">` to ensure page numbering for "Thing" section page is correct.
+
+3. If the PDF will be sent to digital printer, run the following commands to ensure color profiles are correct:
+
+    ```
+    magick mogrify -profile bin/adobe-rgb-1998.icm _site/iiif/**/print-image.jpg
+    ```
+
+    ```
+    magick mogrify -colorspace Gray -profile bin/gray-gamma-2-2.icm _site/iiif/fig-052/052/print-image.jpg
+    ```
+
+4. With PrinceXML 14.2 installed, run `quire pdf --lib prince`
+
+5. On page 392 of the resulting PDF (book page 384), delete the horizontal rule line at the bottom of the page.
+
+Note: We were originally planning on using Paged.js to output this project, however, it is outputting rich black text, which increases print cost and lowers print quality. Also, this important bit of CSS, which adds commas to the things in the List of Owners, wasn't working in Paged.js whereas it does in Prince. And Prince offers some other layout benefits we'll be able to take advantage of.
+
+```css
+#owners-list li .quire-citation + .quire-citation::before { content: ", "; }
+```
+
+## New and Customized Template Files
+
+**_includes/components/analytics.js**
+**_layouts/base.11ty.js**
+Added Google Analytics 4
+
+**_includes/components/copyright/licensing.js**
+Updated licensing language
 
 **_includes/components/icons.js**
 Added custom search icon
 
+**_includes/components/head.js**
+Add apple icon and configure as mobile app
+
 **_includes/components/figure/caption.js**
 Don't output any HTML if there aren't caption elements
+
+**_includes/components/head.js**
+**_includes/components/head-tags/opengraph.js**
+**_includes/components/head-tags/twitter-card.js**
+Update and clean-up handling for social sharing
+
+**_includes/components/license-icons.js**
+Exclude SVG icons from EPUB output
 
 **_includes/components/menu/item.js**
 **_includes/components/table-of-contents/item/list.js**
 **content/_computed/eleventyComputed.js**
 Handle a page redirect, so that the Things page goes to Contents
 
-**_includes/components/table-of-contents/list/index.js**
-Added three dropdown selects for the thing grid
+**_includes/components/object-filters/objects-catalog.webc**
+Added a change from https://github.com/thegetty/quire/pull/872, to allow objects-page at root level, and fix CSS syntax error
 
 **_includes/components/navigation.js**
 Altered to show current page title instead of homepage link, as well as a link to the contents ("Things") page
 
 **_includes/components/page-header.js**
-Added a list of 'owners'
+Added a list of 'owners' and an html element for the PDF footers
 
 **_includes/components/table-of-contents/item/list.js**
 Output the list item for 'thing' pages with an image
@@ -31,17 +81,13 @@ Output the list item for 'thing' pages with an image
 Altered getCurrentFigureId() to work with .q-figure__modal-link class anywhere
 
 **_layouts/cover.liquid**
-Accepts an array of images stacked on top of one another, and add adds visually-hidden class to the main title texts
+Hardcodes an array of images to make up various covers, and add adds visually-hidden class to the main title texts
+
+**_layouts/splash.liquid**
+Added an html element for the PDF footers
 
 **_layouts/thing.liquid**
 Copied essay.liquid, except that it adds owners to the pageHeader and a `.thing-info` grid to display type, theme, and material.
-
-**_plugins/filters/lowerCase.js**
-**_plugins/filters/index.js**
-Added new filter to convert string to lower case, for use in Liquid tempates
-
-**_plugins/shortcodes/figureGroup.js**
-Added optional group figure caption, and optional class, and simplify output to remove rows
 
 **_plugins/shortcodes/index.js**
 Registered the new `abbr` and `thing` shortcodes
@@ -55,9 +101,11 @@ Created a new shortcode to create a pop-up with full data and links for a given 
 **_plugins/shortcodes/contributors.js**
 Refactored logic to handle oxford commas correctly; and added handling to display contributor `symbol
 
-**_plugins/shortcodes/figureRef.js**
-Refactored to accept comma-separated array, and to output with .q-figure__modal-link class
+**_plugins/shortcodes/open.js**
+Custom shortcode based on the old `ref` shortocode, except refactored to accept comma-separated array, and to output with .q-figure__modal-link class
 
-**_plugins/transforms/outputs/pdf/layout.html**
-**_plugins/transforms/outputs/pdf/write.js**
-Added wrapping elements with classes necessary for styling
+**content/_assets/styles/epub.scss**
+Replace default styles with simpler, cleaner version
+
+**content/_assets/javascript/application/index.js**
+Allow only one pop-up to be open at a time

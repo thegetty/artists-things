@@ -1,8 +1,4 @@
-//
-// CUSTOMIZED FILE
-// Added optional group figure caption, and optional class, and simplify output to remove rows
-//
-const { html } = require('~lib/common-tags')
+const { oneLine } = require('~lib/common-tags')
 const chalkFactory = require('~lib/chalk')
 const figure = require('./figure')
 
@@ -16,9 +12,8 @@ const logger = chalkFactory('shortcodes:figureGroup')
  * @return     {String}  An HTML string of the elements to render
  */
 module.exports = function (eleventyConfig, { page }) {
-  const figureCaption = eleventyConfig.getFilter('figureCaption')
 
-  return async function (columns, ids=[], caption, classes) {
+  return async function (columns, ids=[]) {
     columns = parseInt(columns)
 
     /**
@@ -31,22 +26,28 @@ module.exports = function (eleventyConfig, { page }) {
     ids = Array.isArray(ids) ? ids : ids.split(',').map((id) => id.trim())
 
     if (!ids.length) {
-      logger.warn(`NoId: the figuregroup shortcode must include one or more 'id' values that correspond to an 'id' in the 'figures.yaml' file. @example {% qfiguregroup columns=2, ids='3.1, 3.2, 3.3' %}`)
+      logger.warn(`NoId: the q-figures shortcode must include one or more 'id' values that correspond to an 'id' in the 'figures.yaml' file. @example {% qfiguregroup columns=2, ids='3.1, 3.2, 3.3' %}`)
     }
 
-    const figureClasses = classes ? classes : ''
+    // if (ErrorNoMediaType) {
+    //   logger.warn(`NoMediaType: One of the figures passed to the q-figures shortcode is missing the 'media_type' attribute. Figures in 'figures.yaml' must be have a 'media_type' attribute with a value of either  "vimeo" or "youtube"`)
+    // }
 
-    let figures = '';
-    for (let i=0; i < ids.length; i++) {
-      figures += await figure(eleventyConfig, { page })(ids[i]);
+    const classes = ['column', 'q-figure--group__item', `quire-grid--${columns}`]
+    const rows = Math.ceil(ids.length / columns)
+    let figureTags = []
+    for (let i=0; i < rows; ++i) {
+      const startIndex = i * columns
+      let row = ''
+      for (let id of ids.slice(startIndex, columns + startIndex)) {
+        row += await figure(eleventyConfig, { page }).bind(this)(id, classes)
+      }
+      figureTags.push(`<div class="q-figure--group__row columns">${row}</div>`)
     }
 
-    const captionElement = caption ? figureCaption({ caption }) : ''
-
-    return html`
-      <figure class="q-figure q-figure--group q-figure--group--${columns} ${figureClasses}">
-        ${figures}
-        ${captionElement}
+    return oneLine`
+      <figure class="q-figure q-figure--group">
+        ${figureTags.join('\n')}
       </figure>
     `
   }

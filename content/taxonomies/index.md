@@ -1,6 +1,7 @@
 ---
 title: Taxonomies
-layout: page
+layout: splash
 order: 200
 #outputs: none
+search: false
 ---

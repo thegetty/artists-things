@@ -1,11 +1,15 @@
 ---
-layout: base.11ty.js
+title: Copyright Page
+layout: page
+classes: 
+  - copyright-page 
+  - about-copyright-page
 order: 4
-class: backmatter about-copyright-page
-outputs:
-  - epub
-  - pdf
 toc: false
+menu: false
+outputs:
+  - pdf
+  - epub
 ---
 
 {{ config.quire_credit_line | markdownify }}
@@ -14,14 +18,16 @@ toc: false
 
 {% copyright %}
 
-First edition, {{ publication.pub_date | date: "%Y" }}
+First edition {{ publication.pub_date | date: "%Y" }}
 
 {{ publication.revision_statement | markdownify }}
 
 <div class="publisher">
 
+**Getty Research Institute Publications Program**
+Mary E. Miller, *Director, Getty Research Institute*
+
 {% for press in publication.publisher %}
-**Published by the {{ press.name }}, {{ press.location }}**
 {{ press.address | markdownify }}
 {% endfor %}
 
@@ -46,6 +52,10 @@ Distributed outside the United States and Canada by Yale University Press, Londo
 
 </div>
 <div class="cover-image-credits">
+
+Every effort has been made to contact the owners and photographers of illustrations reproduced here whose names do not appear in the captions. Anyone having further information concerning copyright holders is asked to contact Getty Publications so this information can be included in future printings.
+
+This publication was peer reviewed through a single-masked process in which the reviewers remained anonymous.
 
 Front cover: Double-hinged wig spectacles, ca. 1795. White metal frame and glass lenses, 38 mm (eye). London, British Optical Association Museum, College of Optometrists, inv. 1998.235.
 

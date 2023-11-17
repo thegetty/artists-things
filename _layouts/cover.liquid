@@ -1,9 +1,10 @@
 ---
 ## CUSTOMIZED FILE
-## Accepts an array of images stacked on top of one another
+## Hardcodes an array of images to make up various covers
 ## add adds .visually-hidden to main title texts
 ##
-class: quire-cover
+classes: 
+  - quire-cover
 description: Quire publication cover page
 layout: base.11ty.js
 ---
@@ -12,12 +13,16 @@ layout: base.11ty.js
 {% assign imagePath = config.figures.imageDir | concat: coverImage | join: '/' %}
 
 <section class="quire-cover__hero hero is-fullheight">
-{% for i in image %}
-  <div
-    class="quire-cover__overlay"
-    style="background-image: url('{{ config.figures.imageDir }}/{{ i }}');"
-  />
-{% endfor %}
+  <div class="quire-cover__image">
+    <img src='/_assets/images/figures/cover-text-mobile--title.svg' alt='' class='quire-cover__image__mobile' />
+    <div class="quire-cover__image__container">
+      <img src='/_assets/images/figures/cover-image.jpg' alt='' />
+      <img src='/_assets/images/figures/cover-text-desktop--title.svg' alt='' class='quire-cover__image__desktop' />
+      <img src='/_assets/images/figures/cover-text-tablet--title.svg' alt='' class='quire-cover__image__tablet' />
+    </div>
+    <img src='/_assets/images/figures/cover-text-mobile--subtitle.svg' alt='' class='quire-cover__image__mobile' />
+    <img src='/_assets/images/figures/cover-text-tablet--subtitle.svg' alt='' class='quire-cover__image__tablet' />
+  </div>
   <div class="quire-cover__hero-body hero-body visually-hidden">
     <div class="container is-fluid">
       <h1 class="title" id="page-header-{{ page.filePathStem }}">
@@ -29,7 +34,7 @@ layout: base.11ty.js
       </h1>
       <p class="reading-line">{{ publication.reading_line | markdownify }}</p>
       <div class="contributor">
-        <span class="visually-hidden">Contributors:&nbsp;</span>
+        <span class="visually-hidden">Contributors: </span>
         {% if publication.contributor_as_it_appears %}
           <em>{{ publication.contributor_as_it_appears }}</em>
         {% else %}
@@ -53,7 +58,7 @@ layout: base.11ty.js
     <div class="container is-fluid">
       <div class="content">
         {{ content }}
-        {% bibliography pageReferences %}
+        {% bibliography citations %}
       </div>
     </div>
   </section>

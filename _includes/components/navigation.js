@@ -2,7 +2,7 @@
 // CUSTOMIZED FILE
 // show current page title instead of homepage link, lines 76–85
 // and use icons.js filter in place of hard-coded SVG icons
-// add center contents page link to Thing pages
+// add center contents page link to Thing pages, and add class to facilitate hide/show on center element
 //
 const truncate = require('~lib/truncate')
 const { html } = require('~lib/common-tags')
@@ -48,7 +48,7 @@ module.exports = function(eleventyConfig) {
       if (!isHomePage) return ''
       const secondPageLink = collections.navigation[1].url
       return `
-        <li class="quire-navbar-page-controls__item quire-home-page">
+        <li class="quire-navbar-page-controls__item quire-home-page quire-start-button">
           <a href="${secondPageLink}" rel="next">
             <span class="visually-hidden">Next Page: </span>
             <span class="quire-navbar-button play-button">
@@ -68,7 +68,7 @@ module.exports = function(eleventyConfig) {
           <a href="${url}" rel="previous">
             <span class="visually-hidden">Previous Page: </span>
             ${icon({ type: 'left-arrow', description: 'Previous page'})}
-            ${navBarLabel({ label, short_title, title })}
+            <span class="nav-label">${navBarLabel({ label, short_title, title })}</span>
           </a>
         </li>
       `
@@ -96,7 +96,7 @@ module.exports = function(eleventyConfig) {
         <li class="quire-navbar-page-controls__item quire-next-page">
           <a href="${url}" rel='next'>
             <span class="visually-hidden">Next Page: </span>
-            ${navBarLabel({ label, short_title, title })}
+            <span class="nav-label">${navBarLabel({ label, short_title, title })}</span>
             ${icon({ type: 'right-arrow', description: 'Next page'})}
           </a>
         </li>
