@@ -13,7 +13,6 @@
  */
 module.exports = function(eleventyConfig) {
   const pageTitle = eleventyConfig.getFilter('pageTitle')
-  const urlFilter = eleventyConfig.getFilter('url')
 
   return function(params) {
     const { currentURL, page } = params
@@ -28,7 +27,7 @@ module.exports = function(eleventyConfig) {
      */
     const isPage = !!layout
     return isPage
-      ? `<a href="${urlFilter(targetURL)}" class="${currentURL === targetURL ? 'active' : ''}">${titleText}</a>`
+      ? `<a href="${targetURL}" class="${currentURL === targetURL ? 'active' : ''}">${titleText}</a>`
       : titleText
   }
 }
