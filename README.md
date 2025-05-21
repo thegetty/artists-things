@@ -98,6 +98,7 @@ Added custom search icon
 
 **_includes/components/head.js**
 Add apple icon and configure as mobile app
+Remove noindex,nofollow tag
 
 **_includes/components/figure/caption.js**
 Don't output any HTML if there aren't caption elements
