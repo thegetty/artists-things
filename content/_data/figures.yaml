@@ -3,6 +3,7 @@ figure_list:
   - id: "fig-001"
     src: "figures/fig-001.jpg"
     zoom: true
+    alt: "Title page of a French almanac that features writing in French that identifies the title of the almanac, the publication year, the contents, and the name of the publisher. The page includes a coat of arms topped by a crown and embraced by two angel figures, one on each side of the crest."
     label: "Fig. 1"
     caption: "*Almanach royal*, 1763, title page."
     credit: "Paris, Bibliothèque Nationale de France. (Image source: Gallica, BnF.)"
@@ -10,6 +11,7 @@ figure_list:
   - id: "fig-002"
     src: "figures/fig-002.jpg"
     zoom: true
+    alt: "Painting featuring a port scene at night. To the left, groups of people are shown loading boats under the moonlight while, on the right, individuals gather around a fire."
     label: "Fig. 2"
     caption: "Claude-Joseph Vernet (French, 1714–89), *Night*, from the series *Four Times of the Day*, 1762. Oil on canvas, 83.5 × 135 cm."
     credit: "Châteaux de Versailles et de Trianon, MV5927. (© RMN-Grand Palais / photo: Christophe Fouin / Art Resource, NY.)"
@@ -17,6 +19,7 @@ figure_list:
   - id: "fig-003"
     src: "figures/fig-003.jpg"
     zoom: true
+    alt: "Painting of the Normandy port at dawn towards the end of summer or early autumn. People are shown on the dock offloading fish from sailboats and stowing the fishing nets."
     label: "Fig. 3"
     caption: "Claude-Joseph Vernet (French, 1714–89), *Port of Dieppe*, 1765. Oil on canvas, 165.5 × 264 cm."
     credit: "Paris, Musée de la Marine, 5OA13. (© RMN-Grand Palais / Art Resource, NY.)"
