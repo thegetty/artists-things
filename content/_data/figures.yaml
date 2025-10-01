@@ -106,7 +106,7 @@ figure_list:
   - id: "fig-014"
     src: "figures/fig-014.jpg"
     zoom: true
-    alt: 
+    alt: "Frontispiece for Iconologie featuring a man wearing a winged cap who reclines on a headstone with inscriptions that refer to the title of the volume. Three cherubs are shown to the right of the man, standing on top of the stone, painting and playing a musical instrument. The scene is set in an ancient Roman architectural environment."
     label: "Fig. 14"
     caption: "Gilles-Marie Oppenord (French, 1672–1742), Alternative title page or frontispiece for Cesare Ripa and Jean Baudouin, *Iconologie; ou, Explication nouvelle de plusieurs emblemes* (Paris, 1636). Pen and brown ink, brush in brown and gray ink over a pencil sketch, 32.5 × 21.5 cm."
     credit: "Montreal, Canadian Centre for Architecture."
@@ -114,6 +114,7 @@ figure_list:
   - id: "fig-015"
     src: "figures/fig-015.jpg"
     zoom: true
+    alt: "Ink illustration of a funerary monument consisting of a sarcophagus and a rounded plaque on the wall behind it, showcasing a neoclassical-style scene and, underneath, a grotesque mask."
     label: "Fig. 15"
     caption: "Gilles-Marie Oppenord (French, 1672–1742), Design for a funeral monument for the 1636 French edition of Cesare Ripa and Jean Baudouin, *Iconologie; ou, Explication nouvelle de plusieurs emblemes* (Paris, 1636). Pen and brown ink with brown and gray wash, 32.6 × 21.3 cm."
     credit: "Montreal, Canadian Centre for Architecture."
@@ -121,6 +122,7 @@ figure_list:
   - id: "fig-016"
     src: "figures/fig-016.jpg"
     zoom: true
+    alt: "Open book showing marbled endpapers. The page on the left features an ink drawing of an individual rowing."
     label: "Fig. 16"
     caption: "Antoine-Joseph Pernéty, *Dictionnaire portatif de peinture, sculpture et gravure* (1757), annotated by Gabriel de Saint-Aubin (French, 1724–80), ca. 1757–67. Pen and black ink on endpaper."
     credit: "Paris, Petit Palais. (CCØ Paris Musées / Petit Palais, Musée des Beaux-Arts de la Ville de Paris.)"
@@ -128,6 +130,7 @@ figure_list:
   - id: "fig-017"
     src: "figures/fig-017.jpg"
     zoom: true
+    alt: "Line drawing of a portal framing an ornamental fountain around which there are medallions featuring human representations of doubt, discretion, divinity, pain, economy and equality. Human figures hang from the ornamental fountain at the basis of which an animal lies."
     label: "Fig. 17"
     caption: "Gilles-Marie Oppenord (French, 1672–1742), Design for a portal with ornamentation drawn on a printed folio, with medalions of Doute, Discretion, Divinité, Douleur, Economie, and Égalité, for Cesare Ripa and Jean Baudouin, *Iconologie, ou Explication nouvelle de plusieurs emblemes* (Paris, 1636). Pen and brown ink over engraving, 32.8 × 22.3 cm."
     credit: "Montreal, Canadian Centre for Architecture."
@@ -135,6 +138,7 @@ figure_list:
   - id: "fig-018"
     src: "figures/fig-018.jpg"
     zoom: true
+    alt: "Plate that illustrates how to use a burin to make engravings. The top register of the plate shows the burin on its own. The middle section showcases two disembodied hands that visually indicate how to hold the burin using the thumb and index finger to guide the tool's blade. The bottom register showcases how the burin should be put to the plate to trace a line."
     label: "Fig. 18"
     caption: "Charles-Nicolas Cochin (French, 1715–90), *De la manière de graver à l’eau-forte et au burin*, 1745. Etching and engraving."
     credit: "Paris, Bibliothèque Nationale de France. (Image source: Gallica, BnF.)"
@@ -142,6 +146,7 @@ figure_list:
   - id: "fig-019"
     src: "figures/fig-019.jpg"
     zoom: true
+    alt: "Engraving that illustrates the sense of sight. A man is shown embracing a woman for whom he holds a mirror up so that she can see her reflection. Under the scene, a title reads in French quote la vue end quote."
     label: "Fig. 19"
     caption: "Renée-Elisabeth Marlié (French, 1714–73), after Jan Saenredam (Dutch, 1565–1607), after Henrick Goltzius (Dutch, 1558–1617), *Sight* from *The Five Senses*, ca. 1741. Engraving, 22 × 15.2 cm."
     credit: "London, British Museum. (© The Trustees of the British Museum / Art Resource, NY.)"
@@ -149,6 +154,7 @@ figure_list:
   - id: "fig-020"
     src: "figures/fig-020.jpg"
     zoom: true
+    alt: "Engraving that illustrates a lavishly attired woman sitting in front of a table, on top of which lies a book open. A similarly richly dressed man stands before her, leaning towards the book where is he to sign or write using the quill in his left hand. A group of five individuals surround them. One of them is shown presenting a small chest inside of which jewelry can be seen. Under the scene, a title reads in French quote contrat de mariage end quote."
     label: "Fig. 20"
     caption: "Renée-Elisabeth Marlié (French, 1714–73), after Carle Van Loo (French, 1705–65), *The Marriage Contract*, 1756. Engraving."
     credit: "Paris, Bibliothèque National de France."
@@ -156,6 +162,7 @@ figure_list:
   - id: "fig-021"
     src: "figures/fig-021.jpg"
     zoom: true
+    alt: "Plate identifying the various elements of a camera obscura. Figure six on the upper left corner showcases the overall process by which images get projected onto a two-dimensional surface using a mirror and a lens. Figure seven on the upper right corner illustrates the placement of the lens and mirror device at the top of the camera obscura structure. Figure eight on the bottom right corner shows how the structure is covered with drapery to create a darkened space."
     label: "Fig. 21"
     caption: "Camera obscura, “Dessein” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécaniques* (1765), plate V."
     credit: "(Paris, Bibliothèque Nationale de France.)"
@@ -163,18 +170,21 @@ figure_list:
   - id: "fig-022"
     src: "figures/fig-022.jpg"
     zoom: true
+    alt: "Drawing that illustrates in red ink the architectural setting in Paris in which the scene takes place and in black chalk a crowd of human and animal figures that fill and animate said space."
     label: "Fig. 22"
     caption: "Charles Parrocel (French, 1688–1752), *Reception of the Turkish Ambassadors at the Tuileries*, ca. 1727. Red and black chalk."
     credit: "Paris, Bibliothèque Nationale de France."
 
   - id: "fig-023"
     src: "figures/fig-023.jpg"
+    alt: "Ink drawing of a person on a horse brandishing a weapon above those who surround him."
     label: "Fig. 23"
     caption: "Charles Parrocel (French, 1688–1752), *Cavalry Engagement*, ca. 1745. Pen and brown ink with brown and gray wash, 35.7 × 18.2 cm."
     credit: "Stockholm, Nationalmuseum, NMH 2892/1863. (Photo: Nationalmuseum.)"
 
   - id: "fig-024"
     src: "figures/fig-024.jpg"
+    alt: "Engraving illustrating a portable magnifier under which a small, winged animal is observed. The different elements of the magnifier are labeled with letters. The scene is topped by a title that reads quote dessein d'un porte loupe end quote."
     label: "Fig. 24"
     caption: "Louis Joblot (French, 1645–1723), *Dessin d’une porte loupe*, 1718."
     credit: "Paris, Bibliothèque Nationale de France."
@@ -182,6 +192,7 @@ figure_list:
   - id: "fig-025"
     src: "figures/fig-025.jpg"
     zoom: true
+    alt: "Map featuring two possible routes from Paris to Lyon. An insert on the right upper corner indicates the itinerary for the route de la diligence, or the fastest route of the two options presented. Information about the title and author of the map is included in a cartouche on the bottom left corner, framed by forestry motifs."
     label: "Fig. 25"
     caption: "Claude Sidone Michel and Louis-Charles Denos, “Route from Paris to Lyon,” from *L’indicateur fidèle, ou guide des voyageurs* (Paris, 1767)."
     credit: "Paris, Bibliothèque Nationale de France."
@@ -189,6 +200,7 @@ figure_list:
   - id: "fig-026"
     src: "figures/fig-026.jpg"
     zoom: true
+    alt: "Stone monolith in the shape of a short pillar featuring three carved fleur-de-lis motifs."
     label: "Fig. 26"
     caption: "French milestone with fleur-de-lis, eighteenth century."
     credit: "(Photo: Jpcuvelier, CC BY SA 4.0.)"
@@ -197,6 +209,7 @@ figure_list:
   - id: "fig-027"
     src: "figures/fig-027.jpg"
     zoom: true
+    alt: "Fan made from two concentric paper leaves and carved ivory guards. The scenes depicted appear printed onto the fan leaves, the gorge, and the guard sticks resulting in a object that is completely covered with ornamentation. Set in the countryside, the printed scenes feature cabriolets."
     label: "Fig. 27"
     caption: "Cabriolet fan, ca. 1755. Paper leaves, carved ivory guards, backed with mother-of-pearl, 28.5 cm (guardstick)."
     credit: "London, Royal Collection, RCIN 25380. (Royal Collection Trust / © Her Majesty Queen Elizabeth II 2021.)"
@@ -204,6 +217,7 @@ figure_list:
   - id: "fig-028"
     src: "figures/fig-028.jpg"
     zoom: true
+    alt: "Shallow wooden box divided into nine compartments used to store miniature glass bottles that contain ground pigments as well as fine brushes and other tools."
     label: "Fig. 28"
     caption: "Color box, eighteenth century. Wood, metal, glass, and various pigments, 10 × 46 × 37 cm."
     credit: "Grasse, Villa-Musée Fragonard. (Courtesy of Villa-Musée Fragonard, Grasse.)"
@@ -211,6 +225,7 @@ figure_list:
   - id: "fig-029"
     src: "figures/fig-029.jpg"
     zoom: true
+    alt: "Illustration titled quote Peinture: Atelier, Palettes et Pinceaux end quote, or Painting: Workshop, Palettes, and Brushes in French. At the top of the plate, a scene inside a studio is represented. Six painters are depicted at work on canvases of different sizes: one of them is shown on top of a ladder to reach the full extent of their canvas, and another is featured painting the portrait of a person who sits on a chair in front of them. Underneath the image of the studio, there is a series of brushes, painting and palette knives, and color palettes organized in rows."
     label: "Fig. 29"
     caption: "“Painting” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécaniques* (1765), plate I."
     credit: "(Image courtesy of the ARTFL Encyclopédie Project, University of Chicago.)"
@@ -218,6 +233,7 @@ figure_list:
   - id: "fig-030"
     src: "figures/fig-030.jpg"
     zoom: true
+    alt: "Trade card depicting a shop counter in front of an apothecary cabinet which drawers are labeled. An elaborate ornamental mortar sits on top the counter. The name of the store is written on the mortar’s pedestal: Au Mortier d’Or a Paris, or At the Golden Mortar in Paris. Above the mortar, a garland of palettes and brushes hangs. Underneath, a text presented on a drapery discusses the work of the shop owner, Louis Picard."
     label: "Fig. 30"
     caption: "Pierre Landry (French, 1630–1701), *Trade Card of Louis Picard, Marchand Épicier, Au Mortier d’Or*, ca. 1695. Etching and engraving, 24 × 20 cm."
     credit: "Waddesdon Manor. (Waddesdon Image Library.)"
@@ -225,12 +241,14 @@ figure_list:
   - id: "fig-031"
     src: "figures/fig-031.jpg"
     zoom: true
+    alt: "Portrait of an older man. The individual is depicted sideways, with his face oriented towards the viewer. The strokes of the painter can be appreciated across the canvas."
     label: "Fig. 31"
     caption: "Jean-Honoré Fragonard (French, 1732–1806), *Head of an Old Man*, detail, ca. 1765. Oil on canvas, 54 × 45 cm. Amiens, Musée de Picardie, inv. M.P.Lav.1894-144. (Photo Marc Jeanneteau /Musée de Picardie.)"
 
   - id: "fig-032"
     src: "figures/fig-032.jpg"
     zoom: true
+    alt: "Portrait of a woman from below. Her head appears tilted upwards and looking away from the viewer. She wears a pearl implement in her hair and uses a white sheet to cover her body partially. Color has been applied to the image with crayon-manner etching that results in lines that can be appreciated. The text typed below the image provides information regarding the author of the illustration and the materials used."
     label: "Fig. 32"
     caption: "Louis-Marin Bonnet (French, 1736–93), after Jean-Baptiste Huët (French, 1745–1811), *Head of a Woman*, after 1780. Crayon-manner etching, 47.4 × 36.5 cm."
     credit: "Paris, Institut National d’Histoire de l’Art."
@@ -238,6 +256,7 @@ figure_list:
   - id: "fig-033"
     src: "figures/fig-033.jpg"
     zoom: true
+    alt: "Title page of Nadaux' pamphlet advertising his crayon products. The illustration depicts an architectural frontispiece atop a pedestal and framed by Corinthian-style columns. The text in between the columns provides information about Nadaux' crayons."
     label: "Fig. 33"
     caption: "André Nadaux, Frontispiece, 1780. Crayon-manner etching."
     credit: "Paris, Archives Nationales. (Waddesdon Image Library, University of Central England Digital Services.)"
@@ -245,6 +264,7 @@ figure_list:
   - id: "fig-034"
     src: "figures/fig-034.jpg"
     zoom: true
+    alt: "Naturalistic drawing of a nude man standing. The weight of the man rests on his right leg, while the left one stands behind. He looks upwards and to the left, while holding his hands above his head, partially covering his face with his left forearm."
     label: "Fig. 34"
     caption: "Jean-Germain Drouais (French, 1763–88), *Academy Study*, 1778–79. Black chalk on paper, 54.6 × 44.5 cm."
     credit: "Paris, École Nationale Supérieure des Beaux-Arts, EBA2883. (Art Resource / NY.)"
@@ -252,6 +272,7 @@ figure_list:
   - id: "fig-035"
     src: "figures/fig-035.jpg"
     zoom: true
+    alt: "Watercolor illustration depicting a busy scene inside a life drawing class. Two individuals pose nude in the center of the room, standing atop a platform., while numerous painters surround them in a semicircular form, sitting on stands and the ground. The room is covered with paintings that hang from its walls and several neoclassical nude sculptures stand in between the crowd."
     label: "Fig. 35"
     caption: "Charles Natoire (French, 1700–1777), *Life Drawing Class*, 1746. Pen, black and brown ink, gray wash, and watercolor, 45.3 × 32.2 cm."
     credit: "London, Courtauld Institute of Art. (The Courtauld, London [Samuel Courtauld Trust], photo © The Courtauld.)"
@@ -259,12 +280,14 @@ figure_list:
   - id: "fig-036"
     src: "figures/fig-036.jpg"
     zoom: true
+    alt: "Portrait of Joseph-Marie Vien. He is depicted sat on a red velvet armchair, and wearing a white shirt with ruffles down the front, matching pink coat and waistcoat, cream-colored knee-length breeches, and white stockings. He holds a brush on his right hand and a color palette on his left."
     label: "Fig. 36"
     caption: "Joseph-Siffred Duplessis (French, 1725–1802), *Joseph-Marie Vien*, 1785. Oil on canvas, 133 × 100 cm."
     credit: "Paris, Musée du Louvre, INV4306. (© RMN-Grand Palais / photo: Michel Urtado. / Art Resource, NY.)"
 
   - id: "fig-037"
     src: "figures/fig-037.jpg"
+    alt: "Badge of the Order of Saint Michel consisting of a four-armed, double-pointed, ball tipped cross, also known as cross of Malta, with white enameled rims. Fleurs-de-lis motifs in gold emerge from the angles of the cross arms. An oval medallion in the center features the figure of Saint Michael in a slaying act. The cross is suspended from a gold ring."
     label: "Fig. 37"
     caption: "Decoration of the Order of Saint Michel, eighteenth century. Gold and enamel."
     credit: "Paris, Musée de la Légion d’Honneur et des Ordres de Chevalerie, Gift of the marquis de Champreux, 1912, inv. 0160."
@@ -272,6 +295,7 @@ figure_list:
   - id: "fig-038"
     src: "figures/fig-038.jpg"
     zoom: true
+    alt: "Painting of a room where a man’s portrait is being painted. The painter sits behind a large canvas while looking towards the subject of her painting. A woman sits besides the painter, holding a color palette with her left hand and a brush in her right. Six individuals stand behind the painter; one of them leans towards the canvas with his hand forward as if making a comment while pointing to the painting.  The subject of the portrait sits towards the right of the image, on a red velvet armchair, illuminated by the daylight that enters through the window in front of him. Two people stand behind him, and four more stand to the side."
     label: "Fig. 38"
     caption: "Gabrielle Capet (French, 1761–1818), *Adélaïde Labille-Guiard Painting the Portrait of Joseph-Marie Vien*, 1808. Oil on canvas, 69 × 83.5 cm."
     credit: "Munich, Neue Pinakothek, Inv. FV 9. (bpk Bildagentur / Neue Pinakothek/Bayerische Staatsgemaeldesammlungen/Munich / Art Resource, NY.)"
