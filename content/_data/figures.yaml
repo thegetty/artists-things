@@ -3,7 +3,7 @@ figure_list:
   - id: "fig-001"
     src: "figures/fig-001.jpg"
     zoom: true
-    alt: "Title page of an almanac that features writing in French identifying the publication year, the contents, and the name of the publisher. The page includes a coat of arms topped by a crown and embraced by two angel figures, one on each side of the crest."
+    alt: "Title page of an almanac that features information in French about the publication, including title, year, contents, and name of the publisher. The page is illustrated with a coat of arms topped by a crown and embraced by two angel figures, one on each side of the crest."
     label: "Fig. 1"
     caption: "*Almanach royal*, 1763, title page."
     credit: "Paris, Bibliothèque Nationale de France. (Image source: Gallica, BnF.)"
@@ -19,7 +19,7 @@ figure_list:
   - id: "fig-003"
     src: "figures/fig-003.jpg"
     zoom: true
-    alt: "Painting of the Normandy port at dawn towards the end of summer or early autumn. People are shown on the dock offloading fish from sailboats and stowing the fishing nets."
+    alt: "Painting of the Normandy port at dawn. People are shown on the dock offloading fish from sailboats and stowing the fishing nets."
     label: "Fig. 3"
     caption: "Claude-Joseph Vernet (French, 1714–89), *Port of Dieppe*, 1765. Oil on canvas, 165.5 × 264 cm."
     credit: "Paris, Musée de la Marine, 5OA13. (© RMN-Grand Palais / Art Resource, NY.)"
@@ -27,7 +27,7 @@ figure_list:
   - id: "fig-004"
     src: "figures/fig-004.jpg"
     zoom: true
-    alt: "Eighteenth-century armchair used by French painter Jean-Honoré Fragonard while working as an arts administrator for the Commission du Muséum Central. The structure of the chair is made of wood, its back consists of a single cane layer, and its upholstered seat is covered with leather."
+    alt: "Armchair which structure is made of wood, its back consists of a single cane layer, and its upholstered seat is covered with leather."
     label: "Fig. 4"
     caption: "Unknown maker, *Fauteuil*, last quarter of the eighteenth century. Wood, cane, and leather, 89 × 59 cm."
     credit: "Paris, Musée du Louvre, OA 7879, on loan to Grasse, Villa-Musée Fragonard. (© 2022 Musée du Louvre / Objets d'art du Moyen Age, de la Renaissance et des temps modernes.)"
@@ -35,7 +35,7 @@ figure_list:
   - id: "fig-005"
     src: "figures/fig-005.jpg"
     zoom: true
-    alt: "Velvet armchair designed by cabinetmaker Charles-François Normand for French philosopher Voltaire. The cushioned and wheeled armchair features a wooden tilting stand on the right that facilitates reading, and a writing desk on the left that also provides storage space in the form of a drawer. Both the stand and the desk exhibit a lacquered design showcasing botanical motifs."
+    alt: "VCushioned and wheeled armchair featuring a wooden tilting stand on the right and a desk on the left. Both the stand and the desk exhibit a lacquered design showcasing botanical motifs."
     label: "Fig. 5"
     caption: "Charles-François Normand, Voltaire’s *fauteuil*, ca. 1775. Gilded beech, velvet, lacquer, and iron, 91 × 66 × 55 cm."
     credit: "Paris, Musée Carnavalet."
@@ -43,7 +43,7 @@ figure_list:
   - id: "fig-006"
     src: "figures/fig-006.jpg"
     zoom: true
-    alt: "Engraving illustrating technical drawings of an armchair. The text on the page reads in French quote Plan et Elevations d'un Fauteuil de Cabinet end quote, or plans and elevations of a desk chair."
+    alt: "Engraving illustrating technical drawings of an armchair. The text on the page reads in French quote plans and elevations of a desk chair end quote."
     label: "Fig. 6"
     caption: "André-Jacob Roubo (French, 1739–91), Design of a *fauteuil de cabinet*, 1772, from André-Jacob Roubo, *L’art du menuisier en meubles* (Paris, 1772), no. 233."
     credit: "Paris, Bibiliothèque Nationale de France. (Image source: Gallica.)"
@@ -51,7 +51,7 @@ figure_list:
   - id: "fig-007"
     src: "figures/fig-007.jpg"
     zoom: true
-    alt: "Small, cream-colored paper containing typed and handwritten text in black regarding a baptism held at Saint-Sulpice Parish Church in Paris."
+    alt: "Cream-colored paper featuring typed and handwritten text in black regarding a baptism held at Saint-Sulpice Parish Church in Paris."
     label: "Fig. 7"
     caption: "Baptism certificate of Hubert Robert (baptism 1733, certificate issued 1760)."
     credit: "Paris, Archives Nationales, MC/ET/LXXXIII/490."
@@ -59,7 +59,7 @@ figure_list:
   - id: "fig-008"
     src: "figures/fig-008.jpg"
     zoom: true
-    alt: "Handwritten folio showing three entries within the church of Saint-Roch baptismal register. The body of the text is aligned to the right of the page, and the last name of the registered child is included to the left."
+    alt: "Cream-colored folio with handwritten text in black. The body of the text is aligned to the right of the page, and a last name is included to the left for each of the three entries."
     label: "Fig. 8"
     caption: "*Registre des baptêmes*, parish of Saint-Roch, 1790, page 78."
     credit: "Archives de Paris, V.6E 1."
@@ -67,7 +67,7 @@ figure_list:
   - id: "fig-009"
     src: "figures/fig-009.jpg"
     zoom: true
-    alt: "Typed folio showcasing handwritten notes in the margins, a signature at the bottom, and a stamp on the title."
+    alt: "Typed folio with handwritten notes in black and red in the margins, a signature at the bottom, and a stamp on the title."
     label: "Fig. 9"
     caption: "Nicolas Robert’s contract for a “Tontine créée par Édit du mois de Décembre 1759,” signed 10 March 1761."
     credit: "Paris, Archives Nationales, MC/ET/LXXXIII/490."
@@ -75,14 +75,14 @@ figure_list:
   - id: "fig-010"
     src: "figures/fig-010.jpg"
     zoom: true
-    alt: "Painting of a woman standing on clouds and descending upon a winged man who reclines on cushioned surfaces. Through the mastery of perspective and three-dimensionality, the figures appear to be leaning out of the frame."
+    alt: "Painting of a woman standing on clouds and descending upon a winged man who reclines on cushioned surfaces. The figures appear to be leaning out of the frame."
     label: "Fig. 10"
     caption: "Charles-Antoine Coypel (French, 1694–1752), *Painting Awakening Genius*, ca. 1723. Oil on canvas, 190 × 135 cm."
     credit: "Private collection. Image source: Christie’s/Bridgeman Images. (Photo © Christie's Images/Bridgeman Images.)"
 
   - id: "fig-011"
     src: "figures/fig-011.jpg"
-    alt: "Preparatory line drawing that showcases the original use of *Painting Awakening Genius* as the backboard for Charles-Antoine Coypel's bed. The painter's canopy bed appears in front and below the painting and following the same orientation, parallel to the wall."
+    alt: "Preparatory line drawing of the painting shown in Figure 10. The painter’s canopy bed is depicted in front and below the painting and following the same orientation, parallel to the wall."
     label: "Fig. 11"
     caption: "Charles-Antoine Coypel (French, 1694–1752), Preparatory drawing for *Painting Awakening Genius*, ca. 1723. Black chalk."
     credit: "Location unknown. (Image source: Christie’s catalogue.)"
@@ -90,7 +90,7 @@ figure_list:
   - id: "fig-012"
     src: "figures/fig-012.jpg"
     zoom: true
-    alt: "Tapestry featuring in the center two men standing in a palatial room and two women who appear above them in a sea of clouds. The scene is showcased inside a golden frame as if it was a painting in a gilt-wood frame and surrounded by abundant flower garlands set before a damask-covered pink wall."
+    alt: "Tapestry featuring in the center two men standing in a palatial room and two women who appear above them in a sea of clouds. The scene is enclosed in a golden frame and surrounded by abundant flower garlands set before a damask-covered pink wall."
     label: "Fig. 12"
     caption: "After Charles-Antoine Coypel (French, 1694–1752), *Don Quixote Dreams*, from the series *HIstory of Don Quixote*, ca. 1727. Gobelins high-warp tapestry, silk and wool, 370.8 × 386.1 cm."
     credit: "Los Angeles, The J. Paul Getty Museum."
@@ -98,7 +98,7 @@ figure_list:
   - id: "fig-013"
     src: "figures/fig-013.jpg"
     zoom: true
-    alt: 
+    alt: "Typed page of a dictionary showing definitions for the term landscape and related words. Trees drawn in pencil have been added over the text."
     label: "Fig. 13"
     caption: "Antoine-Joseph Pernéty, *Dictionnaire portatif de peinture, sculpture et gravure* (1757), annotated by Gabriel de Saint-Aubin (French, 1724–80), ca. 1757–67. Graphite."
     credit: "Paris, Petit Palais. (CCØ Paris Musées / Petit Palais, Musée des Beaux-Arts de la Ville de Paris.)"
@@ -106,7 +106,7 @@ figure_list:
   - id: "fig-014"
     src: "figures/fig-014.jpg"
     zoom: true
-    alt: "Frontispiece for Iconologie featuring a man wearing a winged cap who reclines on a headstone with inscriptions that refer to the title of the volume. Three cherubs are shown to the right of the man, standing on top of the stone, painting and playing a musical instrument. The scene is set in an ancient Roman architectural environment."
+    alt: "Frontispiece featuring a man wearing a winged cap who reclines on a headstone with inscriptions that refer to the title of the volume. Three cherubs are shown to the right of the man, standing on top of the stone, painting and playing a musical instrument. The scene is set in an ancient Roman architectural environment."
     label: "Fig. 14"
     caption: "Gilles-Marie Oppenord (French, 1672–1742), Alternative title page or frontispiece for Cesare Ripa and Jean Baudouin, *Iconologie; ou, Explication nouvelle de plusieurs emblemes* (Paris, 1636). Pen and brown ink, brush in brown and gray ink over a pencil sketch, 32.5 × 21.5 cm."
     credit: "Montreal, Canadian Centre for Architecture."
@@ -114,7 +114,7 @@ figure_list:
   - id: "fig-015"
     src: "figures/fig-015.jpg"
     zoom: true
-    alt: "Ink illustration of a funerary monument consisting of a sarcophagus and a rounded plaque on the wall behind it, showcasing a neoclassical-style scene and, underneath, a grotesque mask."
+    alt: "Ink illustration of a funerary monument consisting of a sarcophagus and a rounded plaque showcasing a neoclassical-style scene on the wall behind it, and, underneath, a grotesque mask."
     label: "Fig. 15"
     caption: "Gilles-Marie Oppenord (French, 1672–1742), Design for a funeral monument for the 1636 French edition of Cesare Ripa and Jean Baudouin, *Iconologie; ou, Explication nouvelle de plusieurs emblemes* (Paris, 1636). Pen and brown ink with brown and gray wash, 32.6 × 21.3 cm."
     credit: "Montreal, Canadian Centre for Architecture."
@@ -122,7 +122,7 @@ figure_list:
   - id: "fig-016"
     src: "figures/fig-016.jpg"
     zoom: true
-    alt: "Open book showing marbled endpapers. The page on the left features an ink drawing of an individual rowing."
+    alt: "Open book showing marbled endpapers. The page on the left features an ink drawing of a person rowing."
     label: "Fig. 16"
     caption: "Antoine-Joseph Pernéty, *Dictionnaire portatif de peinture, sculpture et gravure* (1757), annotated by Gabriel de Saint-Aubin (French, 1724–80), ca. 1757–67. Pen and black ink on endpaper."
     credit: "Paris, Petit Palais. (CCØ Paris Musées / Petit Palais, Musée des Beaux-Arts de la Ville de Paris.)"
@@ -130,7 +130,7 @@ figure_list:
   - id: "fig-017"
     src: "figures/fig-017.jpg"
     zoom: true
-    alt: "Line drawing of a portal framing an ornamental fountain around which there are medallions featuring human representations of doubt, discretion, divinity, pain, economy and equality. Human figures hang from the ornamental fountain at the basis of which an animal lies."
+    alt: "Line drawing of a portal framing an ornamental fountain from which human figures hang and at which base, an animal lies. Around the fountain, there are medallions featuring human representations of doubt, discretion, divinity, pain, economy and equality."
     label: "Fig. 17"
     caption: "Gilles-Marie Oppenord (French, 1672–1742), Design for a portal with ornamentation drawn on a printed folio, with medalions of Doute, Discretion, Divinité, Douleur, Economie, and Égalité, for Cesare Ripa and Jean Baudouin, *Iconologie, ou Explication nouvelle de plusieurs emblemes* (Paris, 1636). Pen and brown ink over engraving, 32.8 × 22.3 cm."
     credit: "Montreal, Canadian Centre for Architecture."
