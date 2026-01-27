@@ -772,6 +772,7 @@ figure_list:
   - id: "fig-098"
     src: "figures/fig-098.jpg"
     zoom: true
+    alt: "Engraved plate showing the elements that make up the internal structure of a mannequin as well as its head, forearms, hands, lower legs and feet. Each part is identified with a number."
     label: "Fig. 98"
     caption: "The constituent parts of a mannequin, “Dessein” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécaniques* (1765), plate VII."
     credit: "(Image courtesy of the ARTFL Encyclopédie Project, University of Chicago.)"
@@ -779,6 +780,7 @@ figure_list:
   - id: "fig-099"
     src: "figures/fig-099.jpg"
     zoom: true
+    alt: "Two photographs of the same mannequin side by side. The image on the left shows the mannequin undressed featuring a carved head without hair, a cushioned body, upper arms, and upper legs covered with silk stockinette, and carved hands, lower legs, and feet. The image on the right shows the mannequin dressed. It wears a black hat under which a wig can be seen, a white shirt with ruffles down the front, a grey coat, and knee-length black breeches."
     label: "Fig. 99"
     caption: "Mannequin once owned by Louis-François Roubiliac (French, worked in England, 1702–62), undressed (left) and dressed in men’s attire (right), ca. 1750–62. Bronze, iron, hair, cork, wool, wood, leather, and silk, height 68 cm. Museum of London."
     credit: "(Photos: © Museum of London.)"
@@ -786,6 +788,7 @@ figure_list:
   - id: "fig-100"
     src: "figures/fig-100.jpg"
     zoom: true
+    alt: "Plate depicting a human figure kneeling down and grasping its hands together above and in front of the head. The figure is covered with a long robe. The text in French at the bottom of the image indicates that the figure is a mannequin."
     label: "Fig. 100"
     caption: "A mannequin posed and draped, “Dessein” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécanique* (1765), plate XXVII."
     credit: "(Image courtesy of the ARTFL Encyclopédie Project, University of Chicago.)"
@@ -793,6 +796,7 @@ figure_list:
   - id: "fig-101"
     src: "figures/fig-101.jpg"
     zoom: true
+    alt: "Painting set in the countryside. Three adults and two young children gather around a baby in a cradle suspended from the branches of a tree. A woman pulls down from the rope from which the cradle hangs as if attempting to raise it. An older woman sits to the left of the group pointing towards them. Three goats are depicted on the foreground."
     label: "Fig. 101"
     caption: "Jean-Baptiste Le Prince (French, 1734–81), *The Russian Cradle*, 1764–65. Oil on canvas, 59.1 × 72.7 cm."
     credit: "Los Angeles, The J. Paul Getty Museum."
@@ -807,6 +811,8 @@ figure_list:
   - id: "fig-103"
     src: "figures/fig-103.jpg"
     zoom: true
+    alt: "Painting of a scene inside a house. A man and a woman stand in the center, their arms entwined. The man turns toward the right where a seated man extends his arms towards him as if to embrace him. The standing woman, dressed in white, is embraced by a younger woman who stands to her left. A seated woman caresses her arm. Additional adults and children frame the scene to the right and left."
+    alt: "Front page of a set of documents fastened together. It features text in French handwritten in blank ink and two black stamps at the top. There is a numerical annotation in blue on the left bottom corner."
     label: "Fig. 103"
     caption: "Jean-Baptiste Greuze (French, 1725–1805), *The Village Bride*, ca. 1761. Oil on canvas, 120 × 117 cm."
     credit: "Paris, Musée du Louvre, INV5037. (© RMN-Grand Palais / photo: Franck Raux / Art Resource, NY.)"
@@ -814,6 +820,7 @@ figure_list:
   - id: "fig-104"
     src: "figures/fig-104.jpg"
     zoom: true
+    alt: "Detail of a cream-colored piece of paper showing six to seven signatures in black ink. There is text written by hand in French above and below the signatures."
     label: "Fig. 104"
     caption: "Detail of signatures in the marriage contract of Jean-Baptiste Greuze and Anne-Gabrielle Babuty, 31 January 1759."
     credit: "Paris, Archives Nationales, MC/ET/XXXI/165. (Photo: Hannah Williams.)"
@@ -821,6 +828,7 @@ figure_list:
   - id: "fig-105"
     src: "figures/fig-105.jpg"
     zoom: true
+    alt: "Detail of a cream-colored piece of paper showing two signatures in black ink. Text written by hand in French can be seen above, below, and between the signatures."
     label: "Fig. 105"
     caption: "Detail of signatures in the *inventaire après divorce* (post-divorce inventory) of Jean-Baptiste Greuze and Anne-Gabrielle Babuty, 30 August 1793."
     credit: "Paris, Archives Nationales, MC/ET/XLVIII/375."
@@ -828,6 +836,7 @@ figure_list:
   - id: "fig-106"
     src: "figures/fig-106.jpg"
     zoom: true
+    alt: "White structure resembling the façade of a palace in a neoclassical style. The central section protrudes and includes a group of three freestanding sculptures of human figures in front of a frontispiece with a triangular pediment. This section is flanked by two curved wings with statues in niches and bas-relief panels. It features spouts in the shape of an animal’s head at the street level."
     label: "Fig. 106"
     caption: "Edme Bouchardon (French, 1698–1762), Four Seasons Fountain, 1739–45. Marble."
     credit: "Paris, Rue de Grenelle. (© Kim Young Tae/Bridgeman Images.)"
@@ -835,6 +844,7 @@ figure_list:
   - id: "fig-107"
     src: "figures/fig-107.jpg"
     zoom: true
+    alt: "Terracotta model depicting a nude woman reclining over a vessel from which water emerges. The middle section of the figure’s left arm is broken as may be the case of her lower legs which cannot be clearly seen in the photograph."
     label: "Fig. 107"
     caption: "Edme Bouchardon (French, 1698–1762), Maquette for the figure of the River Marne for the Four Seasons Fountain, ca. 1739. Terracotta, 50 × 48 × 24 cm."
     credit: "Paris, Musée du Louvre, RF2313. (© RMN-Grand Palais / photo: Adrien Didierjean / Art Resource, NY.)"
@@ -842,6 +852,7 @@ figure_list:
   - id: "fig-108"
     src: "figures/fig-108.jpg"
     zoom: true
+    alt: "Terracotta model depicting a nude woman reclining over a vessel from which water spills out. The middle section of the figure’s left arm is broken as may be the case of her lower legs which cannot be clearly seen in the photograph."
     label: "Fig. 108"
     caption: "Edme Bouchardon (French, 1698–1762), Model for the figure of Paris for the Four Seasons Fountain, ca. 1739–43. Plaster, 50 × 42 cm."
     credit: "Paris, Musée Carnavalet."
