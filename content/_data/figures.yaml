@@ -510,6 +510,7 @@ figure_list:
   - id: "fig-065"
     src: "figures/fig-065.jpg"
     zoom: true
+    alt: "Portrait of a man sitting on a green armchair, holding a color palette and five brushes with his left hand. He is shown wearing a white shirt with ruffles down the front and a brown coat. He is portrayed with round, metal glasses with arms that terminate at a sharp angle behind his head."
     label: "Fig. 65"
     caption: "Adélaïde Labille-Guiard (French, 1749–1803), *Portrait of François-André Vincent*, 1795. Oil on canvas, 73 × 59 cm."
     credit: "Paris, Musée du Louvre. (© RMN-Grand Palais / Photo: Hervé Lewandowski / Art Resource, NY.)"
@@ -517,6 +518,7 @@ figure_list:
   - id: "fig-066"
     src: "figures/fig-066.jpg"
     zoom: true
+    alt: "Portrait of a woman on a green armchair holding an open book on her right hand and a string of beads on her left. She wears a monocle that appears to be attached to her headdress from which it hangs in front of her face."
     label: "Fig. 66"
     caption: "Anna-Dorothea Therbusch (German, 1721/22–82), *Self-Portrait*, 1777. Oil on canvas, 154 × 118 cm."
     credit: "Berlin, Staatliche Museen, Inv. 1925. (bpk Bildagentur / Gemäldegalerie/Staatliche Museen/Berlin/Germany /Photo: Jörg P. Anders/ Art Resource, NY.)"
@@ -524,6 +526,7 @@ figure_list:
   - id: "fig-067"
     src: "figures/fig-067.jpg"
     zoom: true
+    alt: "Close up portrait of a man. He is shown looking to the left of the canvas that is placed in front of him and holding a tool on his right hand. His head is covered and he wears round, metal glasses that pinch at the nose."
     label: "Fig. 67"
     caption: "Jean-Siméon Chardin (French, 1699–1779), *Self-Portrait*, 1776. Pastel on blue paper, 40.7 × 32.5 cm."
     credit: "Paris, Musée du Louvre, Département des Arts Graphiques, RF31748-recto. (© RMN-Grand Palais / photo: Michel Urtado / Art Resource, NY.)"
@@ -531,6 +534,7 @@ figure_list:
   - id: "fig-068"
     src: "figures/fig-068.jpg"
     zoom: true
+    alt: "Drawing of a standing man. He is portrayed looking to the side, showing his profile. One of the arms of his glasses can be seen in full. It ends in a circular appendage."
     label: "Fig. 68"
     caption: "François-André Vincent (French, 1746–1816), *Caricature of Pierre-Charles Jombert*, detail, 1773–75. Black chalk, 107 × 43 cm."
     credit: "New York, Metropolitan Museum of Art, The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1967. (Image copyright © The Metropolitan Museum of Art. Image source: Art Resource, NY.)"
@@ -538,6 +542,7 @@ figure_list:
   - id: "fig-069"
     src: "figures/fig-069.jpg"
     zoom: true
+    alt: "Glasses of the kind worn by the individual in figure 65. They feature a metal frame, rounded glass lenses, and double-hinged arms that wrap around the head of their user."
     label: "Fig. 69"
     caption: "Double-hinged wig spectacles, ca. 1795. White metal frame and glass lenses, 38 mm (eye)."
     credit: "London, British Optical Association Museum, College of Optometrists, inv. 1998.235. (© College of Optometrists British Optical Association Museum.)"
@@ -545,6 +550,7 @@ figure_list:
   - id: "fig-070"
     src: "figures/fig-070.jpg"
     zoom: true
+    alt: "Cream-colored folio with square pieces of fabric attached to it. There is text in French written in black ink at the top of the page. Each piece of fabric has been assigned a number that appears underneath it. There are short annotations to the sides of the fabric."
     label: "Fig. 70"
     caption: "Handkerchief samples from Rouen, 1737. Linen and cotton on paper."
     credit: "Paris, Bibliothèque Nationale de France."
@@ -552,6 +558,7 @@ figure_list:
   - id: "fig-071"
     src: "figures/fig-071.jpg"
     zoom: true
+    alt: "Portrait of a man with a deep blue coat sitting a table. He leans forward as he writes on a folio using a quill pen that he holds with his right hand. His left hand rests on top of a box. To the left of his body, there is a large, pinkish red handkerchief."
     label: "Fig. 71"
     caption: "Jacques-Louis David (French, 1748–1825), *Jacobus Blauw*, 1795. Oil on canvas, 92 × 73 cm."
     credit: "London, National Gallery, NG6495. (© National Gallery, London / Art Resource, NY.)"
@@ -559,6 +566,7 @@ figure_list:
   - id: "fig-072"
     src: "figures/fig-072.jpg"
     zoom: true
+    alt: "Portrait of a man wearing a white shirt with ruffles underneath a black coat. He appears to be sitting on a chair covered with a richly decorated fabric. He holds a bright white handkerchief with tassels on his right hand."
     label: "Fig. 72"
     caption: "Pierre Rabon (French, 1619–84), *Antoine de Ratabon*, 1660. Oil on canvas, 152 × 126 cm."
     credit: "Châteaux de Versailles et de Trianon, MV4346. (© RMN-Grand Palais / photo: Gerard Blot / Art Resource, NY.)"
@@ -566,6 +574,7 @@ figure_list:
   - id: "fig-073"
     src: "figures/fig-073.jpg"
     zoom: true
+    alt: "PPainting depicting an artist in front of a large canvas in which he is painting a portrait of the seminude woman who sits in front of him. An individual appears to her right, bending down and arranging the blue cushion on which the seminude woman rests her left foot. Two men wearing armor stand behind the painter. A brush and a white cloth with yellow stains can be seen on the ground."
     label: "Fig. 73"
     caption: "Nicolas Vleughels (French, 1668–1737), *Apelles and Campaspe*, 1717. Oil on canvas, 125 × 97 cm."
     credit: "Paris, Musée du Louvre, Inv8482. (© RMN-Grand Palais / photo: Stéphane Maréchalle / Art Resource, NY.)"
@@ -573,6 +582,7 @@ figure_list:
   - id: "fig-074"
     src: "figures/fig-074.jpg"
     zoom: true
+    alt: "Portrait of a family. A woman wearing a white dress sits at a harpsichord. She looks toward the viewer while turning the page of the musical score propped up on the instrument’s stand. A man stands behind her, leaning against the back of her chair. Four children are depicted playing on the bottom left corner of the painting."
     label: "Fig. 74"
     caption: "Jean-Marc Nattier (French, 1685–1766), *Self-Portrait with His Family*, 1730–62. Oil on canvas, 149 × 165 cm."
     credit: "Châteaux de Versailles et de Trianon, MV4419. (© RMN-Grand Palais / photo: Gerard Blot / Art Resource, NY.)"
@@ -580,6 +590,7 @@ figure_list:
   - id: "fig-075"
     src: "figures/fig-075.jpg"
     zoom: true
+    alt: "Harpsichord with a red case and legs, floral designs painted on the soundboard below the strings and around the keyboards, and a pastoral landscape depicted on the lid."
     label: "Fig. 75"
     caption: "Nicolas Dumont, modified by Pascal-Joseph Taskin in 1789, Two-manual harpsichord, 1697. Length 226 cm."
     credit: "Paris, Philharmonie de Paris, Cité de la Musique, Collections Musée de la musique. (Photo: Jean-Marc Anglès.)"
@@ -587,6 +598,7 @@ figure_list:
   - id: "fig-076"
     src: "figures/fig-076.jpg"
     zoom: true
+    alt: "Portrait of a woman with a red dress. She sits on a chair, holding up a bass viol with her left hand and a bow on her right. A backdrop featuring neoclassic architecture can be seen in the background. A green harpsichord that is partly covered with a large blue curtain appears to the right of the scene."
     label: "Fig. 76"
     caption: "Jean-Marc Nattier (French, 1685–1766), *Madame Henriette Playing a Bass Viol*, 1754. Oil on canvas, 249 × 184 cm."
     credit: "Châteaux de Versailles et de Trianon. MV3800. (© RMN-Grand Palais / Art Resource, NY.)"
@@ -594,6 +606,7 @@ figure_list:
   - id: "fig-077"
     src: "figures/fig-077.jpg"
     zoom: true
+    alt: "Square piece of blue fabric attached to a page. The fabric shows a small circular stamp along its bottom edge. Below the fabric, there are numerical annotations written in pencil."
     label: "Fig. 77"
     caption: "Hot-air balloon fragment, 1784. Hemp."
     credit: "Paris, Bibliothèque Nationale de France."
@@ -601,12 +614,14 @@ figure_list:
   - id: "fig-078"
     src: "figures/fig-078.jpg"
     zoom: true
+    alt: "Rounded silver medal depicting the ascent of a hot-air ballon. The ballon is shown at the top, floating among clouds. Below, there is a crowd of people standing in front of buildings and trees. Four lines of text in French appear at the bottom of the medal."
     label: "Fig. 78"
     caption: "Nicolas-Marie Gatteaux (French, 1751–1832), Medal commemorating the ascent of Joseph and Etienne Montgolfier, balloonists at the Champ de Mars, 1784. Silver, diam. 4.1 cm."
     credit: "London, Science Museum. (SSPL/Science Museum / Art Resource, NY.)"
 
   - id: "fig-079"
     src: "figures/fig-079.jpg"
+    alt: "Etching framed in a rectangle with text in French at the top and bottom. The depicted scene features a three-part balloon including a standard-sized one with triangular rudders and flags, led and followed by two smaller ones. The three balloons appear among dense clouds above the earth, a segment of which can be seen at the bottom."
     label: "Fig. 79"
     caption: "Jean-François Janinet (French, 1752–1814), Entry ticket to Janinet and Miollan’s balloon flight, 1784. Etching."
     credit: "Paris, Bibliothèque Nationale de France."
@@ -614,6 +629,7 @@ figure_list:
   - id: "fig-080"
     src: "figures/fig-080.jpg"
     zoom: true
+    alt: "Print showing a nude woman adorning herself with the help of three putti who arrange her hair, hand her a ribbon, and pick jewelry. The group is shown on a love seat covered with rich drapery. They are framed by blue curtains that are drawn to reveal a green landscape in the background."
     label: "Fig. 80"
     caption: "Jean-François Janinet (French, 1752–1814), after François Boucher (French, 1703–70), *Toilette of Venus*, 1784. Color aquatint and crayon-manner etching, 37.5 × 29.5 cm."
     credit: "Paris, Bibliothèque Nationale de France."
@@ -621,6 +637,7 @@ figure_list:
   - id: "fig-081"
     src: "figures/fig-081.jpg"
     zoom: true
+    alt: "Print showing two men to the right and left most edges of the image. Both have ass ears and the one on the left also has the face of a cat. They hold recorders in their mouths while looking down. Their pants are partially pulled down exposing their buttocks. They stand on top of stools, in front of which there are hats filled with coins. A skein running at the top features in the center a whistle and a pipe pan. A medal is depicted at the bottom surrounded by text in French. The scene between the two individuals depicts a crowd of people gathered in a circle around a hot-air balloon that sits on the ground."
     label: "Fig. 81"
     caption: "Unknown maker, *Les deux Midas*, 1784. Etching and engraving, 18.7 × 24.1 cm."
     credit: "Paris, Bibliothèque Nationale de France."
@@ -628,12 +645,14 @@ figure_list:
   - id: "fig-082"
     src: "figures/fig-082.jpg"
     zoom: true
+    alt: "Page of a printed publication featuring text in French and sketches in pencil on the left margin."
     label: "Fig. 82"
     caption: "Gabriel de Saint-Aubin’s pencil annotations in *Catalogue des tableaux et dessins originaux des plus grands maîtres .&#160;.&#160;. qui composoient le cabinet de feu Charles Natoire* (1778)."
     credit: "Paris, Bibliothèque Nationale de France."
 
   - id: "fig-083"
     src: "figures/fig-083.jpg"
+    alt: "Black, oval gem inset in a golden ring.  The gem depicts a recessed scene in which a kneeling individual offers a severed head to a person who sits before them. Two individuals appear standing, each behind one of the central figures."
     label: "Fig. 83"
     caption: "Roman engraved gem with a group of soldiers, late second–early third century CE. Gold ring and onyx intaglio, 1.6 cm."
     credit: "New York, Metropolitan Museum of Art, Bequest of Rupert L. Joseph, 1959, 60.55.80."
@@ -641,6 +660,7 @@ figure_list:
   - id: "fig-084"
     src: "figures/fig-084.jpg"
     zoom: true
+    alt: "Lilac oval gem engraved with the portrait in profile of a man looking to the left. He has short hair and appears to be topless, but with drapery hanging from his shoulders. A line of text can be seen to the right edge of the gem."
     label: "Fig. 84"
     caption: "Giovanni Pichler (Italian, 1734–91) or Luigi Pichler (Italian, 1773–1854), *Antinous*, ca. 1750–1850. Engraved gem, chalcedony."
     credit: "Los Angeles, The J. Paul Getty Museum, 83.AL.257.17."
@@ -648,6 +668,7 @@ figure_list:
   - id: "fig-085"
     src: "figures/fig-085.jpg"
     zoom: true
+    alt: "Landscape drawing depicting ruined buildings on top of a hill. The structures in the foreground are shown in good state and decorated with sculptures in an ancient Roman style.  A few figures appear seated on benches and on steps. The sky is painted blue, but the rest of the drawing remains without color."
     label: "Fig. 85"
     caption: "Charles Natoire (French, 1700–1777), *Villa Natoire*, ca. 1760–62. Pencil, pen, ink, and gray wash with white gouache and watercolor, 29.7 × 45.2 cm."
     credit: "Frankfurt am Main, Städel Museum, 16733. (bpk Bildagentur / Städel Museum/ Ursula Edelmann / Art Resource, NY.)"
@@ -655,6 +676,7 @@ figure_list:
   - id: "fig-086"
     src: "figures/fig-086.jpg"
     zoom: true
+    alt: "Photograph of five bound notebooks arranged in two rows, three at the top and two at the bottom. The notebook at the right end of the top row has a natural parchment cover. The other four feature green covers."
     label: "Fig. 86"
     caption: "Covers of the five surviving volumes of Johann Georg Wille’s journal. Top row, left to right: BnF vol. 1 (1759–68), BnF vol. 2 (1768–76), Frits Lugt volume (1777–83); bottom row, left to right: BnF vol. 3 (1783–89); BnF vol. 4 (1789–93). Paris, Bibliothèque Nationale de France, images courtesy of Gallica; and Paris, Frits Lugt Collection, Fondation Custodia."
     credit: ""
@@ -662,6 +684,7 @@ figure_list:
   - id: "fig-087"
     src: "figures/fig-087.jpg"
     zoom: true
+    alt: "Loose stacks of paper tucked inside a bound notebook. The pages show slight damage on the edges and feature text handwritten in ink."
     label: "Fig. 87"
     caption: "Loose papers tucked inside the front cover of the Frits Lugt volume of Johann Georg Wille’s journal (1777–83)."
     credit: "Paris, Frits Lugt Collection, Fondation Custodia. (Photo: Hannah Williams.)"
@@ -669,6 +692,7 @@ figure_list:
   - id: "fig-088"
     src: "figures/fig-088.jpg"
     zoom: true
+    alt: "Three rectangular pieces of paper arranged on a column, one on top of the other. They feature decorated edges and text printed in French. The central piece of paper also shows a medal with a person holding an infant at the top and a coat of arms at the bottom."
     label: "Fig. 88"
     caption: "Sellers’ labels inside the covers of Johann Georg Wille’s journal notebooks. Top: BnF vol. 1 (1759–68); middle: BnF vol. 3 (1783–89); bottom: BnF vol. 4 (1789–93). Paris, Bibliothèque Nationale de France."
     credit: ""
@@ -676,6 +700,7 @@ figure_list:
   - id: "fig-089"
     src: "figures/fig-089.jpg"
     zoom: true
+    alt: "Two pages shown side by side with handwriting arranged in various entries. The page on the left is filled while the one on the right only has two lines of writing."
     label: "Fig. 89"
     caption: "Pages from Johann Georg Wille’s journals. Left: July 1760 (page 24), BnF vol. 1 (1759–68); right: August 1792 (page 86), BnF vol. 4 (1789–93). Paris, Bibliothèque Nationale de France."
     credit: "(Images courtesy of Gallica.)"
@@ -683,6 +708,7 @@ figure_list:
   - id: "fig-090"
     src: "figures/fig-090.jpg"
     zoom: true
+    alt: "Two pages shown side by side featuring a combination of printed and handwritten text in French. The page on left also includes a number written in pencil and a circular stamp on the left margin. The page on the right includes a signature at the bottom as well as red wax seal."
     label: "Fig. 90"
     caption: "*Brevêt de logement for Jean-Jacques Caffieri*, 1783. Printed form with pen and ink. Paris, Archives Nationales."
     credit: ""
@@ -690,6 +716,7 @@ figure_list:
   - id: "fig-091"
     src: "figures/fig-091.jpg" 
     zoom: true
+    alt: "Golden key with an ornamental crown on one end and a rectangular notched bit on the other."
     label: "Fig. 91"
     caption: "Attributed to Grettepin (sculptor) and Jacques Desjardins (bronze caster), Key for the chapel at the Château de Versailles, ca. 1710. Gilt bronze and steel, 31 × 8.5 cm, 510g."
     credit: "Châteaux de Versailles et de Trianon, V6295. (© RMN-Grand Palais / photo: Gérard Blot / Art Resource, NY.)"
@@ -697,6 +724,7 @@ figure_list:
   - id: "fig-092"
     src: "figures/fig-092.jpg"
     zoom: true
+    alt: "Painting showing two men carrying another one on a litter. To the right of this group, a person is on the ground while a standing man holds their right arm up. Two men stand in the background, one holding a banner and another one looking up."
     label: "Fig. 92"
     caption: "Pierre Peyron, *Funeral of Miltiades*, 1782. Oil on canvas, 98 × 136 cm."
     credit: "Paris, Musée du Louvre, 7179. (© RMN-Grand Palais / photo: Michel Urtado / Art Resource, NY.)"
@@ -704,6 +732,7 @@ figure_list:
   - id: "fig-093"
     src: "figures/fig-093.jpg"
     zoom: true
+    alt: "Engraved plate showing people sitting on chairs and grouped around three sculptures which they appear to be copying on their sketchbooks. A few individuals are standing and either giving indications to those who are sitting or drawing on easels. An oil lamp can be seen mounted to the wall on the left of the scene."
     label: "Fig. 93"
     caption: "Drawing school, detail from *Recueil de planches sur les sciences, les arts libéraux et les arts mécanique* (1765), plate I."
     credit: "(Image courtesy of the ARTFL Encyclopédie Project, University of Chicago.)"
@@ -711,6 +740,7 @@ figure_list:
   - id: "fig-094"
     src: "figures/fig-094.jpg"
     zoom: true
+    alt: "Drawing of a foyer. A person is shown on the stairs to the left of the scene. In the center, an individual manipulates a large canvas that leans against the stairs while another bends down to handle items on a table. A figure can be seen on the threshold of a mezzanine space."
     label: "Fig. 94"
     caption: "Hubert Robert, *View of a Corridor in the Louvre*, ca. 1780. Black chalk and gray wash, 10.2 × 13.4 cm."
     credit: "Paris, Musée du Louvre, RF28940-recto. (© RMN-Grand Palais / photo: Thierry Le Mage / Art Resource, NY.)"
@@ -718,6 +748,7 @@ figure_list:
   - id: "fig-095"
     src: "figures/fig-095.jpg"
     zoom: true
+    alt: "Leaf of paper with handwritten text in French arranged in three sections."
     label: "Fig. 95"
     caption: "Front page of the copy of Hyacinthe Rigaud’s *lettres de réception* (1700), transcribed by Henri van Hulst (1685–1754)."
     credit: "Paris, École Nationale Supérieure des Beaux-Arts, Ms 117. (Courtesy of École Nationale Supérieure des Beaux-Arts, Paris. Photo: Hannah Williams.)"
@@ -725,6 +756,7 @@ figure_list:
   - id: "fig-096"
     src: "figures/fig-096.jpg"
     zoom: true
+    alt: "Portrait of a man half-length. He wears a long wig adorned with a blue bow and a deep blue coat. He looks towards the right, while resting his right hand on a cane and his left hand on a large, sculpted head. A bright red curtain stands out in the background."
     label: "Fig. 96"
     caption: "Hyacinthe Rigaud (French, 1659–1743), *Martin Desjardins*, 1700. Oil on canvas, 141 × 106 cm."
     credit: "Paris, Musée du Louvre, Inv. 7511. (© RMN-Grand Palais / photo: Franck Raux / Art Resource, NY.)"
@@ -732,6 +764,7 @@ figure_list:
   - id: "fig-097"
     src: "figures/fig-097.jpg"
     zoom: true
+    alt: "Portrait of an older man with white hair and a white beard. He looks up and brings his right hand to his uncovered chest. His lower body is covered with a white sheet and a bright red fabric. His left arm appears to be wrapped around a wooden cross."
     label: "Fig. 97"
     caption: "Hyacinthe Rigaud (French, 1659–1743), *Saint Andrew*, 1742. Oil on canvas, 153 × 106 cm."
     credit: "Paris, École Nationale Supérieure des Beaux-Arts, MRA 103. (© Beaux-Arts de Paris, Dist. RMN-Grand Palais / Art Resource, NY.) "
