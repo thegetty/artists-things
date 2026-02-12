@@ -1083,7 +1083,7 @@ figure_list:
   - id: "fig-137"
     src: "figures/fig-137.jpg"
     zoom: true
-    alt:
+    alt: "Portrait of a man sitting at a desk. He wears a matching blue coat and waistcoat and a white shirt underneath. He is shown writing on a paper using a quill that he holds in his right hand."
     label: "Fig. 137"
     caption: "Louis-Michel Van Loo (French, 1707–71), *Denis Diderot*, 1767. Oil on canvas, 81 × 65 cm."
     credit: "Paris, Musée du Louvre, Inv. RF1958. (© RMN-Grand Palais / Art Resource, NY. Photo: Stéphane Maréchalle.)"
@@ -1091,7 +1091,7 @@ figure_list:
   - id: "fig-138"
     src: "figures/fig-138.jpg"
     zoom: true
-    alt: 
+    alt: "Portrait of a man with white hair tied at the back of the neck with a dark bow. He faces the viewer and his body is turned to the right. He wears a red coat with ruffles down the front."
     label: "Fig. 138"
     caption: "Joseph-Siffred Duplessis (French, 1725–1802), *Self-Portrait*, 1780. Oil on canvas, 60 × 50 cm."
     credit: "Carpentras, Bibliothèque Inguimbertine. (HIP / Art Resource, NY.)"
@@ -1099,6 +1099,7 @@ figure_list:
   - id: "fig-139"
     src: "figures/fig-139.jpg"
     zoom: true
+    alt: "Portrait of a man wearing a black headcover and habit. He is shown leaning over a table where a book is propped up. He holds a crucifix on his right hand and brings his left to his chest."
     label: "Fig. 139"
     caption: "Jean Restout (French, 1692–1768), *Portrait of Abbé Tournus*, ca. 1720–30. Oil on canvas, 92 × 73 cm."
     credit: "Paris, Musée Carnavalet."
@@ -1106,6 +1107,7 @@ figure_list:
   - id: "fig-140"
     src: "figures/fig-140.jpg"
     zoom: true
+    alt: "Portrait of a man in front of a canvas. The man is shown standing, facing the viewer, and leaning on a wooden chair to his right. He has white hair and wears a matching waistcoat and robe in blue. The robe hangs loose over the man’s body creating pleats and shimmers."
     label: "Fig. 140"
     caption: "Louis-Michel Van Loo (French, 1707–71), *Self-Portrait Painting the Portrait of His Father, Jean-Baptiste Van Loo*, 1762. Oil on canvas, 129.5 × 98 cm."
     credit: "Châteaux de Versailles et de Trianon, MV5827. (© RMN-Grand Palais / photo: Christophe Fouin / Art Resource, NY.)"
@@ -1113,6 +1115,7 @@ figure_list:
   - id: "fig-141"
     src: "figures/fig-141.jpg"
     zoom: true
+    alt: "Portrait of a man and a woman next to a circular canvas with an unfinished portrait. Both the man and the individual depicted on the canvas are the same as the ones depicted in figure 140. The man here is shown sideways, sitting on a wooden chair. He wears the same matching robe and waistcoat in blue as he appears wearing in figure 140. In this case, his breeches and stockings are also visible. He holds a rectangular color palette and brushes on his left hand. Standing behind him is a woman wearing a black cape over a yellow puffy dress. She wears diamond earrings and head ornament. She holds a fan in her right hand."
     label: "Fig. 141"
     caption: "Louis-Michel Van Loo (French, 1707–71), *Self-Portrait with His Sister*, 1763. Oil on canvas, 230.5 × 162 cm."
     credit: "Châteaux de Versailles et de Trianon, MV6774. (© RMN-Grand Palais / photo: Christophe Fouin / Art Resource, NY.)"
@@ -1120,6 +1123,7 @@ figure_list:
   - id: "fig-142"
     src: "figures/fig-142.jpg"
     zoom: true
+    alt: "Photograph depicting ten drilled snail shells and the silhouette of sixteen more in grey laid out in an oval arrangement."
     label: "Fig. 142"
     caption: "Reconstructed Cro-Magnon shell bead necklace, 28,000 BCE. Shells."
     credit: "Washington, Smithsonian National Museum of Natural History, A8129, Department of Anthropology, Smithsonian Institution. (Photo by Chip Clark.)"
@@ -1127,6 +1131,7 @@ figure_list:
   - id: "fig-143"
     src: "figures/fig-143.jpg"
     zoom: true
+    alt: "Assemblage of cowrie shells arranged in pairs. In each pair, the shell on the left shows its flat bottom with a ridged, vertical aperture. The shell on the right shows the upper rounded side. They are all shiny and feature different colors and patterns."
     label: "Fig. 143"
     caption: "Selection of cowries."
     credit: "Washington, Smithsonian National Museum of Natural History. (Photo: Chris Meyer.)"
@@ -1134,6 +1139,7 @@ figure_list:
   - id: "fig-144"
     src: "figures/fig-144.jpg"
     zoom: true
+    alt: "Plate showing various drawings instruments arranged in rows, including brushes, a quill, a knife, a container, a shell, a board, a modeling stand, and a portfolio with tying ribbons, among others."
     label: "Fig. 144"
     caption: "Instruments, “Dessein,” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécaniques* (1765), plate II."
     credit: "(Image courtesy of the ARTFL Encyclopédie Project, University of Chicago.)"
@@ -1141,6 +1147,7 @@ figure_list:
   - id: "fig-145"
     src: "figures/fig-145.jpg"
     zoom: true
+    alt: "Plate showing a central scene and text in French underneath. The scene depicts a collection of shells and coral piled on top of one another. The assemblage is placed before shelves filled with specimens in transparent containers."
     label: "Fig. 145"
     caption: "Edmé Gersaint (French, 1694–1750), *Catalogue raisonné de coquilles et autres curiosités naturelles* (1736), frontispiece."
     credit: "Paris, Bibliothèque Nationale de France."
@@ -1148,6 +1155,7 @@ figure_list:
   - id: "fig-146"
     src: "figures/fig-146.jpg"
     zoom: true
+    alt: "Plate depicting three rows of shells, many of which also feature the animal living inside of them. The animals are featured from different angles, and their depiction are accompanied with letter labels."
     label: "Fig. 146"
     caption: "Marie-Thérèse Reboul-Vien (French, 1738–1805), Illustrations of shells from Michel Adanson, *Histoire naturelle du Sénégal: Coquillage* (1757), plate 1."
     credit: "Paris, Bibliothèque Nationale de France."
@@ -1155,6 +1163,7 @@ figure_list:
   - id: "fig-147"
     src: "figures/fig-147.jpg"
     zoom: true
+    alt: "Drawing of a frog in red tones. The texture of the animal’s skin and its stripped patterning are apparent."
     label: "Fig. 147"
     caption: "Edme Bouchardon (French, 1698–1762), *Frog*, ca. 1745. Red chalk on paper, 15 × 20 cm."
     credit: "Paris, Musée du Louvre, Département des Arts Graphiques, INV24311-Bis-recto. (© RMN-Grand Palais / photo:Suzanne Nagy / Art Resource, NY.)"
@@ -1162,6 +1171,7 @@ figure_list:
   - id: "fig-148"
     src: "figures/fig-148.jpg"
     zoom: true
+    alt: "Leather-bound book with gilding details on its spine."
     label: "Fig. 148"
     caption: "Cover and binding of Jean-Michel Moreau the Younger’s sketchbook, ca. 1770s. Brown leather with gilding, 18.2 × 11.1 cm."
     credit: "Paris, Musée du Louvre, Département des Arts Graphiques, Album Moreau Jean-Michel, RF1656. (© Musée du Louvre, dist. RMN-Grand Palais.)"
@@ -1169,6 +1179,7 @@ figure_list:
   - id: "fig-149"
     src: "figures/fig-149.jpg"
     zoom: true
+    alt: "Drawing on a bound book depicting a woman seated on a chair, looking down to her needlework. A dog is under the chair. The page features a number on the right top corner and on the right bottom corner. A small stamp with the letters M and L is shown on the left bottom corner of the page."
     label: "Fig. 149"
     caption: "Jean-Michel Moreau the Younger (French, 1741–1814), *Woman Sewing,* Album Moreau Jean-Michel, folio 23. Pencil on paper, 18.2 × 11.1 cm."
     credit: "Paris, Musée du Louvre, Département des Arts Graphiques, RF1640, 24. (© Musée du Louvre, Dist. RMN-Grand Palais / Marc Jeanneteau./ Art Resource, NY.)"
@@ -1176,6 +1187,7 @@ figure_list:
   - id: "fig-150"
     src: "figures/fig-150.jpg"
     zoom: true
+    alt: "Drawing on a bound book depicting a man asleep on an armchair with his legs up on a stool. The drawing has been completed in landscape orientation, turning the book sideways. A number and a small stamp with the letters M and L are shown on the left bottom corner of the page. An additional number appears on the right bottom corner."
     label: "Fig. 150"
     caption: "Jean-Michel Moreau the Younger (French, 1741–1814), *Étienne Jeaurat Sleeping,* Album Moreau Jean-Michel, folio 14. Pencil with stumping on paper, 18.2 × 11.1 cm."
     credit: "Paris, Musée du Louvre, Département des Arts Graphiques, RF1631, 15. (© Musée du Louvre, Dist. RMN-Grand Palais / Marc Jeanneteau./ Art Resource, NY.)"
@@ -1183,6 +1195,7 @@ figure_list:
   - id: "fig-151"
     src: "figures/fig-151.jpg"
     zoom: true
+    alt: "Illustration of a woman lying on a daybed surrounded by three other figures. Two women sit on chairs placed in front of the daybed, to the right and left of the reclining woman. A man stands to the left of the scene leaning on the back of one of the chairs. The women are lavishly dressed in puffy skirts, jewelry, and elaborate hair styles."
     label: "Fig. 151"
     caption: "Jean-Michel Moreau the Younger (French, 1741–1814), *Have No Fear, My Good Friend*, 1775. Pen and brown ink and brush and brown wash, 26.7 × 21.6 cm."
     credit: "Los Angeles, The J. Paul Getty Museum, 85.GG.416."
@@ -1190,6 +1203,7 @@ figure_list:
   - id: "fig-152"
     src: "figures/fig-152.jpg"
     zoom: true
+    alt: "Three-quarter portrait of a man in front of a canvas. He leans on the back of a red chair placed to his left.  He has white hair and wears a green coat and waistcoat, and a white shirt underneath with ruffles down the front and at the sleeves. He holds a color palette and brushes on his left hand. A handkerchief spills out of the man’s waistcoat pocket."
     label: "Fig. 152"
     caption: "Jean-Baptiste Perronneau (French, 1686–1755), *Jean-Baptiste Oudry*, 1753. Oil on canvas, 131 × 105 cm."
     credit: "Paris, Musée du Louvre, INV7158. (© RMN-Grand Palais /Photo: Franck Raux / Art Resource, NY.)"
@@ -1197,6 +1211,7 @@ figure_list:
   - id: "fig-153"
     src: "figures/fig-153.jpg"
     zoom: true
+    alt: "Painting depicting a group of people at a beach. A white man dressed in a coat, pants, and stockings is shown talking with three Indigenous men, who appear topless, but wearing headdresses and skirts. In front of them are a number of hogsheads and trunks. To their right are two other Indigenous men. One points with his bow and arrow towards a colorful bird that flies above. A ship can be seen in the water in the background."
     label: "Fig. 153"
     caption: "Jean-Baptiste Oudry (French, 1686–1755), *America*, from *The* *Four Continents*, 1724. Oil on canvas."
     credit: "Current location unknown. (Photo © Christie's Images/Bridgeman Images.)"
@@ -1204,6 +1219,7 @@ figure_list:
   - id: "fig-154"
     src: "figures/fig-154.jpg"
     zoom: true
+    alt: "Circular metal box decorated with papier maché around its body and on the top of the lid. The scene on the lid shows a dog and bird in a forestry environment. A dog can also be seen on the sides of the box with its legs outstretched."
     label: "Fig. 154"
     caption: "Snuffbox, ca. 1740. *Papier maché*."
     credit: "Private collection."
@@ -1211,6 +1227,7 @@ figure_list:
   - id: "fig-155"
     src: "figures/fig-155.jpg"
     zoom: true
+    alt: "Silver ladle-style spoon with a perforated head."
     label: "Fig. 155"
     caption: "Éloi Guérin (French, ca. 1714–65), Sugar spoon, 1757–58. Silver, Length 21.6 cm."
     credit: "Paris, Musée du Louvre, Inv. OA9733. (© RMN-Grand Palais / Art Resource, NY.)"
@@ -1218,6 +1235,7 @@ figure_list:
   - id: "fig-156"
     src: "figures/fig-156.jpg"
     zoom: true
+    alt: "Plate illustrating the stages of sugar’s production. Set in a landscape with tropical plants and palm trees, Black individuals are shown working in different stations, each of them identified with a number that corresponds to a label written in French at the bottom of the scene. Another figure is shown wearing a hat and pointing with a long gun towards the individuals carrying loads of cane."
     label: "Fig. 156"
     caption: "Sébastien Leclerc (French, 1637–1714), *Sucrerie* (Stages of sugar production), from Jean-Baptiste du Tertre, *Histoire générale des Antilles habitées par les François* (Paris: Thomas Jolly, 1667), ED-59(A)-FOL Folio 28. Vol. 2, plate 9."
     credit: "(© RMN-Grand Palais / Art Resource, NY. Photo: BnF, Dist. RMN-Grand Palais / image BnF.)"
@@ -1225,6 +1243,7 @@ figure_list:
   - id: "fig-157"
     src: "figures/fig-157.jpg"
     zoom: true
+    alt: "Two silver casters in the shape of men carrying large loads of sugar cane. They both lean forward to accommodate the bundles on their back, while one of their arms reaches back and towards the bottom of the load, and the other reaches up, above their heads, to hold the upper portion of the load. The top of some of the sugar cane stalks are perforated. Both individuals are shown wearing feathered skirts and sandals. The person on the caster to the left also wears a necklace and armlets."
     label: "Fig. 157"
     caption: "Unknown maker, Pair of sugar casters in the form of enslaved plantation workers, ca. 1730–40. Silver, 28.2 × 11 × 15 cm."
     credit: "Paris, Musée du Louvre, Inv. OA 11749, 11750. (© RMN-Grand Palais / Photo: Martine Beck Coppola / Art Resource, NY.) "
@@ -1232,6 +1251,7 @@ figure_list:
   - id: "fig-158"
     src: "figures/fig-158.jpg"
     zoom: true
+    alt: "Full portrait of a man standing in front of a red armchair and next to a wall covered with maps. He uses his right hand to separate one of the hanging maps from the wall and his left to point at a location on the map. He is shown with his hair tied at the back with a black ribbon, and wearing a blue velvet coat lined with fur, a brocade waistcoat, blue pants, white stockings, and black shoes with a red heel. A metal armor is depicted at his feet."
     label: "Fig. 158"
     caption: "François-Hubert Drouais (French, 1727–75), *Portrait of Joseph-Hyacinthe-François de Paule de Rigaud, comte de Vaudreuil*, 1758. Oil on canvas, 225 × 161.1 cm."
     credit: "London, National Gallery, Presented by Barons Emile-Beaumont d'Erlanger, Frédéric d'Erlanger and Rodolphe d'Erlanger, in memory of their parents, 1927, NG4253 (© National Gallery, London / Art Resource, NY.)"
@@ -1239,6 +1259,7 @@ figure_list:
   - id: "fig-159"
     src: "figures/fig-159.jpg"
     zoom: true
+    alt: "Detail of a panting shown in figure 158. The close-up image shows the left hand of the painting’s subject with his index finger extended pointing to an area of the map labeled as S Domingue."
     label: "Fig. 159"
     caption: "François-Hubert Drouais (French, 1727–75), *Portrait of Joseph-Hyacinthe-François de Paule de Rigaud, comte de Vaudreuil*, detail, with a map showing the French colony of Saint-Domingue (present-day Haiti), 1758. Oil on canvas, 225 × 161.1 cm."
     credit: "London, National Gallery, Presented by Barons Emile-Beaumont d'Erlanger, Frédéric d'Erlanger and Rodolphe d'Erlanger, in memory of their parents, 1927, NG4253 (© National Gallery, London / Art Resource, NY.)"
@@ -1246,6 +1267,7 @@ figure_list:
   - id: "fig-160"
     src: "figures/fig-160.jpg"
     zoom: true
+    alt: "Sword with a blade that is covered in a black scabbard ending in a gilded and silver point that matches the hilt. The hilt shows chiseled depictions of human figures, angels, and floral motifs."
     label: "Fig. 160"
     caption: "French smallsword (with scabbard) with Solingen blade, ca. 1730. Steel, gilding, 69 × 1.8 cm."
     credit: "London, Wallace Collection, inv. A688. (© Wallace Collection, London, UK/Bridgeman Images.)"
@@ -1253,6 +1275,7 @@ figure_list:
   - id: "fig-161"
     src: "figures/fig-161.jpg"
     zoom: true
+    alt: "Plate depicting twelve blades arranged horizontally one on top of the other. Each blade is labeled with a figure number. The blade is shown to the right and a section drawing of the same blade is shown to the left."
     label: "Fig. 161"
     caption: "“Fourbisseur: épée blades,” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécaniques* (1765), plate V."
     credit: "Image courtesy of the ARTFL Encyclopédie Project, University of Chicago."
@@ -1260,12 +1283,14 @@ figure_list:
   - id: "fig-162"
     src: "figures/fig-162.jpg"
     zoom: true
+    alt: "Page with printed text in French and sketches on the top right corner and at the bottom. Handwritten annotations appear around the printed text."
     label: "Fig. 162"
     caption: "Gabriel de Saint-Aubin’s marginal sketches in *Catalogue de la deuxième vente du prince de Conti* (1779). Location unknown. Image after Emile Dacier, *Catalogue de ventes et livrets de salons illustrés par Gabriel de Saint-Aubin* (Paris: Au Siège de la Société, 1909)."
   
   - id: "fig-163"
     src: "figures/fig-163.jpg"
     zoom: true
+    alt: "Painting of a scene in what appears to be an ancient Roman setting. A man at the front of a litter on which a person lies enters through a doorway to the left of the image. They walk towards the interior of a colonnaded courtyard where a standing woman, situated next to a rounded table covered with a red cloth, stands up from the chair slightly behind her while raising her right arm towards the group entering. She holds with her left arm a younger woman who seems to have gone limp and has her head tilted backwards. A woman behind this group faces in the opposite direction, looking away from the litter, and covering her face with her headcover. A man sitting to the right of the doorway, looks away from the rest of the scene."
     label: "Fig. 163"
     caption: "Jacques-Louis David (French, 1748–1825), *The Lictors Returning to Brutus the Bodies of His Sons*, 1789. Oil on canvas, 323 × 422 cm."
     credit: "Paris, Musée du Louvre, INV3693. (© RMN-Grand Palais / photo: Thierry Ollivier / Art Resource, NY.)"
@@ -1273,6 +1298,7 @@ figure_list:
   - id: "fig-164"
     src: "figures/fig-164.jpg"
     zoom: true
+    alt: "Wooden table with a circular top and a triform pedestal base with fluted cantered corners. The base and feet exhibit gilt-bronze ornamentation. It resembles that shown in Figure 163."
     label: "Fig. 164"
     caption: "Georges Jacob (French, 1739–1814) and Jacques-Louis David (French, 1748–1825), Table, ca. 1787–89. Gilt-bronze mounted mahogany."
     credit: "Private collection. (© Sotheby’s Picture Library.)"
@@ -1280,6 +1306,7 @@ figure_list:
   - id: "fig-165"
     src: "figures/fig-165.jpg"
     zoom: true
+    alt: "Preliminary sketching of the scene shown in Figure 163. In this case two men carry the front of the litter and the body on top is covered with a sheet. More people appear in the courtyard. The standing woman is situated next to a rounded table without cloth. She raises both arms towards the litter as two younger women hold on to her as they kneel. A man in front of them faces away from the entrance. Three people appear to the left of the image. A seated woman tilts her head back and two men cover their faces with their hand and cape."
     label: "Fig. 165"
     caption: "Jacques-Louis David (French, 1748–1825), *The Lictors Returning to Brutus the Bodies of His Sons*, 1787. Pen and black ink and gray wash, 37.2 × 42.1 cm."
     credit: "Los Angeles, The J. Paul Getty Museum."
@@ -1287,6 +1314,7 @@ figure_list:
   - id: "fig-166"
     src: "figures/fig-166.jpg"
     zoom: true
+    alt: "Drawing of the table shown in Figure 164 featuring two vessels on top that resemble ancient Roman ceramic styles."
     label: "Fig. 166"
     caption: "Jacques-Louis David (French, 1748–1825), *Table with Two Vases*, n.d. Wash and chalk, 12.3 × 11.4 cm. Album 11, folio 13r."
     credit: "Paris, Musée du Louvre, Inv. 26156. (© RMN-Grand Palais / photo: Laurent Chastel / Art Resource, NY.)"
@@ -1294,6 +1322,7 @@ figure_list:
   - id: "fig-167"
     src: "figures/fig-167.jpg"
     zoom: true
+    alt: "Porcelain octagonal cup placed inside an octagonal saucer. The saucer is bare of any decoration on its outside but features floral motifs in its interior in orange, blue, and green. No handle can be seen on the cup from the angle in which it was photographed. The cup features a golden rim and floral decoration on its outside in the style and colors as the saucer. The interior of the cup appears to be plain white."
     label: "Fig. 167"
     caption: "Maker unknown, Cup and saucer, ca. 1700. Porcelain from Arita, Japan."
     credit: "London, Victoria & Albert Museum, Given by Lt. Col. Kenneth Dingwall DSO. (© Victoria & Albert Museum, London.)"
@@ -1301,6 +1330,7 @@ figure_list:
   - id: "fig-168"
     src: "figures/fig-168.jpg"
     zoom: true
+    alt: "Painting depicting a gathering in a palatial salon whose walls are decorated with molding and paintings. A group of musicians are shown to the left of the image placed in front of large windows. Over a dozen of people dressed in lavish attire are shown standing or sitting around tables. Some of them hold small plates and cups."
     label: "Fig. 168"
     caption: "Michel-Barthélemy Ollivier (French, 1712–84), *English Tea in the Salon des Quatres Glaces at the Temple*, 1766. Oil on canvas, 53 × 68 cm."
     credit: "Châteaux de Versailles et de Trianon. (© RMN-Grand Palais / Art Resource, NY.)"
@@ -1308,6 +1338,7 @@ figure_list:
   - id: "fig-169"
     src: "figures/fig-169.jpg"
     zoom: true
+    alt: "Painting of a woman sitting on a cloud. Her greying hair is tied to the back. She wears a light, white dress that leaves her left breast uncovered, and flower ornaments around her upper arms and on her head. A blue fabric wraps around her body. She holds a glass bottle with golden ornamentation in her left hand, and a golden cup in her right. She is shown with her right arm stretched out towards a flying eagle."
     label: "Fig. 169"
     caption: "Jean-Marc Nattier, *The Duchesse de Chaulnes as Hebe*, 1744. Oil on canvas, 144 × 110 cm."
     credit: "Paris, Musée du Louvre, RF1942-32. (© RMN-Grand Palais / photo: Franck Raux / Art Resource, NY.)"
@@ -1315,6 +1346,7 @@ figure_list:
   - id: "fig-170"
     src: "figures/fig-170.jpg"
     zoom: true
+    alt: "Open green umbrella showing a hinged metal frame and a meal and wooden pole."
     label: "Fig. 170"
     caption: "Umbrella, after 1715. Green silk, oak handle, metal frame."
     credit: "Paris, Palais Galliera, Musée de la Mode de la Ville de Paris."
@@ -1322,6 +1354,7 @@ figure_list:
   - id: "fig-171"
     src: "figures/fig-171.jpg"
     zoom: true
+    alt: "Plate depicting the interior of a workshop. A person to the left is shown working at a counter on which umbrellas can be seen standing vertically, leaning against the adjacent wall. The person to the right appears to be working on an object on their lap. Various parts of an umbrella and equipment are arranged in the lower half of the page. The components of each part and piece of equipment are labeled with a letter or a number."
     label: "Fig. 171"
     caption: "“Boursier” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécaniques* (1765), plate I."
     credit: "Paris, Bibliothèque Nationale de France."
@@ -1329,6 +1362,7 @@ figure_list:
   - id: "fig-172"
     src: "figures/fig-172.jpg"
     zoom: true
+    alt: "Etching showing a standing man carrying a big load on his back. The objects seem to be attached to a woven pack from which they hang. He holds additional objects in his arms, including a closed umbrella. Printed text in French is included at the bottom."
     label: "Fig. 172"
     caption: "Jacques-Philippe Le Bas (French, 1707–83), after François Boucher (French, 1703–70), *Le racomodeur de vieux soufflets*, 1737. Etching."
     credit: "Paris, Bibliothèque Nationale de France. (© BnF, Dist. RMN-Grand Palais / Art Resource, NY.)"
@@ -1336,6 +1370,7 @@ figure_list:
   - id: "fig-173"
     src: "figures/fig-173.jpg"
     zoom: true
+    alt: "Engraving depicting three people sleeping on the ground. They wear robes and recline over nearby stones or folded over their own laps. Above, three people are shown floating among the clouds. Two of them have wings on their backs and embrace a haloed man in between them. The latter looks towards a chalice that floats further ahead."
     label: "Fig. 173"
     caption: "Pierre-Imbert Drevet (French, 1697–1739), after Jean Restout (French, 1692–1768), *Christ’s Agony in the Garden*, 1739. Engraving, first state, 53.1 × 40 cm."
     credit: "Paris, Bibliothèque Nationale de France."
@@ -1343,6 +1378,7 @@ figure_list:
   - id: "fig-174"
     src: "figures/fig-174.jpg"
     zoom: true
+    alt: "Detail of the engraving shown in Figure 173. The focus is on two lines of text that reads quote Gravé Par Pierre Drevet fils, Priez Dieu Pour Luy end quote. The text overlaps with the cross-hatched background of the image making it difficult to decipher. Underneath, within the frame that wraps around the scene a line reads quote Drevet Sculp end quote."
     label: "Fig. 174"
     caption: "Pierre-Imbert Drevet (French, 1697–1739), after Jean Restout (French, 1692–1768), *Christ’s Agony in the Garden*, detail of inscription, 1739. Engraving, first state, 53.1 × 40 cm."
     credit: "Paris, Bibliothèque Nationale de France."
@@ -1350,12 +1386,14 @@ figure_list:
   - id: "fig-175"
     src: "figures/fig-175.jpg"
     zoom: true
+    alt: "Portrait of a standing man. He wears matching coat and breeches in red, a silver and gold waistcoat, and lace ruffles at the sleeves and coming down the front at his chest. A statue can be seen behind him."
     label: "Fig. 175"
     caption: "Adolf-Ulric Wertmülller (Swedish, 1751–1811), *Jean-Jacques Caffieri,* 1784. Oil on canvas, 129 × 96 cm."
     credit: "Museum of Fine Arts, Boston, Ernest Wadsworth Longfellow Fund. (Photograph © 2024 Museum of Fine Arts, Boston.)"
 
   - id: "fig-176"
     src: "figures/fig-176.jpg"
+    alt: "Detail of the portrait from Figure 175 showing the seals of a metal watch hanging below the waist and beneath the waistcoat."
     label: "Fig. 176"
     caption: "Adolf-Ulric Wertmülller (Swedish, 1751–1811), *Jean-Jacques Caffieri,* detail of watch, 1784. Oil on canvas, 129 × 96 cm."
     credit: "Museum of Fine Arts, Boston, Ernest Wadsworth Longfellow Fund. (Photograph © 2024 Museum of Fine Arts, Boston.)"
@@ -1363,6 +1401,7 @@ figure_list:
   - id: "fig-177"
     src: "figures/fig-177.jpg"
     zoom: true
+    alt: "Plate depicting the mechanism of a pocket-watch at the top, and the smaller components below, arranged in three rows and labeled with a number."
     label: "Fig. 177"
     caption: "“Horlogerie” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécaniques* (1765), plate X, detail."
     credit: "(Image courtesy of the ARTFL Encyclopédie Project, University of Chicago.)"
@@ -1370,12 +1409,14 @@ figure_list:
   - id: "fig-178"
     src: "figures/fig-178.jpg"
     zoom: true
+    alt: "Large-scale altarpiece painting. At the bottom of the scene, a man is shown walking up a set of stairs carrying a large tray in front of his body. He walks towards an altar where Jesus can be seen framed by a person on each side. The people next to Jesus are shown in profile leaning and bowing towards him. A dozen of cherubs float above, illuminated by an oculus at the ceiling."
     label: "Fig. 178"
     caption: "Charles-Antoine Coypel (French, 1694–1752), *Supper at Emmaus*, 1749. Oil on canvas, 590 × 315 cm. Paris, Communion Chapel, Church of Saint-Merry. (Photo: isogood / Alamy Stock Photo.)"
     
   - id: "fig-179"
     src: "figures/fig-179.jpg"
     zoom: true
+    alt: "Plate illustrating various copper water implements, including cisterns, basins, trays, and lids. Each object is labeled with a number, and a scale is included on the lower right corner. The French text quote Chaudronnier grossier end quote is shown below the illustrations."
     label: "Fig. 179"
     caption: "“Chaudronnier” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécaniques* (1763), vol. 3, plate II."
     credit: "(Image courtesy of the Smithsonian Libraries and Archives.)"
@@ -1383,6 +1424,7 @@ figure_list:
   - id: "fig-180"
     src: "figures/fig-180.jpg"
     zoom: true
+    alt: "Painting of a copper cistern on a platform above what appears to be a tabletop. Directly on top of the table and surrounding the cistern are a ladle leaning against the wall behind, a metal container placed underneath the cistern spout, a jug, and the jug’s lid."
     label: "Fig. 180"
     caption: "Jean-Siméon Chardin (French, 1699–1779), *The Copper Cistern*, ca. 1734. Oil on panel, 28.5 × 23 cm."
     credit: "Paris, Musée du Louvre, MI1037. (© RMN-Grand Palais / photo: Stéphane Maréchalle / Art Resource, NY.)"
@@ -1390,6 +1432,7 @@ figure_list:
   - id: "fig-181"
     src: "figures/fig-181.jpg"
     zoom: true
+    alt: "Fountain featuring a spout set in a bronze mascaron and placed in a recessed stone niche. A plaque with an inscription in Latin hangs above."
     label: "Fig. 181"
     caption: "Jean-Baptiste-Augustin Beausire (French, 1694–1764), Fontaine Palatine, ca. 1715."
     credit: "Paris, Rue Garancière. (Wikimedia, photo: Mbzt.)"
@@ -1397,6 +1440,7 @@ figure_list:
   - id: "fig-182"
     src: "figures/fig-182.jpg"
     zoom: true
+    alt: "Oval portrait of a man set in a golden frame. He is depicted looking forward while his body is turned to the left. He wears a loose, grey bonnet wig and a bright blue coat with ruffles at the sleeves. He is shown holding a color palette on his left forearm."
     label: "Fig. 182"
     caption: "Louis-Michel Van Loo (French, 1707–71), *Claude-Joseph Vernet*, 1768. Oil on canvas, 65 × 56.5 cm."
     credit: "Avignon, Musée Calvet. (Wikipedia, Photo: Finoskov, CC BY-SA 4.0.)"
@@ -1404,6 +1448,7 @@ figure_list:
   - id: "fig-183"
     src: "figures/fig-183.jpg"
     zoom: true
+    alt: "Portrait of man with a light grey wig with tight curls on the sides ears and tied at the back with a dark bow. The man’s body faces to the left while his head is turned towards the right, looking above and past his left shoulder. He wears a dark velvet coat and waistcoat. White ruffles can be seen coming down the front at his chest and at the end of his sleeves. He holds a paint brush in his right hand, and a color palette and a bunch of brushes on his left arm."
     label: "Fig. 183"
     caption: "Elisabeth Vigée-Lebrun, *Claude-Joseph Vernet*, 1778. Oil on canvas, 90 × 70 cm."
     credit: "Paris, Musée du Louvre, 3054. (© RMN-Grand Palais / photo: Jean-Gilles Berizzi / Art Resource, NY.)"
@@ -1411,6 +1456,7 @@ figure_list:
   - id: "fig-184"
     src: "figures/fig-184.jpg"
     zoom: true
+    alt: "Plate illustrating seventeen wigs and accessories arranged in four rows. Each wig style is labeled with a number. The French words quote Perruquier Barbier Perruques end quote are printed below the illustrations."
     label: "Fig. 184"
     caption: "“Perruquier” from *Recueil de planches sur les sciences, les arts libéraux et les arts mécaniques* (1765), plate VII."
     credit: "(Image courtesy of the ARTFL Encyclopédie Project, University of Chicago.)"
@@ -1418,6 +1464,7 @@ figure_list:
   - id: "fig-185"
     src: "figures/fig-185.jpg"
     zoom: true
+    alt: "Portrait of a man looking towards the right. He is shown on a chair on which back he rests his arms. He has short curly hair and wears a black cap, and a silky loose robe with lace ruffles around the collar and at the end of the sleeves."
     label: "Fig. 185"
     caption: "Alexander Roslin (Swedish, 1718–93), *Claude-Joseph Vernet*, 1767. Oil on canvas, 65 × 54 cm."
     credit: "Stockholm, Nationalmuseum. (HIP / Art Resource, NY.)"
@@ -1425,6 +1472,7 @@ figure_list:
   - id: "fig-186"
     src: "figures/fig-186.jpg"
     zoom: true
+    alt: "Portrait in red tones of a man sitting on a chair. His body faces towards the right while his head is turned towards the left. He wears and open coat, a waistcoat with floral motifs, a loose gauze-like shirt, and knee-length breeches. He has a wig with curls on the sides and a large bowtie. He holds a quill on his right hand and rests his left on his upper leg. He poses in front of a desk where an inkwell and stitched pages can be seen. Voluminous curtains peek through on the right edge of the image and the bust of a woman can be seen on the bottom left corner."
     label: "Fig. 186"
     caption: "Jean-Baptiste Massé (French, 1687–1767), *Self-Portrait*, ca. 1740. Red chalk, 41.7 × 37.5 cm."
     credit: "Paris, Musée du Louvre, Département des Arts Graphiques, 30944-r. (RMN-Grand Palais / photo: Tony Querrec / Art Resource, NY.)"
@@ -1432,6 +1480,7 @@ figure_list:
   - id: "fig-187"
     src: "figures/fig-187.jpg"
     zoom: true
+    alt: "A full spread of folio-sized, cream-colored pages stitched together. The page on the left is entirely black and the page on right shows text written in French by hand. The lines are perfectly straight, and the writing is small and fine. Annotations featuring a different writing style can be seen on the left margin and on the upper left corner."
     label: "Fig. 187"
     caption: "Will of Jean-Baptiste Massé, 1766–67. Pen on paper."
     credit: "Paris, Archives Nationales."
@@ -1439,6 +1488,7 @@ figure_list:
   - id: "fig-188"
     src: "figures/fig-188.jpg"
     zoom: true
+    alt: "Preparatory drawing in blue tones. A person with long hair dressed in a robe and wearing a crown, appears at the bottom, kneeling in front of a makeshift altar. A cherub rests next to this figure and other stands on the altar in front of them. To the right and slightly behind, an individual in an armor is shown looking to the right. They hold a triangular flag on their right hand and bring their left to their face. A row of tents and a crowd of people can be seen blurred out in the background. Above, sitting on a bank of clouds is a group of figures who look up towards a haloed figure. One of them holds a small pillar, another, a chalice, another, scales, and another one, a globus cruciger. They are surrounded by a dozen cherubs."
     label: "Fig. 188"
     caption: "Charles Natoire (French, 1700–1777), *Apotheosis of Saint Louis*, ca. 1755–56. Pen and brown ink, wash, and black chalk, 49.5 × 24.2 cm."
     credit: "Waddesdon Manor, The Rothschild Collection Trust, inv. 2018. (Waddesdon Image Library.)"
@@ -1446,6 +1496,7 @@ figure_list:
   - id: "fig-189"
     src: "figures/fig-189.jpg"
     zoom: true
+    alt: "Engraving showing a busy scene where a group of people is shown in the right upper corner handing clothes to a crowd of women, men, and children that gather below raising their arms up and showing anguish in their faces. The two groups are separated by a low stone wall.  The space on the foreground is filled with trash while the space behind the wall shows palatial budlings."
     label: "Fig. 189"
     caption: "Sébastien Bourdon (French, 1616–71), *Vestire nudos*, from *The Seven Acts of Mercy*, ca. 1660–70. Engraving."
     credit: "London, Wellcome Collection."
@@ -1453,6 +1504,7 @@ figure_list:
   - id: "fig-190"
     src: "figures/fig-190.jpg"
     zoom: true
+    alt: "Portrait of a man from across a wooden table. He is shown raising a wine glass with his left hand while grasping the neck of a green wine bottle that rests on the table. A cork can be seen next to the bottle."
     label: "Fig. 190"
     caption: "Alexis Grimou (Swiss, 1678–1733), *Self-Portrait as a Drinker*, 1724. Oil on canvas, 100 × 85 cm."
     credit: "Paris, Musée du Louvre, Inv. 5045. (© Musée du Louvre, Dist. RMN-Grand Palais / Franck Raux / Art Resource, NY.)"
@@ -1460,6 +1512,7 @@ figure_list:
   - id: "fig-191"
     src: "figures/fig-191.jpg"
     zoom: true
+    alt: "Portrait of a man raising a wine glass above his head. He wears a loose black coat with white ruffles around the collar. He is pictured grasping a fluted carafe in his right hand while resting his elbow on the table in front of him. The table holds a metal plate with a cured sausage, a knife, and some bread."
     label: "Fig. 191"
     caption: "Alexis Grimou (Swiss, 1678–1733), *Self-Portrait as a Drinker*, ca. 1732. Oil on canvas, 116.3 × 89.7 cm."
     credit: "Edinburgh, Scottish National Gallery, NG664. Presented by William Wright 1881. (Photographer: Antonia Reeve.)"
