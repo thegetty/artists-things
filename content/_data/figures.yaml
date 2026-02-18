@@ -804,6 +804,7 @@ figure_list:
   - id: "fig-102"
     src: "figures/fig-102.jpg"
     zoom: true
+    alt: "Front page of a set of documents fastened together. It features text in French handwritten in blank ink and two black stamps at the top. There is a numerical annotation in blue on the left bottom corner."
     label: "Fig. 102"
     caption: "Front page of the marriage contract of Jean-Baptiste Greuze and Anne-Gabrielle Babuty, 31 January 1759."
     credit: "Paris, Archives Nationales, MC/ET/XXXI/165."
@@ -812,7 +813,6 @@ figure_list:
     src: "figures/fig-103.jpg"
     zoom: true
     alt: "Painting of a scene inside a house. A man and a woman stand in the center, their arms entwined. The man turns toward the right where a seated man extends his arms towards him as if to embrace him. The standing woman, dressed in white, is embraced by a younger woman who stands to her left. A seated woman caresses her arm. Additional adults and children frame the scene to the right and left."
-    alt: "Front page of a set of documents fastened together. It features text in French handwritten in blank ink and two black stamps at the top. There is a numerical annotation in blue on the left bottom corner."
     label: "Fig. 103"
     caption: "Jean-Baptiste Greuze (French, 1725–1805), *The Village Bride*, ca. 1761. Oil on canvas, 120 × 117 cm."
     credit: "Paris, Musée du Louvre, INV5037. (© RMN-Grand Palais / photo: Franck Raux / Art Resource, NY.)"
