@@ -16,7 +16,7 @@ module.exports = function(eleventyConfig) {
     const licenseName = license.url
       ? `<a rel="license" href="${license.url}" target="_blank">${license.name}</a>`
       : license.name
-    const licensePrintStatement = `<span class="is-print-only">To view a copy of this license, visit ${license.url}. </span>`
+    const licensePrintStatement = `<span class="is-print-only">To view a copy of this license, visit <a href="${license.url}">${license.url}</a>.</span>`
 
     if (license.scope == 'some-exceptions') {
       licenseText += `

@@ -7,6 +7,8 @@
 @import "colors";
 @import "variables";
 
+$accent-color-a11y: #cd491d;
+
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Times New Roman', Times, serif;
   break-inside: avoid;
@@ -28,8 +30,8 @@ h3, h5 {
   padding: .5rem .25rem .25rem .25rem;
   width: fit-content;
   display: table;
-  border-top: 2px solid $accent-color;
-  border-bottom: 2px solid $accent-color;
+  border-top: 2px solid $accent-color-a11y;
+  border-bottom: 2px solid $accent-color-a11y;
 }
 .pdf-footers__title,
 .is-print-only {
@@ -82,8 +84,8 @@ h3, h5 {
   margin-bottom: .5rem;
 }
 a {
-  color: $accent-color;
-  text-decoration: none;
+  color: $accent-color-a11y;
+  text-decoration: underline;
 }
 a.q-figure__modal-link {
   pointer-events: none;
@@ -95,15 +97,15 @@ figcaption a.q-figure__modal-link {
   font-weight: bold;
 }
 .q-figure--group .q-figure__label {
-  color: $accent-color;
+  color: $accent-color-a11y;
   font-weight: bold;
   margin-right: .5rem;
 }
 figure {
   break-inside: avoid;
   padding: 1rem 0;
-  border-top: 1.5px solid $accent-color;
-  border-bottom: 1.5px solid $accent-color;
+  border-top: 1.5px solid $accent-color-a11y;
+  border-bottom: 1.5px solid $accent-color-a11y;
   margin-left: .5rem;
   margin-right: .5rem;
 }
@@ -141,7 +143,7 @@ figcaption *,
 .half-title {
   font-family: Helvetica, Arial, sans-serif;
   font-weight: bold;
-  color: $accent-color;
+  color: $accent-color-a11y;
   margin-top: 7.5rem;
   text-align: center;
 }
@@ -150,7 +152,7 @@ figcaption *,
   text-align: center;
 }
 .title-block .title {
-  color: $accent-color;
+  color: $accent-color-a11y;
   font-size: 3rem;
   margin-bottom: 1.5rem;
 }
