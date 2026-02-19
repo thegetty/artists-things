@@ -850,6 +850,12 @@ q-modal {
   .quire-page__content.thing-info .thing-info-grid div.thing-theme {
     border-right-width: .5pt;
   }
+  .quire-page__content.thing-info .thing-info-grid ul li::after {
+    content: ", ";
+  }
+  .quire-page__content.thing-info .thing-info-grid ul li:last-child::after {
+    content: "";
+  }
 }
 
 /* THING POP-UP MENU */
